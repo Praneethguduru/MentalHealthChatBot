@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
+supabase
+sentence-transformers
+python-multipart
