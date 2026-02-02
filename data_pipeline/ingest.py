@@ -7,8 +7,8 @@ from langchain_core.documents import Document
 
 
 # --- CONFIGURATION ---
-SUPABASE_URL = "https://cycoipahavsoouklfqjs.supabase.co"
-SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImN5Y29pcGFoYXZzb291a2xmcWpzIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc2OTkzNzY1MywiZXhwIjoyMDg1NTEzNjUzfQ.xDu5SR4g_7SkqZ3iIp9tSHlABGY6Z4YV1tD4TbZ6PMw" 
+SUPABASE_URL = os.getenv("SUPABASE_URL")
+SUPABASE_KEY = os.getenv("SUPABASE_KEY")
 # Service Role Key needed for writing!
 DATA_FOLDER = "clean_transcripts"
 # ---------------------
