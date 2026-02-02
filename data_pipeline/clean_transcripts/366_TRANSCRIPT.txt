@@ -1,0 +1,356 @@
+Participant: <synch>
+Ellie: IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)
+Participant: yeah
+Ellie: okay_confirm (okay)
+Ellie: how_doingV (so how are you doing today)
+Participant: i'm great
+Ellie: thats_good (that's good)
+Participant: and you
+Ellie: great_thanks (i'm great thanks)
+Ellie: where_originally (where are you from originally)
+Participant: uh los angeles california
+Ellie: really (really)
+Ellie: like_about_LA (what are some things you really like about l_a)
+Participant: uh <sigh> i like the diversity
+Participant: i feel l_a by itself is a country there's so much to do so much to explore
+Participant: and uh there's nothing like it
+Ellie: see_mean (i see what you mean)
+Ellie: dont_like_LA (what are some things you don't really like about l_a)
+Participant: traffic <laughter> uh i would say traffic and the real estate prices are kinda crazy compared to the rest of the country
+Participant: but other than that then you know it's fine
+Ellie: yeah3 (yeah)
+Ellie: travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)
+Participant: i have traveled um i have traveled a bit
+Participant: um i would like to travel more though so but i've traveled to i've been to a few countries
+Ellie: like_what (like what)
+Participant: um i've been to
+Participant: i won't say europe that's a continent um i've been to uh london <deep breath> um i was born here but my family's from nigeria so i've been to nigeria
+Participant: a few times i've been to denmark
+Participant: um amsterdam
+Participant: i've been to uh where else have i gone uh germany
+Participant: um
+Participant: and i think that's i think that's it yeah think that's it
+Ellie: awesome (awesome)
+Participant: yeah
+Ellie: travel_changed (what do you enjoy about traveling)
+Participant: just exploring uh exploring <exp> exploring new places um seeing new things meeting new people a different culture
+Participant: it's definitely um
+Participant: um
+Participant: gives you an appreciation for life
+Participant: and the diversity of it and also um going to countries that may not be
+Ellie: mhm (mhm)
+Participant: as developed as the u_s it definitely it definitely gives you a greater appreciation of you know this country
+Ellie: yeah3 (yeah)
+Participant: yeah
+Ellie: travel_trips (i'd love to hear about one of your trips)
+Participant: okay well <sigh> uh let's see london i accident actually when i first heard about going to london i really didn't care for it 'cause i didn't know much about it the only i thing i remember <mem> i remember
+Participant: is watching mary poppins <laughter> and um
+Ellie: wild_laughter3 ((laughter))
+Participant: but um when i went there i absolutely fell in love with it um just <deep breath>
+Participant: it still <sti> it has the hustle and bustle of l_a
+Participant: but at the same time you can go at a very very slow pace um we didn't do any driving we just
+Participant: went on the tube
+Participant: um which is their like the underground subway station which i absolutely fell in love with
+Participant: and um
+Participant: just exploring um different parts of the city we went to you know big ben westminster abbey
+Participant: uh they actually had when i went there they had the premiere of um what movie was this um
+Participant: slumdog millionaire
+Ellie: wow (wow)
+Participant: and also they had the premiere for um
+Participant: seven seven pounds it was a movie with will smith
+Participant: um they did so will smith was over there and we were you know
+Participant: me and my friends were like kinda like screaming like we were like groupies <laughter> just you know just <laughter> just <laughter> just to you know for antics but um yeah it was it was a lot of fun it was a lot of fun
+Ellie: wild_laughter3 ((laughter))
+Ellie: great_situation (that sounds like a great situation)
+Participant: yeah
+Ellie: study (what did you study at school)
+Participant: uh business management and an option in human resources management what that means i have no idea <laughter>
+Ellie: hard_decision (how did you decide to do that)
+Participant: um
+Participant: good question
+Participant: i've always
+Participant: i've always wanted to go into business um
+Participant: and i've always wanted to study finance but
+Participant: i didn't think i would learn too much about finance from
+Participant: college per se i think i've learned more in the real world whatnot
+Participant: so the other option was human resource and i'm always fascinated about you know relationships and people always like reading articles about that stuff so i went for that
+Ellie: cool3 (cool)
+Ellie: still_doing_X (are you still doing that)
+Participant: no <laughter> well i still i still kinda use what i've learned but i i work in property management
+Participant: so um
+Participant: it still has to do with people anything to do with people i'm fascinated about
+Participant: so
+Ellie: okay_confirm (okay)
+Participant: yeah
+Ellie: job_virtually (i love my job you could almost say it's virtually made for me what's your dream job)
+Participant: <laughter>
+Participant: that was a good one um
+Participant: my dream job wow
+Participant: i would say being a life coach
+Ellie: really (really)
+Participant: i would uh yeah i would say that would my dream job because i love helping people become successes and i help
+Participant: i love being a part of someone else's success even no regardless of how small it is
+Participant: um whether it be words of encouragement or helping somebody figure out a situation
+Participant: i like um i just help <hel> like helping people have a better life so i think uh
+Participant: you know but i do it for free i'd do it for free like all day
+Ellie: aw (aw)
+Participant: yeah
+Ellie: Ellie17Dec2012_04 (that's great)
+Participant: yeah
+Ellie: shyoutgoing (do you consider yourself more shy or outgoing)
+Participant: more outgoing
+Participant: definitely more outgoing i'm usually um
+Participant: the life well it's it's weird 'cause i'm usually considered like the life of the party i'm the one who's cracking jokes and making everybody laugh at the same time i can be very very
+Participant: quiet and to myself
+Participant: so
+Participant: yeah
+Ellie: okay_confirm (okay)
+Ellie: relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)
+Participant: <laughter>
+Participant: right
+Participant: <sigh> to relax i usually listen to music
+Participant: i usually listen to music to relax me or i
+Participant: pray
+Participant: to to relax myself or listen to some really calm music
+Participant: so
+Participant: yeah
+Ellie: control_temper (how are you at controlling your temper)
+Participant: very good
+Participant: very very good i used to uh
+Participant: i wouldn't say it was a bad temper but i was known to um
+Participant: go off quote on quote <laughter> not in a not in a you know not throwing chairs or anything like that but
+Participant: i'm a very very patient person
+Participant: but once that patience <patien> is gone and for you to do that you have to really really really really push my buttons for a long time and once it's done i
+Participant: i just go off
+Ellie: landed_trouble (has that gotten you in trouble)
+Participant: no mm mm
+Ellie: last_argument (when was the last time you argued with someone and what was it about)
+Participant: no
+Participant: <sigh> the last time i argued with someone <some> wow i haven't argued with somebody in a long time
+Participant: um <sigh>
+Participant: boy
+Participant: mm
+Participant: uh i argued with my
+Participant: no
+Participant: i would say my i think it my dad i argued with him
+Participant: um
+Participant: about <sigh> xxx what was it about
+Participant: um
+Participant: we were disagreeing on some things about when we were gonna supposed to go back to nigeria
+Participant: and
+Participant: he wasn't listening to
+Participant: it was a kind of like a group discussion myself and my my siblings
+Participant: and he was being very subjective he wasn't being open to other people's suggestions and suggestions and concerns
+Participant: so um it started an argument
+Ellie: describe_felt (how did you feel in that moment)
+Participant: uh very
+Participant: uh
+Participant: i wouldn't say angry per se but i felt very
+Participant: kinda like i was losing control
+Participant: like um i'm the type where i i like to be in control of my emotions and of my thoughts and i feel
+Participant: once that patience is gone and i start going off it's kinda like this
+Participant: this uh
+Participant: you know
+Participant: i won't call it a blur but
+Participant: i'm very witty and quick with what i say so
+Participant: i will instantly say something that you know
+Participant: up not necessarily hurtful but um very direct and to the point and i make sure i get my point across
+Ellie: uh_huh (uh huh)
+Participant: yeah
+Ellie: family_relationship (tell me about your relationship with your family)
+Participant: um i have three brothers one one younger two older i'm very close with my family and my mom is one of my best friends
+Participant: um <sigh>
+Participant: my brothers are great um
+Participant: love 'em to death
+Participant: uh my father eh he's moreso out of the picture
+Ellie: okay_confirm (okay)
+Participant: yeah
+Ellie: feelguilty (what's something you feel guilty about)
+Participant: <deep breath> hmm <sigh>
+Participant: i don't i don't really i'm not the guilty type <laughter> i don't feel
+Participant: guilty i'm not one to shy away from what i've done and i definitely own up to what i do i'm not one to shy away from responsibility but i don't think i ever feel
+Participant: guilty
+Participant: for anything i do
+Participant: yeah i don't think i feel i i usually don't feel guilty
+Ellie: okay_confirm (okay)
+Participant: yeah
+Ellie: easy_sleep (how easy is it for you to get a good night's sleep)
+Participant: <deep breath>
+Participant: pretty pretty easy
+Participant: um pretty easy at <a> at
+Participant: yeah i'm pretty good at falling asleep except when i'm excited and when i'm reading <laughter> when i'm trying to when i'm when i'm focused on learning something like i'll read and read and read
+Participant: even when it's past my bed time
+Participant: but now i'm trying to work on
+Participant: waking up much earlier
+Participant: then when i am now and that's kind of a struggle <st> a little bit of a struggle but i'm getting to it so
+Ellie: feel_lately (how have you been feeling lately)
+Participant: good
+Participant: um
+Participant: i've been feeling i've been feeling fine you know i'm generally i have a very very happy disposition
+Participant: and so
+Participant: no uh you know deep depressing moods nothing like that and whenever if i feel do feel like i'm going
+Participant: i don't allow myself to go to that place
+Ellie: depression_diagnosed (have you been diagnosed with depression)
+Participant: nah
+Participant: no
+Ellie: behavior_changes (have you noticed any changes in your behavior or thoughts lately)
+Participant: sorry
+Participant: <sigh> mm <sigh>
+Participant: thoughts
+Participant: i would say
+Participant: well <we> it's i wouldn't say necessarily changes but i'd say moreso behaviors learning how to
+Participant: let go of past decisions
+Participant: maybe and kinda how they they played their course in my life
+Participant: um
+Participant: i just sometimes i kinda look back and say what if i did this what would've
+Participant: how would life be now
+Participant: no
+Participant: so the those are some games i play but other than that
+Ellie: yeah_downer (yeah)
+Participant: that's it
+Ellie: regret (is there anything you regret)
+Participant: hmm <laughter>
+Participant: regret
+Participant: uh
+Participant: no
+Participant: no mm mm there isn't anything i regret
+Ellie: advice_back (what advice would you give to yourself ten or twenty years ago)
+Participant: <sigh> ten to twenty years ago
+Participant: i would say don't be afraid of who you are
+Participant: um be authentic
+Participant: um
+Participant: more importantly with yourself
+Ellie: memory_erase (tell me about an event or something that you wish you could erase from your memory)
+Participant: hmm erase from my memory
+Participant: uh
+Participant: boy that's a good one
+Participant: <sigh>
+Participant: hmm hmm hmm hmm hmm
+Participant: uh
+Participant: wow
+Participant: erase from my memory
+Participant: uh
+Participant: i would say when i told <t> when i told my dad that he should act like a father
+Ellie: tell_about_that (can you tell me about that)
+Participant: maybe i shouldn't
+Participant: yeah there was um
+Participant: that was actually one of the times i <laughter> another time i went off usually with him um
+Participant: uh
+Participant: basically i had decided not to go to a private um not to go away for college
+Participant: um so <s> i went <we> i decided to stay local so i can look after my little brother
+Participant: and um <sigh> my senior year i was overloading with everything i had maybe like
+Participant: uh four a_p classes
+Participant: i was working at i was working three jobs at the time and i was also in track and field
+Ellie: Ellie17Dec2012_06 (wow)
+Participant: so
+Participant: needless to say i was <laughter> i i i i was kinda like burning myself
+Participant: i was kinda like burning myself out
+Participant: and um
+Participant: i wasn't doing well in a_p calculus because i decided to go to a j_c first and transfer also to save money for college too
+Participant: and when i told him you know the teacher called saying i was falling asleep in class um just because mind you after school i'd work an eight hour shift 'cause i was a retail manager at the time
+Participant: so um
+Participant: and i'd come home after that shift to do homework mm calculus let alone
+Participant: um so uh
+Participant: um he would get upset and i told him i spoke with my counselor i already told him that i don't need that class to go to the j_c isn't something that i continue with so i'm just gonna i can't drop out
+Participant: at that point in time so i'm just gonna you know
+Participant: you know just just
+Participant: take the
+Participant: d or fail whatever
+Participant: and he didn't he didn't like that 'cause he is a teacher <laughter> i think maybe that's what maybe where it came from he's a teacher as well um
+Participant: and so
+Participant: he started blaming like my jobs and wanting to call my boss and it was it was just too much and i told him
+Participant: you know since you're my father you should act like it
+Participant: but i was it was a more aggressive <laughter> way i said it so
+Participant: that was um
+Participant: one thing
+Participant: oh i actually i do i i do remember i do regret one thing
+Participant: um and that is i wish i continued
+Participant: um with college throughout
+Participant: like i i burnt myself out um i was spreading myself too thin there was actually i was actually on track to graduate from college at
+Participant: i wanna say nineteen
+Participant: 'cause i started taking college classes in high school starting sophomore year
+Ellie: wow (wow)
+Participant: in high school
+Participant: but i with that that stuff and the stuff with my dad and working i just kinda like stopped going to school for a while and just worked but i went back to finish so but i wish i just would've
+Participant: continued maybe that's one small thing but
+Participant: that's something small though
+Ellie: uh_huh (uh huh)
+Participant: yeah
+Ellie: Ellie17Dec2012_07 (what would you say are some of your best qualities)
+Participant: hmm
+Participant: i'm very
+Participant: um i'm a very compassionate and understanding person
+Participant: um
+Participant: i like learning new things um i'm a very very happy person people come to me for advice i'm very objective
+Participant: i'll tell you the good the bad the ugly
+Participant: and um
+Participant: yeah those are some of my best qualities yeah
+Participant: and i'm fun i like to have fun i'll have fun in any situation i can make light of any situation like i'm the kinda type <ty> type of person i can break the tension in the room that's sort of
+Participant: that sort of uh <tisk> um
+Participant: personality trait
+Ellie: cool3 (cool)
+Participant: yeah
+Ellie: self_change (what are some things you wish you could change about yourself)
+Participant: wish i was taller <laughter> um
+Participant: uh besides my height
+Participant: hmm
+Participant: i wish
+Participant: ah
+Participant: maybe
+Participant: i don't know if it's uh
+Participant: be more
+Participant: i won't say be more in touch with my emotions but i think
+Participant: i would say
+Participant: understanding people's how people feel about me in their shoes
+Ellie: mhm (mhm)
+Participant: i think that would be one thing because i'm the type of person
+Participant: where
+Participant: people say that they love me or care about me and i'm like okay great thank you i appreciate that but i don't realize how much
+Participant: they do i think that's a realizing how much they care and love me
+Ellie: mm (mm)
+Participant: that's one thing i would like to
+Participant: get more
+Participant: of a
+Participant: grasp on
+Ellie: yeah3 (yeah)
+Ellie: BF_describe (how would your best friend describe you)
+Participant: <laughter> my best friend <deep breath> uh she describes me as someone who's funny
+Participant: crazy
+Participant: um
+Participant: objective
+Participant: um loyal
+Participant: um ambitious hardworking um
+Participant: mean <laughter> when i just make jokes she says you're so mean but um
+Ellie: why2 (why)
+Participant: just <sigh> i just i <laughter> i i just like to i joke around all the time and so um
+Participant: we were right now we're actually planning um uh
+Participant: a friend of mine or a friend of ours um a baby shower
+Participant: i'm giving her some ideas and there's another friend who was invited who
+Participant: we had some issues in the past and someone i don't talk to or hang out with we used to be really close but i don't really talk to that person but i don't mind them being there
+Participant: so she also talked about having <havi> celebrating her birthday
+Participant: also at kinda like after the baby shower
+Participant: and there is another friend whose birthday was before the baby shower who we really <rea> didn't do anything for and i'm like well if we're celebrating this person's birthday might as well we should definitely
+Participant: you know honor this person's birthday as well since we're closer to you know the person xxx birthday's passed
+Ellie: yeah2 (yeah)
+Participant: and i said you know what just why <wh> don't we celebrate everybody's birthday
+Participant: <laughter> forget the baby shower just do the birthdays
+Ellie: wild_laughter3 ((laughter))
+Participant: and then <laughter> that's when that's when she said you're so mean <laughter> but she was laughing about it so
+Participant: yeah
+Ellie: thats_good (that's good)
+Participant: yeah
+Ellie: Ellie17Dec2012_08 (what are you most proud of in your life)
+Participant: uh <sigh> most proud of in my in my life <deep breath>
+Participant: uh <sigh>
+Participant: i would say being there for my family
+Participant: being being a a mentally and emotionally strong person
+Participant: family's gone through a lot of challenges and a lotta times i've been the one to make sure
+Participant: everything goes okay and everything make sure <su> everything <everythi> make sure everything goes accordingly
+Participant: um so i'd say more than anything making sure i was there for my family
+Ellie: asked_everything (okay i think i have asked everything i need to)
+Participant: yeah
+Ellie: appreciate_open (thanks for sharing your thoughts with me)
+Participant: oh
+Participant: okay thank you
+Ellie: bye (goodbye)
+Participant: bye have a good one

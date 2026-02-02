@@ -1,0 +1,456 @@
+Participant: <sync>
+Ellie: IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)
+Participant: hello
+Participant: yes
+Ellie: okay_confirm (okay)
+Ellie: how_doingV (so how are you doing today)
+Participant: okay
+Participant: not
+Participant: too bad
+Ellie: thats_good (that's good)
+Ellie: where_originally (where are you from originally)
+Participant: i'm from chicago
+Participant: south side
+Ellie: when_LA (when did you move to l_a)
+Participant: um back in nineteen seventy eight
+Participant: when i was eighteen
+Ellie: long_time (that's a long time)
+Participant: yes <y>
+Ellie: often_backB (how often do you go back to your hometown)
+Participant: lately
+Participant: not much maybe once every two or three years
+Ellie: mhm (mhm)
+Ellie: compares_LA (how does it compare to l_a)
+Participant: um it's totally different you know
+Participant: horrible weather and uh
+Participant: yeah it's just a whole different atmosphere
+Ellie: why_LA (why did you move to l_a)
+Participant: um
+Participant: let's see my mother had moved to africa
+Participant: i graduated from high school
+Participant: and i had a friend out here so i just thought well let me try l_a
+Ellie: okay_confirm (okay)
+Ellie: adapted_LA (how easy was it for you to get used to living in l_a)
+Participant: uh very easy actually yeah i loved it from the moment i got off the airplane
+Participant: yeah
+Ellie: like_about_LA (what are some things you really like about l_a)
+Participant: number one the weather
+Participant: um sun is very important to me
+Participant: so i love the weather
+Participant: um i don't know just kind of a more laid back atmosphere
+Participant: variety
+Participant: of people
+Ellie: uh_huh (uh huh)
+Participant: and now it's my um
+Participant: my home base you know
+Participant: my
+Participant: friends
+Participant: that are family
+Participant: so it's kinda like my family is here now
+Ellie: dont_like_LA (what are some things you don't really like about l_a)
+Participant: hmm
+Participant: i guess the smog earthquakes
+Participant: um
+Participant: traffic
+Participant: just basic things like that really
+Ellie: yeah3 (yeah)
+Ellie: travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)
+Participant: um i don't currently but i did throughout my life i traveled
+Participant: quite a lot
+Ellie: travel_changed (what do you enjoy about traveling)
+Participant: uh just seeing
+Participant: seeing
+Participant: other cultures and
+Participant: seeing um more history and
+Participant: meeting  people and
+Participant: just fun and the the fun of it as well
+Ellie: mhm (mhm)
+Ellie: travel_trips (i'd love to hear about one of your trips)
+Participant: um let's see well one trip
+Participant: i went to
+Participant: england
+Participant: ireland and scotland and france all in
+Participant: you know
+Participant: one trip
+Participant: so that was a nice variety
+Ellie: nice (nice)
+Ellie: memorableB (what's one of your most memorable experiences)
+Participant: um
+Participant: i guess you could say probably skiing
+Participant: in val d'isere france
+Participant: that was fun
+Participant: i'm glad i got to do that
+Ellie: thats_great (that's great)
+Ellie: shyoutgoing (do you consider yourself more shy or outgoing)
+Participant: i'm kind of shy by nature
+Participant: i've tried to grow out of being shy so
+Participant: i'm not fully shy but i was always a an extremely shy
+Participant: child
+Participant: but now here in culver city this is my
+Participant: environment and i i guess you could say i'm not really shy in
+Participant: in my hometown of culver city
+Ellie: yeah3 (yeah)
+Ellie: relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)
+Participant: hm
+Participant: to relax i like to just curl up in my bed and read my book take a nap
+Participant: watch t_v
+Participant: sometimes on the couch in the living room
+Participant: just you know stay at home and
+Participant: kinda vegetate
+Ellie: mhm (mhm)
+Ellie: control_temper (how are you at controlling your temper)
+Participant: uh pretty good yeah my temper's pretty level
+Ellie: last_argument (when was the last time you argued with someone and what was it about)
+Participant: hm
+Participant: probably with my
+Participant: husband
+Participant: and
+Participant: i can't remember at the moment what it was about
+Ellie: okay_confirm (okay)
+Ellie: family_relationship (tell me about your relationship with your family)
+Participant: um well when you say my family do you mean
+Participant: my  family from childhood or my current family
+Ellie: mind (whatever comes to your mind)
+Participant: okay well i guess my current family comes to mind i i have two daughters
+Participant: and
+Participant: my relationship's pretty good it's okay with them but they're teenagers which uh
+Participant: you know
+Participant: going they're going through a lot of hormones and
+Participant: um
+Participant: they can be kinda bitchy <laughter> and
+Ellie: wild_laughter5 ((laughter))
+Participant: and um but i have hoped that you know they'll grow out of that and soon someday we'll have a really good relationship
+Participant: um and then there's the husband which
+Participant: i i guess i could say soon to be ex husband hopefully soon  <laughter>
+Participant: we need to get a divorce but we're still together
+Participant: due to financial reasons
+Participant: and yeah
+Ellie: okay_confirm (okay)
+Participant: yeah so that that's not good the
+Participant: the relationship with the husband but um
+Participant: but since we have determined that we need to divorce
+Participant: our our we don't expect anything out out of each other so we don't argue as much so that's good
+Ellie: yeah_downer (yeah)
+Ellie: situation_handled (tell me about a situation that you wish you had handled differently)
+Participant: hm
+Participant: well
+Participant: i guess
+Participant: our marriage
+Participant: i wish i had noticed early on that
+Participant: you know it was like way off from what i thought it was
+Ellie: hard_decisionB (tell me about the hardest decision you've ever had to make)
+Participant: um <sigh> let's see oh my god
+Participant: hardest decision
+Participant: i guess leaving my first husband that was pretty hard
+Ellie: tell_about_that (can you tell me about that)
+Participant: um well you know we were married and i wasn't
+Participant: content i guess you could say
+Participant: um and
+Participant: i kinda just
+Participant: gave up on our relationship and
+Participant: i i now that i look back i think it's because
+Participant: i wanted
+Participant: children and he would've been happy to never have any
+Participant: and so uh since i didn't have a father
+Participant: it was very important
+Participant: that i
+Participant: create children with someone who really wanted to be a father
+Participant: and so i was kind of
+Participant: at a age where i needed to start thinking about
+Participant: having children
+Participant: yet i was with someone who really was not into it so that
+Participant: i think that's one uh maybe the core reason why i was not content and i just
+Participant: felt like
+Participant: <tisk> this marriage isn't gonna work and
+Participant: so you know we went to therapy and everything and he did not wanna break up and
+Participant: <tisk> um
+Participant: <tisk> and i had to leave him
+Participant: because i just wasn't happy and that was that was very  hard 'cause
+Participant: you know
+Participant: i felt like i was hurting him  which which i was you know and he survived he got over it now he's  married with two kids <laughter>
+Participant: <laughter> but um
+Participant: it was
+Participant: hard
+Participant: to leave him
+Ellie: yeah_downer (yeah)
+Ellie: memory_erase (tell me about an event or something that you wish you could erase from your memory)
+Participant: mm
+Participant: something i wish i could erase from my memory
+Participant: i have to think about that
+Participant: i'm sure there's something <gasp> oh well
+Participant: yeah there's um
+Participant: i guess it'd be nice to erase
+Participant: from my memory  um a recent i mean not recent but an event
+Participant: in my
+Participant: recent adulthood here in culver city
+Participant: where one of my best friends
+Participant: um
+Participant: i've betrayed me by
+Participant: back years ago when my husband first got into real estate
+Participant: she and her family were growing and they really needed  a larger home
+Participant: and
+Participant: um
+Participant: we just assumed that you know that they would use
+Participant: my husband as their agent both to sell their current home current at the time
+Participant: and purchase a new home
+Participant: <tisk> and as it turned out
+Participant: they surprised us and
+Participant: had been talking to this other local agent
+Participant: and uh yeah
+Participant: that was devastating
+Participant: i don't think i had ever  been betrayed
+Participant: like that
+Participant: so i wish i could  erase that now 'cause now you know this was back when the kids were really young
+Participant: and um
+Participant: my daughter at the time my youngest daughter was let's say
+Participant: six maybe
+Participant: um
+Participant: maybe five
+Participant: anyway her <h>
+Participant: her and my best friend's
+Participant: daughter are the same age they were born within days of each other
+Participant: we were pregnant together
+Participant: and um
+Participant: they were really tight those two little girls and they ended up not going to the same elementary school  so they didn't get to hang out during those years but every time we'd run into them in the neighborhood or they'd
+Participant: run into each other at a summer camp or something they were just so connected they were
+Participant: just you know like two peas in a pod even though it's her
+Participant: their moms weren't talking to each other anymore
+Participant: so now they're thirteen and fourteen and they're in middle school together
+Participant: and they're still very connected in fact <laughter>
+Participant: she she for the first time spent the night at our house last night with my daughter
+Participant: and another girl
+Participant: and it's just a little awkward you know 'cause now
+Participant: these girls are
+Participant: becoming really good friends better friends
+Participant: um
+Participant: and yet
+Participant: i still have this
+Participant: vivid
+Participant: um
+Participant: bad memory
+Participant: of what her
+Participant: her mom did to
+Participant: to me
+Ellie: yeah_downer (yeah)
+Participant: that was about what
+Participant: ten
+Participant: about eight years ago
+Participant: anyway
+Participant: <sigh> i tried to i tried to
+Ellie: im_sorry (i'm sorry)
+Participant: ignore it and put it out of my head and
+Participant: which i've been able to <sniff>
+Participant: in recent years
+Participant: but obviously it still comes up
+Ellie: yeah_downer (yeah)
+Participant: anyway that that was that
+Ellie: easy_sleep (how easy is it for you to get a good night's sleep)
+Participant: <sniff>
+Participant: um not that easy
+Participant: i do sometimes get a decent night's sleep but
+Participant: sometimes it's hard to get to sleep and most of the time i wake up
+Participant: and can't get back to sleep
+Participant: uh or i finally get back to sleep and then it's almost time to get up you know that
+Participant: that difficult thing
+Ellie: trigger (are they triggered by something)
+Participant: well the waking up in the middle of the night is definitely triggered by having to go to the bathroom <laughter>
+Participant: and then um
+Participant: <tisk> you know it's not always that easy to get back to sleep and then i wake up again to go to the bathroom
+Participant: so i guess that's the trigger
+Participant: as far as getting to sleep having a hard time there
+Participant: i don't know i think there's just too much on my mind
+Participant: running through my mind and the day
+Participant: i feel like i haven't accomplished enough during the day so
+Participant: it's hard for me to just go to sleep when i'm supposed to
+Participant: i guess
+Ellie: downer (okay)
+Ellie: sleep_affects (what are you like when you don't sleep well)
+Participant: um
+Participant: well i'm kinda used to it now
+Participant: so i just go on
+Participant: through the day probably looking <laughter> looking tired and um
+Participant: i i'm kinda used to feeling tired i just do what i need to do
+Participant: and sometimes if i'm able to if i'm at home and don't have
+Participant: huge commitments yeah i might just like i said earlier just take a nap or something
+Participant: read my book watch t_v watch whatever
+Ellie: mhm (mhm)
+Ellie: feel_lately (how have you been feeling lately)
+Participant: lately how have i been feeling um
+Participant: kind of down
+Participant: on myself down on life
+Ellie: tell_about_that (can you tell me about that)
+Participant: well i have this pending
+Participant: need <n> need for separation slash divorce
+Participant: um
+Participant: <tisk> i worry that i made a lot of mistakes with my girls now they're teenagers
+Participant: you know on the verge of adulthood
+Participant: <clears throat>
+Participant: and so i worry that
+Participant: you know
+Participant: i did all kinds of things wrong
+Participant: with their guidance and their early childhood and  <clears throat> now it's too late
+Participant: um
+Participant: like i missed out on a thing <th> a lot of things
+Participant: uh
+Participant: and yeah i need a job i'm unemployed i don't know what i wanna do with my life
+Participant: i know i wanna do something i i
+Participant: i just wish
+Participant: you know i never did finish college unfortunately because i was traveling and stuff
+Participant: so i i regret that extremely
+Participant: and i need to get a job and be able to take care of myself 'cause i need to
+Participant: divorce and move on with my life
+Participant: so
+Participant: now i forget what the original question was but  <laughter>
+Participant: um
+Participant: that's the state
+Participant: part of the state of my life
+Ellie: okay_confirm (okay)
+Ellie: ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)
+Participant: no
+Ellie: depression_diagnosed (have you been diagnosed with depression)
+Participant: yes
+Ellie: when_diagnosed (how long ago were you diagnosed)
+Participant: mm <tisk>
+Participant: well
+Participant: the first time or or or recently
+Ellie: yes (yes)
+Participant: the first time i guess was
+Participant: you know when i was in my early twenties i was just a little
+Participant: upset about <laughter> coincidentally that was another breakup i had to make back then
+Participant: i was um
+Participant: <tisk> in my early twenties and i needed to break up with my boyfriend but again it was very upsetting 'cause i
+Participant: you know it was hard because he didn't wanna break up and i felt like i was hurting him
+Participant: and i didn't understand this feeling
+Participant: i was really upset
+Participant: how i didn't that was my first time having depression so i didn't really
+Participant: recognize <r> recognize it as depression but i went somehow i
+Participant: had the
+Participant: knowledge or the
+Participant: i was able to
+Participant: take myself to a psychiatrist i remember i paid for her by the hour
+Participant: and she prescribed xanax to just help relax me
+Participant: and so i guess that helped me get through that and then i've had depression throughout the years just you know little bits here and there for various reasons such as
+Participant: i guess it's usually a relationship <laughter> you know
+Participant: um
+Participant: yeah so the most recent time i was diagnosed
+Participant: and put on meds
+Participant: that was probably about
+Participant: two years ago
+Ellie: mm (mm)
+Ellie: therapy_going (do you still go to therapy now)
+Participant: no
+Ellie: stop_going (why did you stop)
+Participant: um money i i don't have insurance
+Participant: otherwise yeah i'd be happy to
+Participant: go to therapy <laughter>
+Participant: anything that might help
+Ellie: happy_lasttime (tell me about the last time you felt really happy)
+Participant: ooh <laughter>
+Participant: boy
+Participant: last time i felt really happy
+Participant: um
+Participant: i don't know i guess maybe
+Participant: when my children were born
+Participant: that's
+Ellie: describe_felt (how did you feel in that moment)
+Participant: <laughter>
+Participant: um
+Participant: i guess happy i don't know <laughter> i just you know
+Participant: i always wanted children so it was nice
+Participant: to have them
+Participant: that's
+Participant: i don't know that's all i can remember of that i don't i guess i don't remember the good times too well <laughter> i remember the bad times
+Ellie: yeah_downer (yeah)
+Ellie: Ellie17Dec2012_10 (tell me about something you did recently that you really enjoyed)
+Participant: <sniff>
+Participant: mm
+Participant: something i did that i really enjoyed
+Participant: well
+Participant: let's see i um
+Participant: friday night i went to a friend's house
+Participant: and met up with
+Participant: five other girlfriends and we
+Participant: we created vision boards
+Participant: and talked and
+Participant: had dinner
+Participant: at one of their house that was that was fun
+Ellie: great_situation (that sounds like a great situation)
+Participant: yeah
+Participant: we get to
+Ellie: advice_back (what advice would you give to yourself ten or twenty years ago)
+Participant: ooh <sigh>
+Participant: stay in college get my degree
+Participant: um
+Participant: get therapy try to become a happy
+Participant: um
+Participant: yeah try to figure out things earlier in life
+Participant: like
+Participant: yeah
+Participant: stay in college and oh and mainly i think the main you know what it all boils down to <laughter> no matter what you're depressed about it seems like
+Participant: as as the saying goes and the songs <s> the
+Participant: songs go you know
+Participant: it's all about money the world revolves around money and
+Participant: having none
+Participant: that in itself is very depressing <laughter> so besides relationships and different things  that have happened in your life
+Participant: having no money
+Participant: is
+Participant: you know it's like you can't even try to fix anything because you don't have the money to fix it
+Participant: so
+Participant: with that in mind i would uh definitely advise myself to get my college degree
+Participant: and to stick <s> get a job and stick with it
+Participant: um
+Participant: don't quit
+Participant: to go traveling you know
+Participant: just stick with a job stick with a company build up your
+Participant: seniority keep your benefits
+Participant: and build up some knowledge or some expertise in some sort of field
+Participant: yeah that would've been
+Participant: my biggest piece of advice to myself
+Ellie: okay_confirm (okay)
+Ellie: Ellie17Dec2012_08 (what are you most proud of in your life)
+Participant: not much <laughter>
+Participant: i guess
+Participant: just my daughters you know they're
+Participant: beautiful daughters and
+Participant: i'm proud and glad that i was able to have children some people
+Participant: aren't even able to do that you know and they  try so hard or they look back on their life and they wish they had done it so
+Participant: that's the one thing i mean i wanted
+Participant: five children and i always wanted a boy which i never had but
+Participant: um i'm
+Participant: i guess that's the
+Participant: biggest thing i can
+Participant: think of to be proud of
+Participant: is having my two daughters
+Ellie: Ellie17Dec2012_07 (what would you say are some of your best qualities)
+Participant: um
+Participant: i'm a very loyal
+Participant: friend and person
+Participant: that's why
+Participant: when that friend betrayed me it was so devastating
+Participant: yeah very loyal um
+Participant: very
+Participant: <inhale> happy <hap> i mean huh what was i gonna say i was gonna say happy lucky <l> go lucky i don't know where that came from i'm very i meant to say friendly
+Participant: and
+Participant: caring and
+Participant: um yeah i care about people
+Participant: and i'm interested in people
+Participant: and
+Participant: i care about
+Participant: animals as well
+Participant: actually that's another thing i'm proud of proud of being a vegetarian
+Participant: yeah so my daughters and being vegetarian
+Participant: i'm a vegetarian because i really care about
+Participant: feelings of other beings not only humans but animals too and
+Participant: you know i don't think that animals should be  tortured
+Participant: and live a a tortuous life
+Participant: just so we can eat 'em
+Ellie: yeah_downer (yeah)
+Participant: so um
+Participant: what was the question
+Participant: do you remember the question
+Ellie: asked_everything (okay i think i have asked everything i need to)
+Participant: okay
+Ellie: appreciate_open (thanks for sharing your thoughts with me)
+Participant: you're welcome
+Ellie: bye (goodbye)
+Participant: bye

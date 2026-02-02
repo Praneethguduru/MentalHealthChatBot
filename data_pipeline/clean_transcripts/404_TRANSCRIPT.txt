@@ -1,0 +1,274 @@
+Participant: <sync>
+Ellie: IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)
+Participant: yes
+Ellie: okay_confirm (okay)
+Ellie: how_doingV (so how are you doing today)
+Participant: doing good
+Ellie: thats_good (that's good)
+Ellie: where_originally (where are you from originally)
+Participant: new york city
+Ellie: really (really)
+Ellie: when_LA (when did you move to l_a)
+Participant: well uh
+Participant: originally i was born here but uh
+Participant: spent some time back east and um moved back here and um
+Participant: basically sort of raised here so
+Participant: been here a while and i'm enjoying it
+Ellie: cool3 (cool)
+Ellie: like_about_LA (what are some things you really like about l_a)
+Participant: there's great weather and um
+Participant: uh amusement parks a lot of scenery a lot of people
+Participant: uh a lot of energy and excitement
+Participant: there's so many things to really like about l_a
+Ellie: yeah3 (yeah)
+Ellie: dont_like_LA (what are some things you don't really like about l_a)
+Participant: see uh a lot of congestion and pollution
+Ellie: mm (mm)
+Ellie: see_mean (i see what you mean)
+Ellie: travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)
+Participant: i i try to but no i don't
+Ellie: travel_changed (what do you enjoy about traveling)
+Participant: uh
+Participant: it's nice to be on the open road with uh
+Participant: mm potentially <potelingly>  time to think about my own life
+Ellie: uh_huh (uh huh)
+Ellie: shyoutgoing (do you consider yourself more shy or outgoing)
+Participant: shy
+Ellie: why2 (why)
+Participant: sometimes i find it hard to express my own thoughts
+Ellie: relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)
+Participant: well you mentioned a fish tank and uh
+Participant: i view spent some time in a
+Participant: many waiting rooms where there's been fishtanks and uh
+Participant: uh so staring at fishtanks could be one of them
+Participant: uh but i also enjoy walking or
+Participant: uh lifting weights reading going to movies just to say a few things
+Ellie: thats_good (that's good)
+Ellie: control_temper (how are you at controlling your temper)
+Participant: uh good
+Participant: moderate uh good um
+Participant: in control
+Ellie: last_argument (when was the last time you argued with someone and what was it about)
+Participant: argued about today okay last argument was today
+Participant: just before i got here
+Participant: and it was
+Participant: about um
+Participant: having about how do i say this about taking them to a bus stop about uh
+Participant: how uh making an arrangement
+Ellie: okay_confirm (okay)
+Ellie: feelguilty (what's something you feel guilty about)
+Participant: feel guilty about
+Participant: not taking better care of my pet
+Ellie: tell_about_that (can you tell me about that)
+Participant: sure i i like birds so one of my pets was a bird
+Participant: uh as of recently
+Participant: and
+Participant: i
+Participant: let my bird out into the wild
+Participant: and
+Participant: sort of wish i had planned for better
+Participant: um
+Participant: future for the for the bird
+Participant: uh only because now i sort of wish the bird
+Participant: was uh closer to me
+Ellie: isee_downer (i see)
+Ellie: situation_handled (tell me about a situation that you wish you had handled differently)
+Participant: hm
+Participant: i would say
+Participant: i get into arguments with people close to me friends
+Participant: and
+Participant: sometimes i i don't handle them well
+Participant: i am more
+Participant: reactive
+Participant: so i wish uh i'd like to see myself improve on that
+Ellie: landed_trouble (has that gotten you in trouble)
+Participant: uh no
+Participant: um at least not you know in any sort of legal trouble but uh
+Participant: i think it's you know it's kind of
+Participant: not the way that i would like to have handled it
+Ellie: okay_confirm (okay)
+Ellie: hard_decisionB (tell me about the hardest decision you've ever had to make)
+Participant: guess the hardest decision was about to
+Participant: of
+Participant: how to
+Participant: proceed with
+Participant: moving forward eh on
+Participant: a
+Participant: job opportunity
+Ellie: Ellie17Dec2012_02 (uh huh)
+Ellie: tell_me_about (tell me about that)
+Participant: i had to
+Participant: decide whether
+Participant: if i would
+Participant: suffer more emotional pain by leaving
+Participant: my family and whether the financial gain and
+Participant: uh knowledge
+Participant: of that experience would over outweigh the benefit
+Ellie: been_hard (that sounds really hard)
+Ellie: happy_didthat (are you happy you did that)
+Participant: uh yes yes i am
+Ellie: thats_good (that's good)
+Ellie: family_relationship (tell me about your relationship with your family)
+Participant: well i it's a small family but um
+Participant: have a mother and a
+Participant: uh sister and a brother
+Participant: and uh two younger nieces
+Participant: older they're they're grown adults
+Participant: uh it's a it's a good relationship
+Participant: and
+Participant: uh
+Participant: things could be better
+Participant: um sometimes it's sort of difficult pain
+Participant: staking
+Participant: uh relationship at times
+Ellie: why2 (why)
+Participant: there's uh some days i'm
+Participant: i need time for myself and i
+Participant: would rather give the time to
+Participant: other people rather than to take time for myself which has been my experience
+Participant: uh and so
+Participant: that has caused me a lot me a lot of emotional
+Participant: pain uh a little bit of spiritual
+Participant: uh anxiety about my future if i continue to do that sort of thing
+Ellie: yeah_downer (yeah)
+Ellie: memory_erase (tell me about an event or something that you wish you could erase from your memory)
+Participant: wow there's so many things <laughter> what about you i don't know anything about you
+Participant: i would say uh well there's there's a few um
+Participant: but of recent i um
+Participant: well
+Participant: things are going pretty good i'm
+Participant: can't really say there's anything as of yet that i would really want to change or or have anything to regret on that i can remember
+Ellie: okay_confirm (okay)
+Ellie: easy_sleep (how easy is it for you to get a good night's sleep)
+Participant: it's been pretty good
+Participant: and uh
+Participant: it's uh i'd say it's okay uh
+Participant: i'm handling my sleep pretty well
+Ellie: sleep_affects (what are you like when you don't sleep well)
+Participant: when i don't sleep well sometimes i can be irritable um
+Participant: sometimes it's okay uh
+Participant: and uh would say if
+Participant: there's also times where i'm
+Participant: unhappy
+Participant: so
+Participant: i try to
+Participant: get as much sleep as i need
+Ellie: okay_confirm (okay)
+Ellie: military (have you ever served in the military)
+Participant: yes
+Ellie: old (how old were you when you joined the military)
+Participant: i
+Participant: believe i was uh nineteen
+Participant: and uh
+Participant: i'm glad i did it
+Ellie: very_young (you were very young weren't you)
+Participant: yes uh
+Participant: sort of but uh yes
+Ellie: combat (did you ever see combat)
+Participant: no
+Ellie: effectB (how did serving in the military change you)
+Participant: um well uh
+Participant: i guess i suppose it made me a more confident person and more
+Participant: um
+Participant: in tune with uh
+Participant: uh the country that i'm living in and people
+Participant: uh
+Participant: to be more noticeable more watchful of where i live
+Ellie: mhm (mhm)
+Ellie: memorableB (what's one of your most memorable experiences)
+Participant: um hanging out with some friends uh
+Participant: on a really nice weekend and uh on a boat
+Participant: uh or on a skiff a really small boat and um
+Participant: trying to fish in
+Ellie: nice (nice)
+Ellie: describe_felt (how did you feel in that moment)
+Participant: i felt uh free or alive um happy
+Participant: um uninhibited
+Participant: uh strong confident uh mature
+Ellie: mhm (mhm)
+Ellie: after (what did you do after the military)
+Participant: after the military
+Participant: uh after military
+Participant: took some time to evaluate my
+Participant: my thoughts and uh
+Participant: my future and um
+Participant: just sort of took uh the necessary steps uh to move ahead
+Ellie: difficult (how hard is that)
+Participant: uh it's sort of hard it is
+Participant: um
+Ellie: civilian_life (how easy was it for you to go back to civilian life)
+Participant: uh it wasn't easy uh
+Participant: a lot of family uh help and um and community
+Participant: and uh
+Participant: so it took some adjusting but it wasn't easy
+Ellie: understand (i understand)
+Ellie: ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)
+Participant: uh no
+Ellie: depression_diagnosed (have you been diagnosed with depression)
+Participant: no
+Ellie: happy_lasttime (tell me about the last time you felt really happy)
+Participant: uh you know
+Participant: this week um
+Participant: partially today
+Participant: happy's
+Participant: uh happy sort of often not too happy but
+Participant: content
+Participant: happy
+Ellie: uh_huh (uh huh)
+Participant: happy
+Participant: i don't know uh not usually too happy
+Participant: try to stay
+Participant: on the center line
+Ellie: okay_confirm (okay)
+Ellie: ideal_weekendC (tell me how you spend your ideal weekend)
+Participant: do a weekend
+Participant: um up early
+Participant: um get out enjoy the day um
+Participant: hook up with some friends
+Participant: and uh
+Participant: doing a little bit of socializing
+Participant: and uh
+Participant: maybe get some form of uh
+Participant: view some form of artistic expression
+Ellie: mhm (mhm)
+Ellie: like_what (like what)
+Participant: there's a maybe a like a museum or uh stare at some art or
+Participant: uh maybe something in the local community
+Participant: maybe street art
+Participant: and uh
+Participant: or perhaps something with music or
+Participant: uh
+Participant: something something of that nature
+Ellie: okay_confirm (okay)
+Ellie: self_change (what are some things you wish you could change about yourself)
+Participant: i wish perhaps uh some things that i could change about myself um
+Participant: make
+Participant: more decisive about decisions
+Participant: and uh something else um
+Participant: that i
+Participant: had the same ability for a knack for
+Participant: uh for meeting more people i suppose
+Ellie: mhm (mhm)
+Ellie: BF_describe (how would your best friend describe you)
+Participant: as best friends describe me i don't know um
+Participant: nice friendly
+Participant: uh
+Participant: trustworthy sociable
+Ellie: advice_back (what advice would you give to yourself ten or twenty years ago)
+Participant: uh
+Participant: the same advice i'd give myself <laughter> today
+Ellie: okay_confirm (okay)
+Ellie: Ellie17Dec2012_10 (tell me about something you did recently that you really enjoyed)
+Participant: something wow
+Participant: uh
+Participant: i really enjoy spending time with my girlfriend and her two children
+Participant: and that was yesterday
+Participant: and i'm glad i did that it was a good time for everybody
+Ellie: thats_great (that's great)
+Ellie: Ellie17Dec2012_08 (what are you most proud of in your life)
+Participant: uh i'm proud i went into the military and um
+Participant: i'm glad i did that it was a good experience
+Ellie: asked_everything (okay i think i have asked everything i need to)
+Ellie: appreciate_open (thanks for sharing your thoughts with me)
+Ellie: bye (goodbye)
+Participant: bye thank you

@@ -1,0 +1,168 @@
+Participant: <sync>
+Ellie: IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)
+Participant: yes
+Ellie: okay_confirm (okay)
+Ellie: how_doingV (so how are you doing today)
+Participant: doing alright
+Ellie: thats_good (that's good)
+Ellie: where_originally (where are you from originally)
+Participant: from passaic new jersey
+Ellie: really (really)
+Participant: yes
+Ellie: when_LA (when did you move to l_a)
+Participant: uh about five years ago
+Ellie: often_backB (how often do you go back to your hometown)
+Participant: try to go back every year
+Ellie: compares_LA (how does it compare to l_a)
+Participant: uh
+Participant: there's a lot more people
+Ellie: why_LA (why did you move to l_a)
+Participant: change of scenery
+Ellie: adapted_LA (how easy was it for you to get used to living in l_a)
+Participant: i'm still trying to get used to it
+Ellie: mm (mm)
+Ellie: like_about_LA (what are some things you really like about l_a)
+Participant: the people
+Ellie: cool3 (cool)
+Ellie: dont_like_LA (what are some things you don't really like about l_a)
+Participant: just um
+Participant: employment how it's doing right now it's just no work
+Ellie: good_job (it can be tough to find a good job these days)
+Participant: yeah
+Ellie: study (what did you study at school)
+Participant: i don't really have much of an education
+Ellie: dream_job (what's your dream job)
+Participant: i haven't i haven't figured it out yet
+Ellie: okay_confirm (okay)
+Ellie: travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)
+Participant: no not really <sigh>
+Ellie: okay_confirm (okay)
+Ellie: shyoutgoing (do you consider yourself more shy or outgoing)
+Participant: i've gotten to be more shy now
+Ellie: why2 (why)
+Participant: i'm not sure i'm just
+Participant: just a lot more reserved now i'm not sure i just
+Participant: i just build walls i guess i don't know <laughter>
+Ellie: yeah_downer (yeah)
+Ellie: relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)
+Participant: count to ten <laughter>
+Ellie: control_temper (how are you at controlling your temper)
+Participant: i'm alright
+Participant: it's alright
+Ellie: last_argument (when was the last time you argued with someone and what was it about)
+Participant: i'm arguing all the time <laughter>
+Ellie: give_example (can you give me an example of that)
+Participant: just uh
+Participant: doing the dishes and just mm
+Participant: having to do different things i don't wanna do <laughter>
+Ellie: uh_huh (uh huh)
+Ellie: situation_handled (tell me about a situation that you wish you had handled differently)
+Participant: that
+Participant: can't really think of one right now
+Ellie: talk_later (why don't we talk about that later)
+Ellie: memory_erase (tell me about an event or something that you wish you could erase from your memory)
+Participant: mm
+Participant: something i wish i could erase my memory
+Participant: mm
+Participant: uh nothing really comes to mind right now
+Participant: i'm drawing a blank <laughter>
+Ellie: okay_confirm (okay)
+Ellie: feelguilty (what's something you feel guilty about)
+Participant: i feel guilty about not
+Participant: having money for the bills <laughter>
+Participant: not having a job <laughter>
+Participant: not doing nothing with my life <laughter>
+Ellie: been_hard (that sounds really hard)
+Participant: yeah
+Participant: <laughter>
+Ellie: too_hard (do you think that maybe you're being a little hard on yourself)
+Participant: i mean i'm getting older
+Participant: <laughter>
+Participant: not really
+Ellie: hard_decisionB (tell me about the hardest decision you've ever had to make)
+Participant: what kind of car to buy
+Ellie: really (really)
+Ellie: bouts_symptoms (when was the last time that happened)
+Participant: about two years ago
+Ellie: tell_about_that (can you tell me about that)
+Participant: had to do a lot of research
+Ellie: like_what (like what)
+Participant: looking at magazines and just going on the internet and just
+Participant: looking through cars and just seeing what i wanted to get and what was in my budget and
+Ellie: see_mean (i see what you mean)
+Ellie: easy_sleep (how easy is it for you to get a good night's sleep)
+Participant: that's alright
+Ellie: sleep_affects (what are you like when you don't sleep well)
+Participant: aggravated
+Ellie: uh_huh (uh huh)
+Participant: angry
+Ellie: okay_confirm (okay)
+Ellie: feel_lately (how have you been feeling lately)
+Participant: i've been feeling alright um
+Participant: just been a little down
+Participant: and uh
+Ellie: sorry_hear (i'm sorry to hear that)
+Ellie: behavior_changes (have you noticed any changes in your behavior or thoughts lately)
+Participant: yeah well my eating pattern like i i'm just i don't have any like appetite i'm just
+Participant: restless and moody
+Ellie: hmm_downer (hmm)
+Ellie: ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)
+Participant: no
+Ellie: depression_diagnosed (have you been diagnosed with depression)
+Participant: no
+Ellie: happy_lasttime (tell me about the last time you felt really happy)
+Participant: when i play with my dog
+Ellie: bouts_symptoms (when was the last time that happened)
+Participant: this morning
+Ellie: aw (aw)
+Ellie: more (tell me more about that)
+Participant: i don't know i just
+Participant: whenever i get
+Participant: super bored or i just need some time to
+Participant: for myself i just play with the dog
+Ellie: thats_good (that's good)
+Participant: yeah
+Ellie: ideal_weekendC (tell me how you spend your ideal weekend)
+Participant: trying to be as busy as possible  <laughter>
+Ellie: self_change (what are some things you wish you could change about yourself)
+Participant: oh i wish i had an education and uh
+Participant: better job
+Participant: just
+Participant: time to do those things <laughter>
+Ellie: yeah_downer (yeah)
+Ellie: advice_back (what advice would you give to yourself ten or twenty years ago)
+Participant: go to school and stay in school
+Participant: go to school to learn <laughter>
+Ellie: BF_describe (how would your best friend describe you)
+Participant: i guess uh
+Participant: i don't know
+Participant: cool person i guess
+Ellie: Ellie17Dec2012_07 (what would you say are some of your best qualities)
+Participant: i like to joke and just have fun <sigh>
+Participant: i like to have a good time
+Ellie: okay_confirm (okay)
+Ellie: mad_makeyou (what are some things that make you really mad)
+Participant: things don't go my way just
+Participant: that that really makes me mad <laughter>
+Ellie: give_example (can you give me an example of that)
+Participant: well if i got if i wanna do something
+Participant: and i just can't
+Participant: do it uh
+Participant: that pisses me off
+Ellie: uh_huh (uh huh)
+Participant: no matter what it is it's just <laughter> it's a problem <laughter>
+Ellie: right2 (right)
+Participant: not that i do whatever i want but <sigh>
+Participant: that hinders the
+Ellie: mm (mm)
+Ellie: influence_positive (who's someone that's been a positive influence in your life)
+Participant: positive my sister <sigh>
+Ellie: tell_about_that (can you tell me about that)
+Participant: yeah well my sister she's a good person
+Ellie: okay_confirm (okay)
+Ellie: Ellie17Dec2012_08 (what are you most proud of in your life)
+Participant: proud to still be alive
+Ellie: asked_everything (okay i think i have asked everything i need to)
+Ellie: appreciate_open (thanks for sharing your thoughts with me)
+Ellie: bye (goodbye)
+Participant: bye

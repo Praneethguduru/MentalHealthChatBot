@@ -1,0 +1,343 @@
+Participant: <synch>
+Ellie: IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)
+Participant: yes thanks
+Ellie: okay_confirm (okay)
+Ellie: how_doingV (so how are you doing today)
+Participant: i'm well thank you how are you
+Ellie: thats_good (that's good)
+Ellie: great_thanks (i'm great thanks)
+Ellie: where_originally (where are you from originally)
+Participant: i grew up in oklahoma
+Ellie: really (really)
+Participant: mhm
+Ellie: when_LA (when did you move to l_a)
+Participant: um i moved to l_a about five and a half years ago so i used to be on the west <we> on the east coast and then i decided i wanted to come out here
+Ellie: often_backB (how often do you go back to your hometown)
+Participant: my hometown not very often um most <m> most of my family's moved away so i visit them but i don't actually get back to oklahoma much
+Ellie: compares_LA (how does it compare to l_a)
+Participant: <sniffle>
+Participant: oklahoma's very different um
+Participant: uh l_a's a lot more exciting
+Participant: there's a lot more um
+Participant: uh to do here and um
+Participant: uh the ocean obviously is very nice so
+Ellie: mhm (mhm)
+Ellie: why_LA (why did you move to l_a)
+Participant: um
+Participant: you know that's a good question i um
+Participant: i wanted to try something new and i've always loved the beach and
+Participant: i thought uh and i also like big cities so i thought l_a might be a good place for me to come
+Ellie: happy_didthat (are you happy you did that)
+Participant: very it's probably one of the best uh decisions i ever made
+Ellie: good_hear (that's so good to hear)
+Participant: <laughter>
+Ellie: adapted_LA (how easy was it for you to get used to living in l_a)
+Participant: pretty easy i think um eh it seems kind of natural
+Participant: it seemed like a good fit
+Participant: um i just really like it here
+Ellie: living_situation (how do you like your living situation)
+Participant: oh it's great um i have a couple of roommates and we get along really well i live a couple of blocks from the beach
+Participant: um and uh every day i get to walk on the beach or
+Participant: um you know hang out with friends and it's just it's kind of like being on vacation all the time it's really nice
+Ellie: awesome (awesome)
+Ellie: study (what did you study at school)
+Participant: mm
+Participant: i studied philosophy and um political theory and government
+Participant: and did a little bit of english literature on the side
+Ellie: hard_decision (how did you decide to do that)
+Participant: um it
+Participant: kind of just happened naturally i think uh
+Participant: i went to liberal arts school and got kind of a exposure to a lot of different
+Participant: areas and
+Participant: i just followed what i liked and was interested in and ended up spending a lot of time studying that
+Ellie: still_working_on_X (are you still working in that)
+Participant: um
+Participant: not exactly i work for an educational nonprofit so i work with graduate <grad> with graduate students um in the social sciences and humanities
+Ellie: mhm (mhm)
+Participant: um but i don't actually um use my philosophy background very often
+Ellie: dream_job (what's your dream job)
+Participant: <laughter> um
+Participant: you know i have actually studied to become a success coach
+Participant: um and so i working with students is is kind of a nice
+Participant: aspect of of doing that but i'd really like to work with other <o> with other people so not just students
+Participant: um but help them to achieve their goals and realize their dreams
+Ellie: difficult (how hard is that)
+Participant: um i'd say it it it's fairly hard um in the sense that
+Participant: um
+Participant: you know it can be challenging for people to actually
+Participant: be motivated and do all of the work that needs to be um
+Participant: undertaken in order to realize their their dreams but and it it's also a challenge because making a living at it
+Participant: uh requires charging people money <laughter> so um finding people who are willing to pay for that can be um difficult too
+Ellie: yeah_downer (yeah)
+Ellie: shyoutgoing (do you consider yourself more shy or outgoing)
+Participant: um i'm definitely on the shyer side i'm an introvert so
+Ellie: why2 (why)
+Participant: um i'm pretty good in one on one situations with people but when you get me in a group with more than a a couple of people
+Participant: i'm very much an observer so i tend to listen a lot and i'm not as engaged
+Participant: and i think that um is
+Participant: something that goes it is noticed by others and it it maybe is a little bit odd to them especially if they're not introverted
+Participant: um so i i'd say and it's also a challenge for me i tend not to be the person who introduces myself um in a room full of strangers
+Ellie: okay_confirm (okay)
+Ellie: control_temper (how are you at controlling your temper)
+Participant: <laughter> pretty good i think
+Participant: um but i do have a temper so i can get i can get upset from time to time
+Ellie: landed_trouble (has that gotten you in trouble)
+Participant: not really um it can be a challenge when i'm driving <laughter> but other than that no
+Ellie: last_argument (when was the last time you argued with someone and what was it about)
+Participant: hmm
+Participant: hmm
+Participant: i'm not sure
+Participant: it would've probably been a discussion over politics
+Participant: and it probably would've been a friendly argument
+Participant: um
+Participant: probably with one of my liberal friends so
+Participant: but i actually can't remember the specific time
+Ellie: mm (mm)
+Ellie: okay_confirm (okay)
+Ellie: relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)
+Participant: <laughter>
+Participant: <sniffle>
+Participant: mm
+Participant: i meditate
+Participant: um i
+Participant: do that almost every day
+Participant: um i also walk at the beach i love the ocean and i really like the sounds and just being out there is very peaceful
+Participant: um and i like to read and be alone just with my thoughts
+Ellie: mhm (mhm)
+Participant: so that's nice
+Ellie: thats_good (that's good)
+Ellie: situation_handled (tell me about a situation that you wish you had handled differently)
+Participant: mm
+Participant: well let me think about that for a minute
+Participant: <sigh>
+Participant: hmm
+Participant: <laughter> i'm having a hard time coming up with anything i mean i i i'm sure there are plenty of things um
+Participant: just nothing comes to mind um <sniffle>
+Participant: <sigh>
+Participant: hmm
+Ellie: back_later (let's come back to that later)
+Participant: okay i'm sorry <laughter>
+Ellie: memory_erase (tell me about an event or something that you wish you could erase from your memory)
+Participant: hmm
+Participant: well this isn't exactly an event it's it's a dream and it's not a particularly
+Participant: um traumatic dream so as far as dreams go but
+Participant: um i do have it sometimes
+Participant: probably more often than i'd like so i wouldn't be upset if it
+Participant: you know if i didn't have it
+Participant: um and it's just a version of a dream that i think a lot of people probably have but um
+Participant: it's usually me in school somewhere
+Participant: at the end of the semester
+Participant: haven't gone to class taking the exams know i'm going to fail
+Participant: and
+Participant: you know really unhappy about it wishing why didn't i
+Participant: study and attend class the way i should have
+Participant: um which actually wasn't really a problem for me in school but now i have this dream sometimes and it's kinda frustrating
+Participant: and i'm not exactly sure
+Participant: why i mean i know why but i don't know what it applies to because it's not like i am worried consciously at least about failing things so
+Ellie: mhm (mhm)
+Ellie: trigger (are they triggered by something)
+Participant: no i don't think so
+Participant: um at least not not that i'm aware of
+Ellie: okay_confirm (okay)
+Ellie: feelguilty (what's something you feel guilty about)
+Participant: <sniffle>
+Participant: i feel guilty um i have a a brother and a sister-in-law and a nephew
+Participant: and they live on the east coast
+Participant: and i love my nephew he's eight he's adorable and um
+Participant: i when i used to live there when he was younger
+Participant: um spent a lot of time with them and
+Participant: since i've been in california and particularly in the last year i've spent a lot less time visiting them so
+Participant: for example i saw them for a week at christmas and then i went back
+Participant: in <i> at the beginning of may so it was you know four months between the last <la> the last time i'd seen them
+Participant: um and that i felt bad about because
+Participant: we really enjoy each other's company and he
+Participant: um you know really likes me to be there but then he gets upset when i leave and he asks when am i coming back
+Participant: so that's um
+Participant: that makes me feel bad sometimes
+Ellie: understand (i understand)
+Ellie: family_relationship (tell me about your relationship with your family)
+Participant: mm
+Participant: um
+Participant: well i have a brother i'm very close to him
+Participant: he's younger
+Participant: and
+Participant: um he's like four four and a half years younger
+Participant: he's married um i have a nephew
+Participant: um my both of my parents have passed away
+Participant: so it's just the two of us and we have a large extended family but we're not that close with them um with most of them
+Participant: um
+Participant: on my father's side there's one brother
+Participant: um and he's married and has a few kids so i have a few cousins on that side but then on my mother's side there are
+Participant: <sigh> five <fi> four or five other kids um
+Participant: most of them with several children of their own so i have a lot of cousins on that side but they live all over the country and um
+Participant: so we stay in touch a little bit through facebook um and there a couple that i talk to on the phone and visit every now and then
+Participant: but you know we're not that close with our extended family so
+Ellie: okay_confirm (okay)
+Ellie: influence_positive (who's someone that's been a positive influence in your life)
+Participant: um
+Participant: i'd say well
+Participant: um i i mean i have a lot of friends i think that have been positive influences
+Participant: scrubbed_entry
+Participant: when i came out to california
+Participant: um
+Participant: i started working at a nonprofit and it was kind of a strange place it was very different from what i was used to um
+Participant: it was a little bit challenging and she also worked there so
+Participant: um we worked on a program together over the summer and got to know one another and
+Participant: um we just established this really strong friendship and
+Participant: she's kind of i would say my best friend probably here and probably just in general um and now she's moved to vegas um which is a little bit tough for me um
+Participant: but uh we're going to napa this weekend so that should be good um but she's been a very she was a very positive influence because when i came out here and didn't really know anybody um
+Participant: and it you know since i'm an introvert it's not that easy for me to make friends it was really nice because we share a lot of the same values and we have a lot of fun together and you know
+Participant: i think she kinda gets me so it's a lot of fun to hang out with her and and that's been nice
+Ellie: good_hear (that's so good to hear)
+Ellie: easy_sleep (how easy is it for you to get a good night's sleep)
+Participant: i'm a sleeper <laughter> so it's pretty easy um
+Participant: sometimes my you know
+Participant: depending on how long i've been awake <clears throat> i can be wound <wou> a little wound up and so sometimes i have to take a little while to decompress but
+Participant: um i usually meditate right before i go to bed um and that's very helpful
+Participant: um and i can sleep
+Participant: uh
+Participant: you know i i i generally sleep in ninety minute cycles
+Participant: so
+Participant: um you know usually six or seven and a half hours but i can easily sleep nine hours if i have the time and inclination
+Participant: um i usually don't wake up in the middle of the night
+Participant: or at least if i do i don't remember it
+Participant: so
+Ellie: uh_huh (uh huh)
+Ellie: sleep_affects (what are you like when you don't sleep well)
+Participant: um well i don't <do> actually don't sleep very well when i travel <s> one of the things i do for work is i travel uh quite a bit
+Participant: because i work for a company that's back east so i work from home
+Participant: most of the time but then i travel
+Participant: like one week a month
+Participant: and when i travel i'll take the red-eye
+Participant: um and then i'll visit with a lot of friends in the evening so i don't sleep that much it's not that i
+Participant: um sleep
+Participant: poorly or badly it's just that i um don't have that much time to sleep
+Participant: and the first day
+Participant: after not sleeping or not sleeping much is okay
+Participant: but usually the second day is not very good
+Participant: um so i get a lot more tired uh and it's harder to concentrate
+Participant: and um
+Participant: i don't know it just feels like more of a struggle
+Ellie: okay_confirm (okay)
+Ellie: feel_lately (how have you been feeling lately)
+Participant: i would say good
+Participant: um
+Participant: summer is a little <l> is an is a busy time for the organization that i work for so i'm a little
+Participant: um i i don't know <kn> know if stressed is the right word but i'm you know a little anxious about
+Participant: um everything going well this summer but um in general i'm feeling pretty good
+Ellie: behavior_changes (have you noticed any changes in your behavior or thoughts lately)
+Participant: not really i can't i can't think of anything um
+Participant: there <th> there is one thing i um i do struggle with exercise like i like to walk a lot um
+Participant: and i hike with friends and
+Participant: um i had been really motivated about it um for a couple of months but then i went away um to the east coast and when i came back i was a lot less motivated
+Participant: um because i didn't really exercise when i was there
+Participant: and i'd gotten out of the habit even though it had only been about ten days and so now i'm struggling to try and get back in the routine and it's not going as well as i would like
+Ellie: im_sorry (i'm sorry)
+Participant: it's okay
+Participant: thank you
+Ellie: ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)
+Participant: no
+Ellie: depression_diagnosed (have you been diagnosed with depression)
+Participant: no
+Ellie: happy_lasttime (tell me about the last time you felt really happy)
+Participant: hmm well
+Participant: scrubbed_entry
+Participant: he's a lot of fun and
+Participant: um he really likes me and i really like him and we play a lot of games and talk a lot and
+Participant: we're actually doing a book club now so we're gonna skype and
+Participant: um maybe i'll get some more time with him that way but uh just being around him is fun
+Ellie: BF_describe (how would your best friend describe you)
+Participant: hmm
+Participant: <sigh>
+Participant: well she'd probably say that i know how to have fun
+Participant: but that i can be serious
+Participant: and um
+Participant: that i you know care about others
+Participant: uh
+Participant: and that i'm loyal
+Participant: and
+Participant: i'm not sure what else
+Participant: um
+Participant: i think those those are probably the main things
+Ellie: okay_confirm (okay)
+Ellie: self_change (what are some things you wish you could change about yourself)
+Participant: <sniffle>
+Participant: um i wish i had more self-discipline <laughter> so
+Participant: um
+Participant: i wish that you know i could diet um or eat healthier foods and not have a problem
+Participant: uh with sugar because i love to eat sugar
+Participant: i wish that i would not procrastinate because i've gotten a lot better about that but i still do and that can be challenging
+Participant: um and i wish that i um
+Participant: xxx
+Participant: i don't know
+Participant: uh
+Participant: i think i wish that i was in a relationship
+Participant: so
+Participant: probably those things
+Ellie: okay_confirm (okay)
+Ellie: feelbadly (tell me about a time when someone made you feel really badly about yourself)
+Participant: mm
+Participant: hmm
+Participant: so at the last organization i used to work at
+Participant: i had a boss and she was
+Participant: i don't feel like she was um
+Participant: i don't think we were very compatible um and she uh
+Participant: used to push my buttons or so i thought
+Participant: and so um
+Participant: one day she was really upset about something um because a board member had called her up and asked her a question and she didn't have the answer
+Participant: um and he was upset about something and
+Participant: it was something to do with my department so she called me into her office and let me know how unhappy she was
+Participant: um
+Participant: but it wasn't i i've been a manager for many years um and i
+Participant: have very strong opinions about how you handle
+Participant: challenges with people <peo> with staff members
+Ellie: yeah2 (yeah)
+Participant: and the way that she handled the situation with me was really inappropriate i thought
+Participant: um and she clearly was trying to frighten me and make me feel
+Participant: um you know incompetent or at least that's the the way that i felt about it
+Participant: and um
+Participant: i did you know
+Participant: i tried to be very calm and
+Participant: said that i would take care of it and i did take care of it um but
+Participant: uh after that our relationship wasn't really the same and i ended up staying <st> uh leaving there
+Participant: to go back to the old organization that i'd worked for not that long afterwards because i just didn't really have a lot of respect for her after she did that to me
+Participant: or after we had that interaction so
+Ellie: yeah_downer (yeah)
+Ellie: isee_downer (i see)
+Ellie: advice_back (what advice would you give to yourself ten or twenty years ago)
+Participant: <laughter>
+Participant: so i heard this piece of advice the other day and or uh or this
+Participant: thing and that i thought was really profound and i wish that i had
+Participant: read it back then
+Participant: which is
+Participant: um when you think about buying something instead of thinking
+Participant: uh oh
+Participant: here's this beautiful coat it's a hundred dollars i want it i'm gonna buy it
+Participant: it uh don't think of it as costing a hundred dollars think of it as costing ten times that
+Participant: because that's effectively what your money could do if you didn't spend it on that coat but instead invested it
+Participant: you know
+Participant: intelligently um you would have ten times that much money eventually so
+Participant: you should really think about it in those terms and um i think i've been much more a consumer than a saver and so i wish that i had uh
+Participant: been more aware of that ten or twenty years ago
+Ellie: hmmB (hmm)
+Ellie: Ellie17Dec2012_08 (what are you most proud of in your life)
+Participant: <sigh> probably
+Participant: scrubbed_entry
+Participant: um they asked me to be his um godparent and his guardian if anything should happen to them
+Participant: and that meant a lot to me because it it made me feel like they trusted me and thought that i was a good person the kinda person that could take care of their child should something happen to them
+Participant: so
+Ellie: okay_confirm (okay)
+Ellie: Ellie17Dec2012_10 (tell me about something you did recently that you really enjoyed)
+Participant: <sigh> let's see
+Participant: well uh in <i> it wasn't really recently but in february i went i like to travel and a friend uh and i went to singapore
+Participant: uh and i got to fly first class
+Participant: um we used miles uh frequent flyer miles to get the um
+Participant: tickets and so uh that was really enjoyable because
+Participant: um the seats pull down you get to sleep the food is delicious you get special attention and um i also hadn't been to singapore before so that was kind of cool too
+Ellie: nice (nice)
+Ellie: asked_everything (okay i think i have asked everything i need to)
+Ellie: appreciate_open (thanks for sharing your thoughts with me)
+Participant: sure
+Participant: thank you
+Ellie: bye (goodbye)
+Participant: bye

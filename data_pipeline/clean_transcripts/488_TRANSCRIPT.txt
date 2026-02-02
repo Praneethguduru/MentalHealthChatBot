@@ -1,0 +1,202 @@
+Participant: <synch>
+Ellie: IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)
+Participant: yes
+Ellie: okay_confirm (okay)
+Ellie: how_doingV (so how are you doing today)
+Participant: fine
+Ellie: thats_good (that's good)
+Ellie: where_originally (where are you from originally)
+Participant: oh san fernando valley
+Ellie: really (really)
+Ellie: like_about_LA (what are some things you really like about l_a)
+Participant: uh well i really like the culture i love going to museums and being able to go at night and having lots of people around
+Ellie: mhm (mhm)
+Ellie: dont_like_LA (what are some things you don't really like about l_a)
+Participant: it's spread out a lot and it's a pain in the ass to have to drive everywhere and not have a good public transportation system
+Ellie: see_mean (i see what you mean)
+Ellie: travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)
+Participant: uh not really i like to go camping but i don't really travel
+Ellie: bouts_symptoms (when was the last time that happened)
+Participant: um i think <sigh> it might've been around six months ago i went on a trip with a geology class
+Ellie: nice (nice)
+Participant: yeah it was fun
+Ellie: memorableB (what's one of your most memorable experiences)
+Participant: hmm <sigh>
+Participant: i think it's tough to say
+Ellie: mind (whatever comes to your mind)
+Participant: um well i think the first time i went camping was probably really memorable i went to death valley
+Participant: and i got to see a lot of really cool things and hang out with my friends at night
+Ellie: awesome (awesome)
+Ellie: study (what did you study at school)
+Participant: philosophy
+Ellie: still_working_on_X (are you still working in that)
+Participant: yes
+Ellie: hard_decision (how did you decide to do that)
+Participant: um
+Participant: hmm
+Participant: i don't know i think it just sort of happened i wanted to be a journalist for a really long time and then i kind of grew disillusioned with that and i liked
+Participant: all the different
+Participant: ways or all the different things i could do with philosophy
+Ellie: makes_sense (that makes sense)
+Ellie: dream_job (what's your dream job)
+Participant: huh
+Participant: i don't know but i really like children and i really like
+Participant: studying their behavior so i think something along those lines might be it
+Ellie: okay_confirm (okay)
+Ellie: shyoutgoing (do you consider yourself more shy or outgoing)
+Participant: i think i'm generally pretty outgoing i tend to be shy around my family but when i'm around friends and stuff i
+Participant: i think i'm pretty friendly
+Ellie: uh_huh (uh huh)
+Ellie: relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)
+Participant: um a lot of times i'll watch t_v or read
+Participant: um
+Participant: yeah
+Ellie: control_temper (how are you at controlling your temper)
+Participant: i think i'm pretty good i don't really get mad i try to think about
+Participant: other things if i start getting mad or um
+Participant: i just start trying to focus on my breathing
+Ellie: last_argument (when was the last time you argued with someone and what was it about)
+Participant: i think the last time i argued with someone it was probably with my boyfriend
+Participant: um but i'm having trouble remembering what the last thing we argued about was um
+Participant: i think it was <wa> i wasn't feeling very well and i was having trouble deciding whether i wanted to go to his department's end of year party
+Participant: and he was getting frustrated
+Participant: which i thought was very inconsiderate 'cause i wasn't feeling well to begin with
+Ellie: yeah_downer (yeah)
+Ellie: describe_felt (how did you feel in that moment)
+Participant: well i felt like he wasn't really taking my feelings into consideration and
+Participant: i
+Participant: really hate when he gets stressed out or gets angry easily because i just see that as unnecessary and it stresses me out
+Ellie: isee_downer (i see)
+Ellie: situation_handled (tell me about a situation that you wish you had handled differently)
+Participant: hmm
+Participant: i think a lot of times when my
+Participant: oldest youngest brother or my oldest little brother
+Participant: uh does something wrong i tend to be harsh with him um we're not as close
+Participant: as my sister and i or my youngest brother and i
+Participant: and so he tends to be hostile back and i think that if i were a little bit more gentle it might be easier to communicate with him
+Ellie: okay_confirm (okay)
+Ellie: memory_erase (tell me about an event or something that you wish you could erase from your memory)
+Participant: hmm
+Participant: um
+Participant: when i was nineteen
+Participant: i came home
+Participant: from a party
+Participant: i think around four a_m on a sunday morning and my dad got really mad at me and yelled at me said a lot of not very nice things
+Participant: and then he didn't speak to me for about a year
+Ellie: im_sorry (i'm sorry)
+Ellie: family_relationship (tell me about your relationship with your family)
+Participant: uh well my relationship with my mom is a lot better now that i don't live at home
+Participant: um i used to be really frustrated with her all the time 'cause she has a really quick temper but i think now that i've got a little bit more distance i can see that she did the best that she could
+Participant: um <sigh>
+Participant: and i love my siblings i
+Participant: again my little sister and i get along really well she's
+Participant: four years younger than me
+Participant: and when
+Participant: when she was around twelve and i was around sixteen it was really difficult 'cause she had a really harsh temper and she was always moody and
+Participant: i wasn't
+Participant: in a place to be patient with that sort of stuff so we fought all the time but we don't anymore
+Participant: and that's really great
+Participant: and
+Participant: we get along okay with my uh
+Participant: my older little brother who's fifteen and i think i get along pretty well with my youngest brother who's twelve
+Ellie: thats_good (that's good)
+Ellie: influence_positive (who's someone that's been a positive influence in your life)
+Participant: scrubbed_entry
+Participant: one of the first not the first but one of my first philosophy professors and i really loved her classes and it was really good
+Participant: uh being in a class with a professor who really cared and
+Participant: who really engaged people that was really motivating since not all my classes were like that
+Ellie: thats_great (that's great)
+Ellie: easy_sleep (how easy is it for you to get a good night's sleep)
+Participant: i think it's pretty easy i mean sometimes i'll have trouble going to sleep but
+Participant: generally it's not that bad it's i think it's usually harder for me to wake up in the morning
+Ellie: sleep_affects (what are you like when you don't sleep well)
+Participant: um
+Participant: well i'm really tired i can get grumpy
+Participant: but i think usually i'm just
+Participant: groggy
+Ellie: okay_confirm (okay)
+Ellie: feel_lately (how have you been feeling lately)
+Participant: pretty good i'm a little anxious about
+Participant: um
+Participant: about getting a job and i'm gonna be taking summer school about
+Participant: it's only one class so i'll have a lot of free time
+Participant: um
+Participant: yeah
+Ellie: symptoms_cope (how do you cope with them)
+Participant: <sigh> well
+Participant: i mean it's not the end of the world if i don't get a job but i know that i will eventually so mostly i think i just try not to think about it too much and i try not to be pessimistic
+Ellie: okay_confirm (okay)
+Ellie: ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)
+Participant: no
+Ellie: depression_diagnosed (have you been diagnosed with depression)
+Participant: no
+Ellie: happy_lasttime (tell me about the last time you felt really happy)
+Participant: hmm
+Participant: well i think the last time i felt really happy i
+Participant: went to a party with my boyfriend the end of department party
+Participant: and um
+Participant: i was the you know i knew a couple people there so i felt comfortable but i was also able to meet new people
+Participant: and there were a couple kids there splashing around in the pool and i had a couple drinks and ate some food and it was fun
+Ellie: thats_great (that's great)
+Ellie: BF_describe (how would your best friend describe you)
+Participant: um she would probably say that
+Participant: i'm smart and uh
+Participant: pretty intellectual i love to read and to watch
+Participant: really like serious films and t_v
+Participant: um
+Participant: and she would probably also say that i'm fun 'cause we like to go out and have fun a lot
+Ellie: self_change (what are some things you wish you could change about yourself)
+Participant: well i'm kinda <ki> i can be really disorganized and that gets me in trouble sometimes so
+Participant: um so that's a major one that and procrastinating
+Ellie: feelbadly (tell me about a time when someone made you feel really badly about yourself)
+Participant: hmm
+Participant: um i got into a little bit of trouble a few months back and had to go to court and was uh
+Participant: uh given
+Participant: eh
+Participant: sixty some hours of community service and of course i procrastinated on doing that so i had to show up to court again to get an extension and the judge was
+Participant: very mean and he didn't seem i mean he yelled at me but it didn't seem
+Participant: like he gave it much thought it seemed like it was just sort of a stock
+Participant: speech he gave everyone that he thought needed some yelling at so i understand 'cause that's his job
+Participant: but it was
+Participant: was not
+Participant: great for me 'cause i wasn't i i was really anxious in that situation
+Ellie: that_sucks (that sucks)
+Ellie: advice_back (what advice would you give to yourself ten or twenty years ago)
+Participant: well i would've been twelve
+Participant: and two
+Participant: um
+Participant: but i think
+Participant: i think i would've told myself at twelve not to be so hard on myself and not to be so hard on my parents 'cause i think
+Participant: i was a little selfish and self-involved back then
+Ellie: regret (is there anything you regret)
+Participant: i can't really think of anything i mean i regret how i treated my mother when i was a kid but everyone does that and
+Participant: um
+Participant: i do regret
+Participant: a couple of
+Participant: semesters ago i didn't do so well in school and i got a
+Participant: a few ws which i now have to work to get off on my transcript
+Ellie: avoid (could you have done anything to avoid it)
+Participant: i think so i'm
+Participant: i think i
+Participant: i wasn't focusing in school at that time
+Participant: and i didn't see any counselors at school or anything so i definitely could've done that
+Ellie: okay_confirm (okay)
+Ellie: ideal_weekendC (tell me how you spend your ideal weekend)
+Participant: hmm i think i'd probably spend my ideal weekend sleeping in saturday and then
+Participant: going hiking or maybe just going to the duck pond by my house and feeding ducks and picking some oranges
+Participant: and then maybe
+Participant: going out to breakfast sunday and just like window shopping
+Ellie: mhm (mhm)
+Participant: and maybe watching a little bit of t_v
+Ellie: Ellie17Dec2012_08 (what are you most proud of in your life)
+Participant: huh
+Participant: well my youngest brother is autistic and my mom and dad were always working when he was growing up
+Participant: i'm ten years older than him so
+Participant: and being the oldest i always i always took care of him which
+Participant: made me really really patient because he was a handful but i'm really proud of how he turned out and
+Participant: um and how close we are
+Ellie: aw (aw)
+Ellie: good_hear (that's so good to hear)
+Ellie: asked_everything (okay i think i have asked everything i need to)
+Ellie: appreciate_open (thanks for sharing your thoughts with me)
+Ellie: bye (goodbye)

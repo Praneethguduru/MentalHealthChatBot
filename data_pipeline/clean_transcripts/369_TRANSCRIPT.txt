@@ -1,0 +1,288 @@
+Participant: <sync>
+Participant: <ellie starts>
+Ellie: IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)
+Participant: sure yeah
+Ellie: okay_confirm (okay)
+Ellie: how_doingV (so how are you doing today)
+Participant: i'm doing great thank you for asking um
+Participant: you know how about yourself
+Participant: <laughter>
+Ellie: great_thanks (i'm great thanks)
+Participant: oh awesome
+Ellie: where_originally (where are you from originally)
+Participant: uh i'm from guatemala
+Participant: my parents here migrated here to the united states when i was like three years old
+Participant: so yeah
+Ellie: really (really)
+Participant: mhm
+Participant: yeah it's pretty cool you know
+Ellie: often_backB (how often do you go back to your hometown)
+Participant: uh i haven't been there actually i haven't been back to my hometown
+Participant: since forever
+Ellie: why2 (why)
+Participant: uh just you know i have all my family here my mom my dad my cousins aunts uncle so
+Participant: practically i i have my my life here so i probably
+Participant: i mean it would be nice to visit but
+Participant: you know it just does my curiousity hasn't you know gone there i guess
+Ellie: yeah3 (yeah)
+Ellie: see_mean (i see what you mean)
+Participant: oh okay
+Ellie: like_about_LA (what are some things you really like about l_a)
+Participant: um i love the people everyone's nice i love the diversity you know there's different types of
+Participant: people and you know the imaginations out there everything is just great
+Participant: you know everyone's different you know no one's like the same at at least to some aspects
+Ellie: mhm (mhm)
+Participant: um and i love the scenery i love the you know mountains they're beautiful
+Participant: you know great for hikes you know taking out you know the dog the family you know
+Participant: it's nice it's pretty active yeah
+Ellie: yeah2 (yeah)
+Ellie: dont_like_LA (what are some things you don't really like about l_a)
+Participant: uh the smog <laughter>
+Participant: uh i don't like the smog it's just
+Participant: you know if you go out um further out you know you could tell by the air you know or
+Participant: you know everything's clearer the sky is bluer <laughter> um but other than that like you know and traffic <laughter> nobody likes traffic i think
+Ellie: wild_laughter3 ((laughter))
+Participant: yeah
+Participant: yeah but um
+Participant: yeah that's you know pretty much l_a is pretty nice you know it's i like it
+Ellie: thats_good (that's good)
+Ellie: study (what did you study at school)
+Participant: um
+Participant: well i was studying just basic you know um i'm not sure exactly what i wanna be so it's just kind of you know
+Participant: here and there just jumping through hoops and stuff so
+Participant: not really
+Participant: set yet it's just i'm still trying to find my interests i suppose
+Participant: so
+Ellie: dream_job (what's your dream job)
+Participant: um my dream job hm
+Participant: that's a good one
+Participant: um i love working with children so i would say probably a child psychologist just 'cause you know it's great
+Participant: you know to learn what's going on in the young minds
+Participant: and you know how we could help children develop a better way
+Participant: you know make children you know or help
+Participant: you know help them you know grow up in a positive way i supposed instead of like going the wrong track
+Ellie: mhm (mhm)
+Participant: yeah
+Participant: i just you know help children
+Ellie: shyoutgoing (do you consider yourself more shy or outgoing)
+Participant: uh it depends it depends on the situation i'm in sometimes you know i could be like super outgoing and just like you know
+Participant: and sometimes like it just i could be all quiet or whatnot and just paying attention you know if i'm like in class or whatever
+Participant: i don't really like and there's everyone talking i just i'd prefer just to
+Participant: stay away from that you know 'cause i need something else to concentrate on something else you know there's like a moment and time for everything i suppose
+Ellie: uh_huh (uh huh)
+Participant: yeah
+Ellie: relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)
+Participant: um
+Participant: i like to kick my feet up on the couch and like read a good book you know just
+Participant: get my mind going to another you know
+Participant: galaxy or universe or
+Participant: situation you know it's pretty fun you know just
+Participant: you know reading and then just having just
+Participant: yourself relaxed and you know feeling good
+Ellie: thats_great (that's great)
+Participant: yeah it is it's just fun i love reading
+Ellie: control_temper (how are you at controlling your temper)
+Participant: um
+Participant: i'm okay with it i'm not like the best you know temper controlling person there is out there
+Participant: you know i try my best and i guess that's all i could do until i keep
+Participant: doing better eventually
+Participant: but i'm not like the best
+Ellie: mhm (mhm)
+Participant: i mean i sometimes i do have my outbursts you know um
+Participant: but you know i guess that's everyone
+Participant: i'm not sure haha you know
+Ellie: yeah3 (yeah)
+Ellie: last_argument (when was the last time you argued with someone and what was it about)
+Participant: uh huh
+Participant: that's a good question
+Participant: um hm
+Participant: i don't remember <laughter> uh let's see uh
+Participant: honestly i can't recall maybe
+Participant: uh
+Participant: my goodness
+Participant: i i don't know <laughter> i've i've uh sometimes i'm very passive that i'll just like let things go 'cause i mean what's the point of making a big deal out of things
+Participant: you know so um
+Participant: huh i don't know
+Participant: i'm not i i i can't honestly i can't tell you that <laughter> at this moment
+Ellie: okay_confirm (okay)
+Ellie: talk_later (why don't we talk about that later)
+Participant: sure yeah probably come back to it
+Ellie: feelguilty (what's something you feel guilty about)
+Participant: um
+Participant: huh
+Participant: well i guess
+Participant: when i was younger i you know uh could've been better older sister and i i wasn't
+Participant: and that makes me feel guilty for sure
+Participant: you know i could've been a better sister
+Participant: better role model <laughter> you know but i'm trying my best now so i'm trying to make things better
+Participant: and it's working <laughter>
+Ellie: Ellie17Dec2012_03 (that's good)
+Participant: yeah
+Ellie: memory_erase (tell me about an event or something that you wish you could erase from your memory)
+Participant: woo um i guess huh
+Participant: hm
+Participant: i don't know i mean
+Participant: i'm the person that i am because of the events that have happened in my life so
+Participant: if i erase something then it just there's something of me in my present self or you know that would change and
+Participant: i don't know i'm pretty okay with the person that i am now i mean
+Participant: you know i don't think i would change an event
+Participant: you know i'm i'm okay with what
+Participant: you know ups and downs and good and bad that has happened
+Ellie: okay_confirm (okay)
+Participant: so
+Participant: yeah
+Ellie: travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)
+Participant: uh i can't see your shoes but um i don't travel a lot um
+Participant: but i am kind of like an explorer i guess i love to explore like
+Participant: even the smallest things like if i go hiking i go off trail and you know just find my way up to the top
+Participant: you know somehow some way and just make it
+Participant: you know um traveling
+Participant: uh i would love to do that but
+Participant: i don't know just you know
+Participant: always circumstances in my life that
+Participant: doesn't you know always something you know i'm getting married children you know and all this
+Participant: so it's kind of like you know
+Participant: it would be nice i guess you know
+Participant: it would be nice
+Ellie: yeah3 (yeah)
+Participant: you know i love camping that's kind of like you know it's taking a few days trips out there camping and you know fishing <laughter> yeah
+Ellie: nice (nice)
+Ellie: bouts_symptoms (when was the last time that happened)
+Participant: um
+Participant: hm it was this summer you know me and my husband went camping and it was really nice it was just me and him you know and it was like no one and it was like beautiful because it was just in the middle of the woods with a beautiful lake and
+Participant: you know it was it was really nice
+Participant: it just yeah
+Ellie: aw (aw)
+Ellie: great_situation (that sounds like a great situation)
+Participant: yeah
+Participant: yeah yeah it was it was it was really fun  it was like i would love to do it again
+Participant: you know right now
+Participant: it would be great you know just going out there it's just i love the adventure of things and the nature and just life and you know overall
+Ellie: uh_huh (uh huh)
+Participant: yeah
+Ellie: easy_sleep (how easy is it for you to get a good night's sleep)
+Participant: uh
+Participant: it's it's easy but lately i haven't been able to sleep like at night right away because
+Participant: i don't know just you know just i'm laying there and i'm just like trying to go to sleep and i'm just like ugh but eventually i do <laughter> you know i just i probably like need to
+Participant: position myself on a different side of the bed like sometimes i'm i'm in the headboard and i'm like ah i gotta go to the other side and
+Participant: once i position myself then i just like go to sleep you know
+Participant: but it just i gotta find the position <pos> the right position for me
+Participant: yeah
+Ellie: sleep_affects (what are you like when you don't sleep well)
+Participant: um
+Participant: i'm tired <laughter> i get tired throughout throughout the day you know but
+Participant: i kind of try to shake it off you know and just kind of like
+Participant: feel like it's a new day you know and just try to make the day that i have as great as possible
+Participant: you know and then try to like make it up by sleeping at night the day of <laughter> you know
+Participant: so yeah yeah yeah it's just
+Ellie: uh_huh (uh huh)
+Participant: you know
+Participant: it's okay i try to make it the best i guess
+Participant: if not then i just go to sleep throughout the day which sucks
+Participant: but yeah
+Ellie: okay_confirm (okay)
+Ellie: depression_diagnosed (have you been diagnosed with depression)
+Participant: uh no <laughter>
+Ellie: ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)
+Participant: no
+Ellie: feel_lately (how have you been feeling lately)
+Participant: uh been feeling good
+Participant: yeah i've been feeling really good um
+Participant: you know a lot of things in my life have you know it i'm having a really good year so far so i'm very happy with that you know everything's
+Participant: you know going good you know
+Ellie: thats_great (that's great)
+Participant: yeah it is it is except that i i just got out of a cold and it was horrible but
+Participant: that's just nature <laughter> my immune system has to work harder <laughter>
+Ellie: right2 (right)
+Ellie: happy_lasttime (tell me about the last time you felt really happy)
+Participant: yeah
+Participant: um super happy was uh
+Participant: when the doctor told me i was pregnant
+Participant: you know i was
+Participant: really really happy about that and i was just like ah you know <laughter> that was really really good you know
+Participant: very excited and just reading about what's going on with my body and what's going on with the baby and
+Participant: oh that's very overwhelming and it's scary at the same time <laughter> i've never really like uh you know but yeah i've yeah very happy
+Ellie: yeah3 (yeah)
+Participant: uh
+Ellie: Ellie17Dec2012_07 (what would you say are some of your best qualities)
+Participant: um
+Participant: i don't know um i guess just me myself i uh you know like
+Participant: you know i could you know just be myself and that's it you know just i can't really
+Participant: you know say i have specific thing i guess i mean it depends on the person that meets me
+Participant: to tell me i can't really tell myself like oh i'm this i'm that just you know just try to be my best and try to portray something good for other people to tell me or you know compliment me or what not
+Ellie: mhm (mhm)
+Participant: yeah
+Ellie: self_change (what are some things you wish you could change about yourself)
+Participant: um
+Participant: <laughter> nothing i think <laughter> um
+Participant: like i said i'm i'm happy with the person i am right now
+Participant: and you know my flaws or whatever you know i might have whatever flaw people see in me and it'ts okay you know i'm okay with it
+Participant: whatever it just
+Participant: i'm not gonna i'm
+Participant: i can't change myself for the likings of other people <laughter> i have only one body and one life so yeah
+Ellie: uh_huh (uh huh)
+Participant: yeah that's it
+Ellie: regret (is there anything you regret)
+Participant: uh
+Participant: just my childhood with my sisters and my family but
+Participant: you know it's you know i you learn from that
+Participant: you learn from the past and you kind of feel like hey you know maybe i should be a better role model you know for my children and so my children could be better role models so the world could just improve
+Ellie: advice_back (what advice would you give to yourself ten or twenty years ago)
+Participant: um
+Participant: just smile and be happy
+Participant: you know and whatever hard things happen you know you're gonna get through them eventually you know
+Participant: the only thing you can't um
+Participant: i don't know you can't
+Participant: you know
+Participant: go back on is death you know you could you know the heartbreak or it's whatever but you know as long as i'm alive i'm just i still gotta keep going
+Participant: yeah <laughter>
+Ellie: yeah3 (yeah)
+Ellie: Ellie17Dec2012_08 (what are you most proud of in your life)
+Participant: um
+Participant: i don't know um
+Participant: that's pretty
+Participant: huh most proud of
+Participant: i guess that i'm trying my best to be the best i could be and that's pretty powerful you know i i'm
+Participant: you know i try to be
+Participant: you know
+Participant: a better person each day and try to like
+Participant: you know improve myself every day
+Participant: as much as i can
+Participant: you know that would probably be something i could be super proud of you know
+Participant: as much as i can
+Ellie: difficult (how hard is that)
+Participant: very hard <laughter> i'm not gonna lie um it is really hard you know 'cause i can't say you know it's easy to be bad but it's hard to be good you know
+Participant: and you know it's it's always challenges and everything that goes you know in your life but
+Participant: you know it's just it's it's sometimes
+Participant: you know hard you know and sometimes it comes easy you know after a while you get a lot of practice and everything's just like you have a great day and you didn't even try <laughter> you know
+Ellie: mhm (mhm)
+Participant: so yeah
+Ellie: BF_describe (how would your best friend describe you)
+Participant: um
+Participant: you know
+Participant: loving friendly um outgoing you know adventurous i guess i don't know i guess that's what they say <laughter> i i just you know that's them like
+Participant: you know but that's what at least what i try to be
+Participant: you know at least i try to
+Participant: give a the best foot forward always
+Participant: as much as possible you know even
+Participant: sometimes even if i'm having a rough day i'm just like uh you know
+Participant: you know i just i don't wanna take it out on anyone or anything you know
+Ellie: yeah3 (yeah)
+Participant: yeah
+Ellie: ideal_weekendC (tell me how you spend your ideal weekend)
+Participant: um <laughter> my ideal weekend
+Participant: usually i i like going to the park
+Participant: i like sitting down in like a tree under a tree actually under a tree where there's shade and just kind of like
+Participant: put my blanket out there have my dog and
+Participant: like read a book and you know sometimes
+Participant: if i don't have my dog like there's little squirrels running around and they like me to feed them so that's pretty neat you know
+Participant: just sitting there and just enjoying the air and the
+Participant: noise <n> noise i guess 'cause there's not silence you know the wind and the cars and you know it's just it's really neat
+Ellie: good_hear (that's so good to hear)
+Participant: yeah
+Ellie: asked_everything (okay i think i have asked everything i need to)
+Participant: awesome
+Ellie: appreciate_open (thanks for sharing your thoughts with me)
+Participant: thank you you're welcome <laughter>
+Ellie: bye (goodbye)
+Participant: bye

@@ -1,0 +1,299 @@
+Participant: <synch>
+Ellie: IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)
+Participant: yes
+Ellie: okay_confirm (okay)
+Ellie: how_doingV (so how are you doing today)
+Participant: i'm fine thank you
+Ellie: thats_good (that's good)
+Ellie: where_originally (where are you from originally)
+Participant: detroit michigan
+Ellie: really (really)
+Participant: yes
+Ellie: when_LA (when did you move to l_a)
+Participant: i moved to l_a myself in two thousand and seven but my family came here
+Participant: many more years ago more like forty years ago
+Ellie: mm (mm)
+Ellie: often_backB (how often do you go back to your hometown)
+Participant: uh i don't go back to detroit anymore
+Ellie: why2 (why)
+Participant: i really don't like the weather and i really don't have any reason to most of my immediate family is out here
+Participant: in california and
+Ellie: makes_sense (that makes sense)
+Ellie: compares_LA (how does it compare to l_a)
+Participant: uh completely different um
+Participant: for me detroit was just very cold it it wasn't
+Participant: the best for my personality i prefer l_a more open space
+Participant: a warmer climate warmer people
+Participant: just a different
+Participant: different uh vibe
+Ellie: mhm (mhm)
+Participant: that i that i like better
+Ellie: why_LA (why did you move to l_a)
+Participant: after my husband and i relationship ended i had family out here so i thought it would be easier
+Participant: to start over here than some of the other places i had lived
+Participant: or to stay where we were at
+Ellie: adapted_LA (how easy was it for you to get used to living in l_a)
+Participant: extremely easy i came out here every year to visit while i was in college so i was extremely used to it
+Participant: plus i had also
+Participant: taken um six months out of off of school and lived out here
+Participant: and went to school out here so i was completely used to it
+Ellie: thats_good (that's good)
+Ellie: yeah3 (yeah)
+Ellie: like_about_LA (what are some things you really like about l_a)
+Participant: well like i said the weather is number one it's just uh
+Participant: less crowded it's more open space it's a
+Participant: a calmer friendlier vibe
+Participant: less rushed
+Participant: the smog would be one
+Participant: and when i drive the traffic
+Participant: in certain areas it can be but
+Participant: um
+Participant: in general
+Participant: there's not a lot that i don't like <l> it's like i guess the overall threat of earthquake but that's
+Participant: isn't really that much of a factor 'cause it rarely happens
+Ellie: see_mean (i see what you mean)
+Participant: the price of real estate <laughter> that's another one that i don't necessarily like
+Ellie: yeah3 (yeah)
+Ellie: travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)
+Participant: i can't see your shoes i can't see your shoes at all
+Participant: so
+Participant: i don't travel as much as i used to
+Participant: but i have traveled worldwide
+Ellie: travel_changed (what do you enjoy about traveling)
+Participant: new experiences
+Ellie: travel_trips (i'd love to hear about one of your trips)
+Participant: well i used to be an international flight attendant and then later i traveled
+Participant: through my work as a cruise line and as an international sales account executive so
+Participant: i've traveled a lot of different places and
+Participant: um i'll have to say they were
+Participant: all pretty much enjoyable 'cause you know there's different cultures different things to see do learn
+Participant: enjoy experience
+Ellie: uh_huh (uh huh)
+Ellie: memorableB (what's one of your most memorable experiences)
+Participant: uh my experiences i would say in um
+Participant: europe visiting moreso i've also visited
+Participant: uh in south south america i guess 'cause the cultures are so very different
+Ellie: yeah3 (yeah)
+Ellie: shyoutgoing (do you consider yourself more shy or outgoing)
+Participant: i would probably say more shy um in general
+Participant: um compared to people who i know are really really outgoing
+Participant: although
+Participant: i've had them describe me as outgoing
+Ellie: okay_confirm (okay)
+Ellie: relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)
+Participant: i like to read i like to walk or power walk or hike
+Ellie: mhm (mhm)
+Participant: listen to music you know
+Ellie: control_temper (how are you at controlling your temper)
+Participant: i'm very good at controlling my temper
+Ellie: last_argument (when was the last time you argued with someone and what was it about)
+Participant: oh
+Participant: probably when i was
+Participant: married with my husband many years ago
+Participant: it it could be many things i don't even know in specific but just anything in general pretty much could turn into a debate slash argument with him
+Ellie: okay_confirm (okay)
+Participant: it could be it could be a choice of
+Ellie: situation_handled (tell me about a situation that you wish you had handled differently)
+Participant: uh
+Participant: some of the instances when i might've been with him and i
+Participant: you know got emotional or
+Participant: let it bother me that he made such a big deal of something rather than
+Participant: um
+Participant: just you know seen it as
+Participant: not something to respond to perhaps but it would always be we're we were also pushed to answer so
+Participant: you know you can't always just say ignore a person there 'cause many times it's just a matter of ignoring situation and it doesn't escalate
+Participant: but some people
+Participant: you know don't respond to the so-called norm
+Participant: if you ignore it
+Participant: mm uh they'll just you know de-escalate but that's not always the case
+Participant: i taught middle school kids and you can try calm
+Ellie: yeah_downer (yeah)
+Participant: um methods with them but that doesn't always work but you always have to as the teacher maintain
+Participant: you know your professional demeanor so you can't really
+Participant: um even when they you know the kids do something outrageous or possibly dangerous to themselves or other kids so
+Ellie: see_mean (i see what you mean)
+Ellie: hard_decisionB (tell me about the hardest decision you've ever had to make)
+Participant: well that could be
+Participant: several
+Participant: mm
+Participant: um i guess a decision in um
+Participant: along with my mom deciding to let a relative have surgery
+Participant: uh
+Participant: that you know the outcome was uncertain it could go either way
+Participant: and in that case she died so
+Participant: you know
+Participant: uh it's a pretty hard decision 'cause you don't know but you also know if you don't that it could be very serious
+Participant: outcome for them as well
+Ellie: yeah_downer (yeah)
+Ellie: sorry_hear (i'm sorry to hear that)
+Participant: mhm
+Ellie: memory_erase (tell me about an event or something that you wish you could erase from your memory)
+Participant: <sigh> oh many different things that could occur you know in life you always are second guessing
+Participant: things that you might could do but
+Participant: they also can be learning experiences so is it necessarily a good thing to
+Participant: erase them you know if
+Participant: you can look at it as positive sometimes people can have a
+Participant: strong reaction and they don't really look past the
+Participant: uh impact of the event
+Participant: 'cause there might be something that
+Ellie: mm (mm)
+Participant: you can gain from that
+Ellie: yeah3 (yeah)
+Participant: but there are i i grew up in a home of
+Participant: dysfunction so there was
+Participant: just domestic abuse you know and um
+Participant: there were many incidences so you can't just say only one 'cause there is lots of traumatic things
+Participant: but it also would've been a different outcome in say learning to deal with some of the things
+Participant: that occur in life as an adult that
+Participant: sometimes i see among acquaintances or friends that
+Participant: have not had really strong experiences
+Participant: fall apart or just have very very difficult times dealing with so
+Ellie: right2 (right)
+Ellie: symptoms_cope (how do you cope with them)
+Participant: um you can listen you know you and i and i 'cause i understand that not everybody's had the same experience you know you can
+Participant: walk them through
+Participant: levels of
+Participant: understanding and you know
+Participant: as you know someone
+Participant: you have a balance of background information on
+Participant: which to help them pull from and to see that you know things will
+Participant: progress in a better way knowing that this isn't like
+Participant: the end of the world or as terrible as it seems that it could be
+Participant: and you can also relate other experiences to them
+Participant: of things that were worse or
+Participant: you know seem to be
+Participant: and of course there's always in general i mean
+Participant: when you look at all the calamities in the world
+Participant: you know most of those things aren't affecting
+Participant: us or the people that we know here
+Ellie: mhm (mhm)
+Participant: so that provides
+Participant: us perspective that
+Participant: you know can pull someone out of their
+Participant: i won't necessarily say self-absorption but the seemingly
+Participant: intensity of their experience right at the moment
+Ellie: yeah_downer (yeah)
+Ellie: family_relationship (tell me about your relationship with your family)
+Participant: well we have a a good relationship they
+Participant: eh for the most part there are different levels of
+Participant: um stress and trauma that some of my siblings have experienced so it has
+Participant: made them interact with life and people you know more intensely than others
+Participant: some have not had um
+Participant: as much
+Participant: experience in life that will help them deal with things you know in a different way
+Participant: so it's always evolving
+Participant: and i
+Participant: walk in positivity as a a lead of
+Participant: you know uh the way i respond to uh try and engender
+Participant: a more positive
+Participant: response from them
+Participant: rather than feed
+Participant: sometimes the
+Participant: um very strong reactions or responses or interactions that they may have
+Ellie: mm (mm)
+Ellie: influence_positive (who's someone that's been a positive influence in your life)
+Participant: pardon
+Participant: i didn't <di> i didn't hear you could you repeat
+Ellie: influence_positive (who's someone that's been a positive influence in your life)
+Participant: hmm hmm my mother different teachers friends
+Ellie: tell_about_that (can you tell me about that)
+Participant: well my mother has always been a very calm
+Participant: um person for the most part easygoing even though she's experienced a lot of
+Participant: negativity i've had teachers that have um been
+Participant: very um
+Participant: positive <po> positive and proactive
+Participant: and have you know taught independent thinking and
+Participant: techniques to rise above some of the things that
+Participant: were occurring
+Participant: and just various friends that you know i would see handling
+Participant: situations sometimes more much more more difficult you know dealing with things so
+Ellie: okay_confirm (okay)
+Ellie: easy_sleep (how easy is it for you to get a good night's sleep)
+Participant: it depends for the most part it's you know pretty good
+Participant: um it depends if i'm dealing with a lot of things or studying or
+Participant: you know um
+Participant: trying to get more hours in the day 'cause i need to get things done then you know it's less but
+Participant: um
+Participant: in general i don't have a problem sleeping
+Participant: it's just if i make myself stay awake <aw> stay up because there's more stuff that i wanna get done
+Ellie: see_mean (i see what you mean)
+Ellie: feel_lately (how have you been feeling lately)
+Participant: i've been feeling okay uh less you know stressful in xxx it it goes in general 'cause i'm got several projects that i'm working on so
+Participant: um but in general good
+Ellie: behavior_changes (have you noticed any changes in your behavior or thoughts lately)
+Participant: like
+Participant: i mean
+Participant: not in particular
+Participant: i mean i just seems
+Participant: um
+Participant: less stressful as i get more stuff done i just and the stress comes from sometimes there being a lot more things to do
+Participant: in a shorter period of time but
+Participant: you know reorganizing
+Participant: some of the
+Participant: things that need to be done
+Participant: you know can smoothe that out
+Ellie: okay_confirm (okay)
+Ellie: ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)
+Participant: no i haven't but i know it's something that
+Participant: a lot of uh say veterans in particular have people have
+Ellie: right2 (right)
+Ellie: depression_diagnosed (have you been diagnosed with depression)
+Participant: i have not no
+Ellie: happy_lasttime (tell me about the last time you felt really happy)
+Participant: well there's several i guess um
+Participant: and happiness comes in
+Participant: small or large things but in general every day <d> every day every every moment to me is i mean <mea> i mean every day every morning
+Participant: is great
+Participant: wonderful
+Participant: you know day of happiness um
+Participant: as far as big
+Participant: celebratory kinds of things i don't have big highs and lows like that i think it's something that should be on your continuum
+Participant: you know
+Participant: in every day it can be a really great meal it could be a great view it could be
+Ellie: yeah3 (yeah)
+Participant: you know a moment shared with someone you know so
+Participant: it should be an even on an even keel
+Ellie: understand (i understand)
+Ellie: mhm (mhm)
+Ellie: BF_describe (how would your best friend describe you)
+Participant: um
+Participant: as uh uh
+Participant: perseverant
+Participant: um you know i will
+Participant: continue forth and
+Participant: and um
+Participant: positive
+Participant: upbeat
+Ellie: regret (is there anything you regret)
+Participant: um
+Participant: maybe not doing
+Participant: things differently when i were younger like spending my money differently or
+Participant: or spending my
+Participant: time you know a little more differently but
+Participant: that's hard to say it's like okay as your get older you can see
+Participant: you know you could've done some things differently
+Participant: instead of buying
+Participant: the house that i did i would've you know waited and bought another one i mean things like that
+Ellie: advice_back (what advice would you give to yourself ten or twenty years ago)
+Participant: i would have um
+Participant: made myself move to california sooner and i'm
+Participant: i would have um
+Participant: instead of buying the house that i bought then if i'd know i would <ss>
+Participant: would have you know the situation i have now
+Participant: waited to get something different but you know how can you
+Participant: you know have that hindsight you make the best decision that you can at the time
+Participant: with the best information <in> information available
+Ellie: yeah3 (yeah)
+Participant: you know after you have looked at several options
+Ellie: mhm (mhm)
+Ellie: Ellie17Dec2012_08 (what are you most proud of in your life)
+Participant: of um
+Participant: being
+Participant: independent and educated able to
+Participant: uh take care of myself
+Ellie: thats_great (that's great)
+Ellie: asked_everything (okay i think i have asked everything i need to)
+Ellie: appreciate_open (thanks for sharing your thoughts with me)
+Participant: okay
+Ellie: bye (goodbye)
+Participant: bye bye now

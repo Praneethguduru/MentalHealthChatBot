@@ -1,0 +1,265 @@
+Participant: <synch>
+Ellie: IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)
+Participant: yes
+Ellie: okay_confirm (okay)
+Ellie: how_doingV (so how are you doing today)
+Participant: i'm okay
+Ellie: thats_good (that's good)
+Ellie: where_originally (where are you from originally)
+Participant: l_a
+Ellie: really (really)
+Ellie: like_about_LA (what are some things you really like about l_a)
+Participant: mm
+Participant: uh there's a lot of variety um there's a lot of health-oriented stuff um
+Participant: there's all kinds of food to eat you can go to the desert you can go to the you can go anywhere i mean there's a lot
+Ellie: mhm (mhm)
+Participant: and the weather's great
+Ellie: dont_like_LA (what are some things you don't really like about l_a)
+Participant: the traffic um
+Participant: lately the change in weather it's kind of a little too unpredictable
+Participant: but it mainly the traffic and sometimes some rudeness of people
+Ellie: see_mean (i see what you mean)
+Ellie: travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)
+Participant: uh i wouldn't say a lot just um occasionally
+Ellie: travel_changed (what do you enjoy about traveling)
+Participant: uh it's nice to get a change of scenery and different things to do that maybe i wouldn't normally do different people um
+Participant: learning about different people different customs um
+Participant: depends i mean if it's a water real pretty water and xxx you know being in beautiful water um
+Participant: relaxing
+Participant: adventure i love adventure
+Ellie: yeah3 (yeah)
+Ellie: travel_trips (i'd love to hear about one of your trips)
+Participant: uh <laughter> uh some time ago i went to cayman islands and um
+Participant: went on i get seasick but my sister gave me some medication and i went on a boat and we snorkeled and there were two boats and i accidentally got back on the wrong boat
+Ellie: really (really)
+Participant: um
+Participant: yeah and um they're really crazy they made me jump back into the water and swim to the right boat <laughter>
+Ellie: wild_laughter3 ((laughter))
+Participant: and i thought i was gonna drown 'cause the water was kinda rough i was really shocked they they wanted me to do that
+Ellie: oh_no (oh no)
+Participant: yeah but i survived <laughter>
+Ellie: thats_good (that's good)
+Participant: yeah pretty good
+Ellie: study (what did you study at school)
+Participant: uh business management
+Participant: but also
+Ellie: hard_decision (how did you decide to do that)
+Participant: also hypnotherapy
+Ellie: cool3 (cool)
+Participant: i didn't hear that other question
+Ellie: hard_decision (how did you decide to do that)
+Participant: um
+Participant: well i came from a serious kinda family so that just seems something that would be universal that would cover a lot of different subjects
+Ellie: happy_didthat (are you happy you did that)
+Participant: yes
+Participant: yeah but um yes and no i mean now i kinda wish it was something different
+Ellie: like_what (like what)
+Participant: um i like communication i love speaking and interviewing strangers um
+Participant: i'm very outgoing um and funny so
+Participant: probably would've been something more like either liberal arts communication that type of thing
+Ellie: makes_sense (that makes sense)
+Ellie: dream_job (what's your dream job)
+Participant: uh dream job would just be out there you know like some of these people maybe on t_v exploring different places and getting paid for it and eh always like a fun adventure
+Participant: uh interacting with people
+Participant: um doing things i haven't done before
+Participant: and um
+Participant: helping people
+Participant: you know on some way with what i do xxx that they can see you know
+Participant: that i'm uncoordinated and in some ways and you know they could be uncoordinated and have some fun too <laughter>
+Ellie: yeah3 (yeah)
+Ellie: relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)
+Participant: uh i watch t_v i go work out um i go walking i recently got like a a bike that i kinda sort of fixed up
+Participant: um go do something new go to a festival go grocery shopping
+Participant: interact with friends call them see them
+Ellie: uh_huh (uh huh)
+Participant: that type of thing
+Participant: talk to strangers
+Ellie: control_temper (how are you at controlling your temper)
+Participant: um
+Participant: depends on the situation there's a bunch of times i'm good at it
+Participant: um if it has to do with like traffic and cars it's a little more intense for me it's a little tougher
+Participant: or people who are like really rude you know with the way they cut you off
+Ellie: landed_trouble (has that gotten you in trouble)
+Participant: almost <laughter> um
+Participant: luckily not
+Participant: you know i'm very assertive and maybe too much sometimes where if somebody does something really rude to me in a parking lot i'll
+Participant: i'll confront them on that sometimes
+Ellie: mm (mm)
+Ellie: last_argument (when was the last time you argued with someone and what was it about)
+Participant: um
+Participant: might've been with my sister um
+Participant: it had to do with um i'm not sure of the topic but um whatever she was saying wasn't right and we got in an argument it it sounds childish about who was right you know 'cause she thinks she's always the smarter one 'cause she's older
+Ellie: describe_felt (how did you feel in that moment)
+Participant: uh sometimes it's frustrating 'cause it's like it's a no win situation she just wants to hammer on somebody 'til you know they acknowledge that she's right
+Participant: um other times i just let it go and let her rattle on 'cause it's
+Participant: it's kinda nonproductive
+Ellie: yeah_downer (yeah)
+Ellie: family_relationship (tell me about your relationship with your family)
+Participant: uh i'm real close to i see my parents almost every weekend um more close to my mother um
+Participant: i have a twin sister
+Participant: i stay in touch with her even though she's out of town she lives out of town and i've got two other sisters so i stay in touch with
+Participant: all of 'em
+Participant: you know it's a mixed bag you know um
+Participant: we kinda have assertive aggressiveness in us a little bit
+Ellie: uh_huh (uh huh)
+Participant: <sigh>
+Participant: but also
+Ellie: influence_positive (who's someone that's been a positive influence in your life)
+Participant: um
+Participant: well me <laughter> um and um
+Participant: ever i mean strangers sometimes my family you know they've done nice things for me um
+Participant: strangers have been
+Participant: very um sometimes unexpectedly very nice
+Ellie: give_example (can you give me an example of that)
+Participant: uh i could be shopping and um you know i'm
+Participant: maybe i can't reach something and some guy'll pop up behind me and you know without me saying anything just help me out um
+Ellie: aw (aw)
+Participant: uh that type of thing or um
+Participant: if somebody's like kind of mean to me somebody'll like
+Participant: commiserate <laughter> you know and um
+Participant: xxx
+Ellie: yeah3 (yeah)
+Ellie: situation_handled (tell me about a situation that you wish you had handled differently)
+Participant: um
+Participant: i had a situation years ago with a neighbor where he was really nasty to me um 'cause he thought i
+Participant: didn't like his dog it was you know i'm not crazy about dogs but um he kinda flipped out for a year and a half and um
+Participant: just said very nasty things to me when other people weren't around um i wish i'd confronted that back then
+Participant: because i
+Participant: you know but it created a lot of anxiety for me 'cause i feel like i could've nipped it in the bud and to instead of having to deal with the um
+Participant: major stress from it
+Participant: now he and i don't talk at all i just feel it's best he's kind of odd
+Ellie: isee_downer (i see)
+Ellie: hard_decisionB (tell me about the hardest decision you've ever had to make)
+Participant: hmm
+Participant: god there's been a lot
+Participant: um
+Participant: sometimes breaking up with somebody or um
+Participant: <sigh>
+Participant: yeah it's usually or getting rid of a friend
+Participant: that type of thing
+Ellie: okay_confirm (okay)
+Ellie: feelguilty (what's something you feel guilty about)
+Participant: um
+Participant: sometimes i feel guilty about
+Participant: some of my past behavior with people um
+Participant: where maybe i wasn't as understanding um
+Participant: eh <sigh> when i was younger i stole things you know that's not the best behavior and um
+Participant: and it's stuff like that
+Ellie: uh_huh (uh huh)
+Ellie: memory_erase (tell me about an event or something that you wish you could erase from your memory)
+Participant: oh god there's a lot of 'em um
+Participant: i wish i could erase you know how um
+Participant: tough my dad was on us as children
+Participant: and um
+Participant: erase a lot of memories of men i dated that just didn't work out well at all
+Participant: and um
+Participant: yeah
+Ellie: downer (okay)
+Ellie: easy_sleep (how easy is it for you to get a good night's sleep)
+Participant: i can drop off like
+Participant: right away
+Ellie: thats_good (that's good)
+Participant: yeah
+Ellie: sleep_affects (what are you like when you don't sleep well)
+Participant: cranky <laughter> irritated um
+Ellie: wild_laughter3 ((laughter))
+Participant: snarky <laughter>
+Ellie: feel_lately (how have you been feeling lately)
+Participant: um
+Participant: a bit out of sorts um i've had some anxiety uh with money um and relationships 'cause i haven't been in one for so long
+Participant: male <laughter> um
+Participant: just a lot of anxiety um
+Participant: mm yeah
+Ellie: symptoms_cope (how do you cope with them)
+Participant: <sigh> take a deep breath um
+Participant: try and do positive things you know sometimes
+Participant: um eat healthier work out more um talk to my friend about it
+Ellie: mhm (mhm)
+Participant: that type of thing
+Participant: try and look for interesting activities to do
+Participant: to distract me
+Participant: <sniffle>
+Ellie: okay_confirm (okay)
+Ellie: ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)
+Participant: well not officially but i know <sigh> you know from
+Participant: mm things i've experienced that i've had <ha> i've you know i get very anxious in certain situations
+Ellie: trigger (are they triggered by something)
+Participant: um yeah uh it's usually triggered by um
+Participant: sometimes if somebody gets really angry and crazy it triggers a lot of anxiety in me um if they're aggressive whether it be physically or verbally
+Participant: uh or sometimes if they're too much in my space <s> my uh space you know where i am it bothers me
+Ellie: mhm (mhm)
+Ellie: depression_diagnosed (have you been diagnosed with depression)
+Participant: um yeah a long time ago
+Ellie: when_diagnosed (how long ago were you diagnosed)
+Participant: it was ages ago
+Participant: maybe over ten years ago
+Participant: fifteen years ago
+Ellie: why_seek_help (what got you to seek help)
+Participant: um
+Participant: i was depressed <laughter> i mean i <laughter> know that's nothing to laugh about but i mean it's kinda
+Participant: in a circle um
+Participant: just
+Participant: to um
+Participant: wanted to be more positive and enjoy life more
+Ellie: symptoms_what (what were your symptoms)
+Participant: um
+Participant: feeling stuck in certain thoughts um having a lot of negative thoughts um feeling of hopelessness helplessness
+Participant: that type of thing
+Ellie: therapy_going (do you still go to therapy now)
+Participant: xxx
+Participant: um
+Participant: i go occasionally it's a different type um
+Participant: i'll go see a hypnotherapist um sometimes to release <rel> release <rel> release anxiety that's in me
+Ellie: therapy_useful (do you feel like therapy is useful)
+Participant: yes i do very useful
+Ellie: therapy_changes (what sort of changes have you noticed since you've been going to therapy)
+Participant: um
+Participant: a lot more awareness of myself and other people um
+Participant: learning more control more confidence um better self-esteem um willing to try
+Participant: even more things you know whether i know the outcome or not you know of the unknown i'll experiment a lot more
+Ellie: mhm (mhm)
+Ellie: happy_lasttime (tell me about the last time you felt really happy)
+Participant: scrubbed_entry
+Participant: um
+Participant: helping like at the twenty fifth mile handing out water and there were some people there who were doing that for the first time also
+Participant: some event at my sister's where there were just a couple of us and um
+Participant: i was cracking a lot of jokes sometimes i'm like really funny you know and i can't even believe myself you know i just go on and on
+Participant: you know and everyone starts laughing i'm not even trying to and i'm just saying like regular stories and people look at me funny and laugh <sniffle> yeah that
+Ellie: wild_laughter3 ((laughter))
+Ellie: BF_describe (how would your best friend describe you)
+Participant: um as a really decent loyal uh empathetic um
+Participant: deserving
+Participant: um
+Participant: supportive i'm hoping <laughter> um
+Participant: outgoing quirky
+Participant: type of person
+Ellie: uh_huh (uh huh)
+Ellie: self_change (what are some things you wish you could change about yourself)
+Participant: um
+Participant: well it'd be great to uh look even younger uh or be younger
+Participant: if that was humanly possible <laughter> um
+Participant: be even more patient with people
+Participant: i think um you know not get frustrated like if i think somebody's not very smart
+Participant: uh sometimes it's real frustrating for me to be around some types of people
+Ellie: mm (mm)
+Ellie: advice_back (what advice would you give to yourself ten or twenty years ago)
+Participant: whoa um <laughter>
+Participant: uh <sigh> wow
+Participant: make a lot of money and plan for your future
+Participant: um
+Participant: and
+Participant: try and be as kind and patient with people as possible and have a lot of fun try new things
+Ellie: mhm (mhm)
+Ellie: Ellie17Dec2012_08 (what are you most proud of in your life)
+Participant: i think of my mind and my perseverance that um
+Participant: i've changed a lot of things within my personality um
+Participant: uh i feel proud of volunteer work i xxx helped <hel> feel proud i've helped
+Participant: bunch of people lose weight declutter their homes um i've helped create a lot of positive change in people
+Ellie: thats_great (that's great)
+Ellie: asked_everything (okay i think i have asked everything i need to)
+Participant: mhm
+Participant: oh okay
+Ellie: appreciate_open (thanks for sharing your thoughts with me)
+Participant: yeah it was nice talking to you
+Ellie: bye (goodbye)
+Participant: bye

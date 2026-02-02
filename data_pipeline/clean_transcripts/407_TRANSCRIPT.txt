@@ -1,0 +1,372 @@
+Participant: <sync>
+Ellie: IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)
+Participant: yes
+Ellie: okay_confirm (okay)
+Ellie: how_doingV (so how are you doing today)
+Participant: <clears throat> i'm actually feel <f> i feel pretty good 'cause i uh
+Participant: i slept
+Participant: all day yesterday almost and i usually i'm doing something if it's not work it's school if it's not school
+Participant: it's work and then social life and all that so um i actually didn't have work yesterday and i don't have school
+Participant: i only have school on the weekdays
+Participant: so i actually slept probably like
+Participant: eighty five percent of the day so i actually feel kinda good
+Participant: but i'm actually kinda tired as well and i have other stuff going on but other than that i'm good today
+Ellie: okay_confirm (okay)
+Ellie: where_originally (where are you from originally)
+Participant: i'm originally from bakersfield
+Participant: california
+Ellie: really (really)
+Participant: really
+Ellie: when_LA (when did you move to l_a)
+Participant: uh i moved to l_a when i was an infant and then
+Participant: i left here when i was around three or four
+Participant: and i've been move i moved back here
+Participant: in oh seven and i've been living here
+Participant: um ever since
+Ellie: often_backB (how often do you go back to your hometown)
+Participant: um
+Participant: wow since i've been here since oh seven i've only been back maybe <clears thoat>
+Participant: maybe like
+Participant: a couple times <ti> well i went there for like a summer
+Participant: like in oh
+Participant: eight i think i was there for like almost the whole summer but i've only been back a couple times um since i've been back here
+Participant: unfortunately
+Ellie: compares_LA (how does it compare to l_a)
+Participant: uh <sigh> uh <laughter>
+Participant: uh it compares to l_a
+Participant: um it doesn't really compare to l_a i i grew up in sacramento actually i didn't get to tell you i was born in bakersfield then i lived here and then i
+Participant: anyways i don't know if i did i forgot anyways um yeah there's like nothing really to do there it's really small it's the valley um
+Participant: l_a has all the stuff to do it has um
+Participant: oceans and it's by all kinds of um located
+Participant: um by a lot of um cool places like vegas and uh
+Participant: san diego and what have you not so <s> um
+Participant: but yeah other than that i miss my friends and stuff but i don't miss
+Participant: like the actual city
+Participant: i just miss uh some of the people that
+Participant: i grew up with
+Ellie: yeah3 (yeah)
+Ellie: travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)
+Participant: oh i can't see your shoes but um i don't travel a lot actually i've only been out of
+Participant: california like six times so
+Participant: i would like to travel
+Participant: once i uh
+Participant: have enough money to do so
+Ellie: okay_confirm (okay)
+Ellie: study (what did you study at school)
+Participant: um
+Participant: well originally i wanted to be a filmmaker
+Participant: and which i still wanna be a filmmaker and i um
+Participant: studying <stu> i was
+Participant: took i took communications and uh
+Participant: did general ed stuff too and um
+Participant: took like video production classes and um <tisk>
+Participant: <lip smacking>
+Participant: did a lot of stuff uh in regards to um filmmaking
+Participant: and i have learned a lot of stuff and i still have that knowledge however i haven't really used it since i've been back
+Participant: here in l_a i did all that stuff in northern california in sacramento
+Participant: but um and then i transferred <trans> um switched over to be
+Participant: uh to business which i took some classes in that but now i'm actually studying to be an optician and i'm actually almost done
+Participant: with schooling and getting ready to try to get in the field and
+Participant: become an optician so
+Ellie: wow (wow)
+Participant: but i do wanna be uh i actually still wanna be a filmmaker and um that's still one of my plans
+Participant: and i still actually i got into um playing poker
+Participant: a few years ago and i really like
+Participant: the idea of becoming
+Participant: a full time filmmaker or full time poker player however both of those jobs are
+Participant: extremely difficult to make a living out of and you
+Participant: have to be like the small percent so we'll see if not then
+Participant: hopefully my optician career can take me somewhere
+Ellie: change_directions (what made you decide to do that)
+Participant: to be an optician
+Ellie: yes (yes)
+Participant: oh um
+Participant: uh i guess i was just trying to find something that it was like it's like a trade it's well it's a private college but
+Participant: it just like specifically
+Participant: trains you into um
+Participant: one field and you just learn that you don't do like your g_e and
+Participant: all these other classes like you normally would do for like um
+Participant: like a um a major or whatever you're gonna do so it just trains you specifically to be an optician and jump in the field
+Participant: i um took it just because i actually want <w> want to be a dental assistant and since <si>
+Participant: it sound like something maybe i could do
+Participant: it sounds interesting but then the counselor actually
+Participant: um got my attention to be an optician so
+Participant: i'm now trying to be an optician
+Ellie: makes_sense (that makes sense)
+Participant: and it's interesting so
+Participant: it's fun it's um
+Participant: really hard but it's interesting and it
+Participant: and it um
+Participant: and it's it's fun it has um rewarding
+Participant: um
+Participant: rewarding benefits as far as like being able to help people see
+Participant: better and feel comfortable with
+Participant: glasses or contact lenses whatever they feel
+Participant: more comfortable with
+Ellie: thats_great (that's great)
+Participant: cool
+Ellie: shyoutgoing (do you consider yourself more shy or outgoing)
+Participant: uh i'm definitely outgoing however i can be shy
+Participant: sometimes like i'm kinda shy right now because
+Participant: talking to you and you're uh in a computer and you're a cartoon
+Ellie: wild_laughter5 ((laughter))
+Participant: or uh animated or whatever <laughter>
+Participant: so
+Participant: cool
+Participant: but no usually ninety eight percent
+Ellie: relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)
+Participant: <laughter>
+Participant: um i actually which it is actually kinda funny and i think maybe
+Participant: this might go for some of the poker players too um
+Participant: i don't really i've never really talked to any professional poker player but as far as like
+Participant: um i actually
+Participant: playing poker is um
+Participant: actually something that
+Participant: helps me forget about anything as far as like um
+Participant: stuff in the past or present
+Participant: um or future stuff that's coming up uh as far as like i am really relaxed <rela>
+Participant: i really um could just not think about anything and just think about poker and it actually it's kinda like a therapy
+Participant: thing for me 'cause i don't like i guess you could say it's a kinda drug because um i don't think about anything as far as like stressed out or depressed or stuff that's happened in the past
+Participant: i just like focus on poker so it's actually kinda relieving however
+Participant: playing poker is very stressful on top of that so i guess it's kind of like um
+Participant: catch twenty two or whatever but uh
+Ellie: hmm1 (hmm)
+Participant: yeah so no poker i play like to play basketball
+Participant: i like to watch movies i like to go to the beach actually
+Participant: one of the things i like to do is go to the beach 'cause it does
+Participant: um it makes me feel good
+Participant: but it i didn't go
+Participant: i usually only go to the beach when it's hot not during the
+Participant: cold season
+Participant: so it's coming up soon so i'm looking forward to that i'm gonna be busy but uh i'll try to go out to the beach as much as i can <laughter>
+Ellie: okay_confirm (okay)
+Ellie: control_temper (how are you at controlling your temper)
+Participant: um i'm really good at controlling my temper actually i've only been in like
+Participant: i'm thirty years old i've been in like six fights maybe and
+Participant: all six of 'em were started by the other person
+Participant: so i've never started a real fight in my whole life like i started fights when i was a little kid but
+Participant: talking about like real stuff like once you get passed it at like
+Participant: thirteen fourteen <sniffle> uh but yeah no i'm good like every now and then like there's been
+Participant: a couple times maybe in the past where like i
+Participant: wasn't able to control it
+Participant: but um as far as like ever being violent or anything that's never occured and never would
+Participant: but for um
+Participant: majority of the time yeah i don't have like
+Participant: people do stupid things all the time and i just like let it go especially like um
+Participant: on the freeway and stuff but uh
+Ellie: last_argument (when was the last time you argued with someone and what was it about)
+Participant: oh well i mean i argued a bit with my ex girlfriend a lot but uh it was just about really
+Participant: um petty things i guess that maybe we just
+Participant: i think we were good for each other but uh maybe some other lifetime because uh
+Participant: we just bumped heads too much so
+Participant: obviously she's my ex girlfriend probably for a reason so
+Ellie: mm (mm)
+Participant: we just argued about
+Participant: girlfriend boyfriend things
+Ellie: situation_handled (tell me about a situation that you wish you had handled differently)
+Participant: uh
+Participant: um
+Participant: i guess my filmmaking <filmm> um
+Participant: handled differently
+Participant: there's a lot of stuff i could've handled differently but uh
+Participant: uh maybe like when i was doing really good when i was younger and
+Participant: i was um working for
+Participant: scrubbed_entry
+Participant: production assistant for filmmakers around
+Participant: um where i lived in sacramento so i was doing everything that i wanted to do as far as my dreams are concerned
+Participant: and had a lot all my stuff together i had my own car my own apartment
+Participant: and then i got involved with like uh the wrong
+Participant: group of people i guess and
+Participant: kinda tumbled downhill from there and like lost everything like car job apartment
+Participant: so i just wish that maybe i never got involved with
+Participant: those kind of people that kinda of girl
+Participant: um uh
+Participant: ever
+Participant: uh because <clears throat> i woulda
+Participant: probably it probably my life probably would be a lot different now however i believe that everything happens for a reason
+Participant: and obviously i think you should also like if stuff happens good or bad uh
+Participant: <sigh> uh learn from your other mistakes so that when it happens again you could um
+Participant: not make that mistake or try not to make it as bad i guess so
+Ellie: yeah_downer (yeah)
+Participant: you know
+Ellie: hard_decisionB (tell me about the hardest decision you've ever had to make)
+Participant: mm
+Participant: hardest decision i guess
+Participant: i guess uh hardest decision
+Participant: the hardest decision i have ever had to make
+Participant: would be um
+Participant: i guess you could say uh i don't really know
+Participant: was gonna say that uh
+Participant: maybe like my ex girlfriend like i could've like
+Participant: stayed with her and i really like still am in love with her and uh
+Participant: would like to be with her and miss her
+Participant: but i guess the biggest mistake <mis> um decision that i had to make was like
+Participant: i know that it wasn't like a healthy relationship and
+Participant: i know if we like stayed together or if we got married or had kids that
+Participant: i don't think it would end up working out anyways so
+Participant: i guess the decision my hardest decision would be
+Participant: to like actually stay away from her and not get back with her
+Participant: and uh
+Participant: be uh not with her so
+Participant: i guess that was a hard really hard decision because um
+Participant: i could easily have done it and i guess maybe i would've been
+Participant: happier in that way but stressed out and
+Participant: um irritable or whatever and the other way of having to deal with her i guess deal with each other our our relationship so
+Participant: it was really hard still is so uh i guess that's it
+Participant: not choosing to be with someone that i i loved and loved me
+Participant: or whatever so
+Ellie: mm (mm)
+Participant: cool
+Ellie: memory_erase (tell me about an event or something that you wish you could erase from your memory)
+Participant: oh what was that
+Participant: i beg your pardon
+Ellie: memory_erase (tell me about an event or something that you wish you could erase from your memory)
+Participant: nevad
+Participant: i don't understand the first part of that question
+Ellie: memory_erase (tell me about an event or something that you wish you could erase from your memory)
+Participant: oh an event
+Participant: oh an event okay um that i could erase
+Participant: <sigh>
+Participant: uh event that i could from my memory
+Participant: uh my ex girlfriend i wish i'd never met her
+Participant: my first girlfriend and my last girlfriend i wish i never met them 'cause uh we <w>
+Participant: we were together in love for a few years and then we broke up and it was really hard
+Participant: so
+Participant: i guess both of them
+Ellie: easy_sleep (how easy is it for you to get a good night's sleep)
+Participant: oh it's extremely easy i could fall asleep
+Participant: anywhere i actually the other day i broke a record i almost fell asleep standing up which would've been weird because i guess i would've
+Ellie: wow (wow)
+Participant: fallen down or something i don't know i just caught myself
+Ellie: wild_laughter5 ((laughter))
+Participant: i guess i was really <r> i mean i was really tired but i i do a lot of stuff so it's hard for i don't really get that much sleep
+Ellie: yeah_downer (yeah)
+Participant: as much as i would like <l> like but i could sleep when i'm dead or whatever so
+Participant: as they say
+Ellie: okay_confirm (okay)
+Ellie: ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)
+Participant: <tisk> uh no
+Ellie: depression_diagnosed (have you been diagnosed with depression)
+Participant: no
+Ellie: feel_lately (how have you been feeling lately)
+Participant: uh lately i'm just tired but i'm alright i guess
+Participant: i'm dealing with this breakup still it's only been like a month an a week
+Participant: but it's actually it's not i mean i've had worse things happen i mean worse things happen
+Participant: had worse things happen so yeah
+Participant: i guess
+Ellie: symptoms_cope (how do you cope with them)
+Participant: <sigh>
+Participant: well i'm a religious person i'm catholic i believe in god i know there's a god so um i obviously even all of it even devoted
+Participant: people to god um regardless of what they are they uh sometimes lose faith so i do lose faith sometimes but it doesn't really last for that long and i know that there is a god i know
+Participant: that i'll be okay and that everything will be okay but you know it's hard um deal with them i i don't really i just keep going you know go to school and work
+Participant: and i just have to keep going i can't give up so i just
+Participant: try to stay busy and
+Participant: staying busy helps kind of and like sleeping
+Participant: a lot helps but i don't get to sleep a lot so
+Participant: um i don't know
+Participant: uh playing poker
+Participant: playing basketball
+Ellie: uh_huh (uh huh)
+Participant: deals helps me deal with it and like uh
+Participant: hanging out with my friends helps me sometimes
+Ellie: happy_lasttime (tell me about the last time you felt really happy)
+Participant: why
+Participant: uh uh
+Participant: uh i felt really happy on friday because um
+Participant: i went to san diego for the first time
+Participant: and uh i didn't it wasn't as cool as i thought it was gonna be but uh we were like under circumstances as far as like my friend had business to take care of and it took a long time so
+Participant: i would've much rather been free during that time but i wasn't but we had fun and it was cool uh i enjoyed it so yeah i really liked uh i was had fun and i was
+Participant: happy about going to san diego for the first time and i um
+Participant: had a good time
+Ellie: thats_great (that's great)
+Ellie: advice_back (what advice would you give to yourself ten or twenty years ago)
+Participant: oh
+Participant: she's
+Participant: <sigh>
+Participant: um <laughter>
+Participant: a lot of things but i guess i would say like
+Participant: be nicer to like um
+Participant: family members you know a couple family members that i wish i would've been
+Participant: different to um
+Participant: acted different to not that i was like a horrible but i could've been nicer in some instances that if i didn't know the situation at hand uh
+Participant: i would've never like really um went out and partied all the time like i did
+Participant: like high school and different part times of out of high school i would've just
+Participant: really focused on um schooling and stuff and then
+Participant: did the partying later uh wouldn't have gotten relationships that um so i would've just told myself more basically to be more
+Participant: uh have more direction be more focused i guess uh
+Participant: stay away from people and unhealthy relationships unhealthy people i guess not that i'm the healthiest but <sniffle> um yeah i just would've done a lot of stuff different but
+Participant: i um i don't know if i said this earlier but i believe everything happens for a reason
+Participant: um
+Participant: so i guess everything's happening
+Participant: now for a reason
+Participant: so i'm just gonna keep going
+Ellie: BF_describe (how would your best friend describe you)
+Participant: <laughter>
+Participant: uh
+Participant: <tisk> i guess they would the few that i do have or few that i used to have 'cause i have best friends now a couple i guess one new one
+Participant: and i've lost a few best friends as far as like just not we like went out own ways but i guess they would all probably describe me more as like
+Participant: um happy <ha> energetic uh funny crazy
+Participant: uh loud uh
+Participant: silly
+Participant: uh smart
+Participant: and uh
+Participant: i just in i guess in uh in general just like
+Participant: entertaining to be around
+Participant: have
+Participant: i haven't always <a> always been the best bestest best friend but i try you know my hardest
+Ellie: uh_huh (uh huh)
+Participant: so that's it like
+Ellie: self_change (what are some things you wish you could change about yourself)
+Participant: cool
+Participant: um <sigh>
+Participant: change myself uh
+Participant: <tisk> i wish i was um
+Participant: <xxx> i wish i was like fifteen pounds lighter
+Participant: um
+Participant: i wish i didn't need
+Participant: uh
+Participant: how do i say put this uh i feel like
+Participant: um
+Participant: i feel like i'm a i feel like i
+Participant: i need to be like in a relationship with a girl
+Participant: i feel like i wish i didn't have to be
+Participant: like feel like
+Participant: that i needed to have a girl all the time
+Participant: and so i could that could help me like focus more
+Participant: and i wish that like i didn't need
+Participant: sexual um
+Participant: i wasn't always thinking about sexual stuff towards girls all the time as far as like
+Participant: me having to be in a sexual
+Participant: thing with them like
+Participant: as far as like wanting sex as much as i do 'cause i feel like
+Participant: if i didn't concentrate or have to do
+Participant: like get be with girls or in a relationship to like
+Participant: well who i don't know how to say it but i'm just saying like i there's like guy friends that i know
+Participant: that don't need sex as much as i do and i feel like i need it more than i feel like sometimes that i wish i didn't need <n> need it as much so maybe i guess i'm addicted to it a little bit
+Participant: where like i i could focus on more things other than just
+Participant: i mean i don't just focus on sex but i just feel like if focus on if i didn't want it need it or think i need it as much that i could get more stuff done in my life
+Ellie: mm (mm)
+Participant: but
+Participant: yeah so i'm trying i'm working on that
+Ellie: Ellie17Dec2012_08 (what are you most proud of in your life)
+Participant: <deep breath> <sigh> what am i most proud of
+Participant: uh
+Participant: i'm most proud of
+Participant: <makes sounds with mouth> the the
+Participant: i'm most proud <prou> oh i guess i guess i'm most proud of working for um television station back in sacramento and working on a lot of um
+Participant: film sets 'cause like i
+Participant: i was sixteen and i decided i wanted to be a fimmaker and then
+Participant: two years later a year and a half later basically i got i started making steps to become a filmmaker and then i ended up working <wor>
+Participant: working in the business and working as a filmmaker for a really
+Participant: really um
+Participant: really um
+Participant: good um cinematographer a really good um freelance cinematographer that was based that lives in sacramento they did a lot of things so i'm proud that had a dream and i went for it and i and actually ended up doing stuff to go towards my dream that were in my dream so
+Participant: um yeah i guess that's one of my biggest accomplishments which was like
+Participant: over ten years ago but i you know hopefully
+Participant: something like that could happen again soon or you know so
+Ellie: thats_great (that's great)
+Ellie: asked_everything (okay i think i have asked everything i need to)
+Ellie: appreciate_open (thanks for sharing your thoughts with me)
+Participant: perfect
+Ellie: bye (goodbye)
+Participant: goodbye

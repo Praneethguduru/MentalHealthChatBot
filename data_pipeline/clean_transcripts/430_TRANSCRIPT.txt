@@ -1,0 +1,231 @@
+Participant: <synch>
+Ellie: IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)
+Participant: yeah sure
+Ellie: okay_confirm (okay)
+Ellie: how_doingV (so how are you doing today)
+Participant: i'm fine thank you
+Ellie: thats_good (that's good)
+Ellie: where_originally (where are you from originally)
+Participant: i am from los angeles
+Ellie: really (really)
+Ellie: like_about_LA (what are some things you really like about l_a)
+Participant: well you can't beat the weather
+Participant: um and
+Participant: i just think the familiarity of home just uh makes me feel comfortable here
+Ellie: mhm (mhm)
+Ellie: dont_like_LA (what are some things you don't really like about l_a)
+Participant: smog
+Participant: uh
+Participant: rudeness although it doesn't compare to new york it's
+Participant: um <laughter> people can be unbearable when they're rude
+Ellie: see_mean (i see what you mean)
+Ellie: travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)
+Participant: um not as much as i'd like lately i traveled more in the past but uh not lately no
+Ellie: travel_changed (what do you enjoy about traveling)
+Participant: i just think seeing different places it's um
+Participant: learning new things uh finding things that are fascinating that peak my interest
+Ellie: mhm (mhm)
+Ellie: travel_trips (i'd love to hear about one of your trips)
+Participant: um
+Participant: let's see
+Participant: i think <laughter> spoke of new york earlier i think the first time i went to new york i was quite amazed i know it's uh still <st> still only in america but i just think um
+Participant: being from l_a i didn't think anything or any city could be bigger
+Participant: and more uh how do you say uh ostentatious than new york but uh
+Participant: it was it was quite an experience and uh i didn't think any place was uh
+Participant: i didn't <di> i didn't think any place was dirtier than downtown l_a <laughter> but i think times <time> i think <laughter> times square's got us beat
+Ellie: wild_laughter3 ((laughter))
+Ellie: memorableB (what's one of your most memorable experiences)
+Participant: too many to mention i i don't even know where to start
+Ellie: okay_confirm (okay)
+Ellie: shyoutgoing (do you consider yourself more shy or outgoing)
+Participant: suppose it depends on the situation
+Ellie: relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)
+Participant: um
+Participant: i like to walk i like to uh i like to play with my dogs uh reading
+Participant: uh anything where i guess i suppose i could just sit still let and let my mind go blank i know reading requires some concentration but uh
+Participant: you know just uh things that uh i don't have to um exert myself too much uh helps me relax
+Ellie: okay_confirm (okay)
+Ellie: control_temper (how are you at controlling your temper)
+Participant: <sigh>
+Participant: in the past i've had problems but i'm getting better <laughter> let's just say that <laughter>
+Ellie: last_argument (when was the last time you argued with someone and what was it about)
+Participant: ah probably argued with my roommate
+Participant: <psh> couple days ago but uh
+Participant: that happens we're friends uh it's a loving argument <laughter> if if you will
+Ellie: how_know (how do you know them)
+Participant: uh i met this roommate about six seven years ago we just uh kind of
+Participant: um
+Participant: kinda moved around the same social circles and just got along
+Ellie: thats_good (that's good)
+Ellie: living_situation (how do you like your living situation)
+Participant: it's cool i mean
+Participant: guess you know like
+Participant: we do argue uh we have our differences sometimes but there's not one person i'd rather have i'd rather live with than than her she's she's cool
+Ellie: good_hear (that's so good to hear)
+Ellie: situation_handled (tell me about a situation that you wish you had handled differently)
+Participant: hmm
+Participant: how much time do we have
+Participant: uh <laughter>
+Participant: it's just too numerous to mention um
+Participant: i i i wouldn't know how to answer that
+Ellie: hard_decisionB (tell me about the hardest decision you've ever had to make)
+Participant: i think breaking up with a girlfriend that i truly
+Participant: cared about but knowing
+Participant: knowing that it just wasn't going to work um
+Participant: that was very difficult
+Ellie: change_directions (what made you decide to do that)
+Participant: just weighed pros and cons and just thought
+Participant: it just wasn't going to work um
+Participant: no matter how much love or care i brought to the relationship
+Participant: there was something missing
+Participant: and i think i invested enough time she invested enough time and
+Participant: just knew it was over
+Ellie: yeah_downer (yeah)
+Ellie: happy_didthat (are you happy you did that)
+Participant: no
+Ellie: memory_erase (tell me about an event or something that you wish you could erase from your memory)
+Participant: so many <laughter> i don't have too many regrets but things you erase from your memory
+Participant: oh there's a lot uh too numerous to mention i don't know how to answer that
+Ellie: feelguilty (what's something you feel guilty about)
+Participant: the same girl
+Participant: that i broke up with
+Participant: she was the she was a girlfriend <laughter> of uh a a best friend of mine
+Participant: uh they were separated for for
+Participant: several years
+Participant: and we always had a chemistry always a friendship and it turned into something to something which you know turned into a relationship and uh it hurt him uh and currently we do not speak i wish uh my regret is i wish i
+Participant: i would've handled that better
+Ellie: okay_confirm (okay)
+Participant: <scoff>
+Ellie: family_relationship (tell me about your relationship with your family)
+Participant: um
+Participant: it's it's funny see as i as i get older i'm not as close but i still care for 'em and i still love them and i think they love me i
+Participant: my mother and my father are both alive mm don't interact a whole lot i'm very close to my older sister
+Ellie: influence_positive (who's someone that's been a positive influence in your life)
+Participant: my older sister
+Ellie: tell_about_that (can you tell me about that)
+Participant: um
+Participant: she's just
+Participant: strong no nonsense uh
+Participant: she's short yet a firecracker and i've always liked that about her she uh
+Participant: uh
+Participant: she always felt makes me feel makes me feel comfortable i'm like uh another son to her <laughter> in a way
+Ellie: thats_great (that's great)
+Ellie: easy_sleep (how easy is it for you to get a good night's sleep)
+Participant: uh suppose it depends on my stress level
+Participant: um
+Participant: when i have a lot on my mind
+Participant: i have difficult sleeping and uh other times it just
+Participant: if i really need to get to sleep it just requires me listen to the radio listen <lis> uh watching t_v reading and eventually i'll get tired fall asleep
+Ellie: mm (mm)
+Ellie: sleep_affects (what are you like when you don't sleep well)
+Participant: crabby uh i suppose like anybody else um
+Participant: tired
+Participant: listless you know all the normal things i suppose happen when somebody doesn't sleep well
+Ellie: yeah3 (yeah)
+Ellie: feel_lately (how have you been feeling lately)
+Participant: i feel good
+Ellie: behavior_changes (have you noticed any changes in your behavior or thoughts lately)
+Participant: mm no not really um
+Participant: no no i i wouldn't say
+Participant: i have
+Ellie: okay_confirm (okay)
+Ellie: ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)
+Participant: no i have not
+Ellie: depression_diagnosed (have you been diagnosed with depression)
+Participant: yes i have
+Ellie: when_diagnosed (how long ago were you diagnosed)
+Participant: i was diagnosed probably about
+Participant: about five years ago
+Ellie: why_seek_help (what got you to seek help)
+Participant: i think uh i always knew there was a problem
+Participant: i always knew there was some
+Participant: i i i think i always knew before i got treatment that
+Participant: there was some issue emotionally and hmm and lot of things that are very hard to explain
+Participant: and i just was tired of feeling that way so i sought help
+Ellie: symptoms_what (what were your symptoms)
+Participant: think just uh
+Participant: lethargy uh
+Participant: uh no desire to do anything uh motivation just was wasn't there
+Participant: um
+Participant: think normal depression type things uh
+Participant: um
+Participant: social <socia> i became socially awkward which was a little bit different for me 'cause uh growing up i was
+Participant: you know quite talkative <laughter>
+Ellie: hmm_downer (hmm)
+Ellie: therapy_going (do you still go to therapy now)
+Participant: i do
+Ellie: therapy_useful (do you feel like therapy is useful)
+Participant: i'm sorry say again
+Ellie: therapist_useful (is going to a therapist helping you)
+Participant: gotcha um it does i think it does
+Ellie: therapy_changes (what sort of changes have you noticed since you've been going to therapy)
+Participant: well um <sigh>
+Participant: i think the number one thing and this is what i'm amazed about is the temper i think i've uh it's allowed me to
+Participant: to step back from certain situations
+Participant: and not take them so seriously
+Participant: and not get so tense or angry
+Participant: and then react
+Participant: i think it's it it's calmed me down for the most part
+Ellie: difficult (how hard is that)
+Participant: now it's becoming it it it's becoming routine
+Participant: uh initially it was very difficult
+Ellie: happy_lasttime (tell me about the last time you felt really happy)
+Participant: when i was five years old <laughter>
+Ellie: tell_about_that (can you tell me about that)
+Participant: oh no when <wh> when you're a kid there's nothing really to
+Participant: um
+Participant: there's nothing to be sad about you're a kid
+Ellie: understand (i understand)
+Ellie: BF_describe (how would your best friend describe you)
+Participant: my best friend
+Participant: um
+Participant: a jerk i don't yeah
+Participant: uh i have a dry i have a dry sense of humor so uh you know
+Ellie: wild_laughter3 ((laughter))
+Participant: my best friend would probably uh
+Participant: i think the
+Participant: the banter back and forth is you know usually an insult but you know it's all in love
+Ellie: self_change (what are some things you wish you could change about yourself)
+Participant: um i wish i could be taller
+Participant: i wish i could be more
+Participant: inclined to play basketball so i then become go to the n_b_a and be a millionaire i know that's all unrealistic but just answering honestly
+Ellie: regret (is there anything you regret)
+Participant: hmm
+Participant: anything i regret haven't we asked asked this before i mean so many don't know where to start
+Ellie: okay_confirm (okay)
+Ellie: advice_back (what advice would you give to yourself ten or twenty years ago)
+Participant: mm that's a good one
+Participant: wow
+Participant: um
+Participant: wow i don't know
+Participant: i you know that's a good one i'd have <ha> i'd have to think about that i don't i wouldn't wanna answer that uh that's a good one
+Participant: usually you're asked um
+Participant: what you'd what you know how you feel ten twenty years from now looking back i don't know what advice i'd give myself
+Ellie: okay_confirm (okay)
+Ellie: Ellie17Dec2012_10 (tell me about something you did recently that you really enjoyed)
+Participant: something i really enjoyed
+Participant: um
+Participant: hmm i love um
+Participant: there are several things i like to do um uh you know i uh i enjoy playing basketball i i i love watching it i love watching all sports for that matter what brings me real joy the past few years was um
+Participant: become a hobby of mine is is uh rescuing dogs fostering dogs and finding them them homes uh it's <laughter>
+Ellie: aw (aw)
+Participant: i guess it's become quite a a hobby of mine and uh
+Participant: sometimes i find lost dogs and i'm able to find their owner and sometimes i'm not so when i'll tell you what there's nothing <noth>
+Participant: to find the owner and i just found an owner last week for a small dog i found eh there is not greater feeling 'cause the man told me <laughter> the man told me how his um
+Ellie: wow (wow)
+Participant: how his <hi> how his daughter
+Participant: or was just crying when she left so to be able to give her give him back that was that was cool
+Ellie: great_situation (that sounds like a great situation)
+Ellie: Ellie17Dec2012_08 (what are you most proud of in your life)
+Participant: i think for somebody that um didn't finish high school going on to college and graduating that's something that
+Participant: i uh
+Participant: i take
+Participant: pride in though i don't show it or speak about it often
+Ellie: yeah3 (yeah)
+Ellie: asked_everything (okay i think i have asked everything i need to)
+Participant: <laughter> yeah
+Ellie: appreciate_open (thanks for sharing your thoughts with me)
+Ellie: bye (goodbye)
+Participant: you look you look like my friend rachel it's funny
+Ellie: wild_laughter5 ((laughter))
+Participant: <laughter>

@@ -1,0 +1,208 @@
+Participant: <synch>
+Ellie: IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)
+Participant: yes
+Ellie: okay_confirm (okay)
+Ellie: how_doingV (so how are you doing today)
+Participant: i'm well thank you
+Ellie: thats_good (that's good)
+Ellie: where_originally (where are you from originally)
+Participant: uh boston massachusetts
+Ellie: really (really)
+Participant: yes
+Ellie: when_LA (when did you move to l_a)
+Participant: i moved to l_a about a year after graduating college in two thousand and one
+Ellie: often_backB (how often do you go back to your hometown)
+Participant: uh quite often at least a couple times a year
+Ellie: compares_LA (how does it compare to l_a)
+Participant: um god i love both cities they are polar opposite in many many ways but there's things about both of them that that i love
+Ellie: why_LA (why did you move to l_a)
+Participant: uh to pursue acting and writing
+Ellie: adapted_LA (how easy was it for you to get used to living in l_a)
+Participant: mm it's still not complete reality to me but it was actually very easy because of the um
+Participant: the the the creative factor out here allowed me to pursue what i wanted to creatively and
+Participant: it was different the social culture was different in a way where i from where i had grown up and it it suited me better my personality
+Ellie: mhm (mhm)
+Ellie: like_about_LA (what are some things you really like about l_a)
+Participant: <sigh> oh god <go> i like the fact that you can come here and pursue any any niche of you know <kn> creativity or art or entertainment that you want to and sort of make your own path
+Participant: uh i grew up where it snows constantly and is very very cold so
+Participant: sounds obvious but clearly i like that it's you can swim year round and
+Participant: uh i like that it's there's always something to do no matter what day of the week it is
+Ellie: yeah3 (yeah)
+Ellie: dont_like_LA (what are some things you don't really like about l_a)
+Participant: what i don't like uh well i miss my family <fam> i miss that there's not <no> i don't like that there's not a big family element here i miss i'm a big family girl i miss my family i feel like it's very crowded here but yet it's very easy to feel eh sort of isolated alone here
+Ellie: see_mean (i see what you mean)
+Participant: mhm
+Ellie: travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)
+Participant: mm i can't see your shoes but um i do mostly just not not too much worldly travel mostly back to boston and
+Participant: mm eh florida where my parents live but i do i enjoy traveling and take a lot of trips within california and around here
+Ellie: cool3 (cool)
+Ellie: travel_changed (what do you enjoy about traveling)
+Participant: oh just to have an adventure do something fun or if i'm going home it means i'm gonna see my family
+Ellie: travel_trips (i'd love to hear about one of your trips)
+Participant: <clears throat>
+Participant: um one of my trips mm god well
+Participant: i like to drive up to northern california go to san francisco i have family and friends there
+Participant: always super super fun uh in god in college i with my college boyfriend
+Participant: when i was in boston i we drove we went to san francisco and drove down to l_a and las vegas and that was kind of how i realized i wanted to move here so that was very that was very that was a big one
+Ellie: awesome (awesome)
+Ellie: memorableB (what's one of your most memorable experiences)
+Participant: uh in general
+Participant: just
+Ellie: yeah3 (yeah)
+Participant: <clears throat> mm memorable experiences i guess it would be moving here i moved to when i moved to l_a i got on a plane but didn't know anybody here and
+Participant: i just got i talked to a girl that i met online and agreed to be her roommate and she picked me up at the airport
+Participant: we never met and you know one of my dear friends to this day so definitely the the the flight out here was
+Participant: it was big monumental
+Ellie: describe_felt (how did you feel in that moment)
+Participant: i felt powerful and excited and just open to whatever
+Ellie: great_situation (that sounds like a great situation)
+Participant: mhm
+Ellie: study (what did you study at school)
+Participant: studied communications um got a lots of every lot of different uh writing writing styles i eventually graduated with a a concentration in public relations and a english minor
+Ellie: change_directions (what made you decide to do that)
+Participant: writing to pursue writing
+Ellie: dream_job (what's your dream job)
+Participant: writer uh well i guess you could say writer slash actress which is um but i guess writing is first
+Ellie: difficult (how hard is that)
+Participant: hard
+Participant: very hard because you need to no one's gonna push you to do it you have to be self-starter you have to make it happen so it's very hard 'cause i don't possess that naturally in my personality i do but not as much as i need to
+Ellie: mm (mm)
+Ellie: shyoutgoing (do you consider yourself more shy or outgoing)
+Participant: i would say outgoing on in general
+Ellie: relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)
+Participant: i <sigh> sometimes take a walk if i feel tense um listen ambient music helps if i need a soothing background white noise
+Participant: calming calming area and just
+Participant: just your basic deep breaths and just sort of take a minute to
+Participant: to come back to a calm neutral place
+Ellie: control_temper (how are you at controlling your temper)
+Participant: i am
+Participant: getting better no <laughter> um i'm okay <ok> i'm
+Participant: good at controlling my temper
+Participant: 'cause i don't usually
+Participant: have a temper too often but when i do and i lose my cool i have a hard time controlling it
+Ellie: landed_trouble (has that gotten you in trouble)
+Participant: yes
+Ellie: tell_about_that (can you tell me about that)
+Participant: no
+Participant: <laughter> hmm mm
+Ellie: okay_confirm (okay)
+Ellie: last_argument (when was the last time you argued with someone and what was it about)
+Participant: argued with someone um
+Participant: god
+Participant: i guess it was a friend
+Participant: a friend a girlfriend it
+Participant: it wasn't it was about
+Participant: uh our
+Participant: our each separate perspectives on a
+Participant: a certain situation between us that
+Participant: were obviously very very different um and it started out as something big and then we just realized this is
+Participant: this is stupid we don't need to be fighting about this so it kind of ended quickly
+Ellie: okay_confirm (okay)
+Ellie: situation_handled (tell me about a situation that you wish you had handled differently)
+Participant: <sigh> hmm mm
+Participant: i guess it would've been with uh an ex-boyfriend fighting with an ex-boyfriend relationship stuff definitely losing my temper and making a situation escalated in a way that
+Participant: it didn't need to be i wish that i had just walked away from it
+Ellie: avoid (could you have done anything to avoid it)
+Participant: mm
+Participant: i don't know if i could've avoided the complete situation but i definitely could've
+Participant: made the outcome much less
+Participant: chaotic
+Ellie: see_mean (i see what you mean)
+Ellie: hard_decisionB (tell me about the hardest decision you've ever had to make)
+Participant: hmm
+Participant: uh i guess that would be
+Participant: hmm walking away from somebody who was definitely bad toxic from my life uh but that i really did want in my life and it was a true wrestling with morality and
+Participant: kind of sort of growing up like coming to a point where i have to say i'm gonna have to do something that's really really hard for
+Participant: sort of you know short-term pain for long-term gain and
+Participant: i had to make sort of an adult decision relationship-wise but it was still carried over into other areas of my life and taught me that
+Participant: you know you're not always gonna
+Participant: feel great <gr> every decision's not always gonna be easy and feel good
+Ellie: yeah_downer (yeah)
+Ellie: happy_didthat (are you happy you did that)
+Participant: yes
+Ellie: hard_decision (how did you decide to do that)
+Participant: i was kinda forced to this issue just what was going on in life was sort of you can't ignore those signs just
+Participant: yeah
+Ellie: understand (i understand)
+Ellie: memory_erase (tell me about an event or something that you wish you could erase from your memory)
+Participant: mm i guess it would be a particular argument i had with somebody um that happened to be
+Participant: in sort of a public place and i got in trouble for it i wish i could erase that
+Ellie: okay_confirm (okay)
+Ellie: family_relationship (tell me about your relationship with your family)
+Participant: my relationship with my family <fam> i have a wonderful family i'm completely blessed amazing parents i have a brother and has he has a little girl so i have a baby niece that i love more than anything in the world and
+Participant: i could not ask for a better family they're
+Participant: the ideal
+Ellie: good_hear (that's so good to hear)
+Ellie: influence_positive (who's someone that's been a positive influence in your life)
+Participant: my parents for sure they're just wonderful people that just taught by example and
+Participant: i feel like i'm a good mix of both of them
+Ellie: easy_sleep (how easy is it for you to get a good night's sleep)
+Participant: it's pretty easy i try um lately it's been a little bit hard my sleep's been off but for the most part i've
+Participant: come to recognize the importance of it and it's it's been pretty easy
+Ellie: sleep_affects (what are you like when you don't sleep well)
+Participant: <sigh> uh a little edgy or fidgety maybe a little bit out of it i might um might seem like i'm
+Participant: in a good mood 'cause i might be a little giddy and
+Participant: uh laughing more just sort of <laughter> high emotions but overall get um irritated faster and
+Participant: just um sweat more just feel
+Participant: feel um just a little off
+Ellie: feel_lately (how have you been feeling lately)
+Participant: i've been feeling pretty good lately
+Ellie: behavior_changes (have you noticed any changes in your behavior or thoughts lately)
+Participant: mm not really just
+Participant: trying to be more focused <clears throat>
+Participant: get things done
+Ellie: tell_about_that (can you tell me about that)
+Participant: um just trying to focus on what i wanna do career-wise and really
+Participant: stop wasting time or you know
+Participant: just procrastinating and and get things done and being inspired going and seeing
+Participant: you know being around people that are doing what i wanna do and just carrying it over to my own life
+Ellie: thats_good (that's good)
+Ellie: ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)
+Participant: no
+Ellie: depression_diagnosed (have you been diagnosed with depression)
+Participant: no
+Ellie: happy_lasttime (tell me about the last time you felt really happy)
+Participant: uh oh just a couple days i was just in with my family and my baby niece in florida and
+Participant: that's why i went down there to see her so it was just awesome i'm always happy when i see her
+Ellie: aw (aw)
+Ellie: BF_describe (how would your best friend describe you)
+Participant: probably as um  very
+Participant: funny
+Participant: humor would definitely probably be one of the first things they would say joking always a little
+Participant: wise-ass in my personality but um they would describe me as always uh unconditional there for them and just
+Participant: they know they know that i'm there if they need them always
+Ellie: uh_huh (uh huh)
+Ellie: self_change (what are some things you wish you could change about yourself)
+Participant: my drive being more driven and just getting things done
+Ellie: feelbadly (tell me about a time when someone made you feel really badly about yourself)
+Participant: mm i guess it would be well a recent
+Participant: a recent ex-boyfriend that was a a mistake of a relationship uh
+Participant: yeah sort of just
+Participant: uh i i think because he the way he felt about himself certain things he would say and
+Participant: even though what he said didn't directly make me feel bad the whole situation made me realize wow the fact that i'm even with this person made me feel
+Participant: like i'm let allowing people into my life that shouldn't be there so
+Participant: i'm dumbing myself down and that yeah it was terrible
+Ellie: isee_downer (i see)
+Ellie: regret (is there anything you regret)
+Participant: yes i regret not listening to my gut instincts
+Ellie: advice_back (what advice would you give to yourself ten or twenty years ago)
+Participant: don't second-guess yourself
+Ellie: Ellie17Dec2012_07 (what would you say are some of your best qualities)
+Participant: <sigh> <clears throat> um great listener
+Participant: constant sense of humor
+Participant: uh very malleable in terms of eh people uh tolerant and comfortable around all
+Participant: just people from just all ages race gender
+Participant: whatever i just i crave diversity and love to just you know i just i i i'm people person
+Participant: and i um
+Participant: i start every day with a blank slate
+Ellie: mhm (mhm)
+Ellie: Ellie17Dec2012_10 (tell me about something you did recently that you really enjoyed)
+Participant: i um i did some acting work on a on a series with a really great group of people and it was it was a very cool cool creative experience very inspiring
+Ellie: nice (nice)
+Ellie: Ellie17Dec2012_08 (what are you most proud of in your life)
+Participant: probably coming out to l_a on my own without knowing anybody and staying here and pursuing what i wanna do
+Ellie: asked_everything (okay i think i have asked everything i need to)
+Ellie: appreciate_open (thanks for sharing your thoughts with me)
+Participant: thank you
+Ellie: bye (goodbye)
+Participant: goodbye

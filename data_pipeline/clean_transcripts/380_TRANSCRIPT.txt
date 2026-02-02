@@ -1,0 +1,458 @@
+Participant: <synch>
+Ellie: IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)
+Participant: sure
+Ellie: okay_confirm (okay)
+Ellie: how_doingV (so how are you doing today)
+Participant: i'm fine i'm doing alright um
+Ellie: thats_good (that's good)
+Participant: yeah
+Ellie: where_originally (where are you from originally)
+Participant: i'm from maryland
+Ellie: really (really)
+Participant: yeah
+Participant: from maryland washington d_c area
+Ellie: when_LA (when did you move to l_a)
+Participant: uh like five weeks ago
+Ellie: wow (wow)
+Participant: <laughter>
+Ellie: compares_LA (how does it compare to l_a)
+Participant: <laughter>
+Participant: maryland um <deep breath> it's a lot it's a lot less um
+Participant: uh xxx it's a uh it's not as nice this time of year it's more um
+Participant: uh it's it's good it's nice it's um
+Participant: l_a's a lot better though it's a lot it's a lot more people lot more going on
+Ellie: adapted_LA (how easy was it for you to get used to living in l_a)
+Participant: um i'm still <st> i guess i'm still getting used to it so
+Participant: um
+Participant: it's
+Participant: it's not like um
+Participant: yeah i'm still getiing used to it it's it's coming slowly but but surely
+Ellie: okay_confirm (okay)
+Ellie: where_live (where do you live)
+Participant: i live in culver city
+Ellie: roommates (do you have roommates)
+Participant: i do i have one
+Ellie: living_situation (how do you like your living situation)
+Participant: uh it's okay it's i live in a really nasty house it's uh it's cheap <chea> it's cheap 'cause i'm living in a friend's place
+Participant: um
+Participant: and uh
+Participant: but but and he's letting me stay there for half price but the the actual like place itself is pretty horrible <horr> horrible living conditions <laughter> but i'm moving soon so
+Ellie: oh_no (oh no)
+Ellie: thats_good (that's good)
+Ellie: travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)
+Participant: i can't see your shoes actually
+Participant: uh but no i i travel xxx i would say i xxx i've probably traveled more than most people in the u_s like considering that most people don't travel in the u_s but i wouldn't i wouldn't call myself a world traveler or anything
+Ellie: travel_changed (what do you enjoy about traveling)
+Participant: i enjoy the chance to get to like see other
+Participant: um walks of life and and and kind of like meditate on the
+Participant: the specificity of my own
+Participant: you know the the the the <th> given the parameters that i grew up under like how different everyone else is like how how every life is totally um
+Participant: i mean even just within the u_s like seeing how someone in california grows up is so different from how someone in maryland grows up and then to think about someone in like thailand or something growing up it's pretty it's pretty amazing
+Ellie: Ellie17Dec2012_02 (uh huh)
+Participant: mhm
+Ellie: see_mean (i see what you mean)
+Ellie: travel_trips (i'd love to hear about one of your trips)
+Participant: uh okay um
+Participant: hmm
+Participant: putting me on the spot here ellie
+Ellie: wild_laughter3 ((laughter))
+Participant: um
+Participant: let's see
+Participant: uh
+Participant: well um i
+Participant: it's been awhile since i've been on a trip i guess
+Participant: one of the last trips i did was to um
+Participant: i mean it a xxx like two years ago i went on road trip across the u_s and that was that was pretty amazing saw
+Participant: but i guess the best place <pl> the best two places on the road <roa> i drove from maryland to l_a this is before i actually moved out here but um i i visited new orleans and new orleans was just this whole
+Participant: like even though it's part of the u_s it's like a totally
+Participant: it's totally different than anywhere else it's so um
+Participant: unique the culture there is so unique and and the blend of like caribbean and french and all these other influences into like the american south is so
+Participant: so um
+Participant: uh incredible <incred> eh yeah it's just it's it's unreal <un> yeah it's unreal
+Ellie: yeah2 (yeah)
+Ellie: memorableB (what's one of your most memorable experiences)
+Participant: hmm
+Participant: it's a tough question um
+Participant: one <on> um
+Participant: <makes clicking sound with mouth>
+Participant: i uh
+Participant: hmm
+Participant: you know i i i you can you come back to that question are you capable of that
+Ellie: yes (yes)
+Participant: yeah
+Participant: come back to it
+Ellie: back_later (let's come back to that later)
+Participant: yeah
+Participant: that's what i just said
+Ellie: study (what did you study at school)
+Participant: film
+Ellie: hard_decision (how did you decide to do that)
+Participant: you know that's actually a question i've been asking myself i knew <kne> i know
+Participant: i my entire life i've had like phases of interest so when i was like very very very young i was really into like the first phase that i remember was keys and then tools like i would go around collecting keys
+Participant: and then i'd go around collecting tool like just every sort of tool i had a toolbox my parents have told me that i had a phase before that with which was balls like various balls
+Participant: um
+Participant: and then i was really into like insects collecting insects and reptiles and and stuff <stu> and like animals and then it was a dinosaur phase and
+Participant: at a certain <cert> and eh at a certain point i got really into um
+Participant: like rap <ra> like music like first <fi> at first rap and then uh guitar and then acting and then at some point in there i i had told <to> i rememeber telling someone that right now i'm interested in
+Participant: playwriting and and poetry but eventually i was going to be interested in in uh film
+Participant: like i i could kinda see the trajectory coming but i don't remember what led me to that conclusion i think i just always
+Participant: i was <wa> led a sheltered life uh as far as movies are concerned i didn't my parents didn't let me see an r-rated movie until i was like in high school almost like
+Ellie: hmm1 (hmm)
+Participant: um
+Participant: and uh and i never
+Participant: uh so i never saw an r-rated movie i was also very squeamish like i remember when i was
+Participant: fairly young maybe like six i saw star wars
+Participant: the first scene in darth <dar> star wars darth vader crack like breaks a guy's neck
+Ellie: uh_huh (uh huh)
+Participant: and so just a little scene very at the very very beginning and that like freaked me out and i had to leave the room so
+Ellie: wild_laughter5 ((laughter))
+Participant: i'm not really sure uh
+Participant: yeah it's it's it's
+Participant: um i don't i'm not exactly sure how i got into film
+Participant: but
+Participant: uh i've always been fascinated by like
+Participant: how people interact and what like you know acting and stuff so and movies in general
+Ellie: still_working_on_X (are you still working in that)
+Participant: i am yes
+Ellie: job_virtually (i love my job you could almost say it's virtually made for me what's your dream job)
+Participant: um to be a filmmaker to be able to direct
+Participant: and uh put <pu> put together
+Participant: and make <ma> like i guess direct i don't mm use that word so much 'cause it i think i think of it more as like i i want the opportunity to put together and make
+Participant: movies
+Participant: uh or to make movies is probably the best way to do it uh to say it 'cause i want you know i want involvement in all the
+Participant: all the processes but
+Ellie: mm (mm)
+Participant: i guess the best parabole for that would be a director
+Participant: directing
+Ellie: okay_confirm (okay)
+Ellie: family_relationship (tell me about your relationship with your family)
+Participant: well it's a lot better when i'm not living with them
+Participant: um
+Participant: my
+Participant: i guess um
+Participant: it's funny you should ask ellie um
+Participant: i've been thinking about it a lot lately i i think i'm close in my entire family i'm closest with my dad um i get along with my brother and sister you know like but i don't
+Participant: when away
+Participant: like my brother's in a foreign country right now so i don't have the opportunity to talk with him but like
+Participant: i spend more time talking to my dad than anyone else 'cause i feel like he's the most like
+Participant: of all my family he's the one who most accepts me and like
+Participant: um thinks positively about me
+Participant: um so it's i have like a
+Participant: a complicated relationship with my parents
+Participant: i mean <mea> and my family in general
+Ellie: mhm (mhm)
+Ellie: shyoutgoing (do you consider yourself more shy or outgoing)
+Participant: well on the myers uh briggs personality test i'm uh i'm an extrovert but lately <late> like since moving but i'm not like
+Participant: um
+Participant: i'm not i probably would consider myself on the scheme of extroversion uh or on the scale of extroversion sorry um i would consider myself extremely introverted um
+Ellie: why2 (why)
+Participant: i just i see other extroverts and just no matter who they're around they're able to like strike up conversations and i'm i'm a fairly shy person i'm sort of like
+Participant: uh
+Participant: or inhibited person maybe um
+Participant: so i like to like
+Participant: until
+Participant: yeah i'm but i'm working on it i'm working on it
+Ellie: okay_confirm (okay)
+Ellie: relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)
+Participant: um well in the past i would smoke weed but i've quit smoking weed
+Participant: so now i you know i have a glass of wine and
+Participant: maybe watch a movie
+Participant: um
+Participant: i don't have or maybe go like depending if it's like an xxx if it's um
+Participant: if it's a worn out sort of stress like i'm just like
+Participant: then i that's what i do but if it's a more like anxious type stress i might
+Participant: go on a uh an intense walk don't really exercise that much but i like
+Participant: you know competitive sports and hiking
+Ellie: yeah3 (yeah)
+Ellie: control_temper (how are you at controlling your temper)
+Participant: pretty good
+Ellie: last_argument (when was the last time you argued with someone and what was it about)
+Participant: well i always like arguing um
+Participant: i wouldn't call arguing necessarily losing my temper
+Participant: um
+Participant: i i enjoy uh a vicious debate um
+Participant: but i don't
+Participant: as long as my like
+Participant: 'cause i won't like revert to personal you know attacks
+Participant: uh in my in my arguments i try to keep it on subject
+Ellie: uh_huh (uh huh)
+Participant: um
+Participant: and try to explain myself as best i can which can get frustrating 'cause i'm not like the best articulator of what i think
+Participant: um
+Participant: one of my weaker points i would say
+Participant: but um but the last time i had a a heated debate i think that was was that the question
+Ellie: yes (yes)
+Participant: um
+Ellie: bouts_symptoms (when was the last time that happened)
+Participant: what happened i forget i forget the question that that i had a heated debate
+Ellie: uh_huh (uh huh)
+Participant: hmm
+Participant: the last time i had a heated debate
+Participant: was um i had a heated debate about
+Participant: uh the movie boogie nights
+Participant: um
+Participant: i was <wa> i i didn't lose my temper exactly but i get like very extremely passionate about about
+Participant: 'cause i i don't think it's like that good of a movie but the two people who i was i was arguing with were saying that it was like one of the
+Participant: like best um best movies <laughter> why did they think it was the best movie
+Ellie: why2 (why)
+Ellie: yes (yes)
+Participant: um
+Participant: they think that like there's some there's some sort of they'll as i understand it they have um
+Participant: they have a certain uh they think that the
+Participant: like all of the stories within boogie nights they have their own um like each of them could be their own separate stories they just think that there's a whole like
+Participant: complexity of character within the movie
+Participant: and um
+Participant: that somehow like
+Participant: <sigh> um
+Participant: what what were they saying they were saying like the movie
+Participant: it like xxx it's like the end of an era
+Participant: which makes it like kinda like casino and there's this attention to detail of of of the in the different character like how they
+Participant: how they interact in the plot
+Participant: um
+Participant: kind of like
+Participant: uh
+Participant: yeah i guess
+Participant: i think the heated debate became about like then so from there and uh like personally i it's not like a bad movie or anything but it's
+Participant: the um
+Participant: i just don't think dirk diggler is like that like meaningful <mean> meaningful of a character like i
+Participant: i guess the way i come out i came out of the movie 'cause i had seen it before many years ago and eh i my opinion of it is basically the same even though like i remember like
+Ellie: mm (mm)
+Participant: in watching it again i was able to reevaluate it
+Participant: um there's nothing bad about the movie there's nothing articulable <art> like articulable about that's it's like solid <so> good solid acting you know the directing is good the camera moves are cool
+Participant: um
+Participant: the eh it really <rea> you know it's cool it's but
+Participant: but it's meaningless <mea> for me it was like meaningless and then to and then there were that led us to discuss 'cause a movie that i saw recently that i really did like was django unchained
+Ellie: yeah2 (yeah)
+Participant: and they both saw that movie and they hated that movie
+Participant: and then there was this extreme i guess the heated part of the conversation came about like
+Participant: so in the movie django unchained
+Participant: um you have django and django is like a kinda he's a two dimensional character but i don't think that that necessarily takes away from what the the big
+Participant: the
+Participant: big purpose of the movie is
+Ellie: right2 (right)
+Participant: and um
+Participant: and you have doctor king schultz who's this uh
+Participant: who's this like his mentor character and the person i was arguing with was saying that he
+Participant: was intelligent and uh so and because he was intelligent there's no way he would've risked his life to save django
+Participant: or like would've gone into this like second act where they go and they go to this uh uh plantation to to save django's wife etcetera
+Participant: and um
+Participant: and the reason <rea> the the reason for her giving that argument which like either you buy that he would do that or he wouldn't but the reason for her argument is that an intelligent person would not
+Participant: sacrifice themself for someone else
+Ellie: hmmB (hmm)
+Participant: um which strikes <stri> which strikes me as so like
+Participant: um
+Participant: like who
+Participant: uh like
+Participant: she she her basic <ba> her basic argument was that
+Participant: altruism <al> like altruism doesn't exist <exi> it was a very ayn rand type argument altruism doesn't exist
+Participant: um the only the only thing you can do is serve <ser> like the only thing people do is serve themself
+Participant: um so it's not quite ayn rand but it's like the only people <peo> thing that people <peo> like all people are out to serve themself which i'm not arguing that like
+Participant: every decision has like a mix of altruism and and so like even the most altruistic type decision there's maybe like kernels of self self-interest in there but she made it sound like self-interest was the only motivating factor
+Ellie: yeah3 (yeah)
+Participant: in and and like what but what how how horrible is your life if that's like what your ultimate um
+Participant: purpose <pur> like if you if you can't like love and sacrifice for other people so it led into an extremely uh passionate debate
+Participant: um
+Participant: and uh
+Participant: somewhat like yeah and it's it uh
+Participant: so um so yeah that that i guess that's the the i don't think i necessarily like lost my temper um
+Participant: i think of losing my temper as being more
+Participant: um
+Participant: like i just
+Participant: so <s> i i would so <s>
+Participant: revert to um ad hominem like attacks
+Participant: uh but i i didn't like that's not um
+Participant: maybe i was like maybe i was criticizing <crit> like criticizing her world view but it i wasn't like
+Participant: well you're an idiot
+Participant: you know like it wasn't it didn't it didn't turn into abuse of any sort
+Ellie: understand (i understand)
+Participant: yeah i'm glad you understand
+Participant: <deep breath>
+Ellie: memory_erase (tell me about an event or something that you wish you could erase from your memory)
+Participant: an event or a i don't know if i necessarily would want to erase anything from my memory i would say an issue that i have is not being able to remember in as much detail as i would like i remember feelings and moments
+Participant: not
+Participant: stories um
+Participant: like my life doesn't sync <s> always sync together into like a coherent story it's like this moment and that moment and this moment and that moment so
+Ellie: hmmB (hmm)
+Participant: yeah
+Ellie: hard_decisionB (tell me about the hardest decision you've ever had to make)
+Participant: the hardest decision i've ever had to make
+Participant: oh geez
+Participant: could it just be one of the hardest decisions
+Ellie: yeah3 (yeah)
+Participant: hmm
+Participant: um
+Participant: like choosing between two things that it's like
+Participant: i guess i i'm having a hard time recalling a moment where i like had to choose between
+Participant: two options like no there's no like sophie's choice type moment in my life
+Participant: but i but i do think that the decision 'cause i lived in new york for a while i went to school in new york and uh the decision to leave new york after having lived there for five years was a was very very difficult um
+Ellie: mhm (mhm)
+Participant: and uh but i had to do it
+Participant: for money reasons and because all of my all of my core group of friends
+Participant: were either like leaving <lea> were most of them were leaving and going other places in the world
+Participant: and then uh the one other person who i was close to was living with someone who i did not get along with at all so it was like this situation where i didn't
+Participant: i was either gonna live with people who i wasn't as close with or craigslist or or move home and i i think
+Participant: it was a tough decision to to leave i i had <ha> in fact it was so tough that the only way i could do it i had to justify it by saying that i would be moving back
+Participant: to new york within like a month or two
+Participant: uh which wasn't which didn't end up happening but that was the only way that i could
+Participant: leave new york
+Ellie: isee_downer (i see)
+Ellie: difficult (how hard is that)
+Participant: it was how hard was that
+Participant: or how hard is
+Ellie: yes (yes)
+Participant: how hard was that
+Participant: um
+Participant: it was hard
+Participant: <laughter> um
+Participant: it was it was yeah it was it was just a very like
+Participant: isolating isolating <is>
+Participant: 'cause also like i'd fallen <fa> like previously to that time i had fallen in love with one of my like closest another one of my close very close friends
+Participant: and uh
+Participant: that had kind of gone extremely
+Participant: badly
+Participant: and so i wasn't on speaking terms with her and i couldn't like that whole
+Participant: everyone on my list of friends who was like more <mo> closer to xxx her it was wasn't quite like her or me type thing but that that was the way that i kind of
+Participant: saw it at the time so i didn't like
+Participant: you know just being socially isolated etcetera
+Ellie: yeah_downer (yeah)
+Ellie: that_sucks (that sucks)
+Participant: yeah
+Ellie: easy_sleep (how easy is it for you to get a good night's sleep)
+Participant: well recently it's been awful
+Participant: um
+Participant: i uh
+Participant: i like two so the last last night i slept for like ten and a half hours
+Participant: um which seems to be the length of time that i have to sleep in order to have really vivid dreams
+Participant: but previous to that night
+Participant: so last not last night but the night before last and the night before that i got four hours and two hours of sleep
+Participant: um because i was working on set and i would get back
+Participant: and either and i just like couldn't fall asleep for whatever reason it's um
+Participant: too much riled up energy or something i i don't know
+Ellie: mm (mm)
+Ellie: sleep_affects (what are you like when you don't sleep well)
+Participant: tired uh
+Participant: very
+Participant: not immediately i guess initially upon waking up like i really enjoy being up in the early morning
+Participant: and um i also stopped drinking caffeine like i i've had like a little bit of coffee the last two days but before the last two days i hadn't had any coffee in like three and a half weeks so
+Participant: um
+Participant: i guess
+Participant: with with caffeine in my system i'm ready to i'm ready to go
+Participant: um without caffeine it's
+Participant: i'm just i'm just quieter i guess
+Ellie: okay_confirm (okay)
+Participant: more introverted
+Ellie: behavior_changes (have you noticed any changes in your behavior or thoughts lately)
+Participant: since
+Participant: like lately as in when
+Ellie: mind (whatever comes to your mind)
+Participant: um
+Participant: change in my thoughts yeah i mean i guess when having just moved here there was a period of time like
+Participant: eh at the beginning where the
+Participant: the sheer difficulty of finding a job and finding people to xxx 'cause i moved here 'cause i have a group of friends here or couple of friends but i don't have like a a large number of friends
+Participant: and the the push to
+Participant: to get out there and meet people and find a job and that sort of pressure was pretty um
+Participant: overwhelming at first and i think that i'm slowly like
+Participant: coming to terms with that um
+Participant: and moving you know moving past it i i but not necessarily <nece> you know like it's still it's still there the pressure's there but i'm just
+Participant: you know
+Participant: you you know <sigh> you know <sigh>
+Ellie: Ellie17Dec2012_03 (that's good)
+Ellie: ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)
+Participant: no i just
+Ellie: depression_diagnosed (have you been diagnosed with depression)
+Participant: nope
+Ellie: happy_lasttime (tell me about the last time you felt really happy)
+Participant: the last time i felt really happy
+Participant: might have to reach back
+Participant: um
+Participant: i think the last time i felt really happy
+Participant: was uh during the writing process of so last year i shot a movie
+Participant: um co-wrote co-directed co-produced
+Participant: um
+Participant: and that was kinda like that it still consumes my life but um but i i i think during the
+Participant: writing stages of that movie in which we would bunker <bunk> like get up
+Participant: eat breakfast
+Participant: bunker down work really hard put stuff up on the thing just like pure creative
+Participant: full <fu> energy um between <betw> between me and the person writing it and
+Participant: and there's like probably like a xxx a day that i remember where it's just i remember going to bed and i was just so thrilled to be working on what i was working on and and and working with the person i was working with and like
+Participant: just like
+Participant: i felt like it yeah i guess that was the
+Participant: the last time that was that was like
+Participant: eh more than a year ago though but i guess it's hard to hard to think that i haven't been really truly happy since then but when you're making a movie like
+Ellie: wow (wow)
+Participant: you don't you can't allow yourself to be happy really <real> especially if you're doing it you know basically by yourself with <wi> with like xxx like can't
+Ellie: uh_huh (uh huh)
+Participant: it's too much else to do so
+Ellie: makes_sense (that makes sense)
+Ellie: Ellie17Dec2012_07 (what would you say are some of your best qualities)
+Participant: i would say that i'm very
+Participant: accepting <acce> like
+Participant: accepting of other people
+Participant: and always eh i'm very empathic <em> empathic <em> empathic um
+Participant: and
+Participant: open <o> open <ope> like
+Participant: excited about new ideas and open to new ideas and
+Participant: yeah um
+Ellie: okay_confirm (okay)
+Ellie: self_change (what are some things you wish you could change about yourself)
+Participant: hmm
+Participant: um
+Participant: i guess i wish i was less uh
+Participant: uh
+Participant: less ruled by fear more fearless <f> more fearless in my
+Participant: you know
+Participant: everyday interactions and in my like
+Participant: um
+Participant: you know
+Participant: zest for for living
+Participant: um <sigh> yeah i xxx
+Participant: i other things i would change about myself i'd
+Participant: i would
+Participant: i don't know <laughter>
+Ellie: um (um)
+Ellie: feelbadly (tell me about a time when someone made you feel really badly about yourself)
+Participant: hmm
+Participant: really badly about myself
+Participant: um
+Participant: <sigh>
+Participant: i think there are numerous <nu> numerous instances in my childhood in which my like
+Participant: uh
+Participant: like every single time there was an issue at school or some sort of um
+Participant: some sort of uh
+Participant: conflict with a teacher or anything my parents were always
+Participant: always on the other side of the court you know like never
+Participant: it was i i noticed
+Participant: or noticed as i got older that other people other parents were
+Participant: like if their kid was in trouble like there was something wrong with with
+Participant: like their kid was perfect there's something wrong with other people but my parents were it was always the opposite um in particular my mom so i would say that there a couple of instances in which
+Participant: um i was like blamed or like you know
+Participant: it was my it was my fault um when
+Participant: when what i was doing like
+Participant: yeah it's just thing things things that i couldn't like
+Participant: there's no yeah i don't know
+Ellie: been_hard (that sounds really hard)
+Participant: yeah
+Ellie: advice_back (what advice would you give to yourself ten or twenty years ago)
+Participant: ten years ago um
+Participant: stay stake you know like i i think that there's um
+Participant: i have a tendency to
+Participant: like i love <lo> love the fact that i have a tendency to get really caught up in ideas <ide> in an idea and like devote myself entirely to it but sometimes
+Participant: um
+Participant: ideas are too easily xxx i would just say like do as much as possible like don't
+Participant: don't decide that you um
+Participant: are only going to do
+Participant: one thing um try to like i guess i would've taken up like some done <do> taken piano learn learn to read music would be a big thing for me learn to play the drums
+Ellie: mhm (mhm)
+Participant: would've been drums more than reading music i would say i'd love to learn how to play the drums and maybe done more like acting classes
+Participant: um
+Participant: as far as like 'cause i was always really into directing so i was always directing actors and stuff but i didn't
+Participant: it's only now that i um i don't know i guess
+Participant: stay uh
+Participant: don't stay <sta> stay stay focused <fo> yeah i don't know that's a tough tough question <que> tough question ellie
+Ellie: asked_everything (okay i think i have asked everything i need to)
+Participant: that's it
+Ellie: appreciate_open (thanks for sharing your thoughts with me)
+Participant: sure
+Ellie: bye (goodbye)
+Participant: goodbye
+Participant: bye

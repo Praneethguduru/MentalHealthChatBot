@@ -1,0 +1,232 @@
+Participant: <synch>
+Ellie: IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)
+Participant: yeah
+Ellie: okay_confirm (okay)
+Ellie: how_doingV (so how are you doing today)
+Participant: i'm fine
+Ellie: thats_good (that's good)
+Ellie: where_originally (where are you from originally)
+Participant: um pacific grove california
+Ellie: like_about_LA (what are some things you really like about l_a)
+Participant: um <sigh> the wholesale opportunities and uh all the stores and
+Participant: anything i could ever ask for
+Ellie: mhm (mhm)
+Ellie: dont_like_LA (what are some things you don't really like about l_a)
+Participant: <laughter> the uh traffic the the mood of the people and the
+Participant: the unhealthy pace
+Ellie: see_mean (i see what you mean)
+Ellie: study (what did you study at school)
+Participant: um uh let's see i i did like culinary and then i did really good in art and music
+Participant: in high school
+Ellie: cool3 (cool)
+Ellie: hard_decision (how did you decide to do that)
+Participant: uh through my own uh will and desire to want to
+Participant: uh get involved with the music
+Ellie: still_working_on_X (are you still working in that)
+Participant: uh no
+Ellie: dream_job (what's your dream job)
+Participant: uh open up a uh health practice of some sort
+Ellie: change_directions (what made you decide to do that)
+Participant: uh changing things in my life that uh had an impact on
+Participant: myself and others for the for the benefit of health
+Ellie: thats_great (that's great)
+Ellie: travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)
+Participant: uh when i have the opportunity
+Ellie: travel_changed (what do you enjoy about traveling)
+Participant: um <sigh>
+Participant: buying things seeing the culture
+Participant: relaxing not thinking about the city
+Ellie: travel_trips (i'd love to hear about one of your trips)
+Participant: ah well i i used to go to texas every every year uh with my dad during the summer and i always wanted to stay there and live there when i went on vacation
+Ellie: memorableB (what's one of your most memorable experiences)
+Participant: um most likely one of these trips to texas uh where we would go and spend time in the desert and shoot guns and ride go karts and stuff like that
+Ellie: great_situation (that sounds like a great situation)
+Participant: <laughter> it was
+Ellie: family_relationship (tell me about your relationship with your family)
+Participant: uh let's see well um
+Participant: my dad and i are uh
+Participant: are not really talking that much and uh my mom passed away about two months ago
+Ellie: sorry_hear (i'm sorry to hear that)
+Participant: thanks
+Ellie: shyoutgoing (do you consider yourself more shy or outgoing)
+Participant: definitely more shy i've always been that way
+Ellie: why2 (why)
+Participant: uh <sigh>
+Participant: eh just the personality that i've grown into but
+Participant: learning how to adjust to the sensitivity and grow out of it
+Ellie: mhm (mhm)
+Ellie: relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)
+Participant: oh tea and um
+Participant: you know eating i like to eat i mean that calms me down
+Ellie: control_temper (how are you at controlling your temper)
+Participant: uh eh
+Participant: not that good when i get really upset it's usually a problem and i have to work to calm myself down and sometimes i just
+Participant: don't
+Participant: get on something and i don't stop
+Ellie: hmm_downer (hmm)
+Ellie: landed_trouble (has that gotten you in trouble)
+Participant: sometimes but i've learned to control it to that extent now
+Ellie: last_argument (when was the last time you argued with someone and what was it about)
+Participant: <laughter> yesterday
+Participant: i was arguing about what sort <s> what kind of water we should be drinking
+Ellie: why2 (why)
+Participant: uh well a difference of opinion and i felt as though my opinion was very valid
+Participant: um
+Participant: even though uh the other party's opinion was somewhat
+Participant: misinformed
+Ellie: uh_huh (uh huh)
+Ellie: situation_handled (tell me about a situation that you wish you had handled differently)
+Participant: um definitely uh every day is a growing process i wish i would've handled everything differently every day which is what
+Participant: um makes me grow and i
+Participant: try to work toward how i would've wanted to handle things every day
+Participant: little by little
+Ellie: okay_confirm (okay)
+Ellie: hard_decisionB (tell me about the hardest decision you've ever had to make)
+Participant: um <sigh>
+Participant: can't think of anyone right now
+Ellie: feelguilty (what's something you feel guilty about)
+Participant: um <sigh>
+Participant: i'd i'd i'd say uh not
+Participant: supporting my friends as much with their
+Participant: career choices
+Participant: <sigh>
+Ellie: tell_about_that (can you tell me about that)
+Participant: uh i'd rather not get into it <laughter>
+Ellie: okay_confirm (okay)
+Ellie: influence_positive (who's someone that's been a positive influence in your life)
+Participant: <deep breath> um <sigh> the raw food educators on youtube and <sigh> um raw vegan educators and the detox therapy <therap>
+Participant: therapy uh experts
+Participant: have been really inspirational in the past two months
+Ellie: more (tell me more about that)
+Participant: well uh they believe that
+Participant: um the essence of all nutrition comes from the raw fruits and vegetables and
+Participant: this is true with many studies like t colin campbell the china study and
+Participant: um
+Participant: the sources of information that are uh that that are very good and i i think deserve respect based on
+Participant: you know real research <laughter>
+Ellie: uh_huh (uh huh)
+Ellie: easy_sleep (how easy is it for you to get a good night's sleep)
+Participant: really easy i've uh almost got it down to a science
+Ellie: thats_good (that's good)
+Ellie: sleep_affects (what are you like when you don't sleep well)
+Participant: uh i'm tired
+Ellie: feel_lately (how have you been feeling lately)
+Participant: been feeling
+Participant: better than i have in a long time
+Ellie: tell_about_that (can you tell me about that)
+Participant: uh yeah i think it's uh due to the transition in the diet and
+Participant: in no way having a placebo effect that it's actually you know
+Participant: loosening up toxins and things that have accumulated over
+Participant: my short life time of
+Participant: um
+Participant: you know toxic choices with food and
+Participant: drugs or whatever it would be
+Ellie: mhm (mhm)
+Ellie: behavior_changes (have you noticed any changes in your behavior or thoughts lately)
+Participant: <deep breath> yes um less tense and less irritable and uh i have more clarity and
+Participant: more control over my
+Participant: uh decisions and my wants versus what i need
+Participant: that sort of thing
+Ellie: thats_great (that's great)
+Ellie: ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)
+Participant: nope
+Ellie: depression_diagnosed (have you been diagnosed with depression)
+Participant: yes to some extent
+Ellie: when_diagnosed (how long ago were you diagnosed)
+Participant: uh over five years ago
+Ellie: why_seek_help (what got you to seek help)
+Participant: um <sigh> lack of motivation and
+Participant: basically my my symptoms were
+Participant: paralleling that of depression
+Ellie: symptoms_what (what were your symptoms)
+Participant: uh loss of appetite loss of motivation not wanting to do anything not wanting to be social at all having fear
+Participant: of uh social situations
+Participant: and uh
+Participant: xxx the main four or five
+Ellie: therapy_going (do you still go to therapy now)
+Participant: no
+Ellie: stop_going (why did you stop)
+Participant: uh i believe i overcomed a chapter in my life that was the the doctor
+Participant: um
+Participant: you know taking control of my health and
+Participant: experimenting with drugs and i just sort of took another route which was alternative and i started
+Participant: juicing more and um just trying to listen to maybe what i needed with the help of uh
+Participant: the internet and nutrition experts and stuff like that
+Ellie: mhm (mhm)
+Ellie: therapy_useful (do you feel like therapy is useful)
+Participant: yes
+Ellie: tell_about_that (can you tell me about that)
+Participant: uh i believe therapy is useful because
+Participant: um <sigh> without looking inward or having somebody to help you do that
+Participant: um it's very hard to readjust to some of these problems that you can have that
+Participant: will just uh resonate in the subconscious until you you know it has an outburst it basically
+Participant: um therapy um
+Participant: will help in overall health and mental
+Participant: health i believe
+Participant: for everybody
+Ellie: yeah3 (yeah)
+Ellie: happy_lasttime (tell me about the last time you felt really happy)
+Participant: last night um
+Participant: i made a really great vegan uh
+Participant: dinner with you know meat tacos and cheese and guacamole and
+Participant: had a couple of my friends over and they really liked it a lot and i almost converted them <laughter>
+Ellie: thats_great (that's great)
+Participant: yeah
+Ellie: self_change (what are some things you wish you could change about yourself)
+Participant: uh i would say uh
+Participant: you know trying to listen to my inner conscious more than what my brain wants me to do
+Participant: like my brain likes caffeine and sugar
+Participant: whereas you know my body needs uh something other than that xxx
+Participant: is an example
+Ellie: difficult (how hard is that)
+Participant: it's very very hard it's a daily process
+Ellie: feelbadly (tell me about a time when someone made you feel really badly about yourself)
+Participant: um i was uh
+Participant: handling money for uh a business partner and
+Participant: they ended up short and i was to blame but it was actually my formulas of
+Participant: crunching the numbers that it made it short but they he was unaware of the change i made to the formula so
+Participant: the blame was on me that i may have took money and i i automatically felt bad about that because of my
+Participant: uneasy uh my uncertainty to the change of formula
+Ellie: yeah_downer (yeah)
+Ellie: regret (is there anything you regret)
+Participant: um
+Participant: no
+Ellie: advice_back (what advice would you give to yourself ten or twenty years ago)
+Participant: twenty years ago i was two years old ten years ago i was twelve years old i would tell myself to um
+Participant: to start eating
+Participant: raw fruits and vegetables every day
+Ellie: okay_confirm (okay)
+Ellie: BF_describe (how would your best friend describe you)
+Participant: as calm and
+Participant: um
+Participant: sad maybe smart talented
+Ellie: Ellie17Dec2012_10 (tell me about something you did recently that you really enjoyed)
+Participant: <laughter>
+Participant: um
+Participant: i really enjoyed going to the uh wholesale food market in downtown los angeles
+Ellie: tell_about_that (can you tell me about that)
+Participant: um <sigh> lots of food
+Participant: uh great prices you can
+Participant: eat and feed a whole family for a third of the price as going to a normal supermarket
+Participant: so uh i i really get in a lot of enjoyment uh teaching people
+Participant: how to uh maybe better themselves especially food-wise and what they're eating
+Ellie: awesome (awesome)
+Ellie: Ellie17Dec2012_09 (what are some things that usually put you in a good mood)
+Participant: uh eating and um
+Participant: watching a really good t_v show
+Ellie: okay_confirm (okay)
+Ellie: Ellie17Dec2012_07 (what would you say are some of your best qualities)
+Participant: um
+Participant: i'm insightful i can uh
+Participant: i can adjust to people's uh
+Participant: <sigh>
+Participant: uh <sigh> i dunno i guess i'll skip that question for now
+Ellie: okay_confirm (okay)
+Ellie: Ellie17Dec2012_08 (what are you most proud of in your life)
+Participant: i'm most proud of um <sigh>
+Participant: i'd say my overall situation with where i'm at right now i could've never imagined that i'd be in such a fortunate um situation
+Ellie: good_hear (that's so good to hear)
+Ellie: asked_everything (okay i think i have asked everything i need to)
+Ellie: appreciate_open (thanks for sharing your thoughts with me)
+Ellie: bye (goodbye)
+Participant: <deep breath> hmm <sigh>

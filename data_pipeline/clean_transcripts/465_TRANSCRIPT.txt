@@ -1,0 +1,394 @@
+Participant: <sync>
+Ellie: IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)
+Participant: yeah
+Participant: cool
+Ellie: okay_confirm (okay)
+Ellie: how_doingV (so how are you doing today)
+Participant: i'm hanging out you know being on an adventure chilling
+Ellie: thats_good (that's good)
+Ellie: where_originally (where are you from originally)
+Participant: culver city california
+Ellie: really (really)
+Participant: yeah yeah
+Ellie: like_about_LA (what are some things you really like about l_a)
+Participant: all the different microcosms and different places and peoples and scenes and stuff you know it's very big very vast
+Participant: it's crazy
+Ellie: cool3 (cool)
+Ellie: dont_like_LA (what are some things you don't really like about l_a)
+Participant: i don't know
+Participant: i can't i mean
+Participant: of course there's a bunch of things i could say but uh
+Participant: i i i don't know i mean i i like l_a i like even the bad you know it's just all a part of the experience in general you know
+Ellie: see_mean (i see what you mean)
+Ellie: travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)
+Participant: <laughter>
+Participant: yeah i've been around the country
+Participant: a bunch
+Ellie: travel_changed (what do you enjoy about traveling)
+Participant: uh again it's like going into another world it's like quantum leap i get to transport to a whole another <nother> realm of people
+Participant: and uh you know learn about them and stuff and hang out and
+Participant: drink beers and smoke weed and write and
+Participant: rap and
+Participant: do drugs and hang out more and
+Participant: all sorts of shit man it's crazy
+Ellie: awesome (awesome)
+Participant: <laughter>
+Ellie: travel_trips (i'd love to hear about one of your trips)
+Participant: oh really
+Participant: oh
+Ellie: yeah3 (yeah)
+Participant: oh oh oh okay um
+Participant: yo i went to san francisco recently
+Participant: and i was there for like eight days i rapped at this house party in san jose real quick
+Participant: then i went to davis did the same thing
+Participant: i took the train chilled in san francisco hung out with some of my middle school friends for hella long
+Participant: then uh yeah it was crazy i was just walking usually i ride bikes everywhere but i was just like walking
+Participant: this this whole time and
+Participant: it was cool i was mad exploring
+Participant: i got um i got back home eventually then after that i went directly to texas
+Participant: and did some shows on the way going to texas and stayed out there for eight days
+Ellie: wow (wow)
+Participant: and that was <wa> it was it was gnarly it was crazy
+Participant: i don't even know man it was it's so much happened it was you know i had fun
+Ellie: thats_good (that's good)
+Ellie: memorableB (what's one of your most memorable experiences)
+Participant: um i went to this place called the salton sea
+Participant: and me a bunch of my bicycle friends we um <sniffle>
+Participant: we got into cars and went way out into the desert and we um
+Participant: yeah it was tight we were burning stuff we burned a car we drove the car it was like a road warrior type of car
+Ellie: wild_laughter5 ((laughter))
+Participant: and um it it it it was crazy man
+Participant: like it was like fifteen niggers on one car it was like gnarly we got naked went into a stream
+Participant: i did hella shrooms did hella molly
+Participant: smoked a ridiculous amounts of weed
+Participant: got retarded drunk
+Participant: somebody tried to give me some mescaline i didn't wanna do that but this was like in march
+Participant: before i went on the other trip this was like the precursor
+Participant: to my other trip it was the salton sea trip
+Ellie: wild_laughter7BIG ((laughter))
+Participant: but yeah it was tight
+Ellie: nice (nice)
+Participant: i saw a lot of nakedness that trip
+Ellie: really (really)
+Participant: yeah really
+Ellie: shyoutgoing (do you consider yourself more shy or outgoing)
+Participant: i'm hella outgoing
+Participant: outgoing for sure
+Ellie: relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)
+Participant: smoke weed
+Ellie: okay_confirm (okay)
+Participant: <laughter>
+Ellie: study (what did you study at school)
+Participant: what did i study
+Ellie: yeah3 (yeah)
+Participant: uh um
+Participant: oh i i was studying <laughter> um photography and photojournalism
+Participant: and uh
+Ellie: sounds_interesting (that sounds interesting)
+Participant: yeah yeah that's about it
+Participant: got to use the computer for free
+Participant: got to get use baller ass cameras for free
+Participant: and i would just do a little uh i would do man on the street type shit with students not man on the street but the ones where you take their picture and it's like
+Participant: i forgot what it was called it was long ago
+Ellie: mm (mm)
+Ellie: still_working_on_X (are you still working in that)
+Participant: nah nah nah not anymore
+Ellie: dream_job (what's your dream job)
+Participant: this
+Participant: being me and just <j> hanging out
+Participant: i rap that's what i do
+Participant: i do little shows around the country and stuff i got a little fan base
+Participant: and i'm just always you know just doing that just doing art i draw too
+Participant: my my dream job is not working a job and being me
+Participant: that's the dream job getting paid for being me
+Participant: so that's yeah
+Ellie: control_temper (how are you at controlling your temper)
+Participant: i'm pretty good
+Ellie: last_argument (when was the last time you argued with someone and what was it about)
+Participant: like two weeks ago i was at this after hours
+Participant: one i was already like super drunk and two it was after hours
+Participant: three it was after hours so like
+Participant: man i had a bunch of pens
+Participant: these dudes took my pens away <clears throat> pens in my like fanny pack i had like a fanny pack so i had pens in there 'cause i do art
+Ellie: mhm (mhm)
+Participant: he's like nah dog you can't take this in and i'm like
+Participant: okay
+Participant: for sure let me just leave 'em right here and i'll get 'em when i come out and he was like okay
+Participant: i come out and they're gone
+Participant: accidentally knock a beer over
+Participant: and he gets mad at me he's like you gotta go now and i'm like that wasn't my fault that was your fault but then
+Participant: but then while that happened
+Participant: my homie was getting like ambushed by these three big old security guards
+Participant: and then you know when i saw them put hands on my friend that's when i really lost it
+Participant: and i and he and i was like better let go of my friend right now he's like what you gonna do ese <spanish> and i'm like what you gonna do and then like he threw me to the ground
+Participant: then i and and no no he had his arm over me i put my arm over him and threw him to the ground and then it got broken up
+Participant: but that was the last time
+Ellie: wow (wow)
+Participant: i got angry
+Ellie: been_hard (that sounds really hard)
+Participant: it was cool it was fun
+Participant: life
+Ellie: wild_laughter3 ((laughter))
+Participant: you know
+Ellie: situation_handled (tell me about a situation that you wish you had handled differently)
+Participant: huh i made <gibberish>
+Participant: maybe that maybe that situation could've been handled differently
+Participant: it could've been handled differently if they would've been handling things differently then i wouldn't have to react
+Participant: it's not like i was mad i was acting off of reaction i had to react like that
+Participant: because like justice like i couldn't it was unjust it was like
+Participant: i'm not a mean person at all but when i saw
+Participant: one of my loved ones get attacked i had to like come
+Participant: and like you know like react to that
+Participant: and they were the hot
+Ellie: see_mean (i see what you mean)
+Participant: you know what i mean i was like yo ya niggas is tripping like yo
+Participant: chill out this is a tiny little white dude
+Participant: you're a humongous ass mexican nigga it's like you need to fall back
+Participant: you know what i mean it was crazy
+Ellie: yeah3 (yeah)
+Participant: <laughter>
+Ellie: feelguilty (what's something you feel guilty about)
+Participant: guilty
+Participant: uh i don't know i steal shit sometime from stores when i'm hungry
+Participant: if i got no money
+Participant: i guess i'm not really guilty 'cause i don't know actually yeah i don't feel guilty about that
+Participant: food should be free
+Participant: know what i mean
+Participant: but um
+Participant: yeah i don't know
+Participant: i lie i guess i lie <l> everybody lies sometime i lie sometimes
+Participant: maybe like little like idle here and there exaggerations
+Ellie: mm (mm)
+Participant: okay <ok>
+Ellie: landed_trouble (has that gotten you in trouble)
+Participant: nah nah never
+Ellie: thats_good (that's good)
+Ellie: hard_decisionB (tell me about the hardest decision you've ever had to make)
+Participant: the hardest
+Ellie: mhm (mhm)
+Participant: i guess
+Participant: i don't really know what the hardest decision was but i get faced with hard decisions
+Participant: and those would be like
+Participant: i got so many friends sometimes
+Participant: i can't really hang out with everybody in one weekend
+Participant: so it's like i gotta make decisions like if i go over this sector of the town
+Participant: i'm gonna hang out with x y z niggas if i go over here x y z niggas so it's like
+Participant: heavy you know
+Participant: those are hard decisions 'cause i never like to let anybody down
+Participant: so uh yeah stuff like that deciding between friends to hang out with
+Ellie: understand (i understand)
+Participant: ouch
+Ellie: family_relationship (tell me about your relationship with your family)
+Participant: it's cool i live with my mom
+Ellie: family_roleB (how close are you to your family)
+Participant: i come home like every three to four days
+Participant: so i'm i
+Ellie: influence_positive (who's someone that's been a positive influence in your life)
+Participant: who
+Participant: what could you repeat the question
+Ellie: influence_positive (who's someone that's been a positive influence in your life)
+Participant: um
+Participant: my aunty
+Ellie: tell_about_that (can you tell me about that)
+Participant: oh she's just really nice she's like a little sweet little blind old lady
+Participant: who cooks really good
+Ellie: aw (aw)
+Participant: and it's tight i don't know
+Ellie: okay_confirm (okay)
+Ellie: memory_erase (tell me about an event or something that you wish you could erase from your memory)
+Participant: something i could erase from my memory
+Participant: i wouldn't wanna erase anything from my memory
+Participant: 'cause that'll be like
+Ellie: why2 (why)
+Participant: because like
+Participant: the experiences you go through make you who you're who you are
+Participant: i think weak people like to wanna erase things or block things out like
+Participant: i don't that doesn't exist i mean there's shit that's been hard
+Participant: but i would never say i would not want that to happen
+Participant: 'cause you know you must you gotta learn from experience you know i mean to be the better you
+Participant: all that shit is like a is like test you know
+Participant: that bad experience is just a test you gotta overcome
+Participant: and be stronger and not just like curl up and be like oh my god life's hard oh
+Participant: you know that shit's for weak people
+Ellie: uh_huh (uh huh)
+Participant: i don't believe in that
+Participant: i have compassion for people who do get a
+Participant: who do wanna do stuff like that but i still like
+Participant: i don't see the logic in it
+Ellie: mm (mm)
+Participant: mm
+Ellie: easy_sleep (how easy is it for you to get a good night's sleep)
+Participant: i mean i stay up pretty late and do all sorts of reckless ass shit so uh but when i am home
+Participant: and it's pretty easy i could just go to sleep
+Participant: you know when i get tired i get tired
+Participant: yeah
+Ellie: feel_lately (how have you been feeling lately)
+Participant: lately i've been on this like i've been partying hella tough lately like oh my god for at least six days
+Participant: like today coming to do this talk to you
+Participant: was the first time i've been able to come back to culver city since like friday
+Participant: 'cause i've been downtown and then it was like cinco de mayo
+Participant: and it was like you know random ass parties i went to with homies
+Participant: smoking ridiculous amounts of cigarettes drinking beers
+Participant: fucking did some molly
+Participant: fucking did some coke
+Participant: fucking shit was crazy yo it was just like uh
+Participant: it was a rockstar weekend
+Participant: or a week
+Ellie: wow (wow)
+Participant: or
+Participant: type of stuff
+Ellie: ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)
+Participant: that's post traumatic stress syndrome
+Ellie: yeah3 (yeah)
+Participant: no i have not
+Ellie: depression_diagnosed (have you been diagnosed with depression)
+Participant: i have not
+Participant: but i get
+Ellie: happy_lasttime (tell me about the last time you felt really happy)
+Participant: oh i mean shoot saturday i was hella happy
+Participant: <laughter>
+Participant: it was great
+Participant: but i was under the influence so
+Participant: but it was still great you know i was mad empathic
+Participant: like
+Participant: mad like a flirty
+Participant: mm i was freestyling like a g i was like kicking hella rhymes <sniffle>
+Participant: uh it was dope you know
+Participant: analyzing my life realized some stuff that i'm gonna change about my life and uh yeah it was i had a ball it was great
+Participant: it was awesome i <xxx>
+Ellie: great_situation (that sounds like a great situation)
+Participant: oh yeah it was
+Ellie: feel_down (do you feel down)
+Participant: no
+Participant: i didn't even have a crazy comedown
+Participant: i'm i'm like i'm chilling
+Participant: i definitely gained a couple pounds from last week i've been drinking a lot of beers i'm feeling a little extraneous but besides that
+Participant: i'm i'm
+Participant: ready
+Ellie: okay_confirm (okay)
+Participant: hmm okay
+Ellie: BF_describe (how would your best friend describe you)
+Participant: i don't know as a lovable dude
+Participant: people be loving me man they don't like me they love me
+Participant: and that shit's crazy
+Participant: i just you know i just try to be happy i try to make people happy and just you know <sniffle>
+Participant: be real posi-core as they've said
+Participant: like this is hella positive <p> positive you know
+Ellie: mhm (mhm)
+Ellie: self_change (what are some things you wish you could change about yourself)
+Participant: man i really don't wish i could i mean i'd lose weight i guess that's about it
+Participant: but besides that i that's i mean i ride bikes every day like my legs are pretty strong
+Participant: maybe i'd just get more buff in the arm
+Participant: but that's about the only thing i would change and i don't really <r> i'm not really in a hurry to change that like if that happens just through me living and me biking more
+Participant: then yeah cool but i don't not <n> i'm not you know abrupt change i don't need i mean gradual change sure
+Participant: but i'm not i don't know yeah
+Participant: i wouldn't change anything but if i would it would be that but really nothing 'cause i'm chilling right now
+Ellie: mm (mm)
+Ellie: feelbadly (tell me about a time when someone made you feel really badly about yourself)
+Participant: uh
+Participant: i don't know i got broken up with like
+Participant: in august that made me feel bad about myself i guess
+Participant: and yeah it was just somebody i was going out with but they just broke up with me and like that shit sucked
+Participant: but that was probably the last time like i felt really bad about myself <cough>
+Ellie: tell_about_that (can you tell me about that)
+Participant: um what exactly do you wanna know about that
+Ellie: mind (whatever comes to your mind)
+Participant: oh like um
+Participant: i don't know we were just going out and then she was just hella jealous and was going through my phone sometimes and accusing me of shit but then she ended up breaking up with me
+Participant: just 'cause she wanted to like mess around with other people
+Participant: and that was the relationship in a nutshell
+Ellie: that_sucks (that sucks)
+Participant: uh life sucks you gotta adapt and change man
+Participant: know what i mean
+Ellie: yeah3 (yeah)
+Participant: don't walk from it run to what'd you say
+Ellie: regret (is there anything you regret)
+Ellie: regret (is there anything you regret)
+Participant: yeah that bitch gave me s_t_ds that shit sucks fucking a
+Participant: that's the only thing i regret
+Ellie: sorry_hear (i'm sorry to hear that)
+Participant: yeah man it's a cold game
+Participant: but i i got the shot it was cool i'm like boom clean
+Participant: but that's about it
+Participant: i don't know she's a cool person we still hang out
+Participant: you know
+Participant: she keep losing i'm just gonna keep winning know what i mean
+Participant: don't run from it run to it know what i mean
+Ellie: yeah3 (yeah)
+Participant: <laughter>
+Participant: wait wait ten <t> ten or twenty years ago
+Ellie: uh_huh (uh huh)
+Participant: i i was only seven years old you what do i tell my seven year old self
+Participant: he wouldn't be able to comprehend the advice i would give what <w> what'd you say
+Ellie: yes (yes)
+Ellie: yeah3 (yeah)
+Participant: oh oh oh yeah he wouldn't um be able to comprehend the advice i'd give him
+Participant: i'd be like
+Participant: just um fucking
+Participant: read a little more books or something dude like
+Ellie: wild_laughter3 ((laughter))
+Participant: uh
+Participant: i don't know man fucking it's gonna be okay you're you you you're great just keep
+Participant: doing <ts> cool shit and have a ball
+Ellie: wild_laughter3 ((laughter))
+Participant: i don't know
+Participant: i wouldn't know
+Participant: i wouldn't wanna alter young me actually and this is why i say this
+Participant: because
+Participant: if i would to tell my young self to do something differently
+Participant: i would not have grown into the person i am right now
+Participant: to even be able to tell my young self something
+Participant: if if <i> if the laws of quantum physics and all that shit is real and time travel you know
+Participant: anything i do in the past
+Participant: would
+Participant: this life would be now be a variable so me going back there
+Participant: telling him to do something differently will alter the course of history and then the time stream that i'm in may not may cease to exist
+Ellie: right2 (right)
+Ellie: yeah3 (yeah)
+Participant: you know what i'm saying so i really wouldn't wanna do that
+Participant: i'll just be like do fuck up fuck up more even
+Participant: but yeah make more mistakes 'cause the only way to
+Participant: to be a better person is to make hella mistakes you know
+Participant: at least that
+Ellie: see_mean (i see what you mean)
+Participant: at least that's like my my reckless like mindstate like yo if you're gonna fuck up fuck up hard
+Participant: 'cause you'll learn more from it
+Participant: you know they say what do they say
+Participant: um experience is the best professor
+Participant: you know what i'm saying that's basically what that that's how i jive you know what i mean
+Ellie: yeah3 (yeah)
+Participant: <sniffle>
+Ellie: Ellie17Dec2012_08 (what are you most proud of in your life)
+Participant: i'm proud of this life that i'm here doing stuff like this <laughter>
+Participant: like i'm like so stoked
+Participant: i've been around the country i've been on people's albums
+Participant: i write i do voiceover works from time to time
+Participant: and yeah i people know me i rap i ride bikes
+Participant: i've infiltrated multiple
+Participant: subculturals i mean subcultures and types of people in the city
+Participant: scrubbed_entry
+Participant: and um yeah man i don't know
+Participant: i guess it's like i live my life like i'm running for mayor but i'm not really running for mayor i'm just running to be the best me i can be
+Participant: so i'm kissing hands and shaking babies along the way and it it's been a rad fantastic time
+Participant: and it could only get bigger and better
+Ellie: thats_great (that's great)
+Participant: <sniffle>
+Ellie: asked_everything (okay i think i have asked everything i need to)
+Participant: are you sure
+Ellie: mhm (mhm)
+Participant: woah
+Ellie: appreciate_open (thanks for sharing your thoughts with me)
+Participant: totally that's crazy
+Ellie: bye (goodbye)
+Participant: bye
+Participant: i love you
+Ellie: me_too (me too)
+Participant: <laughter> you love you too
+Ellie: yeah3 (yeah)
+Participant: that's tight should i press the button now or what
+Ellie: uh_huh (uh huh)
+Participant: oh okay okay well can you wave
+Participant: do you do that
+Participant: do you wave
+Participant: oh you don't wave okay for sure
+Participant: bye

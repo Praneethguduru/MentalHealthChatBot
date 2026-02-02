@@ -1,0 +1,264 @@
+Participant: <synch>
+Participant: <laughter>
+Ellie: IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)
+Participant: yes
+Ellie: okay_confirm (okay)
+Ellie: how_doingV (so how are you doing today)
+Participant: i'm doing well
+Ellie: thats_good (that's good)
+Ellie: where_originally (where are you from originally)
+Participant: i was born in oakland
+Ellie: really (really)
+Ellie: like_about_LA (what are some things you really like about l_a)
+Participant: um <sigh> all the different areas of the city
+Participant: uh the different cultures that are here
+Ellie: mhm (mhm)
+Ellie: dont_like_LA (what are some things you don't really like about l_a)
+Participant: the traffic the
+Participant: um lack of public transportation
+Participant: and the superficiality
+Ellie: see_mean (i see what you mean)
+Ellie: travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)
+Participant: <laughter>
+Participant: i i don't i would love to travel more
+Ellie: travel_changed (what do you enjoy about traveling)
+Participant: um <sigh>
+Participant: being able to experience a different way of living
+Participant: um getting outside the bubble that you normally live in and
+Participant: getting a different perspective
+Ellie: uh_huh (uh huh)
+Ellie: travel_trips (i'd love to hear about one of your trips)
+Participant: um in two thousand eight i studied abroad in brazil and that was about four months
+Participant: and i was in bahia which is in the north and um
+Participant: let's see the program consisted of learning the history learning the language and staying with a homestay family
+Ellie: nice (nice)
+Ellie: change_directions (what made you decide to do that)
+Participant: um i've always wanted to travel and i chose brazil because um
+Participant: they have an afro-brazilian population or a large afro-brazilian population which i really wanted to learn more about and i think the history and the cullture is really interesting
+Ellie: mhm (mhm)
+Ellie: memorableB (what's one of your most memorable experiences)
+Participant: um
+Participant: i think taking a bus by myself to
+Participant: a remote beach and just navigating on my own and um figuring out where to go
+Participant: yeah
+Ellie: thats_great (that's great)
+Ellie: study (what did you study at school)
+Participant: right now i'm getting my master's in social work
+Ellie: dream_job (what's your dream job)
+Participant: <laughter>
+Participant: dream job <sigh> i think to um consult about um mental health and
+Participant: how to um
+Participant: how to intervene effectively with different cultures
+Participant: and doing research and consulting work and getting to travel
+Participant: um
+Participant: basically that those would be the main characteristics
+Ellie: okay_confirm (okay)
+Ellie: shyoutgoing (do you consider yourself more shy or outgoing)
+Participant: i think that's a false dichotomy
+Participant: but i do consider myself shy but at the same time outgoing in the sense that i push myself to do things outside of my comfort zone
+Participant: and i'm determined to do what it takes to become successful
+Ellie: makes_sense (that makes sense)
+Ellie: relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)
+Participant: <laughter>
+Participant: um i listen to music
+Participant: and just lay on my bed and
+Participant: um
+Participant: i guess you could say do mindfulness and really just take my mind off of things
+Ellie: mhm (mhm)
+Participant: also breathing exercises which i'm learning more about um as well as exercise
+Ellie: cool3 (cool)
+Ellie: control_temper (how are you at controlling your temper)
+Participant: pretty good i don't get angry a lot
+Participant: um
+Participant: so as far as angry temperament i'm pretty good at that
+Ellie: thats_good (that's good)
+Ellie: last_argument (when was the last time you argued with someone and what was it about)
+Participant: hmm
+Participant: um
+Participant: mm what month is this may
+Participant: probably two months ago
+Participant: and i argued
+Participant: via text message <laughter> so it's not really intense arguing but
+Participant: i guess you could call it arguing in a sense over whether or not i should be forgiven for something that i thought was minor
+Participant: um
+Participant: with a friend i've had for a few years
+Ellie: hmm_downer (hmm)
+Ellie: describe_felt (how did you feel in that moment)
+Participant: i felt anxious
+Participant: um
+Participant: sad and angry
+Participant: um
+Participant: yeah those are the main emotions
+Ellie: downer (okay)
+Ellie: how_know (how do you know them)
+Participant: i know them because i think i'm pretty in touch with my emotions and being able to identify them
+Participant: and then i'll notice the physical
+Participant: uh manifestations of emotions like if i if my heart's racing or if i'm getting sweaty
+Participant: if i'm <sigh> if my breathing is more shallow i'll know i'm anxious i'll know something's bothering me
+Ellie: mhm (mhm)
+Ellie: situation_handled (tell me about a situation that you wish you had handled differently)
+Participant: hmm <laughter>
+Participant: that i wish i had handled differently
+Participant: i guess related to this argument um
+Participant: i went out one night and got
+Participant: a little too intoxicated and <clears throat> ended up
+Participant: calling a person for a ride
+Participant: home but that
+Participant: really upset that person
+Participant: and i know that
+Participant: it wasn't such a big deal but i wish i hadn't have let myself get to that point um
+Participant: it it impacted a relationship and i also felt really bad about what i did
+Ellie: okay_confirm (okay)
+Ellie: hard_decisionB (tell me about the hardest decision you've ever had to make)
+Participant: mm
+Participant: <clears throat>
+Participant: hardest decision <sigh>
+Participant: wow um
+Participant: probably deciding what type of graduate program to go into i briefly went to law school and decided not to do that so afterwards
+Participant: well after dropping out i had to really
+Participant: rethink what it is that i wanted to do and what i wanted to
+Participant: dedicate my life to go into debt for spend a lot of energy on
+Ellie: yeah_downer (yeah)
+Ellie: hard_decision (how did you decide to do that)
+Participant: um <sigh>
+Participant: i think by recognizing what i don't want to do
+Participant: and doing a lot of research on
+Participant: program requirements and the jobs that you can get after completing a program
+Ellie: makes_sense (that makes sense)
+Ellie: memory_erase (tell me about an event or something that you wish you could erase from your memory)
+Participant: <sigh> mm <sigh> i have to think <sigh>
+Participant: oh <laughter>
+Participant: um
+Participant: revolving around the same person i spoke of earlier
+Participant: it was a dating relationship and
+Participant: a few years ago we had a falling out
+Participant: over his treatment of me
+Participant: and it involved
+Participant: another person and i wish i could
+Participant: get that out of my mind
+Ellie: sorry_hear (i'm sorry to hear that)
+Ellie: family_relationship (tell me about your relationship with your family)
+Participant: um <laughter>
+Participant: <laughter>
+Participant: i have a pretty good relationship with my mom she lives in the bay area i didn't grow up with her but i've gotten
+Participant: um closer to her as an adult
+Participant: uh we talk pretty regularly
+Participant: with my dad i grew up with him
+Participant: mostly he lives in atlanta and
+Participant: um we don't talk as much but
+Participant: we are
+Participant: we have a pretty decent relationship it's not really that
+Participant: contentious or anything
+Participant: and i'm an only child so i don't have siblings i don't have a large family
+Ellie: uh_huh (uh huh)
+Participant: um so
+Participant: in general i'm not really that close to family
+Ellie: influence_positive (who's someone that's been a positive influence in your life)
+Participant: um
+Participant: one person is my mentor who i met in two thousand five
+Participant: and she's a judge and i met her when i was in community college and she really
+Participant: opened my eyes to possibilities and made me feel that i would be able to achieve certain things
+Ellie: thats_great (that's great)
+Ellie: easy_sleep (how easy is it for you to get a good night's sleep)
+Participant: <sigh> pretty easy well it's easy for me to sleep what's not easy is getting up
+Ellie: why2 (why)
+Participant: because usually i do not forward <f> look forward to what i have to do that day
+Participant: and the thought of it is
+Participant: you know just makes me wanna stay in bed also i wake up pretty tired
+Participant: not really feeling refreshed
+Ellie: understand (i understand)
+Participant: <clears throat>
+Ellie: symptoms_cope (how do you cope with them)
+Participant: i think just <sigh>
+Participant: self-talk about how what i have to do
+Participant: isn't that bad or that the things that i'm doing now are gonna end pretty soon with the end of the school year
+Participant: um
+Participant: trying to think of things that
+Participant: i can look forward to in the week um also listening to music
+Participant: and browsing the internet kinda gets my mind going
+Ellie: mhm (mhm)
+Ellie: feel_lately (how have you been feeling lately)
+Participant: <sigh> feeling <sigh>
+Participant: uh wow um
+Participant: feeling
+Participant: emotionally drained on some ways and
+Participant: at the same time feeling like i've accomplished a lot and that i've grown
+Participant: so a mix of ambivalence and feeling drained and a mixture of
+Participant: feeling accomplished and proud at the same time
+Ellie: uh_huh (uh huh)
+Ellie: ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)
+Participant: no i haven't
+Ellie: depression_diagnosed (have you been diagnosed with depression)
+Participant: yes
+Ellie: when_diagnosed (how long ago were you diagnosed)
+Participant: in two thousand six
+Ellie: why_seek_help (what got you to seek help)
+Participant: the convergence of a lot of stressful factors um
+Participant: i was out of touch with my mom i started um well i had transferred to a university that was pretty rigorous
+Participant: and just all those changes going on
+Participant: really um
+Participant: exacerbated
+Participant: things that were already there depressive tendencies that were already there
+Participant: and it got to a point where i just felt really overwhelmed
+Ellie: yeah_downer (yeah)
+Ellie: therapy_going (do you still go to therapy now)
+Participant: yes i do
+Ellie: therapy_useful (do you feel like therapy is useful)
+Participant: yes
+Ellie: therapy_changes (what sort of changes have you noticed since you've been going to therapy)
+Participant: i notice
+Participant: i'm better able to
+Participant: accept my emotions and not judge them and also identify them
+Participant: i'm <sigh>
+Participant: able to think <th>
+Participant: think differently about things that happened maybe look at things in a more positive light
+Participant: and also identify
+Participant: the areas i need to work on and the underlying issues in those areas
+Participant: <clears throat>
+Ellie: thats_good (that's good)
+Ellie: happy_lasttime (tell me about the last time you felt really happy)
+Participant: mm <sigh>
+Participant: um this past weekend
+Participant: i reconnected with some old friends and it was really good to see them and be back in touch again
+Ellie: awesome (awesome)
+Ellie: BF_describe (how would your best friend describe you)
+Participant: <laughter> um <sigh>
+Participant: people have different takes on on me i don't have one best friend but i think people would describe me as very
+Participant: um analytical
+Participant: sensitive intelligent
+Participant: intellectual
+Ellie: uh_huh (uh huh)
+Ellie: self_change (what are some things you wish you could change about yourself)
+Participant: um
+Participant: i wish that i did not
+Participant: or wait
+Participant: i wish
+Participant: i was better able to cope with my anxiety and depression which i'm working on
+Participant: and <sigh> i wish that i had more energy
+Ellie: okay_confirm (okay)
+Ellie: advice_back (what advice would you give to yourself ten or twenty years ago)
+Participant: <laughter>
+Participant: start going to therapy now <laughter> um
+Participant: but yeah i really would and
+Participant: also
+Participant: to
+Participant: what how old am i twenty eight
+Participant: ten years ago eighteen okay so graduating from high school
+Participant: i would <sigh> tell myself to pick up some more job skills so that i wouldn't have to struggle as much in the future
+Participant: and to seek out mentors to get a clearer um idea of what i wanted to do as a career
+Ellie: okay_confirm (okay)
+Ellie: Ellie17Dec2012_08 (what are you most proud of in your life)
+Participant: um
+Participant: i think the fact that i'm in grad school
+Participant: and
+Participant: coming from the background that i that i come from
+Participant: low socio-economic status and
+Participant: just pushing through
+Participant: challenges to get here
+Ellie: good_hear (that's so good to hear)
+Participant: <laughter>
+Ellie: asked_everything (okay i think i have asked everything i need to)
+Ellie: appreciate_open (thanks for sharing your thoughts with me)
+Participant: you're welcome
+Ellie: bye (goodbye)
+Participant: bye

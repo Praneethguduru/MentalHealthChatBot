@@ -1,0 +1,425 @@
+Participant: <synch>
+Participant: <sigh>
+Ellie: IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)
+Participant: yes
+Ellie: okay_confirm (okay)
+Ellie: how_doingV (so how are you doing today)
+Participant: uh okay
+Participant: <laughter>
+Ellie: thats_good (that's good)
+Ellie: where_originally (where are you from originally)
+Participant: los angeles
+Ellie: really (really)
+Ellie: like_about_LA (what are some things you really like about l_a)
+Participant: the weather
+Participant: um
+Participant: the variety of um environments the ocean you know various different environment or environmental variety
+Ellie: uh_huh (uh huh)
+Participant: <laughter>
+Ellie: dont_like_LA (what are some things you don't really like about l_a)
+Participant: um i don't like the superficiality of people
+Participant: um the narcissistic attitude um
+Participant: uh just
+Participant: the um
+Participant: uh it it doesn't have a small town sort of feel where
+Participant: you know just the warmth the human sort of warmth interactively
+Participant: so
+Ellie: see_mean (i see what you mean)
+Participant: yeah
+Ellie: travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)
+Participant: no
+Ellie: why2 (why)
+Participant: um i have um a fear of flying and i have um i've developed agoraphobia
+Ellie: im_sorry (i'm sorry)
+Participant: <laughter>
+Ellie: difficult (how hard is that)
+Participant: uh incredibly difficult
+Ellie: tell_about_that (can you tell me about that)
+Participant: um yeah i'm i'm guessing you mean the agoraphobia um more so than the fear of flying um
+Ellie: mhm (mhm)
+Participant: it's uh it's more of a recent um development and um
+Participant: it's um
+Participant: eh it's progressing <pregr> progressing um to be worse uh it's very um
+Participant: uh what's the word um
+Participant: immobilizing and and very um distressing actually
+Ellie: been_hard (that sounds really hard)
+Participant: mhm <laughter> yes it is
+Ellie: symptoms_cope (how do you cope with them)
+Participant: how to i cope with that um
+Participant: just uh
+Participant: just trying to um uh
+Participant: do the best i can and uh try to you know have the most courage i can in the situation and challenge myself in um small steps
+Participant: um i read a lot i do um bibliotherapy reading um
+Participant: and i try to inform myself um of the um
+Participant: of the professional literature um so that i could um hopefully overcome it someday
+Ellie: thats_good (that's good)
+Participant: mhm
+Ellie: trigger (are they triggered by something)
+Participant: um yes definitely
+Ellie: like_what (like what)
+Participant: um
+Participant: uh certain things trigger it like um enclosed spaces
+Participant: um
+Participant: being in a car traveling um
+Participant: uh being away from home um being in someone else's car
+Participant: uh things that are outside of my uh locus of control
+Ellie: downer (okay)
+Ellie: study (what did you study at school)
+Participant: um
+Participant: uh xxx actually i i don't go to school right now
+Ellie: dream_job (what's your dream job)
+Participant: um my dream job is
+Participant: to be a psychologist <laughter>
+Ellie: awesome (awesome)
+Ellie: change_directions (what made you decide to do that)
+Participant: um i'm not a psychologist but what would make me decide to do that is um
+Participant: uh
+Participant: having lived um through some challenges like this um having lived through some traumas
+Participant: um but i've always had an interest in it um since junior high of
+Participant: um
+Participant: uh
+Participant: i'm very interested in people and um in human interaction and human connection and
+Participant: um the betterment of of uh of those things um
+Participant: bridging people together and helping people interpersonally through their challenges <chall> uh personal uh challenges um
+Participant: uh
+Participant: so that's that's sort of um it in a nutshell
+Ellie: okay_confirm (okay)
+Ellie: shyoutgoing (do you consider yourself more shy or outgoing)
+Participant: um
+Participant: i think i'm someone who's
+Participant: um i can be very outgoing um and sort of um a warm and friendly presence very um easily but i think on <o> on on the exterior um
+Participant: but i think i'm shy and i challenge it to do that
+Participant: i think at heart i'm shy
+Participant: um but uh but i i challenge myself completely 'cause i do love human interaction so i take those risks and and jump and those challenges
+Ellie: okay_confirm (okay)
+Ellie: yeah3 (yeah)
+Ellie: bouts_symptoms (when was the last time that happened)
+Participant: uh the last time i interacted with somebody was <laughter> today
+Ellie: tell_about_that (can you tell me about that)
+Participant: if <i> if i think i'm understanding your question correctly
+Ellie: yeah3 (yeah)
+Participant: oh no no eh i think i'm misunderstanding your question but i i interacted with rachel um i just i'm um continuously interacting with people
+Participant: take taking those risks
+Ellie: okay_confirm (okay)
+Ellie: see_mean (i see what you mean)
+Ellie: control_temper (how are you at controlling your temper)
+Participant: uh very good um
+Participant: mm
+Participant: very good <laughter>
+Ellie: last_argument (when was the last time you argued with someone and what was it about)
+Participant: um
+Participant: when was the last time i argued with somebody
+Participant: i actually can't remember it wasn't recent <laughter>
+Ellie: okay_confirm (okay)
+Ellie: situation_handled (tell me about a situation that you wish you had handled differently)
+Participant: i have to think about that i don't know yet let me think um
+Participant: uh i'm drawing a blank um i can only rememeber things um
+Participant: from when i was like twenty one <laughter> right now
+Participant: i can't think of anything contemporary right right now
+Participant: my mind is
+Ellie: mind (whatever comes to your mind)
+Participant: okay uh when i was younger
+Ellie: tell_about_that (can you tell me about that)
+Participant: yes um i lost um
+Participant: a relationship with my aunt
+Participant: and my uncle and my cousins
+Participant: um 'cause when i was twenty one i'm forty five
+Participant: um
+Participant: i um
+Participant: uh
+Participant: uh
+Participant: had a a disagreement with my aunt and um i said something that was uh critical
+Participant: of her and
+Participant: um she threw me out of their home
+Participant: and um
+Participant: uh
+Participant: let me back uh i apologized immediately
+Participant: and they let me back into their lives
+Participant: um and changed their minds um so
+Participant: i regret that
+Ellie: describe_felt (how did you feel in that moment)
+Participant: um
+Participant: i'm assuming you mean um how did i feel when they asked me to um never uh be in their lives again
+Participant: and to leave um
+Participant: uh shattered soul shattered heart shattered
+Ellie: yeah_downer (yeah)
+Ellie: family_relationship (tell me about your relationship with your family)
+Participant: well that that was my family that was um
+Participant: the the good side of my family there's um uh
+Participant: uh the majority of my family <fa> they were they were the the loving aspect of my family um the rest of my family is very cruel and um like very abusive
+Ellie: family_roleB (how close are you to your family)
+Participant: um i don't have any relationship with my family at all
+Participant: like the
+Participant: since i was um
+Participant: uh twenty one since my aunt and uncle um
+Participant: uh
+Participant: disowned me i guess is the right word
+Participant: estranged yeah
+Ellie: downer (okay)
+Ellie: memory_erase (tell me about an event or something that you wish you could erase from your memory)
+Participant: um
+Participant: gosh um i'm drawing a blank just bear with me for one second
+Participant: um something i could um erase um
+Participant: <laughter> i can't even get it to my memory
+Participant: um
+Participant: uh as an example um
+Participant: uh
+Participant: i was injured and i wish i could get uh that away from my memory
+Ellie: tell_me_moreV2 (can you tell me more about that)
+Participant: yeah um
+Participant: i was injured in um the emergency room
+Participant: scrubbed_entry
+Participant: doing um i went in for food poisoning um i was ordered to go in um
+Participant: by a doctor um i had collapsed and
+Participant: i was ordered to go into the e_r for as i said food poisoning and i came out um injured with a neurological syndrome i was injured with a um
+Participant: uh what do you call it um
+Participant: uh intraveneous procedure um and now i have um
+Participant: r_s_d reflex sympathetic dystrophy
+Participant: and it the scene in the emergency room was um it was a an out of control scene there was a problem with the procedure
+Participant: and the doctor was yelling at his staff who made a mistake
+Participant: um
+Participant: eh and it was extremely excruciating um it was a a crisis
+Participant: and so um every time i think about
+Participant: the injury and it was uh disfiguring i got disabled
+Participant: um
+Participant: for <f> i uh got disabled for it uh disabled permanently um from it i was also um
+Participant: uh disabled from my employment for a quite amount of quite a given amount of time as well
+Ellie: oh_no (oh no)
+Participant: and
+Participant: and it i have residual um
+Participant: physical trauma from it and disfigurement and um
+Participant: severe disability <disabil> disability limited um
+Participant: um
+Participant: functionality uh with my right my
+Participant: i'm right-handed uh with my right hand
+Participant: and arm
+Ellie: sorry_hear (i'm sorry to hear that)
+Participant: thank you
+Ellie: hard_decisionB (tell me about the hardest decision you've ever had to make)
+Participant: i don't even know what that is
+Participant: um
+Participant: i
+Participant: you know i i really
+Participant: i apologize 'cause i can't really probably give you the
+Participant: uh most suitable answer um
+Participant: uh
+Participant: i'm guessing it had something to do with um
+Participant: my cat um and her um
+Participant: her xxx urgent uh
+Participant: um
+Participant: uh what do you call it
+Participant: um hurt she was in intensive care veterinary care and i'm sure it had something to do with that
+Participant: um
+Participant: but other than that i would say um i had uh choosing my life path whether
+Participant: scrubbed_entry
+Participant: um and uh i was admitted um to that program
+Participant: or whether i was gonna go um to um art school for four years um
+Participant: and i had to pick a life direction but uh that's not a traumatic situation um
+Participant: so i i don't know how best to answer your question
+Ellie: okay_confirm (okay)
+Ellie: easy_sleep (how easy is it for you to get a good night's sleep)
+Participant: i can't
+Ellie: why2 (why)
+Participant: um i have um
+Participant: severe nightmares <laughter> and i have um nocturnal um
+Participant: uh panic attacks
+Ellie: trigger (are they triggered by something)
+Participant: and i also have physical illness on top of it and i'm in excruciating pain
+Ellie: disturbing_thoughts (do you have disturbing thoughts)
+Participant: yes
+Ellie: trigger (are they triggered by something)
+Participant: yes
+Ellie: tell_about_that (can you tell me about that)
+Participant: yes uh they're triggered by the injury that i told you
+Participant: um they're triggered by my family
+Participant: um
+Participant: they've <th> how they've treated me what um they've said to me what they've done to me um
+Participant: they're triggered by um
+Participant: what else um my um my physical um illness um not my injury only but my physical
+Participant: um illness as well um
+Participant: so yes
+Ellie: sleep_affects (what are you like when you don't sleep well)
+Participant: um
+Participant: i feel very ill
+Participant: and
+Participant: feel so fatigued
+Ellie: feel_lately (how have you been feeling lately)
+Participant: very ill and very fatigued
+Ellie: behavior_changes (have you noticed any changes in your behavior or thoughts lately)
+Participant: um
+Participant: when i don't sleep and get enough sleep um uh my anxiety level i believe is up and
+Participant: um i'm susceptible to feeling distressed
+Participant: um
+Participant: so yeah
+Ellie: isee_downer (i see)
+Ellie: ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)
+Participant: yes
+Ellie: when_diagnosed (how long ago were you diagnosed)
+Participant: um three years ago um my <m> my most recent um diagnosis
+Participant: and in two thousand and one as well
+Ellie: depression_diagnosed (have you been diagnosed with depression)
+Participant: uh yes
+Ellie: when_diagnosed (how long ago were you diagnosed)
+Participant: um
+Participant: three years ago and um
+Participant: when i was um
+Participant: twenty years old
+Ellie: why_seek_help (what got you to seek help)
+Participant: um the my background my childhood um
+Participant: from my family of origin um
+Participant: and their um uh
+Participant: uh you know the abuse that i um went through
+Participant: uh and their ultimate um uh
+Participant: uh what's the word um
+Participant: rejection of me and uh estrangement um that was the first uh reason
+Ellie: therapy_going (do you still go to therapy now)
+Participant: um
+Participant: no i stopped six months ago
+Ellie: stop_going (why did you stop)
+Participant: <sigh> um
+Participant: why did i stop um i'm just taking a break <laughter> i'm gonna continue
+Ellie: okay_confirm (okay)
+Ellie: therapy_useful (do you feel like therapy is useful)
+Participant: yes very much
+Ellie: therapist_affect (how has seeing a therapist affected you)
+Participant: it's helped tremendously
+Ellie: therapy_changes (what sort of changes have you noticed since you've been going to therapy)
+Participant: um
+Participant: i think it helps with anxiety it helps with um
+Participant: um
+Participant: it helps inspire um create inspiration it helps um
+Participant: um
+Participant: uh feeling connected
+Participant: um it helps to create um what i ultimately um my goal is to
+Participant: um give myself a voice and um
+Participant: um
+Participant: uh it helps to to do <d> to uh
+Participant: it <i> it's part of that process
+Participant: um it also helps um to understand myself um to learn about myself
+Participant: um
+Participant: and eh there's just so many benefits it's
+Participant: i
+Participant: i'll stop right there there's many more
+Ellie: thats_good (that's good)
+Participant: mhm
+Ellie: happy_lasttime (tell me about the last time you felt really happy)
+Participant: um
+Participant: the last time i felt really happy
+Participant: it was a was a really long time ago um it was before my illness
+Participant: um and it was in nineteen ninety seven um the onset of my illness was in july of ninety seven so it was um before that <laughter>
+Ellie: tell_about_that (can you tell me about that)
+Participant: yes um
+Participant: i was um in a very good place um in terms of my career um
+Participant: um in terms of um
+Participant: uh my just my relationships and um everything was just sort of at it's best um
+Participant: uh career relationships um
+Participant: personal um uh fulfillment um sort of um
+Participant: as well um i was very active and and doing
+Participant: uh very many things that were meaningful to um build a life um and i was um in the process of um
+Participant: uh just in the in <i> in the planning stages of my life but also very accomplished
+Participant: at at the same time so it was just things were just going very well and um i just really liked uh
+Ellie: okay_confirm (okay)
+Participant: the just where my life was at it was just in a really good place in many ways
+Ellie: see_mean (i see what you mean)
+Participant: mhm
+Ellie: self_change (what are some things you wish you could change about yourself)
+Participant: um i wish i could change about myself um my anxiety
+Participant: um i wish i could change about myself um my agoraphobia
+Participant: my p_t_s_d um meaning my trauma um and um
+Participant: uh
+Participant: what else um
+Participant: um
+Participant: my insecurity uh as far as um
+Participant: uh
+Participant: just um
+Participant: with <w> with other people in the sense that i'm always trying to make sure that um
+Participant: that i don't do something that that um
+Participant: hold on one second
+Participant: i'm just trying to make sure that um i don't do anything that's um offensive to them or insults them
+Participant: um
+Participant: or uh is disrespectful um and i i feel like i'm overly um cautious about that and um
+Participant: it it it kinda becomes um an anxiety unto itself
+Participant: um so i i definitely think that that would be beneficial
+Participant: uh to change um the other thing i'd like to change about myself is i wish i could feel
+Participant: um and also depression i'd like to change that about myself i wish i could feel better um
+Participant: i wish i didn't feel um
+Participant: uh so um
+Participant: uh i didn't wish i didn't have the burden that i do of um
+Participant: my family um of not having one
+Participant: um
+Participant: and uh what else um i wish i didn't have my illness and the physical
+Participant: um excruciating pain that i'm in uh so those are some things um
+Ellie: mhm (mhm)
+Participant: and i also wish that um
+Participant: and this is um a a by-product of p_t_s_d i wish that i didn't have um
+Participant: uh
+Participant: the the symptomology
+Participant: of p_t_s_d um 'cause that definitely um
+Participant: affects one's complete <com> complete the complete life like eh a lot their affects their life uh completely
+Participant: um and i i wish i was more articulate
+Participant: and i wish i was um someone who was well-spoken
+Participant: and someone who is well-written
+Participant: um but there's many there's many more um
+Participant: uh things that i wish i could change about myself to improve myself
+Participant: so many more
+Ellie: yeah3 (yeah)
+Ellie: advice_back (what advice would you give to yourself ten or twenty years ago)
+Participant: <sigh> um
+Participant: i'm not sure uh
+Participant: <sniffle>
+Participant: maybe to um not be so trusting um
+Participant: i trusted um
+Participant: i trusted some medical professionals that um
+Participant: you know again created the injury
+Participant: and um
+Participant: you know were
+Participant: there's a uh
+Participant: what's the word
+Participant: there's an expectation and a sort of a demand to just
+Participant: blindly trust um the medical profession um and
+Participant: <sniffle> um
+Participant: don't ask questions and just sort of um
+Participant: you know
+Participant: and if and not to trust your own self your own um your own instincts um or intuition
+Participant: um and so i would
+Participant: i would've told myself to be a little more careful um
+Participant: i guess if that's
+Participant: useful to your question
+Ellie: mhm (mhm)
+Participant: <sniffle>
+Ellie: Ellie17Dec2012_10 (tell me about something you did recently that you really enjoyed)
+Participant: um what did i really enjoy um
+Participant: you know i can't think of anything specific um
+Participant: but um
+Participant: i know it would have to do um
+Participant: with either reading or um
+Participant: connecting with someone on a meaningful level
+Ellie: okay_confirm (okay)
+Participant: <sniffle>
+Ellie: Ellie17Dec2012_08 (what are you most proud of in your life)
+Participant: i'm most proud of um
+Participant: my compassion
+Participant: um
+Participant: my um my uh empathy and caring about people
+Participant: um
+Participant: despite um i mean i'm proud of it
+Participant: anyways but um also particularly <sniffle> um i come from a
+Participant: um an environment that's the opposite um a background and um i wasn't taught that <sniffle> um but i really do care about people and um
+Participant: i'm i guess i'm most proud of that i'm also proud of my um career
+Participant: accomplishments
+Participant: um and my um tenacity um my fierce <fie> my fierce tenacity to succeed
+Participant: um <sniffle> and uh
+Participant: you know just um also to get um the strength it takes to get through um
+Participant: the injury
+Participant: uh to live with it and to live with the illness um that i live with the physical illness
+Participant: um
+Participant: so i i think that would be it
+Participant: <sniffle>
+Ellie: thats_great (that's great)
+Participant: yes
+Ellie: asked_everything (okay i think i have asked everything i need to)
+Participant: okay
+Ellie: appreciate_open (thanks for sharing your thoughts with me)
+Participant: you're welcome
+Ellie: bye (goodbye)
+Participant: bye

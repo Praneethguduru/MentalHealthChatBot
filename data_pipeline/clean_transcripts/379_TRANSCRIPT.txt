@@ -1,0 +1,328 @@
+Participant: <synch>
+Ellie: IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)
+Participant: <sniffle>
+Participant: <sniffle>
+Participant: yes
+Ellie: okay_confirm (okay)
+Ellie: okay_confirm (okay)
+Ellie: how_doingV (so how are you doing today)
+Ellie: how_doingV (so how are you doing today)
+Participant: i'm feeling okay little bit tired but for the most part feeling pretty good
+Ellie: thats_good (that's good)
+Ellie: thats_good (that's good)
+Ellie: where_originally (where are you from originally)
+Ellie: where_originally (where are you from originally)
+Participant: i'm actually originally from woodland hills which is out in the san fernando valley i was born there
+Participant: and then i moved to lomita which is in los angeles county
+Participant: about mm probably around nineteen ninety three so i mean i'm twenty three now so
+Ellie: cool3 (cool)
+Ellie: cool3 (cool)
+Participant: it's about what yeah nineteen years or so i've been living there yeah
+Participant: <clears throat>
+Ellie: like_about_LA (what are some things you really like about l_a)
+Ellie: like_about_LA (what are some things you really like about l_a)
+Participant: some things that that i really like i would have to say you know
+Participant: the beach
+Participant: um you know
+Participant: not so much the traffic don't really care for that but um
+Participant: definitely you know just kinda like the nightlife um you know
+Participant: just people in general i like conversing with others so yeah
+Participant: <clears throat>
+Ellie: yeah3 (yeah)
+Ellie: see_mean (i see what you mean)
+Participant: right
+Participant: yep
+Ellie: travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)
+Ellie: travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)
+Participant: yeah actually i do i mean i can't see your shoes but um yeah actually i do travel a lot
+Participant: i've been to places like hawaii
+Participant: been to the caribbean
+Participant: i've been to uh let's see <makes sound with mouth>
+Participant: um you know just different places like
+Participant: arizona i've been to oregon washington
+Participant: pretty much all over i would say so but usually mainly like um hawaii and the caribbean mexico as well so
+Ellie: mhm (mhm)
+Ellie: mhm (mhm)
+Participant: yep <clears throat>
+Ellie: travel_changed (what do you enjoy about traveling)
+Participant: um i think it's just the experience you know like you can't you can kinda experience the culture
+Participant: um different people you know just just the whole background the scenery
+Participant: it's just you know it's it's something new to experience i would say
+Participant: something that you know people haven't seen before so
+Ellie: yeah3 (yeah)
+Participant: <clears throat>
+Ellie: travel_trips (i'd love to hear about one of your trips)
+Participant: well let's see i recently took a trip to hawaii a couple months ago that was back in december it was around christmas time
+Participant: new years so that was pretty fun we went to a couple different islands
+Participant: we went to uh let's see i think it was kauai went to oahu
+Participant: uh maui you know places like that so
+Participant: <clears throat>
+Ellie: nice (nice)
+Participant: yep
+Ellie: memorableB (what's one of your most memorable experiences)
+Ellie: memorableB (what's one of your most memorable experiences)
+Participant: um you know i would have to say that
+Participant: um you know probably like in hawaii or like the caribbean you know just like i said before the whole experience factor
+Participant: just seeing um you know new different things things that are unique so
+Participant: <clears throat>
+Ellie: mhm (mhm)
+Ellie: study (what did you study at school)
+Ellie: study (what did you study at school)
+Participant: yeah
+Participant: i actually study journalism right now i'm in my final semester
+Participant: so i'm about <bout> to graduate couple months
+Participant: <clears throat>
+Ellie: thats_great (that's great)
+Ellie: thats_great (that's great)
+Participant: yep
+Ellie: hard_decision (how did you decide to do that)
+Participant: well you know it's kinda funny 'cause you know i started off at a uh you know a two year community college
+Participant: and so you know i was going into uh like business management something to do with you know i think <thin> basically um accounting
+Participant: but you know i kinda figured that wasn't for me
+Participant: so i decided to go into journalism 'cause i i couldn't i mean you know i'd probably still be sitting at a desk but
+Participant: you know at least with journalism i can go out in the field and you know talk to people and you know
+Participant: kinda you know receive information gather information that sorta deal and then you know write up stories
+Ellie: yeah2 (yeah)
+Ellie: yeah2 (yeah)
+Participant: i just thought it was you know it was a lot more interesting for me as opposed to you know just kinda crunching numbers all day so
+Ellie: uh_huh (uh huh)
+Participant: yep
+Ellie: job_virtually (i love my job you could almost say it's virtually made for me what's your dream job)
+Participant: <laughter>
+Participant: my dream job i would have to say um you know some something in maybe radio broadcasting
+Participant: sports broadcasting um you know i think that would be really interesting something that's definitely a passion of mine
+Participant: so
+Participant: <clears throat>
+Ellie: okay_confirm (okay)
+Ellie: family_relationship (tell me about your relationship with your family)
+Participant: my relationship with my family it's it's pretty good you know i i live with my parents still
+Participant: like i said i'm twenty three years old
+Participant: um you know there's certain times when it can be a little bit shaky little bit rocky but
+Participant: for the most part it's it's pretty good you know i've i've matured a lot in the last few years so
+Participant: things are uh you know
+Participant: getting back up to speed i would say things are things are going pretty well
+Participant: <clears throat>
+Ellie: thats_good (that's good)
+Ellie: thats_good (that's good)
+Ellie: shyoutgoing (do you consider yourself more shy or outgoing)
+Participant: you know i think it stems somewhere kind of in the middle
+Participant: you know sometimes i can be very outgoing and talkative to people when i'm relaxed and laid-back
+Participant: other times i kinda it's not so much like i go into my shell but
+Participant: you know at times like i can be kinda shy if i don't know people as well or if i haven't i've never met them before
+Participant: so it's one of those things that kinda <ki> yeah you kinda gotta meet me in the middle with it because you know
+Participant: i can either be talk very talkative
+Participant: or at times you know i i can be a little bit shy but you know once i once i get the conversation going i'm i'm fairly talkative and
+Ellie: mhm (mhm)
+Participant: so
+Participant: <clears throat>
+Ellie: relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)
+Ellie: relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)
+Participant: <laughter>
+Participant: um you know usually um
+Participant: i would listen to music
+Participant: or you know maybe just you know kinda go for a drive
+Participant: or uh you know hang out with my friends you know just something to just to kinda you know
+Participant: ease ease that you know 'cause you know like i said sometimes you get a little bit you know tense and you just wanna relax and you know just do the things that you enjoy
+Participant: so
+Ellie: mm (mm)
+Ellie: mm (mm)
+Participant: <clears throat>
+Ellie: control_temper (how are you at controlling your temper)
+Ellie: control_temper (how are you at controlling your temper)
+Participant: you know i've actually been better with that
+Participant: um couple years back you know i
+Participant: there was points where like i pretty much couldn't control my temper like whatsoever like <li> i mean i would just
+Participant: pretty much get angry at you know the littlest things everything would just kinda tick me off but
+Participant: you know i've i've definitely learned to uh you know control that sorta thing
+Participant: and you know it's made me a better person because of it <clears throat>
+Ellie: last_argument (when was the last time you argued with someone and what was it about)
+Ellie: last_argument (when was the last time you argued with someone and what was it about)
+Participant: well let's see i'm trying to think it's it was probably something with my family with my mother maybe it's i i can't remember off the top of my head but
+Participant: you know it's it's always something so miniscule that
+Participant: that's why i probably don't remember it
+Participant: but you know eventually we make up and i apologize for it because you know i accept that
+Participant: you know i'm wrong in certain <cer> you know certain circumstances
+Ellie: uh_huh (uh huh)
+Participant: <clears throat>
+Participant: yeah
+Ellie: feelguilty (what's something you feel guilty about)
+Participant: something that i feel guilty about
+Participant: um probably you know not being as nice to others as i could've been in the past you know i mean and that is the past and you know i don't like to dwell on that sorta thing
+Participant: but i think that's one thing that i that i've tried to work on but it's also one thing that i kinda regret not doing just being just being nice
+Participant: <clears throat>
+Ellie: hard_decisionB (tell me about the hardest decision you've ever had to make)
+Participant: hardest decision i ever had to make uh it was pretty recent
+Participant: kinda tough because uh i actually have a buddy he was in the air force and he recently got
+Participant: diagnosed with uh paranoid schizophrenia so that was really tough
+Participant: and it's hard for me to talk to him because you know he's he's not really all there anymore like he used to be
+Participant: so it's one of those things where i feel like i'm kind of ignoring him and i don't wanna do that but at the same time i don't know his tendencies
+Participant: he could be a little you know
+Participant: crazy
+Participant: so
+Participant: probably like you know some sort of like traumatic stress disorder maybe when he was in the military so i don't know but yeah
+Participant: <clears throat>
+Ellie: yeah_downer (yeah)
+Ellie: been_hard (that sounds really hard)
+Participant: yeah it's pretty tough you know 'cause we go way back
+Participant: been best friends with him <sigh> since i was probably about five six years old
+Ellie: aw (aw)
+Participant: so it's just yeah it's just really hard to deal with but you know i i try to
+Participant: i don't i don't  you know
+Participant: try to keep in the back of my mind but you know it's it's always there i don't i don't ever forget so yeah
+Participant: <clears throat>
+Ellie: downer (okay)
+Ellie: downer (okay)
+Ellie: BF_describe (how would your best friend describe you)
+Participant: my best friend
+Participant: <laughter> well he'd probably say that you know i'm i'm a pretty pretty down to earth guy
+Participant: usually pretty honest sometimes brutally honest but you know i try to work on that too
+Participant: um he'd probably say that i'm pretty funny
+Participant: um i like to hang out you know just
+Participant: kinda
+Participant: do things here and there you know just
+Participant: normal activities like any other person you know go to the beach hang out watch movies you know grab a few beers that sorta deal so yeah
+Ellie: mhm (mhm)
+Participant: <clears throat
+Ellie: easy_sleep (how easy is it for you to get a good night's sleep)
+Participant: you know it varies sometimes it's easier than others you know if i'm really tired you know i'll probably have a very good sleep
+Participant: i haven't been sleeping all that great the last few days 'cause you know
+Participant: my house uh there's workers on the roof so they're you're putting in the new roofing so that's kinda tough
+Participant: so that always wakes me up early in the morning so sometimes a little bit crabby but for the most part
+Participant: i usually get a pretty good sleep <clears throat>
+Ellie: okay_confirm (okay)
+Ellie: okay_confirm (okay)
+Ellie: feel_lately (how have you been feeling lately)
+Ellie: feel_lately (how have you been feeling lately)
+Participant: lately eh
+Participant: been feeling pretty good you know because you know things are starting to look up
+Participant: i actually got an internship about <bout> a month ago
+Participant: for um you know my field of journalism so that's good about to graduate in two months so i'm looking forward to that
+Participant: um starting to make a little bit more money that's you know that's good
+Participant: and uh yeah things are just going pretty well right now i can't complain <clears throat>
+Ellie: great_situation (that sounds like a great situation)
+Ellie: great_situation (that sounds like a great situation)
+Participant: yeah it's it's not bad you know like i said it could always be worse right but
+Participant: you know i'm i'm enjoying life so it's the that's the best part
+Ellie: right2 (right)
+Participant: <clears throat>
+Ellie: ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)
+Ellie: ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)
+Participant: i have not
+Participant: no
+Ellie: depression_diagnosed (have you been diagnosed with depression)
+Ellie: depression_diagnosed (have you been diagnosed with depression)
+Participant: nope
+Ellie: feel_down (do you feel down)
+Participant: no
+Ellie: happy_lasttime (tell me about the last time you felt really happy)
+Ellie: happy_lasttime (tell me about the last time you felt really happy)
+Participant: last time i felt really happy <sigh> man <laughter> you know it was probably going back to my buddy when you know he was still
+Participant: still had his sanity i guess you could say um we you know he came back to visit from the air force he had some leave
+Participant: so you know we were just hanging out
+Participant: um you know just kicking back having a few beers and just talking about life so that that was nice but i miss that you know so
+Participant: <clears throat>
+Ellie: describe_felt (how did you feel in that moment)
+Ellie: describe_felt (how did you feel in that moment)
+Participant: i felt great you know it
+Participant: because there's nothing like having a best friend you can have conversation you know twenty four seven about anything
+Participant: can tell anything to him in confidence and he could tell me anything in confidence like
+Participant: that's hard to find you know especially someone that you've known for so many years and then you can't really get it back now so
+Participant: yeah
+Ellie: yeah3 (yeah)
+Participant: <clears throat>
+Ellie: regret (is there anything you regret)
+Participant: yeah there there's a there's probably one or two things that i regret
+Participant: um well i mean i regret <reg> i got a d_u_i about
+Participant: three or four years ago actually it was four years ago so that's something that i definitely regret because you know i look back on it and you know things might've been different but at the same time
+Participant: you have to accept you know the actions you know circumstances
+Participant: that took place
+Participant: so you know i manned up and you know i guess i think i'm better off for it
+Participant: but at the same time you know it's it's always gonna be in the back of my mind like i said
+Participant: it's just one of those things that you have to deal with in your own way
+Participant: <clears throat>
+Ellie: yeah3 (yeah)
+Ellie: yeah3 (yeah)
+Ellie: advice_back (what advice would you give to yourself ten or twenty years ago)
+Ellie: advice_back (what advice would you give to yourself ten or twenty years ago)
+Participant: <laughter>
+Participant: well you know it's one of those things like <laughter> i was a child then so i i really don't know what to say i mean even if
+Participant: i would've listened then who knows but you know i probably would've told myself you know just
+Participant: be careful you know
+Participant: make sure you can be the best person that you possibly can can be
+Participant: um
+Participant: basically you know just always be nice be honest
+Participant: um just be caring toward others so
+Participant: <clears throat>
+Ellie: memory_erase (tell me about an event or something that you wish you could erase from your memory)
+Participant: um probably going back to uh my buddy with the whole uh paranoid schizophrenic thing
+Participant: i don't say that i wish i could erase it i just wish that it didn't happen like that so
+Participant: <clears throat>
+Participant: yeah
+Ellie: downer (okay)
+Ellie: downer (okay)
+Ellie: ideal_weekendC (tell me how you spend your ideal weekend)
+Participant: my ideal weekend uh i usually keep it pretty pretty generic i tend to hang out with my friends
+Participant: um either you know we hang out in the day
+Participant: you know do certain things like you know maybe grab a few beers
+Participant: um you know just have casual conversation maybe play games watch movies you know just the standard stuff that people do so
+Participant: <clears throat>
+Ellie: self_change (what are some things you wish you could change about yourself)
+Participant: some things that i wish i could change
+Participant: um
+Participant: probably just you know be nicer like i said before
+Participant: um
+Participant: maybe not being as lazy have more determination
+Participant: i mean i i have quite a bit of determination i know what i wanna do with my life
+Participant: but i know there are times when i i kinda
+Participant: get a little lackadaisical so i wish i could improve upon that and not procrastinate as much so
+Ellie: mhm (mhm)
+Participant: <clears throat>
+Ellie: feelbadly (tell me about a time when someone made you feel really badly about yourself)
+Participant: um well you know it's it's tough to think back
+Participant: but i would probably say a time when someone made me feel really bad is you know
+Participant: i would say probably like when i was you know kinda getting angry at certain people maybe just kinda chewing out my friends when i probably shouldn't have
+Participant: i was trying to give more constructive criticism but
+Participant: at the same time i knew it it was probably not my place to say those kinds of things and
+Participant: they were out of character so
+Participant: <clears throat>
+Ellie: okay_confirm (okay)
+Ellie: Ellie17Dec2012_07 (what would you say are some of your best qualities)
+Participant: my best qualities i would say that i'm definitely hardworking i'm determined
+Participant: i'm very caring now
+Participant: more than i used to be
+Participant: very honest
+Participant: and you know i i just i love to talk to people
+Participant: like i like making new relationships
+Participant: i like making people laugh <clears throat>
+Ellie: thats_good (that's good)
+Ellie: thats_good (that's good)
+Ellie: Ellie17Dec2012_10 (tell me about something you did recently that you really enjoyed)
+Ellie: Ellie17Dec2012_10 (tell me about something you did recently that you really enjoyed)
+Participant: <clears throat>
+Participant: something that i did recently that i really enjoyed
+Participant: um you know it was probably <sigh> over at my internship i was just you know i i wrote a story or two
+Participant: and it just felt good you know to get those stories done and eventually they're gonna go into the paper so
+Participant: i feel accomplished about that
+Participant: you know it's one of those things when you work at something and then you see the product right there
+Participant: you know it's right in your face and you can tell yourself you know like i did that
+Participant: so
+Ellie: awesome (awesome)
+Ellie: awesome (awesome)
+Participant: makes me feel good yep
+Participant: <clears throat>
+Ellie: argument_about (what was it about)
+Ellie: argument_about (what was it about)
+Participant: um you know just let's see eh few different stories eh just
+Participant: usually things about well the the paper's in long beach so it's usually about you know stories or events that are taking place in long beach so yeah
+Participant: <clears throat>
+Ellie: Ellie17Dec2012_08 (what are you most proud of in your life)
+Participant: i would say that i'm most proud of you know graduating
+Participant: high school about to graduate college
+Participant: hopefully you know obviously i'm gonna earn a degree and then hopefully get a you know a good solid job
+Participant: you know in the near future
+Participant: i think that's one thing that i'm most proud of
+Participant: <clears throat>
+Ellie: asked_everything (okay i think i have asked everything i need to)
+Ellie: appreciate_open (thanks for sharing your thoughts with me)
+Participant: thank you
+Ellie: bye (goodbye)

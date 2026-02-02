@@ -1,0 +1,167 @@
+Participant: <synch>
+Ellie: IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)
+Participant: yes
+Ellie: okay_confirm (okay)
+Ellie: how_doingV (so how are you doing today)
+Participant: i'm not bad i'm a little tired but okay
+Ellie: thats_good (that's good)
+Ellie: where_originally (where are you from originally)
+Participant: uh from saint louis missouri
+Ellie: really (really)
+Participant: yep
+Ellie: when_LA (when did you move to l_a)
+Participant: uh two months ago
+Ellie: often_backB (how often do you go back to your hometown)
+Participant: uh not often i think i'm out here for good now
+Ellie: compares_LA (how does it compare to l_a)
+Participant: uh smaller town less people everyone kinda acts different the pace of life is slower out there
+Ellie: mhm (mhm)
+Ellie: why_LA (why did you move to l_a)
+Participant: uh looking for work as a game designer or game developer just
+Participant: try something new too new place new people
+Ellie: adapted_LA (how easy was it for you to get used to living in l_a)
+Participant: uh i guess i'm still getting used to it
+Ellie: tell_about_that (can you tell me about that)
+Participant: um
+Participant: i guess
+Participant: people are different you know there's little shops everywhere just
+Participant: everything's different
+Ellie: yeah_downer (yeah)
+Ellie: like_about_LA (what are some things you really like about l_a)
+Participant: uh man the weather's great out here
+Participant: the people are really nice
+Participant: like to look at the mountains the beach is nice
+Participant: just
+Ellie: uh_huh (uh huh)
+Participant: better geography
+Ellie: dont_like_LA (what are some things you don't really like about l_a)
+Participant: um traffic i guess the commute
+Participant: and sometimes there's maybe too many people
+Ellie: see_mean (i see what you mean)
+Ellie: travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)
+Participant: <laughter>
+Participant: not really never been outside of the u_s before
+Ellie: why2 (why)
+Participant: uh just never had the opportunity i'd love to go though
+Ellie: okay_confirm (okay)
+Ellie: study (what did you study at school)
+Participant: uh game design and graphic design sort of
+Ellie: sounds_interesting (that sounds interesting)
+Participant: oh i love it
+Ellie: hard_decision (how did you decide to do that)
+Participant: uh
+Participant: mm been playing video games since i was a kid like most guys my age so
+Participant: just like making people happy and it's kinda easy to do that with games
+Ellie: thats_great (that's great)
+Participant: <laughter>
+Ellie: dream_job (what's your dream job)
+Participant: uh work for myself make my own games and write my own paychecks i guess
+Ellie: difficult (how hard is that)
+Participant: uh pretty hard i've been trying to do it for the past couple years it's a little difficult
+Ellie: isee_downer (i see)
+Ellie: shyoutgoing (do you consider yourself more shy or outgoing)
+Participant: i guess i'm kinda shy it depends on the people and the environment i guess
+Ellie: understand (i understand)
+Ellie: relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)
+Participant: <laughter>
+Participant: uh play guitar listen to some music talk to friends
+Ellie: cool3 (cool)
+Ellie: control_temper (how are you at controlling your temper)
+Participant: i'd say i'm pretty good at controlling my temper i'm not the type of guy that gets angry really easily
+Ellie: thats_good (that's good)
+Ellie: last_argument (when was the last time you argued with someone and what was it about)
+Participant: uh probably with my girlfriend over something silly i can't even remember
+Ellie: feelguilty (what's something you feel guilty about)
+Participant: uh <sigh>
+Participant: don't know i don't think i'm really guilty about anything i try to avoid being guilty
+Ellie: okay_confirm (okay)
+Ellie: situation_handled (tell me about a situation that you wish you had handled differently)
+Participant: hmm
+Participant: don't know
+Participant: can't really think of anything
+Ellie: hmm_downer (hmm)
+Ellie: hard_decisionB (tell me about the hardest decision you've ever had to make)
+Participant: leaving saint louis was one of them 'cause all my friends and family were there
+Ellie: change_directions (what made you decide to do that)
+Participant: uh i guess the benefits outweighed
+Participant: you know the cons
+Ellie: mhm (mhm)
+Ellie: happy_didthat (are you happy you did that)
+Participant: definitely
+Ellie: thats_good (that's good)
+Ellie: memory_erase (tell me about an event or something that you wish you could erase from your memory)
+Participant: huh <sigh> maybe getting kicked out of high school the first time
+Ellie: tell_about_that (can you tell me about that)
+Participant: uh just i ended up getting myself and and my friends in trouble and
+Participant: it was just no good you kinda look back on it and
+Participant: i guess that's something from my past i wish i would've done different
+Ellie: avoid (could you have done anything to avoid it)
+Participant: uh
+Participant: followed the <laughter> rules i guess just been a good student would've helped
+Ellie: okay_confirm (okay)
+Ellie: family_relationship (tell me about your relationship with your family)
+Participant: uh
+Participant: not really that close with my family i've got a small family anyway and
+Participant: when i was in saint louis we'd see each other a couple times a year but that's really it so no strong ties
+Ellie: uh_huh (uh huh)
+Ellie: influence_positive (who's someone that's been a positive influence in your life)
+Participant: uh i guess most of my friends they're always there to support me and encourage me and help me so
+Ellie: good_hear (that's so good to hear)
+Ellie: easy_sleep (how easy is it for you to get a good night's sleep)
+Participant: say pretty easy every once in awhile there's a night i can't sleep but it's pretty rare
+Ellie: sleep_affects (what are you like when you don't sleep well)
+Participant: mm just tired groggy
+Participant: i guess my mind's unfocused and
+Participant: day goes by heck of a lot longer
+Ellie: feel_lately (how have you been feeling lately)
+Participant: uh pretty good
+Participant: not really much to say
+Ellie: behavior_changes (have you noticed any changes in your behavior or thoughts lately)
+Participant: uh maybe a little bit more depressed 'cause i'm away from most of my friends and family but
+Participant: nothing unmanageable
+Ellie: symptoms_cope (how do you cope with them)
+Participant: uh just try to talk to 'em when i can think about something else think about happy times
+Ellie: ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)
+Participant: no
+Ellie: depression_diagnosed (have you been diagnosed with depression)
+Participant: no
+Ellie: happy_lasttime (tell me about the last time you felt really happy)
+Participant: uh <sigh> i guess on the drive out here
+Participant: 'cause it was such a new experience and so exhilarating
+Ellie: memorableB (what's one of your most memorable experiences)
+Participant: um i think graduating college 'cause i was really proud of myself and really looking forward to the future
+Ellie: describe_felt (how did you feel in that moment)
+Participant: just i guess kind of euphoria standing there it seemed kinda surreal <su> surreal
+Ellie: yeah3 (yeah)
+Ellie: BF_describe (how would your best friend describe you)
+Participant: uh
+Participant: funny caring nice guy
+Participant: easy to get along with
+Ellie: self_change (what are some things you wish you could change about yourself)
+Participant: uh <sigh>
+Participant: pretty happy being me i guess
+Ellie: feelbadly (tell me about a time when someone made you feel really badly about yourself)
+Participant: hmm
+Participant: guess when i broke up with my last girlfriend for obvious reasons you tend to fight and say things you wish you'd you'd forget i guess
+Ellie: yeah_downer (yeah)
+Ellie: regret (is there anything you regret)
+Participant: no i don't like to live in the past so there's nothing to really regret
+Ellie: advice_back (what advice would you give to yourself ten or twenty years ago)
+Participant: uh <sigh>
+Participant: keep working hard and just
+Participant: keep thinking about what you do before you do it
+Ellie: ideal_weekendC (tell me how you spend your ideal weekend)
+Participant: on the computer playing video games with friends
+Ellie: Ellie17Dec2012_09 (what are some things that usually put you in a good mood)
+Participant: uh
+Participant: music uh
+Participant: and my friends i guess <laughter>
+Ellie: okay_confirm (okay)
+Ellie: Ellie17Dec2012_08 (what are you most proud of in your life)
+Participant: mm
+Participant: i guess my determination and my xxx my passion
+Participant: for my creativity
+Ellie: asked_everything (okay i think i have asked everything i need to)
+Ellie: appreciate_open (thanks for sharing your thoughts with me)
+Ellie: bye (goodbye)
+Participant: bye

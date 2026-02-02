@@ -1,0 +1,261 @@
+Participant: <synch>
+Ellie: IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)
+Participant: yes
+Ellie: okay_confirm (okay)
+Ellie: how_doingV (so how are you doing today)
+Participant: uh doing okay doing okay
+Ellie: thats_good (that's good)
+Ellie: where_originally (where are you from originally)
+Participant: uh north carolina
+Ellie: really (really)
+Participant: yep
+Ellie: when_LA (when did you move to l_a)
+Participant: uh almost four years ago
+Ellie: wow (wow)
+Ellie: why_LA (why did you move to l_a)
+Participant: um i graduated college had an internship out here uh for a production company so i started doing that with a group of friends and then got work after that and enjoyed the city so much and have been working out here since
+Ellie: cool3 (cool)
+Participant: yep
+Ellie: often_backB (how often do you go back to your hometown)
+Participant: uh probably three <th>
+Participant: at the most three times a year maybe twice usually the holidays maybe one random trip in there
+Ellie: thats_good (that's good)
+Participant: mhm
+Ellie: compares_LA (how does it compare to l_a)
+Participant: um uh it's
+Participant: l_a's only now just starting to become home to me in the sense of that respect where like uh going home was going home now going home's like going back to see my family and
+Participant: seeing some friends um but um i i feel more
+Participant: i feel more like i belong in los angeles than i do back at home
+Ellie: uh_huh (uh huh)
+Ellie: like_about_LA (what are some things you really like about l_a)
+Participant: uh the food um the weather goes without saying uh
+Participant: i the <th> i like the resources there i like feeling um
+Participant: i like that uh the things that i wanna do uh are much easier much more accessible out here than they would be
+Participant: in north carolina so it i feel like i'm uh
+Participant: uh i'm able to uh pursue
+Participant: eh a lot of my passions ambitions in a much more functional and realistic way living in los angeles than i am in north carolina
+Ellie: dont_like_LA (what are some things you don't really like about l_a)
+Participant: uh i mean the cost of living isn't great but at the same time too i always kind of tell people like part of the rent is having access to so much um
+Participant: resources <resour> so many resources out here so uh it's not even expensive as new york or boston
+Participant: so uh it's not the worst but um
+Participant: uh and also i mean it is a little bit annoying that every time i do wanna go home it's a flight not a drive i can't i mean conceivably <con> really conceivably
+Participant: drive home for the holidays 'cause it's about a three or four day adventure and just not practical so it's uh unfortunate that i'm so far away in that respect but
+Participant: i can't really change geography
+Ellie: yeah3 (yeah)
+Ellie: that_sucks (that sucks)
+Ellie: study (what did you study at school)
+Participant: uh
+Participant: <laughter>
+Participant: <laughter> i studied uh history and uh media studies and production
+Ellie: still_working_on_X (are you still working in that)
+Participant: uh yes i work as a freelance writer and producer
+Ellie: hard_decision (how did you decide to do that)
+Participant: um in college i realized i was pretty good at it and uh i knew there was a way to monetize that and i came out here and uh worked a little bit uh in the
+Participant: uh public sector in trying to you know just doing those jobs that way and realized i could
+Participant: make more money have more control over my schedule and my life if i did it freelance so i've been doing it now for a little over a year now
+Ellie: thats_great (that's great)
+Ellie: travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)
+Participant: i do um i love traveling i try to uh
+Participant: go somewhere new for a good period of time about every uh seven to eight months just try to mix up things so i was in barcelona just recently
+Participant: and i'm planning on going to um either vietnam or even back to europe in next couple months so
+Ellie: awesome (awesome)
+Participant: mhm
+Ellie: travel_changed (what do you enjoy about traveling)
+Participant: uh i enjoy the break from routine i think that uh while it's nice to wake up and kind of have a vague idea where your day's going uh after a few months you can get very much kinda caught up in that and you
+Participant: uh pigeonhole i guess your thought process your expectations for the day and i love going to a foreign country and just waking up and
+Participant: knowing that everything i do that day is gonna be brand new and will be different than what i would be doing if i was in los angeles or
+Participant: and um our own routine so i i'm a big fan of that and i love the food so it's great to
+Participant: just eat um a lot of food that i love in the places where they were originally created
+Ellie: mhm (mhm)
+Ellie: travel_trips (i'd love to hear about one of your trips)
+Participant: uh yeah sure i went to uh
+Participant: barcelona uh like i said a few uh months ago and that was mainly because i had a friend who was living there for uh six or seven months and she kept asking me to come out
+Participant: and uh i finally i was at a point <p> point in work where i'd been working so much for months on end that i felt like i deserved a break so i went there for two weeks
+Participant: and yeah it was one of the healthiest smartest things i've done in awhile so i
+Participant: mm reminded me again how uh how important it is for me at least to uh to travel and to get out of the world
+Ellie: good_hear (that's so good to hear)
+Ellie: shyoutgoing (do you consider yourself more shy or outgoing)
+Participant: i'm very outgoing i uh love talking to people and conversing
+Participant: even virtual people
+Participant: oop
+Participant: i lost ya
+Ellie: relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)
+Participant: um to relax i uh
+Participant: listen and play music a lot i like to read uh i like to
+Participant: go see movies uh cook i cook a lot so i enjoy
+Participant: cooking um uh my <m> my girlfriend and i are uh currently separated by distance um so i haven't seen her in weeks and that can be very uh
+Participant: sad obviously so i'll talk with her as much as i can but uh but yeah just uh
+Participant: um uh pretty simple tastes
+Ellie: okay_confirm (okay)
+Participant: yep
+Participant: <participant is talking to rachel who has entered the room to fix a problem with ellie>
+Ellie: wild_laughter3 ((laughter))
+Participant: <laughter>
+Participant: this is awkward isn't
+Ellie: control_temper (how are you at controlling your temper)
+Participant: um i don't really have much of a temper so uh very good i guess i don't really get angry easily or quickly and uh when i do i'm usually aware of it enough that i can
+Participant: kinda formulate how i feel and why i'm feeling that way and what
+Participant: i want to be done about it so uh so it's pretty
+Participant: i guess i'm a pretty easygoing guy in that respect
+Ellie: thats_good (that's good)
+Ellie: last_argument (when was the last time you argued with someone and what was it about)
+Participant: <sigh> uh honestly it was probably something petty over like
+Participant: uh misremembering when uh
+Participant: something was done or like a a date on something or like a a a fact probably wasn't anything emotionally fueled
+Participant: uh and it was just about yeah i think it was probably about like
+Participant: trying to figure out when exactly we went to san francisco and it wasn't even an argument as much as just the other person
+Participant: thinking the other person's misremembering so um in you know small or big situation it's very difficult for me to actually feel enraged
+Participant: uh i guess in the classical sense of the word
+Ellie: okay_confirm (okay)
+Ellie: situation_handled (tell me about a situation that you wish you had handled differently)
+Participant: um <sigh>
+Participant: i'm trying to think i'm not one one for regrets um
+Participant: um i just recently did a uh uh a project
+Participant: like a a film and uh the subject matter had a little bit to do with like an ex-girlfriend of mine so when it came time to release it
+Participant: uh i made a point i to i didn't wanna send it to her directly 'cause i didn't want her to think that i was
+Participant: doing to xxx her face but i did send it to her brother just because he enjoys my work and always says he wants to see stuff and i um
+Participant: uh maybe that <tha> she might've could've misconstrued that as being passive-aggressive i don't know um
+Participant: but um but yeah i mean that's something i i thought about but i don't really regret it as much as like maybe i could've just let
+Participant: uh everyone <ever> everyone else who i wouldn't wasn't necessarily sure about if i should do stumble upon it as opposed to me directing it to them so
+Participant: just my thoughts there
+Ellie: yeah_downer (yeah)
+Ellie: hard_decisionB (tell me about the hardest decision you've ever had to make)
+Participant: <sigh>
+Participant: <laughter>
+Participant: hardest decision i've ever had to make <deep breath> ah um <sigh>
+Participant: uh it was actually probably uh probably that uh
+Participant: ah i don't even wasn't even a hard decision with like i said with that the the same ex-girlfriend that i mentioned of it was probably hard because uh i knew i had to uh
+Ellie: right2 (right)
+Participant: break up with her after some stuff happened and
+Participant: um it was difficult 'cause i cared about her a great deal but also same tune it wasn't hard to arrive at the conclusion that i had to
+Participant: uh to uh
+Participant: break up with her but at the same time too it was not uh
+Participant: uh the easiest thing to kinda go through that process it's getting on a rollercoaster that you're very much aware of how mm terrible or frightening it's gonna be but you know you have to get on the rollercoaster so uh so yeah i'd say that's probably of recent memory
+Ellie: change_directions (what made you decide to do that)
+Participant: ugh just
+Participant: a abundance of <laughter> reasons that uh this person was probably not the uh best person for me so
+Participant: uh like i said it was a it was i didn't have to uh i didn't have to weigh too much too much data to figure it out um it was pretty clear sign and i have no regrets about doing it now um
+Participant: i uh
+Participant: yeah i feel very strongly then about it and i felt i still feel very strongly that i made the right choice now
+Ellie: okay_confirm (okay)
+Ellie: easy_sleep (how easy is it for you to get a good night's sleep)
+Participant: um <sigh> it can be it can be tough there be <b> they'll be i feel like it's either if i if i've exhausted myself during the day between work and you know i've i've started exercising again which is a huge help
+Participant: but um but i'd say that it's i kind of when i get into bed at night i never know how it's gonna go sometimes it's uh sometimes i'll wake up within an hour of falling asleep and i can't go back to sleep or
+Participant: um i'll just yeah periodically keep getting up and up um so it's something that's gotten a little better in the last few weeks but uh yeah um like i said especially having my uh my current girlfriend uh not around like i said she's a very
+Participant: big source of comfort around so like that uh um but she travels a lot for work so it's something to have to adjust to and uh
+Participant: uh sleep can be can some that suffers from that but uh in the same respect i'm not someone who actually i feel like i don't need too much sleep i
+Participant: if i can get if i can get four to six hours i'm in pretty good shape that day so
+Ellie: feel_lately (how have you been feeling lately)
+Participant: um
+Participant: uh little anxious i guess uh little more <mo> more just um
+Participant: uh i just whenever i get off of a assignment uh there's always just the question like what am i what's going on next and uh so far i don't have the next
+Participant: um project lined up so it's always that nervousness um in the past something usually does come up so you have the precedent of it usually working out but until it does you're always a little
+Participant: um
+Participant: uh anxious and it can be depressing 'cause it's like uh
+Participant: um you know i've chosen a very much a lifestyle that while i get to have a lot of control and autonomy over my life uh it also is all on me in order to do it and you know sometimes i'm i um i'm very jealous of
+Participant: the idea of people just waking up going to an office for eight hours leaving and not having to think about that work the minute they leave the office and kind of having the momentum of a
+Participant: group of people or or company um
+Participant: carrying them through when um it's a little tough whereas like me if i have an off day or if i'm a sick day um that no work gets done <laughter> you know i'm a small business that has one employee
+Ellie: uh_huh (uh huh)
+Ellie: symptoms_cope (how do you cope with them)
+Participant: how do i cope with
+Participant: them um
+Participant: i assume you mean i guess
+Participant: uh
+Participant: people i work with how do i cope with the
+Participant: uh maybe the better answer would be how do i cope with that lifestyle and just i got much <m> uh much more used to it something i'm still learning and figuring out how to
+Participant: how to handle uh as far as not just like i know the the how rewarding the work is when i do it but it's also figuring out what's the most efficient way to live the life and
+Participant: you know how do i uh what's the appropriate way to budget finances what's the
+Participant: uh expectation i should have for myself in a given year what's realistic what's hopeful um and that's something that i'm sure will take years and years to do but i feel like as long as i'm getting better at it
+Participant: then uh it's progress right
+Ellie: yeah3 (yeah)
+Ellie: depression_diagnosed (have you been diagnosed with depression)
+Participant: uh yes uh definitely once and then probably i if i would've gone back uh
+Participant: um i was gone in high school probably it would've been second time but um but yeah i've been diagnosed with depression once so i feel like it's one of those things that uh is something i have to keep in check
+Participant: throughout my entire life you know um i feel like i'm a pretty happy person for the most part but um uh has they i hate as annoying as it is but like they say like with people who are very creative or people who do a lot of stuff with the mind it tends to
+Participant: follow and i get that it's a self-esteem thing 'cause it's so hard to feel
+Participant: um so hard <har> or so easy i should <shou> suppose to get in your own head about that
+Ellie: mhm (mhm)
+Ellie: when_diagnosed (how long ago were you diagnosed)
+Participant: uh this was within a year so i probably was feeling
+Participant: uh symptoms having been there before it was kinda easy to figure out like ah you know it's kinda happening again so i feeling uh the symptoms again uh uh
+Participant: and going through those emotions and feeling like okay at first i was kinda hoping it would be something i could kind of work through myself
+Participant: but um i realized it was just stupid for me to try to fight the battle on my own so i went and um started seeing a therapist
+Ellie: symptoms_what (what were your symptoms)
+Participant: uh uh really bad this is when i i just couldn't sleep at all like i would get maybe an hour of sleep a night at best um i wasn't sleeping at all
+Participant: had just no <sigh> uh no no drive to do anything whether it was you know as simple as brushing my teeth or
+Participant: cleaning my apartment things like that and just being in the same time simultaneously being aware that it's like oh this is all in my head and it's not even like a
+Participant: a symptom so um
+Participant: uh yeah just a general just a general malaise that comes with depression
+Ellie: therapy_going (do you still go to therapy now)
+Participant: uh no i just finished up uh finished up i mean since i didn't graduate or anything <anyth> like that but i got to a point where i felt like uh
+Participant: um
+Participant: i kind of talked through as much as i could talk through and
+Participant: i'd moved on eh in other places in my life it was in kind of a good
+Participant: good work xxx especially like i said i was i was working on something i really cared about um i'm now with someone i care about greatly
+Participant: and uh um there's such a potential opportunity for me to not even have to worry about the symptoms and stuff as much now that
+Participant: uh i felt like therapy was not necessary and also i just didn't really have the time to with as much work goes on so
+Ellie: therapy_useful (do you feel like therapy is useful)
+Participant: oh i definitely i think having someone you can confide in uh who isn't your friend or your family member who won't
+Participant: you know have a few drinks and tell someone what you said to them or anything like that is definitely a a something beneficial i can't imagine how anyone couldn't benefit from having that on a somewhat of a routine basis
+Ellie: okay_confirm (okay)
+Ellie: memory_erase (tell me about an event or something that you wish you could erase from your memory)
+Participant: um <sigh>
+Participant: i don't know i'm i'm a firm <f> kind of a firm believer that the all those things like those things that kinda can haunt you are also there for a reason like uh
+Participant: uh my sister died when i was uh about <bout> what twelve years old and she was younger than me
+Participant: and watching my parents like seeing my father cry for the first time was a very
+Participant: kind of traumatic thing for me and it uh i felt like i grew up a lot that day so it's um also difficult to see that and see how my parents had to deal with losing a child
+Participant: i don't want to forget those things 'cause i think they're very integral to
+Participant: um how i cope with life and how i perceive uh
+Participant: um hardships and obstacles and uh having that image of knowing my father on it's very very humanizing 'cause it's so easy to kind of
+Participant: you idolize your parents and i still idolize my father but to know he's he's a guy like me and as i get older it's um easier identify with
+Participant: uh the man he is
+Ellie: yeah_downer (yeah)
+Ellie: advice_back (what advice would you give to yourself ten or twenty years ago)
+Participant: <psh> so i'd be uh sixteen or six
+Participant: um
+Participant: uh i kind of like the notion uh that uh they're they always say you wouldn't worry as much what people thought about you if you realized how people how much people didn't think about you and that's really hard to tell a sixteen year old and i don't know what the point of telling a six year old
+Participant: but um but yeah i feel like especially when you're in high school until it gets i mean nowadays you <y> i mean we live in los angeles where
+Participant: so much is caught up in how people think about you and i still am very if i find out someone eh either is upset with me or doesn't like me it bothers me to a great deal or i hate letting people down so
+Participant: i would like to come to a healthier place where just knowing that sometimes you just can't really control
+Participant: how people feel about you even if you have the best intentions in the world so
+Ellie: right2 (right)
+Ellie: Ellie17Dec2012_07 (what would you say are some of your best qualities)
+Participant: uh i'm a very compassionate guy i um i'm there for my friends i'm pretty selfless in that respect i
+Participant: um have a good humor about things like even with <laughter> even with being depressed or depression i can joke about it it's not you know i'm not a morbid
+Participant: depressed more just the i'm aware of when i'm uh
+Participant: i'm low and uh i treat it as such and
+Participant: i don't you know i don't try to deny it i don't try to like any of that but i i
+Participant: i have a i'm a i'm a pretty
+Participant: like practical person in that respect i don't think uh even when i'm depressed i don't take it out on people or i don't think people people have told me they don't even seem to when i
+Participant: mention that <cough> been going through like depression no one seems to like or they don't mention i for one feel like when i do go through it it's like oh everyone can just tell and
+Participant: i'm just a smoking gun of
+Participant: sadness basically <laughter> but uh but no i i tend to carry it pretty well and uh
+Participant: um i don't i don't lose sight of uh
+Participant: the reality <rea> the reality of what i know is happening so
+Ellie: uh_huh (uh huh)
+Participant: mm
+Ellie: happy_lasttime (tell me about the last time you felt really happy)
+Participant: um i was on a my uh
+Participant: my girlfriend came uh she was in thailand for three weeks and then she was supposed to go to spain for two but she canceled that trip and came back and stayed with me for about ten days and um
+Ellie: aw (aw)
+Participant: yeah i know i <laughter> i love her she's great um she's the coolest person i know and so much fun and she uh when she's around she makes me so happy and uh
+Participant: um so having her for ten days and we just had like normal we we rarely get normal couples time like it's always like oh i see you for five days and
+Participant: then one of us has to go somewhere um so to have ten days just normal where we could just cook dinner at home like
+Participant: lie in bed and read books or anything like that was great and uh it makes me so happy that i have
+Participant: someone that i can do that with and just it feels so uh practical and feels so right
+Ellie: good_hear (that's so good to hear)
+Ellie: BF_describe (how would your best friend describe you)
+Participant: um
+Participant: <sigh> i guess for xxx i'm i'm i'm a good guy like i i i know i don't uh
+Participant: i don't think i screw people over i don't um i'm a good friend to have i'm i'm there for people i look out for people i care
+Participant: uh about people and what they think of me and that goes especially much for my friends and
+Participant: i try to make sure you know with a lot of my friends being on the east coast i try to carve out time to make sure that they know i think about them and i call them
+Participant: and so i i feel like uh for a lot of people who count me as their friend i'm
+Participant: probably one of their better ones in just the sense that i'm i know how much i appreciate and respect uh the friendships we have
+Ellie: mhm (mhm)
+Ellie: asked_everything (okay i think i have asked everything i need to)
+Ellie: appreciate_open (thanks for sharing your thoughts with me)
+Participant: thanks ellie
+Ellie: bye (goodbye)
+Participant: bye

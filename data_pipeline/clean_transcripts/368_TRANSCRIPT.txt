@@ -1,0 +1,314 @@
+Participant: <synch>
+Ellie: IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)
+Participant: <sniffle>
+Participant: yeah i'm okay with it
+Ellie: okay_confirm (okay)
+Ellie: how_doingV (so how are you doing today)
+Participant: um i'm okay i'm okay um
+Participant: i guess
+Ellie: thats_good (that's good)
+Ellie: where_originally (where are you from originally)
+Participant: scrubbed_entry
+Participant: i'm basically an l_a kinda guy
+Ellie: cool3 (cool)
+Participant: cool
+Ellie: like_about_LA (what are some things you really like about l_a)
+Participant: um
+Participant: you know the weather it's usually pretty sunny and and temperate you know i like the the climate really a lot
+Participant: uh i like the girls here you know um
+Participant: i like uh let's see i don't like the traffic you know but
+Participant: um i like the hispanic population quite a bit you know um
+Participant: and i have a lot of friends here so i guess you know i don't wanna be anywhere else
+Ellie: uh_huh (uh huh)
+Ellie: dont_like_LA (what are some things you don't really like about l_a)
+Participant: i mean like i said the traffic you know i was on the four o five you know that's always kinda you know crummy
+Participant: the cost of living that's really you know terrible about l_a it's always expensive
+Participant: and um
+Participant: you know i really don't like
+Participant: <sigh> i really don't like you know the the
+Participant: like it just seems like um l_a's one of those places where like you're you know you either have like a a you know a ton of money and fame and fortune or like you know you're down in the you know the ghettos you know
+Ellie: yeah3 (yeah)
+Ellie: travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)
+Participant: i have i've been to a couple places um
+Participant: uh you know but very brief you know mostly it was for school
+Participant: um i went to arizona and new york and montana lot of the anthropology like you know and archaeology field trips and things like that
+Ellie: mhm (mhm)
+Participant: um nothing i'm doing in right now
+Ellie: travel_changed (what do you enjoy about traveling)
+Participant: uh i like getting away from um <laughter> the city you know i was in yosemite last year you know in the summer for vacation that was kinda nice you know yosemite was really um
+Participant: really neat to see but uh just basically getting away from the city i guess you know getting away from the job getting away from um the stress here
+Ellie: yeah3 (yeah)
+Ellie: study (what did you study at school)
+Participant: uh i actually studied political science and i also studied economics um
+Participant: i'm a big kind of a political you know junkie you know to begin with so i naturally kinda fell in line with that kinda field of study
+Ellie: still_working_on_X (are you still working in that)
+Participant: i was i was but i lost my job
+Participant: and you know that's kind of a bummer you know um i lost it's uh
+Participant: geez
+Participant: it's already been maybe a year and a half by now maybe two years and
+Participant: um
+Participant: you know the economy uh got bad and the budget cuts got bad
+Participant: and you know um i wish i was working there again
+Participant: uh
+Ellie: yeah_downer (yeah)
+Ellie: good_job (it can be tough to find a good job these days)
+Ellie: job_virtually (i love my job you could almost say it's virtually made for me what's your dream job)
+Participant: <laughter>
+Participant: well i um wanted to be a lawyer at one time i wanted to be a lawyer and i um
+Participant: and that's why i took political science and i took a double major in economics
+Participant: and uh the sad thing is the sad thing i i regret is i eh you know to get into law school you have to take this entrance exam called the lsats
+Participant: and i studied for it like really hardcore you know for about a year and i took the xxx test and like a idiot um i didn't feel right about the that day it was kind of an off day
+Participant: and you know it was like you know the big game at the superbowl you <y> you know i just um i don't <do> i don't feel like i did well and i canceled the test and so um
+Participant: you know i kinda regret that you know
+Ellie: that_sucks (that sucks)
+Participant: <laughter> tell me about it
+Ellie: shyoutgoing (do you consider yourself more shy or outgoing)
+Participant: um i'm not really shy at all i'm definitely not shy um
+Participant: but outgoing i mean not one of these people <peo> i'm not flamboyent you know um i i'll talk to people i don't mind talking to people i don't mind
+Participant: um meeting <mee> meeting people that's fine with me but it's not like i'm you know dying to to dying to meet anybody <laughter> you know <laughter>
+Ellie: yeah3 (yeah)
+Ellie: see_mean (i see what you mean)
+Ellie: relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)
+Participant: i guess
+Participant: um these days uh you know i play guitar you know i taught myself how to play guitar
+Participant: um
+Ellie: nice (nice)
+Participant: uh yeah thank you thank you i you know i i should've i should actually be doing more of it
+Participant: but i also like to exercise um uh i'm on a diet right now but my diet's been terrible time the eating habits have been terrible
+Participant: but the exercise part is just great i love to exercise <exerci> i love to run that's one of my best things to do for stress is like run and like work out
+Participant: um i just wish that my eating habits were were in line uh or a little bit better you know
+Ellie: okay_confirm (okay)
+Participant: <sniffle>
+Ellie: control_temper (how are you at controlling your temper)
+Participant: um <sigh> my temper could be you know definitely improved uh a lot you know um
+Participant: you know a lotta times i i feel i'm one of these introvert types persons when it comes to like you know i don't mind being extrovert or like meeting people and like having a good time whatever
+Participant: when uh when i'm mad i really don't wanna be you know talking to people i don't like to yell i don't like to scream i don't like to hit i don't like to fight i kinda close down a lot i don't i just wanna be left alone
+Participant: sometimes i tend to drag it on for longer than it should be
+Participant: you know uh the wife doesn't like it too much and maybe i you know i just don't i just don't wanna talk about it <laughter> i just don't wanna deal with it
+Participant: i kinda close down and shut you know
+Participant: shut off for a little bit
+Ellie: mhm (mhm)
+Ellie: last_argument (when was the last time you argued with someone and what was it about)
+Participant: geez
+Participant: um
+Participant: you know it doesn't happen too often
+Participant: maybe with my wife
+Participant: you know we were probably something silly who knows
+Participant: who knows
+Ellie: feelguilty (what's something you feel guilty about)
+Participant: um
+Participant: the
+Participant: thing i i mean i don't have a lotta guilt i don't do anything like to make me ever feel like you know that bad of a person you know um
+Participant: there are things that like you know um i call minor sins
+Participant: you know i get white lies or whatever you know but like nothing like so atrocious that makes me feel like guilty
+Ellie: give_example (can you give me an example of that)
+Participant: um
+Participant: let's see i guess
+Participant: sometimes you know um
+Participant: you know i i'm a married guy but i you know sometimes there are times you know i like to
+Participant: you know smile at a girl or like you know get a girl's attention you know i don't know i never go i never do anything about it i never get their phone number or like you know but
+Participant: sometimes i like to like
+Participant: talk to people i guess
+Participant: you know
+Ellie: mhm (mhm)
+Ellie: situation_handled (tell me about a situation that you wish you had handled differently)
+Participant: well that's a good question
+Participant: i guess
+Participant: i guess you know see i always handle it the same there's not i don't ever wish to ever to ever change i i never wanna like handle things differently
+Participant: i always kinda i'm pretty comfortable the way i handle things and you know i think that um i could be a lot worse and like you know shouting and screaming and hitting and this and that
+Participant: and that's just not me um you know i think the best thing to do you know is kinda like
+Participant: get a lot of breathing room a lotta space and um i don't wish for that to change or to handle any of that differently i just don't basically know what else to do
+Participant: you know um
+Participant: and you know the last thing i wanna do is start talking about you know feelings or any of this you know that's the last thing i wanna do and so like i don't wish that i handle things like that differently in that way
+Ellie: uh_huh (uh huh)
+Ellie: family_relationship (tell me about your relationship with your family)
+Participant: well um you know i'm pretty happy with my family right now um you know if i'm married and we have a baby along the way
+Participant: which is kinda nice
+Participant: um we have some cats thank you thank you we have cats and a dog a weenie dog and um my mom i i love my mom dearly
+Ellie: aw (aw)
+Participant: um
+Participant: uh she has diabetes which you know she doesn't control
+Participant: you know she doesn't control it and like it like uh it affects her health and it always has me worried about her and like stressing out about her and and she could do so much to like prevent it and she doesn't and
+Participant: um you know i have a good relationship with my mom i i love her dear dearly and i actually have a good relationship with everybody i think
+Participant: i think i have a ton <to> ton of of family and friends um
+Participant: that get along with me pretty well actually you know
+Ellie: good_hear (that's so good to hear)
+Participant: yeah
+Ellie: easy_sleep (how easy is it for you to get a good night's sleep)
+Participant: um <sigh> there are times well i mean it's pretty easy for me to go to sleep actually i i feel like you know i sleep like a baby
+Participant: um the only problem i have
+Participant: i think
+Participant: is i feel
+Participant: like um you know sometimes like you fall asleep and you have you you're just going to sleep and you kinda like jolt you know like you almost kinda like fall eh it's like a falling sensation or something like that
+Participant: and it doesn't happen eh that often but it happens
+Participant: and um but for the most time <ti> part um no i sleep like a rock i sleep really good
+Ellie: thats_good (that's good)
+Participant: <sniffle>
+Ellie: feel_lately (how have you been feeling lately)
+Participant: well right now generally i've been feeling um
+Participant: worried and and anxious and um
+Participant: you know uh and tense and the reason why is 'cause i said my mom um right well at least today
+Participant: well i found out my mom something she didn't tell me the whole story and i'm kinda waiting 'til this is over so we can i can find out what's wrong with her
+Participant: but um
+Participant: you know i'm worried about her she's in the hospital <ho> she's in the doctors right now so that doesn't tell me anything good
+Participant: and um you know um trying to find a job so that has me worried too
+Participant: and you know the baby along the way so that has me worried so i feel like <sharp inhale> you know overwhelmed with a just a lotta like you know things to do and like
+Participant: and um
+Participant: a lot on my a lot on my plate and like a lot of it doesn't have anything to do with me but i have to handle it like you know so like i guess
+Ellie: yeah_downer (yeah)
+Ellie: symptoms_cope (how do you cope with them)
+Participant: well um i keep myself distracted i keep myself busy i i feel like a busybody you know and the more um which kinda seems <se> you know seems like it's not a good thing because i feel like i'm just adding more things on my plate
+Participant: so
+Participant: um
+Participant: you know like one of the things i do is like exercise and so i have to work out every day you know but that takes an hour that takes an hour to like you know change <ch> change and you just start running and like go through the whole thing of stretching and and cooling down that takes it takes some time and then like to shower
+Participant: all that kinda stuff takes <ta> takes time so but i have to do it daily so i cope with it in that way
+Participant: i also cope with it too you know playing guitar but that just
+Participant: more of a distraction you know what i mean keeping you know keeping busy that way it just seems like it's not
+Ellie: right2 (right)
+Participant: you know um working towards you know the goals
+Participant: you know that i need to do like you know finding <f> finding a job which i should be doing but then um
+Participant: you know it's one of those things where like i find like there's no good jobs i've been looking and looking and like sometimes when i do it it it's just not what i wanna do it just doesn't seem
+Participant: like
+Participant: <laughter> like i wanna like uh
+Participant: do any of these like terrible jobs
+Ellie: mhm (mhm)
+Ellie: been_hard (that sounds really hard)
+Participant: i xxx it's you know it's it's
+Participant: probably harder than i'm thinking about it because sometimes i i i feel like um
+Participant: you know one of these things is like uh
+Participant: i feel like um it is hard
+Participant: but it's not i mean there are ways i can cope with it
+Participant: you know i just gotta kinda i kind of accepted it a lot you know i kinda internalized it
+Participant: and like uh you know
+Participant: it's not something that's like i'm not out on the streets or anything like that <laughter> but uh you know it is a worry
+Ellie: yeah_downer (yeah)
+Ellie: ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)
+Participant: i've never been diagnosed with p_t_s_d i used to work with
+Ellie: depression_diagnosed (have you been diagnosed with depression)
+Participant: no
+Participant: no
+Participant: <grumble>
+Ellie: happy_lasttime (tell me about the last time you felt really happy)
+Participant: man
+Participant: <sigh>
+Participant: uh ten years ago <laughter> i don't know uh let's see the last time i was really happy maybe
+Participant: i mean nothing i feel like nothing makes me happy no more you know um i learned a new song on the guitar feel <fe> i i feel like
+Participant: not even happy about that you know i feel like um
+Participant: you know i work sometimes and that kinda makes me happy you know running like you know fast and working out but that doesn't make me so excited or anything like that
+Participant: it just makes me feel good
+Participant: you know so i i have these these
+Participant: these times where i'm just you know feeling good
+Participant: about myself and i'm feeling you know but i'm never feeling great i'm never feeling happy i'm never feeling like so sensationalized like you know and and
+Participant: and uh you know
+Participant: incredible that you know um it just eh
+Participant: you know there's these there's these mild times where there's a a few good times
+Participant: you know and a few bad times but the good times are no never <n> never <ne> never extremes
+Participant: you know never really good times and never really you know atrocious bad times you know
+Ellie: uh_huh (uh huh)
+Ellie: self_change (what are some things you wish you could change about yourself)
+Participant: well i wish this diet would work out a little bit better you know but that's kinda hard you know 'cause i'm the kinda guy who just likes
+Participant: who just likes you know um you know rice and and like uh mexican food and like <sharp inhale> you know um and to snack and uh
+Participant: i don't know um i just feel like that could i could change i wish i could change my eating habits that way i can
+Participant: like you know 'cause i work out so much i feel like i do so much running and so much activity that like um you know
+Participant: that if i got my you know diet in check um
+Participant: you know that that would um go a long way um i wish i also can change you know um
+Participant: my <m> my
+Participant: my uh
+Participant: i guess my my
+Participant: desire to like you know get ahead like right now i feel just so um like the economy's so bad
+Participant: and like things are so um rough that
+Participant: you know it's like pointless to even like you know look for these kinda jobs so like
+Participant: it just seems like i just wish i had a little bit more inspiration a lot more motivation to like
+Participant: to um <laughter>
+Participant: <sigh> do things
+Ellie: yeah_downer (yeah)
+Ellie: see_mean (i see what you mean)
+Participant: <sniffle>
+Ellie: regret (is there anything you regret)
+Participant: the one thing i regret is is not
+Participant: is not um you know is this this lsat thing you know um
+Participant: you know
+Participant: not uh uh canceling the test to begin with 'cause i'm sure i could've got into a a school but then again like you know it has me thinking like do i really wanna pay a bunch of like you know law school tuition and the cost of that and like
+Participant: you know just to um
+Participant: just to be piled on with more work and things like that eh
+Ellie: right2 (right)
+Participant: i don't know <sigh> it just doesn't seem like
+Participant: like uh
+Participant: i mean there is a this idea of justice and
+Participant: and um and republicanism
+Participant: and you know things that i really you know adhere to
+Participant: that um i fall in love with
+Participant: and that i don't wanna get away from
+Participant: but it just seems like it's a like it's a ton of work and money
+Participant: and just to like um it for the smalls percentage of success that
+Participant: that you know you might not be really doing that kinda field you might you know i might <mi> it just doesn't seem like
+Participant: like um it's worth overcoming the obstacles i need to overcome
+Ellie: yeah3 (yeah)
+Ellie: advice_back (what advice would you give to yourself ten or twenty years ago)
+Participant: ugh <sigh>
+Participant: i have no idea i would <laughter> i would <wou> twenty years ago i would tell myself maybe
+Participant: um
+Participant: you know i think i've done everything really well for myself except for the the lsat thing you know which i i
+Participant: you know regret on one hand on the other hand
+Participant: you know i i'm not sure if i regret 'cause like eh about the bills and all that kinda stuff i told you about
+Participant: and you know
+Participant: i think uh you know i i've waited to get married i waited to have a kid
+Participant: i've i've you know pretty cautious about the decisions <deci> you know i don't take drugs i don't drink i don't fight i don't do any of these like things that like you know that
+Participant: i think that real people have you know
+Participant: um and then they they really like you know ruin their life you know so like
+Ellie: yeah2 (yeah)
+Participant: i'm pretty happy and content with
+Participant: being you know the cautious you know
+Participant: uh
+Participant: <sigh>
+Participant: i don't know
+Ellie: okay_confirm (okay)
+Ellie: BF_describe (how would your best friend describe you)
+Participant: oh my best friend i think he he kinda like <li> he likes me he wishes that i would do more things with him but he works at night
+Participant: and and you know it's one of those things i think most people not just my best friend but my wife and might be but rest of my family
+Participant: feel that i don't put a lot of
+Participant: time and attention to them i mean they think that i'm pretty great when i do give 'em the my
+Participant: time of day and my attention but um i don't know if i'm really there all the time you know i don't know if i'm really
+Participant: you know i'm always thinking about something else i'm always thinking about something different
+Participant: i don't <don> i don't know if i really can give 'em eh a a real
+Participant: you know shoulder to cry on or you know if they ask for something you know i'll i'll usually do it
+Participant: you know but i almost feel like it's like a chore like you know like if they
+Participant: you know
+Participant: if they really need me then i'll do it you know eh if they're just asking for a favor
+Participant: i almost feel you know i do it half you know with a lotta lackluster lotta half-heartedness
+Participant: i just feel <f> and it's not because i hate 'em or anything i really like 'em it's just that i feel like
+Participant: i almost i don't wanna say i owe it to them but the mere fact that i'm their friend makes them somehow um
+Participant: you know uh
+Participant: like i eh it it makes me like you know they rely on me some you know times or like i don't wanna let 'em down they are my friends
+Participant: but it's the same time i i just feel like it's
+Participant: it's more it's not it's not it's more of like a chore to do instead of a
+Participant: a willingness like a oh my god like i just wanna help you it's never <ne> it's never like that it's just something that i do because i have <ha> kinda have to you know you gotta you know
+Participant: gotta do things for your friends you know in the end because they're your friends you know and i in in the end i do like 'em and they probably would do it for me
+Participant: and i you know so i just do these things you know just
+Ellie: mm (mm)
+Ellie: Ellie17Dec2012_08 (what are you most proud of in your life)
+Participant: um well there are a couple a things that i do like uh that i've good <go> i feel good about myself you know
+Participant: um you know i ran the l_a marathon that kinda feels good you know
+Participant: i've graduated from college that kinda feels good you know what i mean but the thing is i don't feel like
+Participant: like that proud of myself
+Participant: for you know those things alone like graduating from college
+Participant: you know hasn't really made me successful you know what i mean
+Participant: um
+Participant: running the marathon hasn't made me thin and trim
+Participant: so they're like half merits
+Participant: you know or like they're they're great you know lotta people maybe not half done it a lotta people have excelled further
+Participant: but um
+Participant: you know they're kinda like stepping stones that like
+Participant: that um i've seal real new no
+Participant: life <l> lifelong
+Participant: benefit from doing other than the fact that i can say that i've done
+Ellie: mhm (mhm)
+Ellie: asked_everything (okay i think i have asked everything i need to)
+Ellie: appreciate_open (thanks for sharing your thoughts with me)
+Participant: yeah yeah no problem no problem thank you for your time you know um hope you enjoy you know uh being in this computer
+Ellie: thank_you (thank you)
+Participant: <laughter>
+Ellie: bye (goodbye)
+Participant: oh goodbye
+Participant: i'm gonna press this button now
+Ellie: yes (yes)

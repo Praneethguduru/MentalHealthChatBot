@@ -1,0 +1,215 @@
+Participant: <synch>
+Ellie: IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)
+Participant: yes
+Ellie: okay_confirm (okay)
+Ellie: how_doingV (so how are you doing today)
+Participant: very well
+Ellie: thats_good (that's good)
+Ellie: where_originally (where are you from originally)
+Participant: uh ohio
+Ellie: really (really)
+Participant: mhm
+Ellie: when_LA (when did you move to l_a)
+Participant: uh finished school and came out to start my life
+Ellie: often_backB (how often do you go back to your hometown)
+Participant: uh not often now
+Participant: not really often
+Ellie: why2 (why)
+Participant: uh because my parents have both passed away and so that's my reason for that was my reason for going home
+Participant: prior
+Ellie: isee_downer (i see)
+Ellie: compares_LA (how does it compare to l_a)
+Participant: uh there's really not a comparison
+Participant: you know this is warm and
+Participant: sunny
+Participant: and that has four seasons so it's a very different environment
+Ellie: mhm (mhm)
+Ellie: adapted_LA (how easy was it for you to get used to living in l_a)
+Participant: i it took a minute
+Participant: to get adjusted to the different culture
+Participant: but uh after i was adjusted you know the sunshine keeps you here
+Ellie: thats_good (that's good)
+Ellie: like_about_LA (what are some things you really like about l_a)
+Participant: uh i love the weather
+Participant: i love the fact that i have the ocean and the mountains
+Participant: and um so many things that i can choose from and the diversity that i find here
+Ellie: uh_huh (uh huh)
+Ellie: dont_like_LA (what are some things you don't really like about l_a)
+Participant: uh i
+Participant: tend to not have things that i don't like
+Participant: uh because where i am i know that i'm finding myself there
+Participant: so and i like me so that means that there's really nothing i don't like
+Ellie: good_hear (that's so good to hear)
+Ellie: travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)
+Participant: yes i do
+Ellie: travel_changed (what do you enjoy about traveling)
+Participant: uh i love being able to explore different cultures be able to meet different people have a different set of experiences
+Participant: and at the same time to be able to find the commonality between
+Participant: uh all types of people
+Participant: it's a very rich experience
+Ellie: travel_trips (i'd love to hear about one of your trips)
+Participant: um
+Participant: which one
+Participant: to where
+Ellie: mind (whatever comes to your mind)
+Participant: uh i
+Participant: guess i'm thinking about egypt and the wonderful experiences that i have there
+Participant: uh as i go
+Participant: the people and the
+Participant: warm and loving experience i have the knowledge i get to pursue
+Participant: through the exploring the temples and the pyramids etcetera things like that
+Ellie: memorableB (what's one of your most memorable experiences)
+Participant: there are so many there really are
+Participant: but i can think of uh seeing a baby in a mosque
+Participant: which was just really pure and it
+Participant: really stayed with me how similar
+Participant: we actually all are
+Participant: um that's probably one of the things that i remember most from one of my very first trips
+Participant: uh there
+Participant: and
+Participant: let's see
+Participant: just the interaction of the people the food you know incredible i love the food too
+Ellie: nice (nice)
+Ellie: study (what did you study at school)
+Participant: wow i've studied lots of different things i've studied law i've studied um
+Participant: entertainment i've studied communications i've studied
+Participant: whatever i want to quite a renaissance woman
+Ellie: wild_laughter3 ((laughter))
+Participant: <laughter>
+Participant: <laughter>
+Ellie: hard_decision (how did you decide to do that)
+Participant: ah it's just always been my way to really explore all of the things that i enjoy
+Participant: keeps me fresh keeps me happy keeps me alive
+Participant: and um just allows me to be able to
+Participant: be fully developed as a human being being able to do that
+Ellie: see_mean (i see what you mean)
+Participant: mhm
+Ellie: dream_job (what's your dream job)
+Participant: um
+Participant: i don't have a dream job
+Participant: per se
+Participant: what i do have is a um
+Participant: desire to just be able to be free to do whatever it is that i choose
+Participant: on a daily basis so
+Ellie: mm (mm)
+Ellie: shyoutgoing (do you consider yourself more shy or outgoing)
+Participant: uh probably more outgoing
+Participant: mhm
+Ellie: relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)
+Participant: <laughter>
+Participant: well i start my day out very relaxed because i start my day with meditation uh and several <s> uh several other spiritual practices that i perform
+Participant: before i move uh around i get exercise
+Participant: so that uh i keep everything humming everything moving
+Participant: and uh then move forward from there
+Ellie: thats_great (that's great)
+Ellie: control_temper (how are you at controlling your temper)
+Participant: uh excellent <laughter> i don't really have one anymore
+Ellie: last_argument (when was the last time you argued with someone and what was it about)
+Participant: argued
+Participant: um
+Participant: cannot remember the last time that i actually had an argument
+Participant: um
+Participant: don't know what it's about
+Participant: i imagine that the last time i argued about something probably might be related to money
+Ellie: okay_confirm (okay)
+Ellie: situation_handled (tell me about a situation that you wish you had handled differently)
+Participant: situation i wish i had handled differently
+Participant: you know i try to take each experience as they come and try not to have regrets
+Participant: to hold guilt about the way anything
+Participant: uh went because they're all for me very positive learning experiences
+Participant: uh that i get to explore who i am through so i don't really see them as
+Participant: needing them to be different i need to learn from them
+Participant: or to um just really accept what is
+Ellie: mhm (mhm)
+Participant: mhm
+Ellie: hard_decisionB (tell me about the hardest decision you've ever had to make)
+Participant: hardest decision i've ever had to make
+Participant: um
+Participant: don't really have a quote on quote hard
+Participant: decision you know because i grew up in a way
+Participant: uh where my mother was extremely
+Participant: wonderful in the way that she always taught me to know that it was my own life
+Participant: and so she would never make decisions for me she always taught me to say she would always say
+Participant: it's your life
+Participant: and so
+Participant: um for me decisions don't really come
+Participant: as difficult to make
+Participant: they're pretty easy to make because i've been making them since childhood
+Participant: so i don't really have a
+Participant: most difficult
+Participant: decision i've ever made
+Ellie: okay_confirm (okay)
+Ellie: memory_erase (tell me about an event or something that you wish you could erase from your memory)
+Participant: mm
+Participant: event that i could erase from my memory i don't really have one that i can think of that would be so terrible that i would need to
+Participant: erase it again everything for me is a learning experience so there's nothing really to regret or erase
+Ellie: understand (i understand)
+Ellie: easy_sleep (how easy is it for you to get a good night's sleep)
+Participant: uh very easy as soon as i hit the pillow i'm out
+Ellie: thats_good (that's good)
+Ellie: feel_lately (how have you been feeling lately)
+Participant: uh
+Participant: great uh a little more
+Participant: uh
+Participant: physical exertion than normal
+Participant: but uh still great
+Participant: <laughter>
+Ellie: behavior_changes (have you noticed any changes in your behavior or thoughts lately)
+Participant: mm no not overall but again i attribute that and i accredit that to
+Participant: the spiritual practices that i perform on a daily basis that keep me pretty
+Participant: even tempered
+Ellie: mhm (mhm)
+Ellie: ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)
+Participant: no
+Ellie: depression_diagnosed (have you been diagnosed with depression)
+Participant: mm
+Participant: no
+Ellie: happy_lasttime (tell me about the last time you felt really happy)
+Participant: uh that's pretty much every day
+Participant: <laughter> i feel really happy every day i'm thankful i'm grateful
+Participant: for my life and uh i'm just thankful for everything that comes into it
+Ellie: BF_describe (how would your best friend describe you)
+Participant: uh
+Participant: very smart uh
+Participant: very loving uh very intelligent
+Participant: funny
+Participant: uh outgoing
+Participant: that's probably probably what my friends would say
+Ellie: uh_huh (uh huh)
+Ellie: self_change (what are some things you wish you could change about yourself)
+Participant: uh there's really nothing that i think i need
+Participant: <laughter> to to do or to have or to be different uh about myself
+Participant: like i'm okay with everything the way it is
+Participant: really am
+Participant: <laughter>
+Ellie: okay_confirm (okay)
+Ellie: advice_back (what advice would you give to yourself ten or twenty years ago)
+Participant: what advice would i have given myself ten or twenty years ago
+Participant: to know
+Participant: um
+Participant: to understand that everything that happened ten or twenty years ago
+Participant: was important in terms of developing the person that i am now
+Participant: and
+Participant: so to just
+Participant: be able to go with the flow and go with the experiences of life in order to be able to
+Participant: learn how to move effortlessly through any situation that comes up
+Ellie: mhm (mhm)
+Ellie: Ellie17Dec2012_10 (tell me about something you did recently that you really enjoyed)
+Participant: recently really enjoyed
+Participant: uh
+Participant: uh cooked a very wonderful meal
+Participant: um 'cause i love cooking
+Participant: so that was something i really enjoyed
+Ellie: cool3 (cool)
+Participant: mhm
+Ellie: Ellie17Dec2012_08 (what are you most proud of in your life)
+Participant: wow my my willingness to get to know myself
+Participant: through travel through exploration through practices and through the practical application
+Participant: of everything that i've learned about people cultures
+Participant: places and most importantly
+Participant: you know
+Participant: the god within me
+Ellie: asked_everything (okay i think i have asked everything i need to)
+Ellie: appreciate_open (thanks for sharing your thoughts with me)
+Ellie: bye (goodbye)
+Participant: bye

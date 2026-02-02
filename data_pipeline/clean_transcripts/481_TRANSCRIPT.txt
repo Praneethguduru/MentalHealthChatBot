@@ -1,0 +1,347 @@
+Participant: <synch>
+Ellie: IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)
+Participant: yeah
+Participant: i am
+Ellie: okay_confirm (okay)
+Ellie: how_doingV (so how are you doing today)
+Participant: um good to moderate
+Ellie: thats_good (that's good)
+Ellie: where_originally (where are you from originally)
+Participant: los angeles
+Ellie: really (really)
+Participant: yeah i'm from
+Ellie: like_about_LA (what are some things you really like about l_a)
+Participant: um
+Participant: just a lot of different kinds of people and um eh i love the weather most of the time and um great creative scene i'm i'm really into music so
+Participant: um it's a great scene for that
+Ellie: cool3 (cool)
+Ellie: dont_like_LA (what are some things you don't really like about l_a)
+Participant: i i don't like driving <laughter> i don't know who does right
+Participant: i it's just it's just such a drag and uh
+Ellie: yeah3 (yeah)
+Participant: getting from point a to point b is just a daily need and it doesn't get any easier
+Participant: it's too many people
+Ellie: see_mean (i see what you mean)
+Participant: too many people <laughter>
+Ellie: yeah3 (yeah)
+Participant: <laughter>
+Ellie: travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)
+Participant: i can't see your shoes
+Participant: um
+Participant: uh yeah when i can
+Participant: uh when <whe> when i can afford to
+Ellie: travel_changed (what do you enjoy about traveling)
+Participant: um <sigh> just being somewhere else not having to drive usually most places have better public transportation
+Participant: um just i love <lo> i'm you know i'm a culture junkie i like experiencing different types of cultures so
+Participant: that's
+Ellie: travel_trips (i'd love to hear about one of your trips)
+Participant: xxx
+Participant: um well you know i haven't been to that many places i've been to like mexico and italy
+Participant: it it's uh
+Participant: you know i wanna go to more places i wanna go to japan
+Participant: so that'll be that'll be interesting it's usually just with my family
+Participant: um it's my mom sometimes my girlfriend sometimes my brother and we just uh
+Participant: yeah we go to italy we spent two weeks there though that was cool
+Ellie: nice (nice)
+Participant: yeah
+Ellie: memorableB (what's one of your most memorable experiences)
+Participant: um
+Participant: living next to the best gelato shop in italy
+Participant: in we <w> we were in florence <f> when we were in florence spent uh spent a week in florence
+Ellie: awesome (awesome)
+Participant: that was great
+Participant: very very good uh culture there as well
+Participant: art
+Ellie: okay_confirm (okay)
+Ellie: study (what did you study at school)
+Participant: studied uh film and digital media
+Participant: 'cause uh i make music and i wanted to learn how to make music videos
+Participant: so it's something i'm trying to get into
+Ellie: still_working_on_X (are you still working in that)
+Participant: uh yeah yeah i mean
+Participant: i need to get a camera though that's the thing
+Participant: uh but um i mainly my main focus is music i studied film but my focus is music
+Ellie: tell_about_that (can you tell me about that)
+Participant: um yeah <y> sure
+Participant: i've been playing music i've been playing guitar uh keyboard bass drums
+Participant: for um for about twelve years now and uh i do uh production and songwriting i'm in a indie rock band
+Participant: scrubbed_entry
+Ellie: wild_laughter3 ((laughter))
+Participant: um that's a great website i highly recommend it and it's uh it's mine so
+Participant: check it out
+Ellie: okay_confirm (okay)
+Ellie: dream_job (what's your dream job)
+Participant: uh international rockstar music producer
+Participant: and uh
+Participant: filmmaker
+Participant: director
+Ellie: mhm (mhm)
+Ellie: shyoutgoing (do you consider yourself more shy or outgoing)
+Participant: probably outgoing
+Ellie: why2 (why)
+Participant: um just just feel like it's a way to get the best <be> most out of life
+Participant: uh just talking to people and learning about them and having them learn about you and care about you it's uh
+Participant: kinda just goes with the territory <caritor> territory <laughter>
+Ellie: makes_sense (that makes sense)
+Ellie: relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)
+Participant: <laughter> yeah
+Participant: um i uh do meditation
+Participant: and
+Ellie: difficult (how hard is that)
+Participant: uh it's not really hard 'cause it's fun
+Participant: and it it relaxes me and helps me focus at the same time
+Participant: which uh you know that that was a huge epiphany for me that you can relax and focus at the same time 'cause normally when i'm relaxing i'm i'm tuning out
+Participant: i'm focusing on something else but
+Participant: um to be able to combine those sensations was uh yeah i've been doing that for about
+Participant: uh three months now so
+Ellie: thats_good (that's good)
+Participant: yeah it is
+Ellie: control_temper (how are you at controlling your temper)
+Participant: um
+Participant: almost too good at times <laughter> uh sometimes uh there's things that should be said
+Participant: that i that i don't
+Participant: um just because
+Participant: um you know it's like you're opening up a can of worms maybe one of your friends for example i got a problem with him but they don't have a problem with him necessarily 'cause he didn't do anything to them
+Ellie: hmm_downer (hmm)
+Participant: and uh i've had to deal with that in the past sort of a
+Participant: awkward social situation but um
+Participant: you know i make do
+Ellie: okay_confirm (okay)
+Ellie: last_argument (when was the last time you argued with someone and what was it about)
+Participant: um
+Participant: <makes sound with mouth>
+Participant: probably argued with uh the guitarist from my band uh
+Participant: we had a falling out we're not gonna be in a band together i mean we're still friends so
+Participant: at least there's that mm but um it was just basically about
+Participant: creative control of the project and how we're gonna prioritize it in in our lives and uh
+Participant: you know we just our priorities weren't the same and i got very upset so
+Participant: that was the end of that
+Ellie: describe_felt (how did you feel in that moment)
+Participant: um <sigh>
+Participant: i felt
+Participant: good that it was definitive that it was you know a choice had been made on both parties
+Participant: uh also regretful that you know he didn't
+Participant: feel the way that i wanted him to feel about it which was excited about the project so
+Ellie: yeah_downer (yeah)
+Participant: the fact that he wasn't really in it kinda pissed me off
+Participant: um but
+Ellie: understand (i understand)
+Participant: i got over it
+Participant: um and you know i got some other people that are really really excited to be working with me you know even honored
+Participant: so
+Participant: you know
+Participant: i'm uh i'ma keep going
+Ellie: thats_great (that's great)
+Participant: thank you
+Ellie: situation_handled (tell me about a situation that you wish you had handled differently)
+Participant: um <sigh>
+Participant: hmm
+Participant: i don't know
+Participant: i don't really i don't really have any regrets like that
+Participant: at the moment i can't really think of any
+Participant: um
+Ellie: feelguilty (what's something you feel guilty about)
+Participant: <deep breath>
+Participant: um
+Participant: when i was in high school i cheated on my girlfriend i didn't think it would mean anything at the time
+Participant: but i did it
+Participant: i i regret it
+Participant: but um
+Participant: you know
+Participant: xxx you know life happens you make some mistakes
+Ellie: yeah_downer (yeah)
+Ellie: change_directions (what made you decide to do that)
+Participant: selfishness
+Participant: um being young and thinking it wouldn't matter
+Ellie: isee_downer (i see)
+Participant: um
+Participant: you know
+Participant: thinking
+Participant: you know you only live once and
+Participant: you know for eh it was probably for the best ultimately 'cause you know i love my current girlfriend and i would never do that to her so
+Participant: that was <wa> that was years ago but
+Participant: uh she was a nice girl she didn't deserve that so
+Participant: i regret it
+Ellie: okay_confirm (okay)
+Ellie: hard_decisionB (tell me about the hardest decision you've ever had to make)
+Participant: <deep breath>
+Participant: um
+Participant: shit geez um
+Participant: i guess uh whether to go to college or not 'cause uh i uh i had some projects going in l_a that i didn't really wanna
+Participant: shut off uh i i had a band going we had a manager
+Participant: um we were playing out a lot and i wasn't sure if i wanted to keep that going or go to school and start over
+Participant: and um
+Participant: i made the decision to go to school in santa cruz and and start a new life there for four years and
+Participant: it it was a difficult decision but
+Participant: i'm glad i did 'cause i met a lot of people a lot of people i'm still close with today that
+Participant: you know we work on stuff together and all that so
+Participant: it's good
+Ellie: thats_good (that's good)
+Participant: i agree it is good <laughter> thank you <laughter>
+Ellie: memory_erase (tell me about an event or something that you wish you could erase from your memory)
+Participant: um
+Participant: maybe i wish i could forget
+Participant: getting spanked in the parking lot when i was four by a danish babysitter
+Participant: uh
+Participant: you know on the abuse scale it's pretty low but it was somewhat humiliating and i i don't forget it so
+Participant: i have a pretty vivid picture of it and
+Participant: i'm i'm i'd be happier if it wasn't there
+Ellie: downer (okay)
+Ellie: family_relationship (tell me about your relationship with your family)
+Participant: it's positive
+Participant: they're supportive um they give me a hard time sometimes because
+Participant: they
+Participant: don't think that
+Participant: i keep things in perspective in terms of how i'm gonna support myself even though i do it's just um
+Participant: you know i have a
+Participant: a more long range picture than they do and i have faith in myself and
+Participant: the creative projects that i make so
+Ellie: mm (mm)
+Participant: yeah
+Participant: there's a bit of tension there
+Participant: just 'cause
+Participant: you know they expect certain things from me and i expect them as well but
+Participant: i just have a different way of going about it than they might prefer
+Ellie: yeah_downer (yeah)
+Participant: but they're sweet people
+Ellie: symptoms_cope (how do you cope with them)
+Participant: how do i cope with them
+Participant: uh i you know they're lovely people at their core you know
+Participant: um
+Participant: cope with them 'cause i love them
+Participant: i just uh
+Participant: you know at times i'll just uh
+Participant: go off on my own for a while
+Participant: and eh you know take a breather whatever
+Participant: you know xxx everyone makes you mad sometimes so
+Ellie: uh_huh (uh huh)
+Participant: <deep breath>
+Ellie: yeah3 (yeah)
+Ellie: easy_sleep (how easy is it for you to get a good night's sleep)
+Participant: challenging
+Ellie: why2 (why)
+Participant: um <sigh> i just i try and it doesn't work
+Participant: um sometimes i have to take medication for it i have to take ambien
+Participant: something like that
+Participant: um
+Participant: yeah it's difficult <di>
+Ellie: sleep_affects (what are you like when you don't sleep well)
+Participant: i'm someone who sleeps in late
+Participant: so i always get at least six or seven hours if i have to wake up early for something
+Participant: um
+Participant: i get nauseous sometimes i'll throw up in the morning
+Participant: um
+Participant: yeah i've had jobs where i'd wake up and
+Participant: you know vomit while i'm brushing my teeth it's horrible
+Ellie: that_sucks (that sucks)
+Participant: it does suck um it's kinda
+Participant: something i'm worried about you know i i kinda need to get some part time work while i'm
+Participant: not
+Participant: you know
+Participant: getting a steady pay flow for my music production so
+Participant: yeah <sigh> it's pretty rough <sigh>
+Participant: got some stuff i need to get over i'm not really sure how
+Ellie: like_what (like what)
+Participant: just
+Participant: not feeling good getting nervous when
+Participant: you know there's something stressful like a stressful work environment or
+Participant: just something i that doesn't sit
+Participant: well with me like
+Participant: being in a
+Participant: you know a a rushed and
+Participant: you know stressful work environment it just um
+Participant: unless it's about something that i care about you know like music or the arts it's just very hard to
+Participant: to give a shit frankly
+Participant: like
+Participant: and you know i i try to psych myself into giving a shit and
+Participant: it just makes me sick you know maybe i'll have a red bull or something and you know xxx my body doesn't want that in the morning it just
+Participant: i feel like my body rejects things and
+Participant: yeah
+Ellie: yeah_downer (yeah)
+Ellie: feel_lately (how have you been feeling lately)
+Participant: okay
+Participant: i've been feeling okay
+Participant: very uh very reflective very contemplative
+Participant: you know there's gonna be some changes and there's gonna be
+Participant: some new people in my life some new people uh in my band
+Participant: um
+Participant: you know i'm gonna try to push myself
+Participant: but try to stay grounded at the same time 'cause you know i expect more from myself
+Participant: it's just pissing me off when my get my you know i basically feel like i'm
+Participant: shitting all over myself my body's shitting on me anyway just by
+Participant: being so um
+Participant: shitty <laughter> yeah
+Ellie: hmm_downer (hmm)
+Ellie: ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)
+Participant: no
+Ellie: depression_diagnosed (have you been diagnosed with depression)
+Participant: yes
+Ellie: when_diagnosed (how long ago were you diagnosed)
+Participant: um i was diagnosed um
+Participant: about uh
+Participant: twelve years ago i haven't been in therapy since
+Participant: um
+Participant: they gave me zoloft and i didn't like it
+Ellie: why2 (why)
+Participant: it made me feel worse than i do in the shittiest moments i was telling you about it it uh it made me feel numb
+Participant: um i don't wanna feel numb
+Participant: i wanna feel everything even if it sucks
+Ellie: understand (i understand)
+Ellie: why_seek_help (what got you to seek help)
+Participant: being forced to
+Participant: it was a private school
+Participant: they thought i was acting up thought i was a uppity kid i think i was just being a kid so
+Ellie: therapy_useful (do you feel like therapy is useful)
+Participant: yes
+Participant: i do
+Ellie: therapy_changes (what sort of changes have you noticed since you've been going to therapy)
+Participant: um well i haven't been in
+Participant: in twelve years
+Participant: but i do think that it might be helpful for me in the future
+Ellie: tell_about_that (can you tell me about that)
+Participant: i thought you weren't a therapist that's a typical therapist question right there <laughter>
+Ellie: wild_laughter3 ((laughter))
+Participant: um well yeah i uh
+Participant: uh i i kinda wanna go back to therapy it might help
+Participant: might help me
+Participant: find some solutions maybe maybe it's not a therapist i need maybe it's a life coach i have no idea but
+Participant: i'll be seeking help soon
+Ellie: okay_confirm (okay)
+Ellie: happy_lasttime (tell me about the last time you felt really happy)
+Participant: um
+Participant: yesterday
+Participant: i was watching a movie with my girlfriend
+Participant: and i looked over at her we smiled at each other and it was it was it was great
+Ellie: aw (aw)
+Participant: yeah
+Ellie: BF_describe (how would your best friend describe you)
+Participant: um
+Participant: very honest
+Participant: um
+Participant: sometimes brutally so but i'm a good guy
+Participant: i think that my friends all think i'm a good guy
+Participant: probably funny
+Participant: um
+Participant: open-minded
+Ellie: self_change (what are some things you wish you could change about yourself)
+Participant: um
+Participant: i guess well it's what i'm working on which is trying to improve my discipline
+Participant: and try to work through
+Participant: my body rejecting shittiness
+Participant: of the world
+Participant: <laughter>
+Ellie: okay_confirm (okay)
+Ellie: advice_back (what advice would you give to yourself ten or twenty years ago)
+Participant: it gets better <sigh>
+Participant: um
+Participant: stay in shape it gets harder
+Participant: the longer you wait
+Participant: um
+Participant: don't give up on your dreams keep doing what you're doing
+Ellie: mhm (mhm)
+Ellie: Ellie17Dec2012_08 (what are you most proud of in your life)
+Participant: my music
+Ellie: asked_everything (okay i think i have asked everything i need to)
+Ellie: appreciate_open (thanks for sharing your thoughts with me)
+Participant: you're welcome nice talking to you
+Ellie: bye (goodbye)

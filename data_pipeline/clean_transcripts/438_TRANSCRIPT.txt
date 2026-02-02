@@ -1,0 +1,298 @@
+Participant: <synch>
+Ellie: IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)
+Participant: yes
+Ellie: okay_confirm (okay)
+Ellie: how_doingV (so how are you doing today)
+Participant: i'm doing pretty good
+Ellie: thats_good (that's good)
+Ellie: where_originally (where are you from originally)
+Participant: i was born and raised right here in los angeles
+Ellie: really (really)
+Ellie: like_about_LA (what are some things you really like about l_a)
+Participant: <sigh> um the weather
+Participant: um
+Participant: would be number one i also like the diverse uh
+Participant: cultures
+Participant: i like the fact that there's a lot of different things here you can do
+Participant: and there's a lot of opportunity here um not just for myself but for my kids
+Participant: and um i think it's really a great place to be when you're trying to establish a career go to school
+Participant: um learn about different people
+Ellie: yeah3 (yeah)
+Ellie: dont_like_LA (what are some things you don't really like about l_a)
+Participant: the traffic the cost of living
+Participant: um
+Participant: sometimes i think it's too big
+Participant: and i think the transportation system as far as the bus and trains um is long overdue they need to revamp it or
+Participant: you know add more buses and things like that just make it easier for people to get around on public transportation
+Ellie: see_mean (i see what you mean)
+Ellie: travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)
+Participant: i travel when i can a little bit here and there i have not been overseas yet which is a goal of mine within the next couple of years
+Participant: so i've just traveled domestically i try to take at least one trip a year somewhere
+Ellie: thats_good (that's good)
+Ellie: travel_changed (what do you enjoy about traveling)
+Participant: i just like the fact of getting on the plane and going places um going particularly somewhere i've never been
+Participant: and learning about that place you know like so if i'm going to d_c i really look forward to it 'cause it's a historic city
+Participant: you know things like that
+Ellie: travel_trips (i'd love to hear about one of your trips)
+Participant: um my most recent trip would've been d_c <laughter> last year
+Participant: um i went to go visit a friend and i stayed about
+Participant: three <thr> i think three to four days
+Participant: and i got to see the capitol
+Participant: um he showed me around showed me all the you know historic landmarks and sites the white house
+Participant: the capitol building um i got to see a lot of other different uh government buildings
+Participant: and um it was it was a a good experience the irony was i had to fly on nine eleven and so that had me a little uneasy
+Participant: but once i was in the plane up in the air i was okay and it was all good and once i was back home i was like yes
+Participant: but i i i miss the trip and i look forward to going back
+Ellie: nice (nice)
+Ellie: memorableB (what's one of your most memorable experiences)
+Participant: um attending uh my friend's wedding she had a destination wedding in hawaii
+Participant: um
+Participant: actually maui
+Participant: that was actually two three three years ago three years ago
+Participant: in august and um i've been trying to get back ever since and i wanna take my kids and
+Participant: i just love it there and i actually kinda look forward to to moving there one day
+Ellie: kids_elaborate (tell me about your kids)
+Participant: um i have three sons um thirteen-year-old twins
+Participant: boys and my youngest is also a boy he's eight
+Participant: they um all have birthdays in june the twins are june ninth and my baby is june fourth and so they're just a few days apart but
+Participant: five years apart technically
+Participant: and they're just super super
+Participant: typical boys active all over the place hormones puberty um so it's actually an interesting time because you know the the two older boys are going through puberty
+Participant: um they're teenage years
+Participant: um my youngest
+Participant: um
+Participant: still trying to figure some things out for himself you know doing that transition stage of eight to nine years old
+Participant: so he'll be nine in june and then my oldest will be fourteen so it's a challenging time for me as well
+Ellie: parent_best (what's the best thing about being a parent)
+Participant: just the joy of watching what you put into being a parent every day and seeing how
+Participant: just with love and nurturing and um
+Participant: the right and you know well i can't say proper development but just with
+Participant: you know love and nurturing how a um baby grows into a toddler into
+Participant: you know a young boy to a teenager and then into a young man and so that experience alone has been rewarding just watching my sons grow up and go through these different stages
+Participant: and seeing how they have developed and you know
+Participant: seeing some of the things that they're going through now that so reminiscent of my teenage years
+Participant: and um it's just it's very rewarding and um actually i look forward to maybe even being a foster parent later down the line when they're older and off in college 'cause i really love children and giving back
+Ellie: aw (aw)
+Ellie: good_hear (that's so good to hear)
+Ellie: parent_hardest (what's the hardest thing about being a parent)
+Participant: um
+Participant: mm there's probably a couple of things but i would just say
+Participant: um
+Participant: for me being a single parent is um the financial
+Participant: um well i would say that along with some of the emotional with <w> with them having um to bear the brunt of the responsibility of just child child rearing
+Participant: um
+Participant: you know the
+Participant: just the everyday things of what you have to deal with the
+Participant: uh sometimes when you're just tired you don't wanna be bothered or you're trying to do things for yourself
+Participant: you have to be reminded that oh okay i gotta cook or i have to go pick my son up or i have to take him to baseball practice
+Participant: uh this one want to go over here um this one is acting moody and you know just those those types of challenges
+Participant: um as well as the financial and you know making sure you know you're able to put food on the table you're paying your rent and
+Participant: you know you're keeping up with the day to day and that's those two are probably the hardest things um for me to deal with
+Ellie: yeah_downer (yeah)
+Ellie: symptoms_cope (how do you cope with them)
+Participant: well i just um i take it day by day i just put one foot in front of the other and um
+Participant: i'm extremely spiritual so i just rely on god and
+Participant: pray a lot and meditate
+Participant: um
+Participant: if i see i need a little help if if
+Participant: you know i'm i'm i'm not above asking for help so sometimes if i have to reach out to people or
+Participant: you know see what other resources are out there to help me you know i try to do that and so for me right now my biggest challenge is just
+Participant: trying to go back to school to put myself in a better um economic situation so i can continue to provide for them comfortably
+Ellie: mhm (mhm)
+Ellie: study (what did you study at school)
+Participant: um i studied communications actually i was a um journalism public relations major with a minor in sociology
+Participant: and now i'm studying business <laughter>
+Ellie: change_directions (what made you decide to do that)
+Participant: i just thought that you know um
+Participant: there would be more opportunities for me with business um as far as jobs
+Participant: and then i you know have a desire to go to graduate school so i just figured in the long run it was a better
+Participant: um it would put me in a better position give me more opportunities um
+Participant: with the communications it's a little limited and especially as you get older um the fields of t_v reporting and things like that um
+Participant: are kinda
+Participant: become
+Participant: you know harder to obtain
+Participant: so i just thought eh i would go into something more realistic
+Participant: and um
+Participant: you know but uh i like both fields i really do i like communicating writing reading talking as you can tell and um so we'll see
+Ellie: dream_job (what's your dream job)
+Participant: um <laughter> a couple probably but i would say ultimately
+Participant: would be traveling like working as like a travel writer um going to different destinations
+Participant: um trying different foods out um writing about different people
+Participant: cultures um
+Participant: learning and living you know uh about those different people and cultures living <l> living amongst <am> amongst the
+Participant: you know the the people there and um
+Participant: being interactive with the children and stuff like that so i kinda hope to be able to do that one day but yes um
+Participant: it it would be something along those lines and then the fallback would be a counselor social worker something in that area
+Participant: if i could encompass all three hopefully i can i i would like to do that
+Ellie: mhm (mhm)
+Ellie: shyoutgoing (do you consider yourself more shy or outgoing)
+Participant: um that's actually a hard question probably because i initially grew up very shy
+Participant: and um not so much shy as i am reserved now
+Participant: um
+Participant: but not conservative but just reserved and you know when i go somewhere i'm
+Participant: checking everything everybody else out
+Participant: and then once i become comfortable or acclimate to the situation then i'm like okay you know i warm up to the to the situation or the people
+Participant: but i'm also friendly i can be very friendly and outgoing i like to talk
+Participant: um you know
+Participant: i seem like a chatterbox but i'm not really so usually if i'm in a big space with a whole lot of people i don't like to be the center of attention <atten> attention i can
+Participant: attach myself to one or two people and
+Participant: you know become friendly with them but i i overall i am a open friendly person
+Ellie: mhm (mhm)
+Ellie: relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)
+Participant: <laughter>
+Participant: um
+Participant: for me um it it could be something as simple as just unplugging
+Participant: everything all electronics and just sitting for a few moments
+Participant: meditating
+Participant: praying or reading a good spiritual scripture
+Participant: um
+Participant: if i'm able to i like to go for a good massage
+Participant: maybe get a facial
+Participant: um
+Participant: you know things that will
+Participant: i kinda like the physical part part of it i like massages things that really release tension
+Participant: um
+Participant: and if not then just like i said just sitting at home reading and praying or
+Participant: i like the beach i love the beach so sometimes i drive and go sit by the beach
+Participant: i like <li> also like to just maybe
+Participant: go and have lunch by myself or get a mani pedi or
+Participant: maybe go window shopping you know things like that
+Ellie: okay_confirm (okay)
+Ellie: control_temper (how are you at controlling your temper)
+Participant: mm pretty good sometimes i'm just like grr i don't really have so much a issue with the temper
+Participant: as i am i just i'm more impatient
+Participant: unfortunately a lot of times with people and you know situations
+Participant: so i just can become really irritated or irritable
+Participant: um
+Participant: quite agitated especially if it's that time of the month for me i just
+Participant: lose patience um outside of that
+Participant: i'm actually pretty good i try to be very you know conscious of where i'm at and
+Participant: be very patient with people especially if i could see that the person is
+Participant: like if if they're a new <n> a new checkout person at the the counter or cashier i do try to be
+Participant: i do try to be patient and understanding
+Participant: 'cause i would want that you know if it were me i would want someone to extend that to me
+Ellie: mm (mm)
+Participant: um you know with my kids sometimes you know it's this it works both ways too once it's that time of the month i'm just like ugh just leave me alone
+Participant: um or i might have a short temper or a short fuse
+Participant: so i am conscious of it i try to be
+Participant: aware of it and and try to monitor it but you know like anybody i'm human and there are times or i have my days or moments when i could just like ugh go off and
+Participant: just lose it
+Ellie: yeah3 (yeah)
+Ellie: last_argument (when was the last time you argued with someone and what was it about)
+Participant: um <sigh>
+Participant: well i haven't really had it not per se an argument but there's been a ongoing thing with american express so i would say
+Participant: because it was not a personal
+Participant: contact
+Participant: but a company i eh we
+Participant: it it really was an argument but uh you know i i had some um issues with american express i had to call in about on i think saturday and i kept um i wasn't getting the
+Participant: response i expected and so i would get the whole contact the call was just back and forth
+Participant: very frustrating and i was upset and you know the rep was trying to overtalk me then i was trying to overtalk her
+Participant: so you <y> you know i don't know if you would consider that an argument but i would definitely say that's the last time when you know
+Participant: i just kinda like reached my boiling point
+Participant: to say the least and was really upset and
+Participant: eh that <th> that was the closest you know to an argument and then i had to call back this morning that one didn't really escalate to an argument
+Participant: but it was um a a a tense exchange for a minute or two
+Ellie: isee_downer (i see)
+Ellie: situation_handled (tell me about a situation that you wish you had handled differently)
+Participant: probably the most recent contact and that would've been the one on saturday with american express
+Participant: um
+Participant: or actually it was on sunday yeah and um
+Participant: i know
+Participant: the person was trying to help me but you know when you you're constantly being told different things and i've had to call in about five or six times about the same situation
+Participant: and it not be resolved it just takes you there so
+Participant: um
+Participant: just i kept raising my voice said some things i shouldn't had um
+Participant: and just was more so allowed myself to lose control of the contact i like to really feel in control of the contact
+Participant: and so um it just took me there my blood pressure was raised
+Participant: <clears throat> excuse me and that was just a kind of a mess for a while for like maybe thirty minutes or an hour after that
+Participant: just irritable and agitated and upset and and so i always try to you know
+Participant: go back and
+Participant: pull from those and
+Participant: you know do my own sense of feedback and
+Participant: see how i could you know handle things differently but that's one i i definitely wish i could've kept my cool and been more level-headed and
+Participant: and not really raised my voice and you know um been more polite
+Ellie: okay_confirm (okay)
+Ellie: hard_decisionB (tell me about the hardest decision you've ever had to make)
+Participant: <sigh>
+Participant: mm
+Participant: well i've probably have had a couple but <clears throat> probably the most is a situation years ago when i just had my sons and they probably my twins they were probably about two
+Participant: and i was in a situation with their father again and became pregnant and um
+Participant: it just was not a good time
+Participant: and he pretty much you know was not comfortable with me having another child at the time
+Participant: and um i wasn't comfortable
+Participant: with having another child either but wanted to keep the baby but
+Participant: he put me under so much stress and you know kind of i wanna say really pushed me into having terminating the the pregnancy
+Participant: and that's always stayed with me and i've always missed that pregnancy that child i think about
+Participant: that that baby or what could've been i try not to hold any um anger or resentment towards him or anybody about it but i know deep down inside secretly if i had it to do all over again
+Participant: i would've just i would've kept the baby and moved forward so that would've been
+Participant: probably the hardest especially emotionally i could deal with a lot and i have dealt with a lot you know um
+Participant: being unemployed or you know lot of financial problems but that to me was the hardest
+Ellie: sorry_hear (i'm sorry to hear that)
+Participant: thank you
+Ellie: ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)
+Participant: no
+Participant: mm mm
+Ellie: depression_diagnosed (have you been diagnosed with depression)
+Participant: no
+Ellie: feel_lately (how have you been feeling lately)
+Participant: um okay you know um
+Participant: i was laid off in december
+Participant: so i've been constantly
+Participant: trying to do things to you know get um back on my feet
+Participant: so that's been a little tough i've had i've had to face a lot of challenges
+Participant: and dealing with that and issues with child support and trying to find another job and going back to school
+Participant: so i my <m> my range of emotions have just have been just that a range and a very good friend of mine now who we both started off
+Participant: you know in the same place
+Participant: um about five years ago well she's been able to move forward and um go on with her life and now she's graduating
+Participant: in next month from u_s_c with her master's in social work so i'm feeling a little envious of that and i have been for like the past year but more so recently
+Participant: although i've very very happy for her you know and she's a good person and she deserves it but xxx of course deep down inside i wish it was me so that too has kinda been bothering me
+Ellie: understand (i understand)
+Participant: well
+Participant: i'm really good with um people i communicate well
+Participant: i like to talk i'm really good with children that's why i would like to teach or be a counselor um
+Participant: although i haven't not really tapped into it i know i'm a very creative person
+Participant: um
+Participant: i know i write pretty good um i could possibly be a creative writer but i know i'm very creative so
+Participant: if given the opportunity i know i could tap into that and really develop those skills something like with maybe songwriting um fiction writing
+Participant: um
+Participant: but probably like interior decorating
+Participant: anything artistic just anything 'cause i love music i love the arts i love drama i love plays
+Participant: um
+Participant: i'm not a big fashion buff but i do love fashion and makeup and stuff like that so
+Participant: um i think those would are are my strong points as well as just getting along with people i know i would make a great counselor people my friends come to me all the time i have a good ear for listening
+Participant: i'm a great mediator and i know how to because i've been through a lot
+Participant: and one of my friends called me the voice of reason the one that's actually graduating from s_c but um
+Participant: i know i'm like light years ahead of a lot of people when it comes to insight and wisdom and i don't know if it has
+Participant: to do with you know having older parents myself or how i grew up or i had i had very traditional southern parents
+Participant: um who instilled a lot of great values in me or if it has anything to do with my astrological sign i'm a pisces
+Participant: but um i'm i'm
+Participant: really good with people just you know period
+Participant: you know like i said i have my moments but i i know if it if it's something i could go into and develop i would do well
+Ellie: uh_huh (uh huh)
+Ellie: regret (is there anything you regret)
+Participant: mm not really
+Participant: some of the situations um i wish i would've waited to maybe have gotten married before i had children um picked a different partner
+Participant: um
+Participant: and i say that i mean my son's father is great but um
+Participant: a great father for my kids but not so much as a partner for me we're not together we haven't been together in years but
+Participant: i'm just saying overall i think um had i
+Participant: yeah i think i would say if i could let me backtrack that say not finishing school when i should have and not following my my dreams and goals and doing things as i kinda was planning initially and
+Participant: i think that's
+Participant: that would i honestly be the one thing i could say i regret is not following my goals and and finishing school on time and and pursuing what i really wanted to do
+Ellie: advice_back (what advice would you give to yourself ten or twenty years ago)
+Participant: stay focused and finish school and pick a career path and
+Participant: stay on that and stay motivated and don't let anything or anybody deter you
+Ellie: mhm (mhm)
+Ellie: Ellie17Dec2012_08 (what are you most proud of in your life)
+Participant: mm
+Participant: um i think i'm pretty stable and consistent just
+Participant: with overall i think um how i face adversity how i face <f> i
+Participant: face things you know um
+Participant: i am a pretty committed person i try to you know if i say imma do something i try to stick to it i'm a very loyal friend
+Participant: um and um i'm proud of the fact that i've i've maintained and done a pretty good job with raising my kids solo
+Ellie: asked_everything (okay i think i have asked everything i need to)
+Participant: okay
+Ellie: appreciate_open (thanks for sharing your thoughts with me)
+Participant: great thank you
+Ellie: bye (goodbye)
+Participant: bye bye

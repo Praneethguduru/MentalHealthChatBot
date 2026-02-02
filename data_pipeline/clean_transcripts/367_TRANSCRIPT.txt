@@ -1,0 +1,375 @@
+Participant: <sync>
+Ellie: IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)
+Participant: yes
+Ellie: how_doingV (so how are you doing today)
+Participant: i'm okay um
+Participant: i'm a little
+Participant: pensive i guess a little
+Participant: uh down but
+Participant: more or less okay
+Ellie: sorry_hear (i'm sorry to hear that)
+Ellie: where_originally (where are you from originally)
+Participant: i was born in annapolis maryland
+Ellie: really (really)
+Participant: on the east coast
+Ellie: why_LA (why did you move to l_a)
+Participant: originally i moved because i went to film school um
+Participant: and but then i decided to come i moved to washington d_c to do some work and now i'm back here again
+Ellie: adapted_LA (how easy was it for you to get used to living in l_a)
+Participant: it's very different um being from the east coast it just has a different feel to it um
+Participant: but living
+Participant: l_a is very has a very different kind of
+Participant: um
+Participant: attitude i guess and so it's a little difficult but i
+Participant: but i've gotten more used to it since i've been here
+Ellie: often_backB (how often do you go back to your hometown)
+Participant: uh not at all um
+Participant: when i left things got things were sort of i
+Participant: i lost my job out there and so i had to move out here kind of quick to um
+Participant: to be with
+Participant: uh some people who were gonna help me out and i'm just sort of
+Participant: i don't know if estranged is the right word but i'm just kind of
+Participant: not really speaking to my family or old friends that often
+Ellie: difficult (how hard is that)
+Participant: it's not easy it's
+Participant: it's kind of um
+Participant: i miss i miss a lot of people i miss my old life before i lost my job
+Participant: um i miss um some friends um
+Participant: i miss a lot of the relationships that i had out there um so it's difficult i mean it weighs on my mind a lot
+Participant: um i feel like i failed
+Participant: and now i'm here and i can't seem to get back on my feet so it's it's it's hard
+Ellie: yeah_downer (yeah)
+Ellie: shyoutgoing (do you consider yourself more shy or outgoing)
+Participant: depends on the situation i think i'm outgoing when i'm comfortable
+Participant: um and then i'm extremely outgoing but when i'm in a situation i'm not comfortable with i tend to be a lot more shy
+Participant: so that doesn't really answer your question but
+Ellie: okay_confirm (okay)
+Ellie: relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)
+Participant: um [clears throat]
+Participant: i have certain
+Participant: i do i do a lot of writing
+Participant: um i have certain
+Participant: music that i listen to as i'm writing and when i can
+Participant: when i can get really into that and sort of shut out the rest of the world um the music and the the thoughts just kind of
+Participant: happening really um
+Participant: it can it soothes me it's like it's when i feel most relaxed i guess
+Ellie: mhm (mhm)
+Ellie: bouts_symptoms (when was the last time that happened)
+Participant: um
+Participant: a few weeks ago i guess i was i'd been working on a book on a on a on a novel
+Participant: and when i was really
+Participant: when i was really getting into writing it and um
+Participant: it was really working for me that was that was good that was really good i felt like i was accomplishing something and i felt really relaxed
+Ellie: cool3 (cool)
+Ellie: argument_about (what was it about)
+Participant: um
+Participant: it was about a
+Participant: guy who is searching for
+Participant: something it's
+Participant: it's uh it's his last day on earth and so he's going to find a person that he
+Participant: that he
+Participant: met and just
+Participant: was so struck by that he needs to he needs to find her and spend the last few minutes that he has on earth with her just because
+Participant: sort of uh it's sort of romantic
+Participant: adventure comedy kind of thing
+Ellie: mm (mm)
+Ellie: change_directions (what made you decide to do that)
+Participant: well i've always i've always been a writer part of the reason i came to l_a was because of screenwriting
+Participant: um so i wrote some screenplays and uh
+Participant: you know had a little success with that out here and but since since then i've kind of gotten tired of the limitations of the screenwriting and i've started to write more short stories and and longer
+Participant: just creative writing so
+Participant: i i've been meaning to write a novel but i was just waiting for the idea to
+Participant: to really hit me
+Ellie: uh_huh (uh huh)
+Ellie: difficult (how hard is that)
+Participant: it's not easy the [exhale]
+Participant: the parts the parts when it's good it's really good but getting there is sometimes a real struggle um
+Participant: i find it difficult i have a real love hate relationship with writing when i when i love it i just absolutely love it but sometimes i
+Participant: hate it because it's so difficult
+Participant: um
+Participant: but it's worth it for the times when it's when it's good
+Ellie: yeah3 (yeah)
+Ellie: see_mean (i see what you mean)
+Ellie: control_temper (how are you at controlling your temper)
+Participant: good i don't i don't really have a temper i
+Participant: it's not i mean most of my anger that i have is directed inward as opposed to outward to other people
+Participant: um if something is really really stressful or if i'm in a situation like a very intense confrontation i can
+Participant: lose it but i probably <prob> that's probably only happened to me three four times in my whole life i mean generally i pretty much
+Participant: try to it when i'm upset
+Participant: i i get upset with myself not with other people
+Ellie: last_argument (when was the last time you argued with someone and what was it about)
+Participant: um
+Participant: last night i guess well <weh> um
+Participant: i got in an argument about whether or not
+Participant: cleaning vegetables was necessary because of
+Participant: i forget it but it well no it was about whether you can clean vegetables after you cut them because i'd already started cutting the vegetables and i thought that would be okay
+Participant: so it turned into this
+Participant: big argument and we did google searches to figure out who was right and who was wrong and i
+Ellie: wild_laughter5 ((laughter))
+Participant: i ended up being wrong on that one but
+Participant: it is
+Participant: yeah that was it wasn't a blow up argument but it was a definite argument
+Ellie: okay_confirm (okay)
+Ellie: feelguilty (what's something you feel guilty about)
+Participant: um
+Participant: uh
+Participant: a lot so much um
+Participant: uh
+Participant: i
+Participant: i
+Participant: i was in uh a relationship that i really really
+Participant: um
+Participant: that i really wanted to work
+Participant: and
+Participant: uh
+Participant: i ended up and it was partly due to
+Participant: i hadn't i was on i wasn't on the right medication and so i was going
+Participant: at like everything sort of spiraled out of
+Participant: control and i feel really guilty about the way that that ended and i mean i wasn't
+Participant: i wasn't mean but i was
+Participant: but i was getting more and more messed up
+Participant: and i couldn't stop it and it ended and so i feel really guilty about not doing enough and and not
+Participant: and and you know making her have to tell me that she never wanted to see me again
+Participant: so
+Participant: that was pretty that was pretty tough
+Ellie: hmm_downer (hmm)
+Ellie: avoid (could you have done anything to avoid it)
+Participant: well some of it was was that
+Participant: i wasn't medicated properly i mean now i've been to a doctor and i'm on medication that's
+Participant: completely kind of i mean i still get
+Participant: i still get upset and i still get depressed but it's not like it was it's not
+Participant: i don't completely lose it for days at a time
+Participant: um
+Participant: so
+Participant: i mean i know there's a part of me that knows logically that it wasn't all my fault and that if i had if i had been able to deal with the chemicals in my brain then i would've then it would've probably be different if i was who i am now then
+Participant: i would've i would i would be
+Participant: i would be
+Participant: it probably would have gone very differently or maybe it wouldn't have but i mean i could have
+Participant: i don't know i don't know if i could've done anything different
+Ellie: yeah_downer (yeah)
+Participant: things being how they were
+Ellie: too_hard (do you think that maybe you're being a little hard on yourself)
+Participant: i mean it's
+Participant: it's possible uh
+Participant: i mean obviously
+Participant: yeah because i mean that's what i do i i
+Participant: take little things <thin> i mean i take little things and i just think about them all the time in my head until
+Participant: until it drives me crazy i dwell on stuff
+Participant: um
+Participant: and it's like any little detail that comes up
+Participant: i suddenly remember and it can just throw me off for a whole day i mean i still
+Participant: i still get
+Participant: i still get really uncomfortable and embarassed and then feel ashamed about stuff that i did in high school
+Participant: which was years and years ago which i shouldn't even be thinking about anymore 'cause it's so in the past but i still get that feeling like i'm right back there
+Ellie: yeah_downer (yeah)
+Ellie: been_hard (that sounds really hard)
+Participant: well it's it's not
+Participant: easy i've been trying to figure out ways to deal with it i i mean i dealt with it for a long time by
+Participant: by by drinking and and you know just trying to like slow my mind down that way
+Participant: um but you know since the medication it's been better it hasn't been impossible to deal with it hasn't been easy but it's but it's been better
+Ellie: Ellie17Dec2012_03 (that's good)
+Ellie: symptoms_cope (how do you cope with them)
+Participant: um well like i said i do a lot of
+Participant: you know if i'm if i'm writing or if i'm doing anything like i kind of have to almost
+Participant: be doing two things at once to occupy my brain completely
+Participant: um if i'm watching t_v i have to be playing a game on my phone if i'm using i'm the computer i have to be
+Participant: you know watching a t_v show or a movie on you know on in another window so that i can just
+Participant: keep my mind occupied during all of that
+Participant: um
+Ellie: mhm (mhm)
+Participant: i just need i mean
+Participant: i i wish that i could just sort of let the thoughts come and deal with them but i just i can't yet
+Ellie: trigger (are they triggered by something)
+Participant: they're triggered by everything
+Participant: pretty much anything that i that i see if i
+Participant: if i
+Participant: if i hear somebody with a dutch last name if i if i hear somebody talk about wisconsin if i hear you know people talk about
+Participant: just
+Participant: anything you know i can reach back and connect
+Participant: to
+Participant: to this it's really it's really
+Participant: i don't know that's the thing i mean i don't ever get a break
+Participant: from it
+Ellie: that_sucks (that sucks)
+Participant: yeah
+Ellie: easy_sleep (how easy is it for you to get a good night's sleep)
+Participant: um
+Participant: i don't know i'm a very light sleeper so i
+Participant: awake and asleep and awake and asleep <asl> i have no problem going back to sleep but i generally
+Participant: you know don't
+Participant: i don't know i never really needed much sleep so
+Participant: it's just only recently that i've really started to to like feel the effects of not getting enough sleep
+Participant: like i would i would usually stay up until two or three in the morning so that i could just be so exhausted that i could just conk out and wake up the next day and feel fine go to work
+Participant: um but now it's it's it's like if i do that i can't i still don't get enough sleep i don't conk out i still just sleep very lightly
+Participant: you know i get up i toss and turn all night
+Participant: you know and now
+Participant: it's just
+Participant: it's
+Participant: yeah i don't sleep too great right now
+Ellie: mhm (mhm)
+Ellie: sleep_affects (what are you like when you don't sleep well)
+Participant: um
+Participant: pretty i mean
+Participant: i don't know it's hard to it's hard to know i
+Participant: i usually just kind of power through it and just
+Participant: i'm uh i'm like how i am now just i just feel
+Participant: bad
+Ellie: okay_confirm (okay)
+Ellie: when_diagnosed (how long ago were you diagnosed)
+Participant: um
+Participant: i think
+Participant: about three three four years ago
+Participant: um
+Participant: it was when i
+Participant: i had been given taking stuff for anxiety for
+Participant: for
+Participant: years before that but then i finally got a psychiatrist who actually sat down and talked to me and said you've actually got
+Participant: this
+Participant: situation and we need to get you on the medication that you're on is not working you need to get on this new medication that will actually start to like
+Participant: even you out and heal you a little bit from all this so
+Participant: so yeah that was that was kind of a a turning point but unfortunately
+Participant: it happened after everything uh went bad so
+Participant: i don't know
+Ellie: describe_felt (how did you feel in that moment)
+Participant: in the moment i don't know i don't really think i thought about it too much then but looking back on it i feel
+Participant: it really makes me
+Participant: angry it really makes me you know given where i am right now it makes me really angry that i'm
+Participant: that i had to that i i lost everything because
+Participant: because of
+Participant: chemicals in my brain because of things that i couldn't control
+Participant: and that you know the people that were supposed to help me weren't helping me i mean i was paying i was paying a lot of money to to go see doctors and they were doing and they you know it wasn't
+Participant: it was it didn't help it didn't work until
+Participant: until
+Participant: you know i managed to find somebody who did work and i just yeah so i'm i'm like thanks guys for helping but
+Participant: it was a little it's a little late now
+Ellie: yeah_downer (yeah)
+Ellie: why_seek_help (what got you to seek help)
+Participant: um
+Participant: there really wasn't any choice i had to i was i was a mess i was
+Participant: it was either
+Participant: i was i was self medicating it was affecting my work i mean it was everything was just at there was a point where i really realized that i mean i just had to like make this different
+Participant: but again it was too late because you know then my review came up a few months later and you know after
+Participant: after everything after being institutionalized once or twice and all this stuff you know they just decided that i was just not worth keeping around so they laid me off
+Participant: but it was at least
+Participant: that and not
+Participant: firing me
+Participant: but but but yeah but so i got help but it was
+Participant: but it wasn't soon enough
+Ellie: downer (okay)
+Ellie: therapy_going (do you still go to therapy now)
+Participant: uh not
+Participant: not as much as i should
+Participant: um
+Participant: i go to a couple of
+Participant: meetings
+Participant: i go to i go to a_a so that i can
+Participant: um you know keep control of that aspect too <t> too and there's a there's a therapy aspect to that
+Participant: um unfortunately you know being unemployed
+Participant: my unemployment ran out you know i'm i'm you know i'm getting my medication from the city of l_a so
+Participant: you know i'm not really in a position to put money into seeing
+Participant: somebody so i have a psychiatrist that i go see but it's really
+Participant: very
+Participant: i've i've only seen her three times in the past year so
+Participant: it's basically to keep my medication coming
+Ellie: okay_confirm (okay)
+Participant: and then there's you <laughter>
+Ellie: wild_laughter3 ((laughter))
+Ellie: yeah3 (yeah)
+Participant: right
+Ellie: therapy_changes (what sort of changes have you noticed since you've been going to therapy)
+Participant: well like i said i mean
+Participant: just the talk <tah> i mean the the let's just take the a_a for example because that's probably the closest <cloth> closest for that i'm seeing with therapy for now
+Participant: um just saying stuff outloud is just
+Participant: like getting getting this stuff out
+Participant: trying to figure out how to take that mess that's in your stomach and in your brain and make it into words and sentences that make sense
+Participant: that you can actually deal with
+Participant: is a big step like
+Participant: regardless of who
+Participant: you're saying it to whether it's a therapist or just a room full of of drunks you know i mean you're you're taking all that
+Participant: stuff that's that's really been killing you and you're making it into something you can deal with something that you can write down something that you can
+Participant: talk about as opposed to just letting it just sit there as this formless thing
+Ellie: right2 (right)
+Participant: yeah
+Ellie: feel_lately (how have you been feeling lately)
+Participant: um
+Participant: you know better than i than i have been um i mean
+Participant: it it sort of
+Participant: it goes <g> it has its ups and downs
+Participant: um you know i'm applying for jobs
+Participant: five six jobs
+Participant: or more a a day you know and never getting a response never getting an interview
+Participant: never even getting close to
+Participant: to to being self sufficient again
+Participant: um
+Participant: it's hard but that's like real world problems i feel like the chemical parts are getting under control like the the depression is getting under control
+Participant: so now it's just i have to deal with real life which is
+Participant: it just has its it's just its own own challenge
+Ellie: yeah3 (yeah)
+Ellie: good_job (it can be tough to find a good job these days)
+Participant: yeah
+Ellie: happy_lasttime (tell me about the last time you felt really happy)
+Participant: um
+Participant: it was probably you know a couple years ago
+Participant: um
+Participant: i i was
+Participant: i mean the thing that immediately comes to mind
+Participant: uh
+Participant: is
+Participant: everything was going well at my job i was making these great videos with with this person that i that iwas having a relationship with and we were really close
+Participant: we were having fun together
+Participant: and we went out and got a christmas tree
+Participant: and
+Participant: we spent the all this time picking out the perfect christmas tree and it was just
+Participant: feeling like a part of somebody's life
+Participant: and feeling like a part of the bigger
+Participant: the bigger life
+Participant: that's that's out there you know like what normal people feel
+Participant: you know for that instant i felt like
+Participant: a normal person doing a normal thing with a pretty girl who he really really liked a lot and
+Participant: you know everything was going really well and
+Participant: i mean it wasn't going really well because it was all messed up but for that instant i felt like a normal person
+Participant: a normal happy person
+Participant: and
+Participant: part of what makes it so hard now is knowing that
+Participant: i don't know if i'll ever feel that again
+Participant: so
+Ellie: uh_huh (uh huh)
+Ellie: Ellie17Dec2012_08 (what are you most proud of in your life)
+Participant: um
+Participant: probably the
+Participant: probably this
+Participant: educational <educary> educational series i did uh
+Participant: an educational
+Participant: uh video series i did for the national science foundation
+Participant: um
+Participant: it was
+Participant: it it was really hard and it but in the end it turned out really good and
+Participant: you know i'm hoping that it helps a lot of kids and it helps the world with getting kids excited about science and about um
+Participant: and about the world around them so that i feel like that was a real contribution that i made to
+Participant: the world
+Ellie: mhm (mhm)
+Ellie: sounds_interesting (that sounds interesting)
+Ellie: hard_decision (how did you decide to do that)
+Participant: oh it was part of you know it was part of my my job um
+Participant: it was it was a
+Participant: we were trying to come up with
+Participant: with new ideas uh
+Participant: for because we would put together videos and stuff to give you know
+Participant: to to schools and everything and they had done those before but we decided to do something really big
+Participant: you know and there was a lot of traveling and there was a lot of um
+Participant: and there was a lot to it and so
+Participant: it was probably the biggest
+Participant: project that the n_s_f had decided to do and so we just kind of produced it
+Participant: right that doesn't yeah
+Ellie: awesome (awesome)
+Ellie: ideal_weekendC (tell me how you spend your ideal weekend)
+Participant: um
+Participant: i guess
+Participant: <grunt>
+Participant: i don't know <laughter> uh
+Participant: i don't know it's been a it's been a while since i've really thought about that i don't know would i go somewhere would i
+Participant: i i i don't know
+Ellie: asked_everything (okay i think i have asked everything i need to)
+Ellie: appreciate_open (thanks for sharing your thoughts with me)
+Ellie: bye (goodbye)
+Participant: thank you

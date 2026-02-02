@@ -1,0 +1,331 @@
+Participant: <synch>
+Ellie: IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)
+Participant: yeah i'm okay with it
+Ellie: okay_confirm (okay)
+Ellie: how_doingV (so how are you doing today)
+Participant: uh
+Participant: i feel i feel pretty good
+Ellie: thats_good (that's good)
+Participant: little <l> little nervous
+Ellie: why2 (why)
+Participant: because i've never done anything like this before
+Participant: that's why
+Ellie: wild_laughter3 ((laughter))
+Participant: <laughter>
+Ellie: see_mean (i see what you mean)
+Participant: yeah
+Ellie: where_originally (where are you from originally)
+Participant: from ohio cincinnati
+Ellie: really (really)
+Participant: yeah
+Ellie: when_LA (when did you move to l_a)
+Participant: uh two months ago
+Participant: two and a half months
+Ellie: why_LA (why did you move to l_a)
+Participant: uh was just looking for
+Participant: just wanted to be in a new environment
+Ellie: happy_didthat (are you happy you did that)
+Participant: oh yeah i'm ecstatic
+Participant: very happy
+Ellie: adapted_LA (how easy was it for you to get used to living in l_a)
+Participant: uh it took a few weeks just to get adjusted
+Participant: 'cause i didn't know anyone <an>
+Ellie: like_about_LA (what are some things you really like about l_a)
+Participant: the weather is probably the best thing
+Ellie: uh_huh (uh huh)
+Participant: yeah and uh
+Participant: i mean other than that
+Participant: it's pretty much the same as everywhere else i've been
+Ellie: dont_like_LA (what are some things you don't really like about l_a)
+Participant: there's nothing i don't really <real> really like about l_a
+Participant: it's just you know just the weather is the best part of it
+Ellie: okay_confirm (okay)
+Ellie: yeah3 (yeah)
+Participant: yeah
+Ellie: travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)
+Participant: uh i like to travel somewhat
+Participant: uh i haven't traveled a lot in my life but over the past
+Participant: uh year and a half i've done
+Participant: done quite a bit of traveling
+Ellie: travel_changed (what do you enjoy about traveling)
+Participant: just seeing different places different people new people new faces
+Participant: new places
+Ellie: travel_trips (i'd love to hear about one of your trips)
+Participant: uh <sigh>
+Participant: let's see last well last summer i spent the uh summer in cleveland
+Participant: <sniffle> doing uh urban farming
+Participant: uh in the city
+Ellie: nice (nice)
+Participant: yeah and uh
+Participant: i stayed at a hostel the first hostel in cleveland
+Participant: scrubbed_entry
+Participant: and
+Participant: i was uh doing a program with the uh
+Participant: scrubbed_entry
+Participant: and it was basically
+Participant: we would
+Participant: go to different urban farms throughout the city and
+Participant: volunteer
+Participant: about <bout> twenty twenty five hours a week
+Participant: so yeah
+Ellie: change_directions (what made you decide to do that)
+Participant: really a spur of the moment type of thing
+Participant: um
+Participant: wanted to try something different something i'd never done before
+Participant: and farming is one of those things that you know most people
+Participant: would never try
+Participant: 'cause of a you know 'cause of a certain stigma that comes along with it
+Ellie: mhm (mhm)
+Participant: uh
+Participant: and you know
+Participant: i just thought it would be fun and interesting to do something like that
+Ellie: cool3 (cool)
+Ellie: memorableB (what's one of your most memorable experiences)
+Participant: yeah
+Participant: what in the uh
+Participant: uh mm
+Participant: urban farming or in general
+Ellie: yeah3 (yeah)
+Participant: in urban farming uh
+Participant: i don't know i guess uh
+Participant: i don't know just just the overall experience just going
+Participant: you know eating uh going to the farmers markets and eating all the fresh food and
+Participant: just seeing the difference in
+Participant: you know how fresh natural food taste eh you know
+Participant: as opposed to the food you buy in a grocery store
+Ellie: great_situation (that sounds like a great situation)
+Participant: yeah
+Participant: yeah it is really is
+Ellie: study (what did you study at school)
+Participant: uh i was i took two semesters
+Participant: of uh college and i was undecided
+Participant: so i was just taking general classes
+Ellie: dream_job (what's your dream job)
+Participant: my dream job
+Participant: huh
+Participant: i guess my dream job would to be
+Participant: <ss> anything that involves <invol> uh i don't have like a specific dream job but anything that involves nature
+Participant: just being outside
+Participant: uh i would like to uh
+Participant: i wouldn't mind being like a like a forest ranger or something like that
+Participant: just as long as i you know
+Ellie: okay_confirm (okay)
+Participant: yeah
+Ellie: yeah3 (yeah)
+Ellie: shyoutgoing (do you consider yourself more shy or outgoing)
+Participant: consider myself more shy
+Ellie: why2 (why)
+Participant: uh i don't i don't know why <laughter> it's just the way it is
+Ellie: relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)
+Participant: uh huh
+Participant: i read
+Participant: um
+Participant: listen to music
+Participant: uh
+Participant: i draw
+Participant: watch movies stuff like that
+Ellie: mhm (mhm)
+Participant: yeah
+Ellie: control_temper (how are you at controlling your temper)
+Participant: i think i'm pretty good at it
+Ellie: thats_good (that's good)
+Participant: i think <thi>
+Participant: yeah
+Ellie: last_argument (when was the last time you argued with someone and what was it about)
+Participant: <deep breath> wow uh
+Participant: yeah i can't remember the last time i had an argument with someone
+Participant: i don't know
+Ellie: okay_confirm (okay)
+Ellie: situation_handled (tell me about a situation that you wish you had handled differently)
+Participant: <sigh> <makes sounds with mouth>
+Participant: again i don't know because
+Participant: i don't
+Participant: dwell on things that happened in the past
+Ellie: hmm_downer (hmm)
+Participant: yeah
+Ellie: hard_decisionB (tell me about the hardest decision you've ever had to make)
+Participant: <laughter>
+Participant: mm
+Participant: maybe whether or not to come to california
+Participant: i guess that was a hard decision
+Ellie: tell_about_that (can you tell me about that)
+Participant: well
+Participant: i don't know i've been thinking about it
+Participant: you know moving to a new place for a long time
+Participant: and <sigh> i guess
+Participant: the hardest part of the decision was
+Participant: thinking whether
+Participant: whether or not i would be
+Participant: secure or not
+Participant: you know what i mean
+Participant: um
+Ellie: yeah_downer (yeah)
+Participant: just going to a new place where you don't know anyone
+Participant: uh
+Participant: it's kinda
+Participant: uh you really don't know what's gonna happen
+Participant: so
+Participant: uh
+Participant: there was a lot of uh
+Participant: you know
+Participant: fear in that
+Participant: in that decision of
+Participant: should i go to a place where i don't know anyone i don't i'm not familiar with the area
+Participant: you know
+Participant: only
+Participant: only perception ever had <ha> that i have of this area is
+Participant: you know what i've seen on in media media and t_v
+Participant: so you know
+Participant: eh yeah guess that was
+Participant: hardest hardest decision <deci> decision that i can think of
+Ellie: understand (i understand)
+Participant: yeah
+Ellie: trade_offs (there are always trade-offs in life aren't there)
+Participant: eh guess so
+Ellie: memory_erase (tell me about an event or something that you wish you could erase from your memory)
+Participant: uh nothing absolutely nothing
+Ellie: hmm_downer (hmm)
+Participant: yeah
+Ellie: feelguilty (what's something you feel guilty about)
+Participant: uh
+Participant: nothing
+Participant: i don't feel guilty about anything
+Ellie: okay_confirm (okay)
+Ellie: family_relationship (tell me about your relationship with your family)
+Participant: uh relationship with my family uh
+Participant: i'm not really close to my family
+Participant: um i guess the person
+Participant: i'm closest to is my mom but you know i don't you know i don't i never really talk to her much
+Participant: uh
+Participant: i don't really know my dad that well so
+Participant: you know
+Ellie: influence_positive (who's someone that's been a positive influence in your life)
+Participant: <makes clicking sounds with mouth>
+Participant: <whistling softly>
+Participant: <whistling softly>
+Participant: uh
+Participant: i guess my grandmother
+Participant: yeah she
+Ellie: tell_about_that (can you tell me about that)
+Participant: yeah she's uh
+Participant: she's very um
+Participant: xxx how should i say it uh
+Participant: she's very
+Participant: she's a thinker
+Participant: i put it like that like she's very insightful
+Participant: so
+Participant: um
+Participant: yeah i look to her
+Participant: for a lot of advice because
+Participant: she's been through a lot through a lot in her life
+Participant: and i feel like she you know she's been through a lot so she understands a lot
+Participant: so eh you know
+Participant: she's a very positive influence
+Ellie: mm (mm)
+Ellie: okay_confirm (okay)
+Ellie: easy_sleep (how easy is it for you to get a good night's sleep)
+Participant: very easy
+Ellie: thats_good (that's good)
+Ellie: feel_lately (how have you been feeling lately)
+Participant: uh
+Participant: maybe unsure
+Participant: i would say
+Ellie: why2 (why)
+Participant: because
+Participant: right now i really don't know
+Participant: what direction i wanna go in with my life
+Participant: and there's been a lot of confusion with that
+Participant: um
+Participant: but
+Participant: you know it's not
+Participant: it's not something that overly affects me but you know it's always a thought in the back of my mind it feels <feel> feels like
+Participant: somehow
+Participant: maybe i'm running out of time
+Participant: and i know that's not like that's not xxx that's not a realistic thought because
+Participant: i don't see how you could ever run out of time
+Participant: but
+Participant: yeah i guess yeah
+Participant: just general
+Participant: not knowing what i want
+Participant: but i know like
+Ellie: symptoms_cope (how do you cope with them)
+Participant: how do i cope with that
+Ellie: mhm (mhm)
+Participant: how do i cope with that i uh
+Participant: i don't know i just do a lot of thinking
+Participant: a lot of soul searching
+Ellie: difficult (how hard is that)
+Participant: it's not hard i mean
+Participant: i mean i'm
+Participant: it's xxx
+Participant: like i can't say it's hard because it's one of those things that
+Participant: i feel like it's necessary
+Participant: and
+Participant: you know certain things in life you just
+Participant: you're forced to face
+Participant: so
+Ellie: see_mean (i see what you mean)
+Participant: it's harder to i think it's harder to avoid
+Participant: those type of things
+Ellie: yeah_downer (yeah)
+Participant: yeah
+Ellie: behavior_changes (have you noticed any changes in your behavior or thoughts lately)
+Participant: no
+Ellie: ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)
+Participant: no
+Ellie: depression_diagnosed (have you been diagnosed with depression)
+Participant: no
+Ellie: happy_lasttime (tell me about the last time you felt really happy)
+Participant: uh
+Participant: xxx today
+Participant: when i talked when i uh talked to my friend earlier
+Ellie: awesome (awesome)
+Participant: yeah
+Ellie: BF_describe (how would your best friend describe you)
+Participant: how would my best friend describe me
+Participant: uh i guess he would say i'm quiet
+Participant: uh
+Participant: uh
+Participant: guess he would describe as a nice guy
+Participant: uh
+Participant: guess insightful
+Participant: mm
+Participant: uh goofy
+Participant: and
+Participant: yeah
+Ellie: okay_confirm (okay)
+Ellie: self_change (what are some things you wish you could change about yourself)
+Participant: oh i don't really think like that
+Ellie: regret (is there anything you regret)
+Participant: no
+Ellie: advice_back (what advice would you give to yourself ten or twenty years ago)
+Participant: ten or twenty years ago
+Participant: uh guess i would tell myself to
+Participant: stick with what what stick with what i love
+Ellie: mm (mm)
+Participant: hmm
+Ellie: Ellie17Dec2012_10 (tell me about something you did recently that you really enjoyed)
+Participant: uh i did uh
+Participant: acting workshop
+Participant: in um
+Participant: scrubbed_entry
+Ellie: cool3 (cool)
+Participant: yeah
+Ellie: change_directions (what made you decide to do that)
+Participant: i don't know it's always <al> always been an interest of mine
+Participant: and i decided why not
+Participant: you know just try it
+Participant: see how you like it
+Ellie: okay_confirm (okay)
+Ellie: Ellie17Dec2012_08 (what are you most proud of in your life)
+Participant: what am i most proud of
+Participant: like an event or a an accomplishment
+Ellie: mind (whatever comes to your mind)
+Participant: i guess i pride myself on being independent
+Ellie: thats_great (that's great)
+Participant: mm
+Ellie: asked_everything (okay i think i have asked everything i need to)
+Ellie: appreciate_open (thanks for sharing your thoughts with me)
+Participant: yeah
+Ellie: bye (goodbye)
+Participant: bye

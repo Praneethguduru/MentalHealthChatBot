@@ -1,0 +1,277 @@
+Participant: <synch>
+Ellie: IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)
+Participant: yes
+Ellie: okay_confirm (okay)
+Ellie: how_doingV (so how are you doing today)
+Participant: i'm doing fine
+Ellie: thats_good (that's good)
+Ellie: where_originally (where are you from originally)
+Participant: i'm from los angeles and born in los angeles
+Ellie: really (really)
+Participant: yes
+Ellie: like_about_LA (what are some things you really like about l_a)
+Participant: uh you have a lot of places to go a lot of people to see a lot of things to do
+Ellie: mhm (mhm)
+Ellie: dont_like_LA (what are some things you don't really like about l_a)
+Participant: smog
+Participant: uh the environmental has changed over the years uh xxx
+Participant: i've been around since nineteen fifty two and
+Ellie: wow (wow)
+Participant: i was born here in los angeles and i see such changes as far as environmental with the smog
+Participant: and
+Participant: mm basically that's about it
+Ellie: see_mean (i see what you mean)
+Ellie: travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)
+Participant: i've been to several <s> uh several places in the united states yes
+Ellie: travel_changed (what do you enjoy about traveling)
+Participant: uh trying different type of cuisines uh i like to go to museum like the historical i'm a historical buff i
+Participant: um
+Participant: just uh going somewhere different than uh where i've been here all my life
+Ellie: travel_trips (i'd love to hear about one of your trips)
+Participant: uh let me start with uh
+Participant: well try boston i had never been to boston before and when i went um i was able to look at the historical uh the buildings and i went to um
+Participant: uh i saw um
+Participant: um
+Participant: eh the lake charles and the and the boats and stuff and it it was just it was a good experience and um
+Participant: there's another place i went to i took a ferry and it and i my mind went on blank on it um
+Participant: god
+Participant: i can't even think of it right now um
+Participant: but other than that uh new orleans i've been to new orleans i didn't go to the mardi gras it's just i don't like to go and it uh to mardi gras when they have a lot of
+Participant: people um i just went on a off season
+Participant: uh i enjoyed that and i've been to atlanta georgia
+Participant: and i have taken a cruise
+Participant: uh i've went to the caribbeans and i took the mexico cruise
+Participant: uh i my next cruise i'd like to go to is alaska because i want to be able to see uh certain areas that we haven't destroyed yet as far as the environmental
+Ellie: thats_great (that's great)
+Ellie: shyoutgoing (do you consider yourself more shy or outgoing)
+Participant: um i'm outgoing
+Participant: as far as uh going places i don't have a problem um eating alone
+Participant: um i don't have a problem meeting people
+Participant: um i'm only shy in conversing back and forth to a stranger <laughter>
+Ellie: relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)
+Participant: oh i have a favorite thing uh i like to go on the internet and i like to do sweepstakes i'm a a person that
+Participant: loves to try to enter in a lot of contests and i've been very successful since i was a kid
+Participant: i've won a lot of sweepstakes and
+Participant: uh in the evening time uh i find like a hour of time and i just go online and just
+Participant: eh i'm so good at it i know just about exactly the right time to even enter 'em i usually try to enter 'em before midnight when everybody else is sleep so it's been successful for me
+Ellie: memorableB (what's one of your most memorable experiences)
+Participant: um
+Participant: getting married and having my children <laughter>
+Ellie: aw (aw)
+Participant: mm
+Ellie: kids_elaborate (tell me about your kids)
+Participant: i have a twenty-seven-year-old son and i have a thirty-one-year-old son um both of 'em uh well one of 'em's married the other one's not
+Participant: and i just not too long ago became a grandmother so i have one grandson
+Participant: and uh my uh son he uh works for the county of los angeles as a conveyance <co> a property conveyance conveyance examiner
+Participant: and the other one is a computer engineer
+Participant: so and i've been married for thirty three years
+Ellie: mhm (mhm)
+Participant: and um
+Participant: basically uh marriage pretty strong
+Ellie: good_hear (that's so good to hear)
+Ellie: easy_parent (do you find it easy to be a parent)
+Participant: you know what
+Participant: if you build a foundation with your children
+Participant: and have a good relationship with them
+Participant: and talk to 'em and find out what's going on
+Participant: and tell 'em that you love them uh my son i've taught them all the time when they went out the door i love you
+Participant: and even today when they'll call me and hang up they say mom i love you
+Participant: you always have to give them that that um good feeling when they leave the door
+Participant: that you care
+Participant: and uh i i've never had to go to <t> to <t> eh to any jail to get 'em out
+Participant: um they've been pretty obedient i mean boys will be boys but um i never had any problem
+Participant: as far as uh them getting into any serious trouble
+Participant: and i'm very proud of that especially with boys i don't know how it would've been with a girls maybe a little different but <laughter> with boys i have to say they were pretty obedient and they respect the law
+Ellie: yeah3 (yeah)
+Ellie: wild_laughter3 ((laughter))
+Ellie: parent_best (what's the best thing about being a parent)
+Participant: uh the best thing is watching them grow and become parents themselves and see what they learn basically from you
+Participant: and um i've watched my son like i said i just a recent grandmother and i watch him how he handles his son
+Participant: and it's it seems like he's learned a lot from his foundation that he learned at home
+Participant: on how to handle his son to be responsible to go to work every day and he knows that hey
+Participant: i got a wife i have a son and it's my job to make sure that i keep a roof over their heads
+Participant: so it pays off
+Ellie: thats_great (that's great)
+Participant: and i i basically he treats her well
+Ellie: parent_differences (what are some ways that you're different as a parent than your parents)
+Participant: um my mother was more stricter on me <laughter> uh my my my parents um
+Participant: for some unknown reason i i guess because i my sister and i we're the girls they they weren't strict on the boys but they were more strict on the girls
+Participant: so they didn't let us go to a lot of places and then my parents also they weren't type that liked to travel
+Participant: and i used to look at them and say no i'm not gonna be like them i'm gonna travel i'm not gonna just stay home i i mean i mean <me> there's nothing wrong with 'em because they
+Participant: found love at home <laughter> and did things at home but they never really traveled anywhere and my mom used she was afraid of planes for one
+Participant: and i used to try to talk her into get on a plane and go somewhere and she said oh i'm gonna go here i'm going to go there but she never did she died she never did do <d> do any travel
+Participant: so i've made up for her
+Participant: and uh i i want to do something different and that's to to travel more than and be more out there
+Participant: i was more of a social butterfly my mother was a not a social butterfly
+Participant: so i made up for it
+Ellie: okay_confirm (okay)
+Ellie: control_temper (how are you at controlling your temper)
+Participant: i think before i speak
+Participant: and then i am the type of person also to um
+Participant: i take on other people's feelings before i um
+Participant: blurt out the wrong thing i try to
+Participant: uh analyze the situation first
+Participant: before <bef> because sometimes you can put your <yo> open your mouth too soon and you can put yourself in something that you may not be able to get out of
+Ellie: yeah2 (yeah)
+Ellie: last_argument (when was the last time you argued with someone and what was it about)
+Participant: um
+Participant: <laughter> it's probably something about my husband did <laughter> oh he <h> i know what it was it's about uh well probably over some construction <cons> new construction that my husband is working on on our house
+Participant: uh we had a disagreement on that um
+Participant: men have their own way of doing things and um
+Participant: i had told him not to use a certain uh
+Participant: eh person to work on our house
+Participant: but because of the personal relationship he has with this person he went on ahead
+Participant: and now he sees all the downfalls
+Participant: and he didn't listen and so i didn't say i told you so
+Participant: but i guess he can tell by my facial expression
+Participant: that uh he he'd have done wrong and i told him i said look you're losing money
+Participant: and it became one problem after another so now all the construction thing is up in the air right now 'cause he knows he has done wrong
+Participant: and uh but he doesn't wanna face the fact that well he knows it but he doesn't wanna really face the fact so he says look it's my project no it's our project
+Participant: so uh eh that that's one of the biggest arguments what we're having right now um
+Participant: that i can think of that's recent
+Ellie: describe_felt (how did you feel in that moment)
+Participant: i felt that he <h> he <h> he didn't really listen to me
+Participant: and he more so looked at uh a cheaper economical way that he can get this done without going through the proper ways 'cause i told him that um
+Participant: you need to do your research
+Participant: i'm the type of person i do my research before i jump into something i i i try to dot my i's and cross my t's
+Participant: but my husband he's not like that he's like oh i can get this person can do this project for x amount of money
+Participant: and he's a good friend of mine so i don't care i mean is he licensed
+Participant: he doesn't look at all that stuff he's he just jumps into it <laughter>
+Ellie: right2 (right)
+Participant: which cost him some extra money unnecessary money that he spent when and then i mean it was a lot of money
+Participant: and so i was really very upset yesterday and i was very upset about it because
+Ellie: that_sucks (that sucks)
+Participant: it was just wasted money that we could've saved 'cause we wind up doing the same thing all over again
+Ellie: yeah_downer (yeah)
+Participant: and it didn't make any sense
+Ellie: situation_handled (tell me about a situation that you wish you had handled differently)
+Participant: um
+Participant: i retired early
+Participant: um i was very fortunate to retire at age fifty i retired in two thousand and two i was working for the state of california
+Participant: um as a disability analyst and what happened was i was able the reason why i was able to retire so early because i'd been working since i was eighteen
+Participant: and i had like thirty one and a half years of service
+Participant: and what was so nice about it that only needed <n> needed to vest in like ten years in my health insurance
+Participant: so i was able to get full health insurance but the only thing about it when you retire i was with calpirg and i don't know if you're familiar with calpirg but
+Participant: um we we have a excellent retirement system and since i had been working with them so long
+Participant: um
+Participant: i didn't get the full percentage i should've stayed 'til i was fifty five but i got out at fifty and i didn't get the full amount but that's okay
+Participant: um eh i i found myself going back doing a little part-time job
+Participant: because of the economical reason and then i have wantitis <laughter> so um
+Participant: i think that was the kind of mistake i did i should've kinda waited 'til i was fifty five than fifty but i look at it now as far as the health insurance i really benefited because of the rising cost of the health insurance have went up
+Participant: and i don't i pay very little money
+Participant: so i think that over uh negates the uh uh uh the money that i receive
+Ellie: yeah3 (yeah)
+Ellie: hard_decisionB (tell me about the hardest decision you've ever had to make)
+Participant: um
+Participant: let me see the hardest
+Participant: it's probably when my mom died 'cause uh i'm not used to anybody dying
+Participant: and my mother um
+Participant: died in ninety nine of uh non-hodgkin lymphoma
+Participant: and
+Participant: i i xxx putting her funeral together um my brother and sister we never we would never face anybody dying
+Participant: or putting a funeral together and all the responsibility <responsi> because i am the eldest it was put in me
+Participant: and i'm like oh my god what do i do xxx
+Participant: and so um i was kinda like left out there trying to find her insurance policy 'cause i had asked her to make sure she put everything in order
+Participant: and she never got to it so the hardest thing was going through her house and trying to get all the stuff together and finding things
+Participant: you know i myself i keep my things organized but um for some unknown reason she didn't have hers organized and
+Participant: i think that was the hardest and knowing how much i had to pay 'cause i had to come out of pocket on some of my stuff
+Participant: and unfortunately my mom <laughter> this is interesting
+Participant: she had one little small barrel insurance but she had million dollar of accident insurance and she didn't die of course with with accident she had
+Participant: a medical condition so that was something so we had to pay for the whole just about everything
+Ellie: been_hard (that sounds really hard)
+Participant: yeah it was it was but
+Participant: and now i can handle i i i um <laughter> this will sound weird but um
+Participant: since that i've learned from that so i have made it available for my children
+Participant: that my husband and i we got together
+Participant: and we wind up getting our insurance uh uh uh uh policy xxx not insurance policy but um
+Participant: what do you call the um
+Participant: barrel insurance we had that
+Participant: and it just we've had it for mm many many years so it's almost paid but xxx ten years it'll pay for everything um the plot and everything
+Participant: and uh another thing that i did i've even written my own obituary i know that sounds weird
+Participant: so
+Participant: my son
+Participant: make one phone call that's it i don't want them to go through what
+Participant: i went through
+Participant: and my husband agreed that's the one thing we did agree on
+Ellie: makes_sense (that makes sense)
+Participant: and um
+Participant: he said he don't want anybody to to have any problem uh people coming in and telling 'em what to do it's already written we did a living trust
+Participant: i mean it's nothing they can do but make one phone call
+Ellie: mhm (mhm)
+Participant: and that's it
+Ellie: easy_sleep (how easy is it for you to get a good night's sleep)
+Participant: i have no problem sleeping i sleep very <laughter> well
+Participant: pretty good
+Ellie: feel_lately (how have you been feeling lately)
+Participant: um
+Participant: i've been a little tired but that's only because of physical condition um i have i found i have vitamin b deficiency and vitamin d xxx deficiency so it's more physical but not in the mental
+Ellie: symptoms_cope (how do you cope with them)
+Participant: um
+Participant: exercise walk walking more so
+Ellie: behavior_changes (have you noticed any changes in your behavior or thoughts lately)
+Participant: no not really
+Ellie: ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)
+Participant: no
+Ellie: depression_diagnosed (have you been diagnosed with depression)
+Participant: no
+Ellie: happy_lasttime (tell me about the last time you felt really happy)
+Participant: i'm basically happily all the time i'm mm more so i'm making other people happy i get more phone calls of people want inspiration about things uh
+Participant: uh when they have projects they working on and i try to encourage them
+Participant: uh and it makes me feel good when they hang up and say you know hey i really appreciate your input um
+Participant: thanks and then they i'll i'll follow up on 'em and see how they're doing
+Ellie: good_hear (that's so good to hear)
+Ellie: BF_describe (how would your best friend describe you)
+Participant: oh uh resource person i've been um
+Participant: described as a resource person from my supervisor
+Participant: to from my friends because i'm the type of person i research everything i get into just about
+Participant: i just don't  xxx dive into any situation i try to look up information uh
+Participant: some i know we have the technology here uh that you can get everything on the internet but also go back to the old school like like even finding this place
+Participant: i mean i did the map google but also i love the thomas brother i'm never gonna give up my thomas brothers map
+Participant: yellow pages you'd be surprised i don't give up my yellow pages so there's certain little things that i don't really let go i know we have technology but
+Participant: sometimes you know you'd be surprised that you can go around and find a whole lot of stuff
+Participant: that even though technology gives <gi> you have it right at your finger but you can find things
+Participant: and and they say i'm more of a resource person and most people come to me just to to look up things
+Participant: and i get that that that spunk about it because i like to look for stuff and find it
+Ellie: uh_huh (uh huh)
+Participant: and that gives me satisfaction
+Ellie: self_change (what are some things you wish you could change about yourself)
+Participant: uh
+Participant: i wish i can uh um
+Participant: stop going up and down on my weight <laughter> i'll lose weight i'll go on this big diet before the summertime and
+Participant: and then by christmas time i'm i have a what they call a yo-yo weight problem
+Participant: and if i can stop binging and making food my friend
+Participant: um
+Participant: i think that's just a nervous disorder i just <ju> i like to eat and um
+Participant: but also i don't like to be overweight either 'cause i have plenty of beautiful clothes at home
+Participant: and i can't get 'em xxx on right now so
+Participant: i know i say if i'm gonna go on this binge and try to lose weight for the summertime so i can get into those some nice clothes so it's mm mostly uh
+Participant: not happy with my weight that's it yeah
+Ellie: mhm (mhm)
+Ellie: regret (is there anything you regret)
+Participant: i'm sorry didn't hear you
+Ellie: regret (is there anything you regret)
+Participant: um
+Participant: no not really i regret <laughter> that i can't stay skinny <laughter> i can't lose i mean i can lose the weight but i i regret not being able to keep it i i fall back on putting the weight back on
+Ellie: advice_back (what advice would you give to yourself ten or twenty years ago)
+Participant: um
+Participant: let's see xxx ten or twenty years ago
+Participant: mm
+Participant: i would've saved a little bit more money before i retired <laughter> and uh xxx uh basically um
+Participant: putting away more money before i retire
+Participant: instead of retiring too early
+Ellie: Ellie17Dec2012_08 (what are you most proud of in your life)
+Participant: most proudest is of my life
+Participant: um
+Participant: meeting a lot of people that came in my life
+Participant: uh i got good friends i still have fifteen of the best friends that i went to elementary school
+Participant: and in very rare you could find anybody can walk around and say they have the same fifteen group of friends we were in a sorority together went to college together
+Participant: lived in the same neighborhood and matter of fact we just had um well all of us had our sixty year birthday and our our high school
+Participant: group we put together a sixty year birthday reunion
+Participant: and here all fifteen of us with exception of one we're all alive and healthy and we keep in contact so i think uh
+Participant: it's basically keeping the same friends i think eh we're gonna probably outlive each other <laughter>
+Ellie: asked_everything (okay i think i have asked everything i need to)
+Participant: okay
+Ellie: appreciate_open (thanks for sharing your thoughts with me)
+Participant: you're welcome
+Ellie: bye (goodbye)
+Participant: bye bye

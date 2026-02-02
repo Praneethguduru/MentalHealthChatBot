@@ -1,0 +1,450 @@
+Participant: <sync>
+Ellie: IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)
+Participant: mhm
+Ellie: okay_confirm (okay)
+Ellie: how_doingV (so how are you doing today)
+Participant: um i'm doing good what about you
+Ellie: thats_good (that's good)
+Ellie: great_thanks (i'm great thanks)
+Participant: mhm
+Ellie: where_originally (where are you from originally)
+Participant: um
+Participant: l_a <l> los los angeles but
+Participant: i currently reside <res>reside in inglewood
+Participant: wait did i answer your question
+Ellie: cool3 (cool)
+Participant: i don't know
+Ellie: yeah3 (yeah)
+Participant: okay
+Ellie: like_about_LA (what are some things you really like about l_a)
+Participant: l_a
+Participant: um
+Participant: the murals
+Participant: the ocean
+Participant: what else
+Participant: the people
+Participant: my family's over here so
+Participant: that's the best part
+Ellie: thats_great (that's great)
+Participant: what about you
+Participant: oh wait yeah <laughter>
+Ellie: dont_like_LA (what are some things you don't really like about l_a)
+Participant: um
+Participant: i would say
+Participant: the smog
+Participant: yeah the air it could be cleaner
+Participant: and
+Ellie: see_mean (i see what you mean)
+Participant: yeah
+Participant: um
+Participant: that's pretty <pre> i mean
+Participant: there's good people and bad people too
+Participant: but yeah for the most part it's all good
+Ellie: yeah3 (yeah)
+Ellie: travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)
+Participant: um yeah i've been to mexico <me> uh mexico and the temples
+Participant: and northern california so yes
+Ellie: nice (nice)
+Ellie: travel_changed (what do you enjoy about traveling)
+Participant: traveling
+Participant: like cleaner air that's good it's healthier for your body
+Participant: cleaner bloodflow
+Participant: the um people
+Participant: culture
+Participant: and stories and when you come back you share stories with like your friends
+Ellie: makes_sense (that makes sense)
+Ellie: travel_trips (i'd love to hear about one of your trips)
+Participant: yeah um any time
+Participant: like right now
+Participant: or when
+Ellie: uh_huh (uh huh)
+Participant: okay so like this one time when i was kid we went out to the temples
+Participant: and um it started raining
+Participant: so we just start walking through and like when we get to the top one thing i didn't know before is that the higher you go
+Participant: the the smaller the steps get
+Participant: so
+Participant: like people back then had
+Participant: uh smaller feet
+Participant: so what happened was
+Participant: as i went higher towards the temple i had to walk sideways
+Participant: so my feet could measure up to the the the steps
+Participant: but once you get up there it's a nice view
+Participant: i yeah
+Ellie: awesome (awesome)
+Ellie: study (what did you study at school)
+Participant: uh general education but
+Participant: um mainly art
+Participant: yeah i took a lot of a lot of art classes
+Ellie: change_directions (what made you decide to do that)
+Participant: um well
+Participant: when i was a kid
+Participant: i scribbled on walls with crayola so i figured you know like it kinda stuck around with me so
+Participant: i just pursued it
+Participant: so
+Participant: yeah
+Ellie: dream_job (what's your dream job)
+Participant: my dream job
+Participant: would be to get paid for painting
+Participant: painting art
+Ellie: wild_laughter3 ((laughter))
+Participant: yeah
+Participant: um
+Participant: yeah
+Participant: pretty simple
+Ellie: difficult (how hard is that)
+Participant: um
+Participant: it's not so much that it's hard it just requires passion
+Participant: um
+Participant: persistence
+Participant: and faith and will
+Participant: you just have to really believe in yourself the more you believe in yourself the more likely you are able to succeed
+Ellie: mm (mm)
+Participant: mhm
+Ellie: shyoutgoing (do you consider yourself more shy or outgoing)
+Participant: i consider myself to be shy in certain um
+Participant: time and places
+Participant: but i am also out outgoing when
+Participant: like i have the energy
+Participant: so
+Participant: i feel like it's well balanced you know
+Participant: like i'm shy when it's
+Participant: i guess
+Participant: okay to be shy
+Participant: you know
+Participant: and i'm outgoing when
+Participant: like the need to actually
+Participant: um have fun or just explore
+Participant: it feels good like
+Participant: if that makes sense but yeah
+Ellie: understand (i understand)
+Ellie: relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)
+Participant: <laughter>
+Participant: yeah
+Participant: to uh relax
+Participant: um
+Participant: either well i don't know if i should say this but i smoke weed <laughter>
+Participant: so that helps
+Participant: and
+Participant: i like painting painting pretty much helps me relax
+Participant: you know especially when i use the color blue
+Participant: because the color blue um relaxes me
+Participant: and also green
+Participant: when i use these two colors and make a painting it calms <calm>calms me down
+Ellie: cool3 (cool)
+Participant: yeah and you have a blue shirt yeah
+Ellie: control_temper (how are you at controlling your temper)
+Participant: my temper
+Participant: um well my thoughts
+Participant: my thoughts control my emotions
+Participant: and my emotions
+Participant: yeah that's pretty much how
+Participant: my temper i i try to make sense you know like is it worth getting mad
+Participant: or if i do get mad what will be the outcome
+Participant: you know
+Participant: so
+Participant: controlling my temper is just
+Participant: by training my thought
+Ellie: mm (mm)
+Ellie: last_argument (when was the last time you argued with someone and what was it about)
+Participant: um <sigh>
+Participant: the last time i argued with somebody
+Participant: was with my with my father
+Participant: and it was because i wanted to eat food but he wanted me to buy wine
+Participant: so right when the food was ready i was hungry to eat and he was like no
+Participant: so that kinda frustrated me
+Participant: and
+Participant: the way i handled it was like well
+Participant: i could just eat when i come back and i'm doing him a favor so
+Participant: you know
+Participant: and then after you know i could just eat in eat in peace
+Participant: so
+Ellie: yeah3 (yeah)
+Participant: yeah
+Ellie: family_relationship (tell me about your relationship with your family)
+Participant: my family
+Participant: um it's pretty good
+Participant: um
+Participant: my mom my dad have a good relationship still <s>still married
+Participant: and my brothers and sisters
+Participant: um we help one another out
+Participant: so that's good it's just
+Participant: yeah it's like a team
+Ellie: thats_good (that's good)
+Ellie: situation_handled (tell me about a situation that you wish you had handled differently)
+Participant: a situation i wish i could handle differently would be
+Participant: hmm
+Participant: that's a good question
+Participant: i mean
+Participant: can i get a scenerio
+Ellie: mind (whatever comes to your mind)
+Participant: okay
+Participant: um
+Participant: a situation i could handle differently
+Participant: well see that's the thing like i feel like
+Participant: if i'm calm in any situation i could figure it out
+Participant: you know but if it came down to like a rubik's cube
+Participant: maybe
+Participant: how would i handle the situation would be just by
+Participant: uh failing um failing making mistakes
+Participant: because i would make the right mistakes and the right lessons would come after
+Participant: so
+Participant: that's the best way i could answer your question
+Participant: you know
+Ellie: okay_confirm (okay)
+Participant: yeah
+Ellie: influence_positive (who's someone that's been a positive influence in your life)
+Participant: a positive influence
+Participant: pretty much
+Participant: anybody who told me the truth has been a positive influence  influence  you know
+Participant: like
+Participant: yeah even though it may hurt like oh the truth does hurt
+Participant: well they're not trying to be mean they're actually
+Participant: good influences so i would say my friends
+Participant: uh my mom my dad
+Participant: my brother my sisters
+Participant: yeah
+Ellie: mm (mm)
+Ellie: memory_erase (tell me about an event or something that you wish you could erase from your memory)
+Participant: mm
+Participant: well see that's the thing like
+Participant: you like i have i've had some pretty bad experiences with like being at gunpoint and with a knife
+Participant: but at the end of the day what that did was like give me more insight it made me more aware
+Participant: and
+Participant: it taught me how to read people a little bit more like
+Participant: just sense things out and also how to avoid situations so even though it was bad and it did kinda like
+Participant: scar me
+Participant: it did prepare me for like
+Participant: the world you know because this happened to me when i was like twelve thirteen years old so i was already being exposed to like
+Participant: you know like guns knives and all that stuff so
+Ellie: Ellie17Dec2012_06 (wow)
+Participant: it's it's bad but it's good in the long term
+Participant: you know because
+Participant: if you get out of that slump
+Participant: it's like
+Participant: nothing else would really phase you because oh you think you know in your head like oh i've been through worse so it's not as bad you know
+Participant: and
+Ellie: yeah_downer (yeah)
+Participant: so yeah
+Ellie: hard_decisionB (tell me about the hardest decision you've ever had to make)
+Participant: the hardest
+Participant: um
+Participant: man
+Participant: this one right now uh see for a the moment i got stuck i was like trying to think that was that was part of it
+Ellie: wild_laughter3 ((laughter))
+Participant: but uh hardest decision as far as like life changing
+Ellie: yeah3 (yeah)
+Participant: life changing
+Participant: whether to continue school
+Participant: college
+Participant: or not
+Participant: mm i kinda chose
+Participant: to like
+Participant: i went to school but i chose to pursue my own like
+Participant: like i'm learning more by connecting myself with people who are already in the field i wanna be in
+Participant: so that was a hard choice because there was no
+Participant: um guarantee that i would
+Participant: like
+Participant: run into like the right people
+Participant: but i took that chance and you know i met the right people so
+Participant: yeah
+Ellie: happy_didthat (are you happy you did that)
+Participant: yeah
+Participant: yeah
+Ellie: thats_good (that's good)
+Ellie: easy_sleep (how easy is it for you to get a good night's sleep)
+Participant: um it's actually really easy
+Participant: i sometimes yeah like if i wanted to i could sleep right now in like ten minutes you know
+Participant: i could just like shut down my mind like yeah just calm down
+Ellie: wow (wow)
+Participant: like like slow down my air pattern
+Ellie: wild_laughter3 ((laughter))
+Participant: yeah
+Participant: mhm
+Ellie: feel_lately (how have you been feeling lately)
+Participant: lately
+Participant: i've been feeling
+Participant: good
+Participant: i've been feeling like i have free will
+Participant: like at this point in time i feel like
+Participant: if i chose a path any path
+Participant: with like
+Participant: my heart
+Participant: i could
+Participant: get there you know
+Participant: but i'm kind of like
+Participant: still deciding it's like everything in all all these paths are in the air
+Participant: just trying to make my own i don't know
+Participant: that's where i'm at i feel like i have free will
+Participant: so yeah
+Ellie: thats_great (that's great)
+Ellie: behavior_changes (have you noticed any changes in your behavior or thoughts lately)
+Participant: lately like in the past two weeks or today
+Ellie: mind (whatever comes to your mind)
+Participant: <laughter>
+Participant: okay
+Participant: uh yeah you know like
+Participant: um
+Participant: yeah
+Participant: things happen that would change like
+Participant: my feelings and
+Participant: for example right now it just happened
+Ellie: like_what (like what)
+Participant: huh
+Participant: for right now like
+Ellie: like_what (like what)
+Participant: this experience for one is kind of like a shift in my thought
+Participant: because
+Participant: yeah it's like
+Participant: it's technology you know it's like it's a trip to see how far
+Participant: like
+Participant: one could take a thought
+Participant: and then make it
+Participant: reality
+Participant: so that's kinda like shifting my thoughts right now
+Participant: this experience this this whole experience
+Participant: yeah
+Ellie: okay_confirm (okay)
+Ellie: ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)
+Participant: uh post traumatic stress disorder
+Participant: no
+Ellie: depression_diagnosed (have you been diagnosed with depression)
+Participant: depression i know how it's like to be depressed
+Participant: but diagnosed by a doctor no
+Ellie: tell_about_that (can you tell me about that)
+Participant: uh depression
+Participant: how
+Participant: how it feels
+Ellie: mhm (mhm)
+Participant: how does depression feel like
+Participant: it feels like
+Participant: it's like a bird in a cage
+Participant: being depression is like
+Participant: being <ss> a fish who can't swim in the water
+Participant: i have feeling depression is like being a bird without wings
+Participant: um
+Participant: pretty much it feels
+Participant: like you're limited
+Participant: but then the thing is
+Participant: to get out of that depression
+Participant: it's like you have to
+Participant: awaken and change your perspective
+Participant: and focus on
+Participant: like i i would say colors colors help
+Participant: and people talking to people helps
+Participant: yeah
+Ellie: bouts_symptoms (when was the last time that happened)
+Participant: um being depressed
+Participant: mm let's see
+Participant: mm
+Participant: i don't know
+Participant: like
+Participant: it could <cou> it could come like it could happen everyday in like in small doses doses
+Participant: so
+Participant: like i i could say today you know earlier when i was just by myself i felt a little depressed
+Participant: but then what happened i fixed it like
+Participant: called up a friend and
+Participant: met up with him and yeah
+Ellie: thats_good (that's good)
+Ellie: happy_lasttime (tell me about the last time you felt really happy)
+Participant: um i mean at this moment i feel pretty happy you know
+Participant: i'm talking to a virtual person it's pretty cool
+Participant: and
+Participant: yeah
+Participant: right now i feel happy
+Ellie: awesome (awesome)
+Participant: <laughter>
+Ellie: BF_describe (how would your best friend describe you)
+Participant: um
+Participant: sometimes hard headed
+Participant: like he would try to teach me um
+Participant: a certain lesson whether it's art
+Participant: or just like in my character
+Participant: and
+Participant: yeah he would probably just describe me as like
+Participant: like
+Participant: like
+Participant: he would listen
+Participant: but at the same time he'll still do what he wants to do
+Participant: so pretty much like
+Participant: i don't know
+Participant: yeah i mean that's what he tells me
+Participant: but yeah overall good person
+Ellie: mm (mm)
+Ellie: self_change (what are some things you wish you could change about yourself)
+Participant: um probably just exercise
+Participant: um my diet food
+Participant: my food intake
+Participant: and yeah just exercise
+Participant: pretty much it
+Ellie: feelbadly (tell me about a time when someone made you feel really badly about yourself)
+Participant: my health
+Participant: mm
+Participant: i would say when i was like in middle school
+Participant: or
+Participant: in elementary
+Participant: a little bit of high school too
+Participant: but what it would
+Ellie: tell_about_that (can you tell me about that)
+Participant: yeah what it would be was it would either be about
+Participant: um
+Participant: well pretty much my art <laughter>
+Participant: like if i ever did something and i thought it was good then someone else would be like oh you know that looks kinda like
+Participant: like trash
+Participant: and then i'd be like oh
+Participant: damn
+Participant: either i could accept it and be like yeah it does kinda look and then fix it
+Participant: or what i would do back then would be like damn you know
+Participant: just kinda dwell on that thought
+Participant: and then just like
+Participant: stay there for a bit and then eventually i'll come out of it
+Participant: but yeah
+Participant: usually it's um people's words
+Participant: and ideas
+Participant: that
+Ellie: understand (i understand)
+Participant: yeah
+Participant: yeah so that's it
+Ellie: regret (is there anything you regret)
+Participant: regret
+Participant: um yeah i got a couple things i regret
+Ellie: like_what (like what)
+Participant: like what
+Participant: well
+Participant: sometimes i feel like i should've completed a whole university thing
+Participant: but
+Participant: i mean at the same time i feel like
+Participant: if i really wanted to go
+Participant: i would have gone
+Participant: so yeah
+Participant: that's kind of a regret in my head
+Ellie: yeah_downer (yeah)
+Ellie: advice_back (what advice would you give to yourself ten or twenty years ago)
+Participant: ten or twenty years ago would be um seek spiritual
+Participant: well being
+Participant: you know
+Participant: learn how to um handle your thoughts choose your thoughts i would teach myself
+Participant: um
+Participant: pick the right <r> people you surround yourself with because that   definitely has a major influence in your environment
+Participant: uh certain events you would experience
+Participant: and as far as your overall happiness
+Participant: yeah
+Ellie: uh_huh (uh huh)
+Participant: yeah among other things but yeah
+Ellie: Ellie17Dec2012_08 (what are you most proud of in your life)
+Participant: what i'm most proud of right now
+Participant: is my paintings
+Participant: yeah
+Participant: i'm proud of that because like
+Participant: i feel like these paintings i'm releasing are things that no one else could duplicate
+Participant: you know it's like it's one of a kind and like it's it's there you know
+Participant: it's has own signature so
+Participant: so yeah i'm i'm pretty happy about that
+Ellie: thats_great (that's great)
+Participant: yeah thank you
+Ellie: asked_everything (okay i think i have asked everything i need to)
+Participant: alright thank you
+Ellie: appreciate_open (thanks for sharing your thoughts with me)
+Participant: mhm
+Ellie: bye (goodbye)
+Participant: alright bye
+Participant: <laughter>
