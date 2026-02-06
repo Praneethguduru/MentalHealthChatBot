@@ -1,35 +1,71 @@
-import os
-from fastapi import FastAPI
+from fastapi import FastAPI, Depends, HTTPException
 from pydantic import BaseModel
 from fastapi.middleware.cors import CORSMiddleware
-from supabase import create_client
+from sqlalchemy.orm import Session
+
+from database import Base, engine
+from models import User
+from auth import (
+    get_db, hash_password, verify_password,
+    create_token, get_current_user
+)
 from rag import get_response
 
+# ✅ CREATE APP FIRST
 app = FastAPI()
 
+# ✅ DB INIT
+Base.metadata.create_all(bind=engine)
+
+# ✅ CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"], 
+    allow_origins=["http://localhost:5501"],
+    allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-supabase = create_client(os.getenv("SUPABASE_URL"), os.getenv("SUPABASE_KEY"))
+# ---------- SCHEMAS ----------
+class Signup(BaseModel):
+    email: str
+    password: str
 
-class Msg(BaseModel):
-    user_id: str
-    chat_id: str
+class Login(BaseModel):
+    email: str
+    password: str
+
+class Chat(BaseModel):
     message: str
 
+# ---------- ROUTES ----------
 @app.get("/")
-def home(): return {"status": "Online"}
+def home():
+    return {"status": "Mental Health Chatbot Running"}
+
+@app.post("/signup")
+def signup(data: Signup, db: Session = Depends(get_db)):
+    if db.query(User).filter(User.email == data.email).first():
+        raise HTTPException(status_code=400, detail="User already exists")
+
+    user = User(
+        email=data.email,
+        hashed_password=hash_password(data.password)
+    )
+    db.add(user)
+    db.commit()
+    return {"message": "User created"}
+
+@app.post("/login")
+def login(data: Login, db: Session = Depends(get_db)):
+    user = db.query(User).filter(User.email == data.email).first()
+    if not user or not verify_password(data.password, user.hashed_password):
+        raise HTTPException(status_code=401, detail="Invalid credentials")
+
+    token = create_token(user.id)
+    return {"access_token": token}
 
 @app.post("/chat")
-async def chat(req: Msg):
-    ai_text = get_response(req.message)
-    
-    # Save History
-    supabase.table("messages").insert({"chat_id": req.chat_id, "role": "user", "content": req.message}).execute()
-    supabase.table("messages").insert({"chat_id": req.chat_id, "role": "assistant", "content": ai_text}).execute()
-    
-    return {"response": ai_text}
+def chat(req: Chat, user=Depends(get_current_user)):
+    response = get_response(req.message)
+    return {"response": response}
