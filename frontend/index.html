@@ -2,114 +2,171 @@
 <html>
 <head>
   <title>Mental Health Chatbot</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 30px auto;
+      display: flex;
+      gap: 15px;
+    }
+    .sidebar {
+      width: 200px;
+      border-right: 1px solid #ccc;
+      padding-right: 10px;
+    }
+    .chat-btn {
+      padding: 6px;
+      margin-bottom: 5px;
+      cursor: pointer;
+      background: #f4f4f4;
+    }
+    .chat-btn.active {
+      background: #dbeafe;
+      font-weight: bold;
+    }
+    .main {
+      flex: 1;
+    }
+    input, button {
+      margin: 5px 0;
+      padding: 8px;
+      width: 100%;
+    }
+    #out {
+      background: #f4f4f4;
+      padding: 10px;
+      height: 300px;
+      overflow-y: auto;
+      white-space: pre-wrap;
+    }
+  </style>
 </head>
 <body>
 
-<h2>Mental Health Chatbot</h2>
+<!-- SIDEBAR -->
+<div class="sidebar">
+  <button onclick="newConversation()">+ New Conversation</button>
+  <div id="chatList"></div>
+</div>
 
-<input id="email" placeholder="Email" /><br><br>
-<input id="password" placeholder="Password" type="password" /><br><br>
+<!-- MAIN -->
+<div class="main">
+  <h2>Mental Health Chatbot</h2>
 
-<button id="signupBtn">Signup</button>
-<button id="loginBtn">Login</button>
+  <input id="email" placeholder="Email" />
+  <input id="password" placeholder="Password" type="password" />
 
-<hr>
+  <button onclick="signup()">Signup</button>
+  <button onclick="login()">Login</button>
 
-<input id="msg" placeholder="Message" />
-<button id="sendBtn">Send</button>
+  <hr>
 
-<pre id="out"></pre>
+  <input id="msg" placeholder="Type your message..." />
+  <button onclick="send()">Send</button>
+
+  <pre id="out"></pre>
+</div>
 
 <script>
 let token = null;
+let chats = {};
+let currentChat = null;
+let chatCount = 0;
 
-document.getElementById("signupBtn").addEventListener("click", signup);
-document.getElementById("loginBtn").addEventListener("click", login);
-document.getElementById("sendBtn").addEventListener("click", send);
+const out = document.getElementById("out");
+const chatList = document.getElementById("chatList");
+
+function renderChatList() {
+  chatList.innerHTML = "";
+  for (const id in chats) {
+    const div = document.createElement("div");
+    div.className = "chat-btn" + (id === currentChat ? " active" : "");
+    div.innerText = id;
+    div.onclick = () => {
+      currentChat = id;
+      renderChat();
+      renderChatList();
+    };
+    chatList.appendChild(div);
+  }
+}
+
+function renderChat() {
+  out.innerText = "";
+  if (!currentChat) return;
+
+  chats[currentChat].forEach(m => {
+    out.innerText += `${m.role}: ${m.text}\n\n`;
+  });
+}
+
+function newConversation() {
+  chatCount++;
+  const id = "Chat " + chatCount;
+  chats[id] = [];
+  currentChat = id;
+  renderChatList();
+  renderChat();
+}
 
 async function signup() {
-  console.log("Signup clicked");
-
-  const email = document.getElementById("email").value;
-  const password = document.getElementById("password").value;
-
-  try {
-    const res = await fetch("http://127.0.0.1:8000/signup", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ email, password })
-    });
-
-    const data = await res.json();
-    console.log("Signup response:", data);
-
-    if (!res.ok) {
-      alert("Signup failed: " + JSON.stringify(data));
-      return;
-    }
-
-    alert("Signup successful!");
-  } catch (err) {
-    console.error("Signup error:", err);
-    alert("Signup error — see console");
-  }
+  await fetch("http://127.0.0.1:8000/signup", {
+    method: "POST",
+    headers: {"Content-Type":"application/json"},
+    body: JSON.stringify({
+      email: email.value,
+      password: password.value
+    })
+  });
+  alert("Signup successful. Please login.");
 }
 
 async function login() {
-  console.log("Login clicked");
+  const res = await fetch("http://127.0.0.1:8000/login", {
+    method: "POST",
+    headers: {"Content-Type":"application/json"},
+    body: JSON.stringify({
+      email: email.value,
+      password: password.value
+    })
+  });
 
-  const email = document.getElementById("email").value;
-  const password = document.getElementById("password").value;
-
-  try {
-    const res = await fetch("http://127.0.0.1:8000/login", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ email, password })
-    });
-
-    const data = await res.json();
-    console.log("Login response:", data);
-
-    if (!res.ok) {
-      alert("Login failed");
-      return;
-    }
-
-    token = data.access_token;
-    alert("Login successful!");
-  } catch (err) {
-    console.error("Login error:", err);
-  }
+  const data = await res.json();
+  token = data.access_token;
+  alert("Login successful");
+  newConversation(); // start first chat
 }
 
 async function send() {
-  console.log("Send clicked");
-
-  if (!token) {
-    alert("Please login first");
+  if (!token || !currentChat) {
+    alert("Login and create a conversation first");
     return;
   }
 
-  const msg = document.getElementById("msg").value;
+  const message = msg.value.trim();
+  if (!message) return;
+  msg.value = "";
 
-  try {
-    const res = await fetch("http://127.0.0.1:8000/chat", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        "Authorization": "Bearer " + token
-      },
-      body: JSON.stringify({ message: msg })
-    });
+  chats[currentChat].push({ role: "You", text: message });
+  renderChat();
 
-    const data = await res.json();
-    console.log("Chat response:", data);
+  const res = await fetch("http://127.0.0.1:8000/chat", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      "Authorization": "Bearer " + token
+    },
+    body: JSON.stringify({ message })
+  });
 
-    out.innerText = data.response;
-  } catch (err) {
-    console.error("Chat error:", err);
-  }
+  const data = await res.json();
+  chats[currentChat].push({
+    role: "Therapist",
+    text: data.response
+  });
+
+  renderChat();
 }
 </script>
 
