@@ -1,174 +1,826 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Mental Health Chatbot</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 800px;
-      margin: 30px auto;
-      display: flex;
-      gap: 15px;
-    }
-    .sidebar {
-      width: 200px;
-      border-right: 1px solid #ccc;
-      padding-right: 10px;
-    }
-    .chat-btn {
-      padding: 6px;
-      margin-bottom: 5px;
-      cursor: pointer;
-      background: #f4f4f4;
-    }
-    .chat-btn.active {
-      background: #dbeafe;
-      font-weight: bold;
-    }
-    .main {
-      flex: 1;
-    }
-    input, button {
-      margin: 5px 0;
-      padding: 8px;
-      width: 100%;
-    }
-    #out {
-      background: #f4f4f4;
-      padding: 10px;
-      height: 300px;
-      overflow-y: auto;
-      white-space: pre-wrap;
-    }
-  </style>
+<title>Mental Health Chatbot</title>
+<style>
+body {
+  font-family: Arial, sans-serif;
+  max-width: 900px;
+  margin: 30px auto;
+  display: flex;
+  gap: 15px;
+}
+.sidebar {
+  width: 250px;
+  border-right: 1px solid #ccc;
+  padding-right: 10px;
+}
+.chat-btn {
+  padding: 8px;
+  margin-bottom: 6px;
+  cursor: pointer;
+  background: #f4f4f4;
+  border-radius: 4px;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 5px;
+}
+.chat-btn.active {
+  background: #dbeafe;
+  font-weight: bold;
+}
+.chat-btn:hover {
+  background: #e5e7eb;
+}
+.chat-btn.active:hover {
+  background: #bfdbfe;
+}
+.chat-title {
+  flex: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.chat-actions {
+  display: flex;
+  gap: 3px;
+  flex-shrink: 0;
+}
+.icon-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 4px 6px;
+  font-size: 16px;
+  color: #6b7280;
+  line-height: 1;
+  min-width: 24px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.icon-btn:hover {
+  color: #1f2937;
+  background: rgba(0,0,0,0.05);
+  border-radius: 4px;
+}
+.delete-btn:hover {
+  color: #dc2626;
+}
+.main {
+  flex: 1;
+}
+input, button {
+  margin: 6px 0;
+  padding: 8px;
+  width: 100%;
+  box-sizing: border-box;
+}
+button {
+  cursor: pointer;
+  background: #3b82f6;
+  color: white;
+  border: none;
+  border-radius: 4px;
+}
+button:hover {
+  background: #2563eb;
+}
+#out {
+  background: #f9f9f9;
+  padding: 10px;
+  height: 350px;
+  overflow-y: auto;
+  white-space: pre-wrap;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+.message {
+  margin-bottom: 15px;
+}
+.user-msg {
+  color: #1e40af;
+}
+.assistant-msg {
+  color: #059669;
+}
+.phq8-container {
+  background: #f0f9ff;
+  padding: 15px;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+.question-block {
+  margin-bottom: 20px;
+  padding: 10px;
+  background: white;
+  border-radius: 4px;
+}
+.option-label {
+  display: block;
+  margin: 5px 0;
+  padding: 5px;
+  cursor: pointer;
+}
+.option-label:hover {
+  background: #e0f2fe;
+  border-radius: 4px;
+}
+.result-box {
+  background: #dcfce7;
+  padding: 15px;
+  border-radius: 8px;
+  margin-top: 20px;
+  border-left: 4px solid #22c55e;
+}
+.warning-box {
+  background: #fef3c7;
+  padding: 15px;
+  border-radius: 8px;
+  margin-top: 20px;
+  border-left: 4px solid #f59e0b;
+}
+.danger-box {
+  background: #fee2e2;
+  padding: 15px;
+  border-radius: 8px;
+  margin-top: 20px;
+  border-left: 4px solid #ef4444;
+}
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.5);
+}
+.modal-content {
+  background-color: white;
+  margin: 15% auto;
+  padding: 20px;
+  border-radius: 8px;
+  width: 80%;
+  max-width: 400px;
+}
+.modal-buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
+.modal-buttons button {
+  flex: 1;
+}
+</style>
 </head>
 <body>
-
 <!-- SIDEBAR -->
 <div class="sidebar">
   <button onclick="newConversation()">+ New Conversation</button>
   <div id="chatList"></div>
+  <hr>
+  <button onclick="startPHQ8()" style="background: #10b981;">Take PHQ-8 Assessment</button>
+  <button onclick="viewPHQ8History()" style="background: #8b5cf6;">View Assessment History</button>
 </div>
 
 <!-- MAIN -->
 <div class="main">
   <h2>Mental Health Chatbot</h2>
-
-  <input id="email" placeholder="Email" />
-  <input id="password" placeholder="Password" type="password" />
-
-  <button onclick="signup()">Signup</button>
-  <button onclick="login()">Login</button>
-
+  
+  <!-- Auth Section -->
+  <div id="authSection">
+    <input id="email" placeholder="Email" />
+    <input id="password" placeholder="Password" type="password" />
+    <button onclick="signup()">Signup</button>
+    <button onclick="login()">Login</button>
+  </div>
+  
   <hr>
+  
+  <!-- Chat Section -->
+  <div id="chatSection" style="display:none;">
+    <div id="out"></div>
+    <input id="msg" placeholder="Type your message..." onkeypress="handleEnter(event)" />
+    <button onclick="send()">Send</button>
+  </div>
+  
+  <!-- PHQ-8 Assessment Section -->
+  <div id="phq8Section" style="display:none;">
+    <div class="phq8-container">
+      <h3>PHQ-8 Depression Screening</h3>
+      <p id="phq8Instructions" style="font-style: italic; color: #666;"></p>
+      <div id="phq8Questions"></div>
+      <button onclick="submitPHQ8()" style="background: #10b981;">Submit Assessment</button>
+      <button onclick="cancelPHQ8()" style="background: #6b7280;">Cancel</button>
+    </div>
+  </div>
+  
+  <!-- PHQ-8 Result Section -->
+  <div id="phq8Result"></div>
+  
+  <!-- PHQ-8 History Section -->
+  <div id="phq8HistorySection" style="display:none;">
+    <div class="phq8-container">
+      <h3>Assessment History</h3>
+      <div id="phq8HistoryList"></div>
+      <button onclick="closeHistory()" style="background: #6b7280;">Close</button>
+    </div>
+  </div>
+</div>
 
-  <input id="msg" placeholder="Type your message..." />
-  <button onclick="send()">Send</button>
+<!-- Rename Modal -->
+<div id="renameModal" class="modal">
+  <div class="modal-content">
+    <h3>Rename Conversation</h3>
+    <input id="newTitle" placeholder="Enter new title..." />
+    <div class="modal-buttons">
+      <button onclick="confirmRename()" style="background: #10b981;">Save</button>
+      <button onclick="closeRenameModal()" style="background: #6b7280;">Cancel</button>
+    </div>
+  </div>
+</div>
 
-  <pre id="out"></pre>
+<!-- Delete Confirmation Modal -->
+<div id="deleteModal" class="modal">
+  <div class="modal-content">
+    <h3>Delete Conversation?</h3>
+    <p>This action cannot be undone. All messages will be permanently deleted.</p>
+    <div class="modal-buttons">
+      <button onclick="confirmDelete()" style="background: #dc2626;">Delete</button>
+      <button onclick="closeDeleteModal()" style="background: #6b7280;">Cancel</button>
+    </div>
+  </div>
 </div>
 
 <script>
 let token = null;
-let chats = {};
-let currentChat = null;
-let chatCount = 0;
+let conversations = [];
+let currentConversation = null;
+let phq8Data = null;
+let phq8Responses = {};
+let conversationToRename = null;
+let conversationToDelete = null;
 
 const out = document.getElementById("out");
 const chatList = document.getElementById("chatList");
 
-function renderChatList() {
+function renderSidebar() {
   chatList.innerHTML = "";
-  for (const id in chats) {
+  conversations.forEach(c => {
     const div = document.createElement("div");
-    div.className = "chat-btn" + (id === currentChat ? " active" : "");
-    div.innerText = id;
-    div.onclick = () => {
-      currentChat = id;
-      renderChat();
-      renderChatList();
+    div.className = "chat-btn" + (currentConversation && currentConversation.id === c.id ? " active" : "");
+    
+    const titleSpan = document.createElement("span");
+    titleSpan.className = "chat-title";
+    titleSpan.innerText = c.title;
+    titleSpan.onclick = (e) => {
+      e.stopPropagation();
+      selectConversation(c);
     };
+    
+    const actionsDiv = document.createElement("div");
+    actionsDiv.className = "chat-actions";
+    
+    const renameBtn = document.createElement("button");
+    renameBtn.className = "icon-btn";
+    renameBtn.innerHTML = "✏️";
+    renameBtn.title = "Rename";
+    renameBtn.onclick = (e) => {
+      e.stopPropagation();
+      openRenameModal(c);
+    };
+    
+    const deleteBtn = document.createElement("button");
+    deleteBtn.className = "icon-btn delete-btn";
+    deleteBtn.innerHTML = "🗑️";
+    deleteBtn.title = "Delete";
+    deleteBtn.onclick = (e) => {
+      e.stopPropagation();
+      openDeleteModal(c);
+    };
+    
+    actionsDiv.appendChild(renameBtn);
+    actionsDiv.appendChild(deleteBtn);
+    
+    div.appendChild(titleSpan);
+    div.appendChild(actionsDiv);
+    
     chatList.appendChild(div);
+  });
+}
+
+function selectConversation(c) {
+  currentConversation = c;
+  showChatSection();
+  loadMessages(c.id);
+  renderSidebar();
+}
+
+async function loadMessages(conversationId) {
+  try {
+    const res = await fetch(`http://127.0.0.1:8000/conversations/${conversationId}/messages`, {
+      headers: { "Authorization": "Bearer " + token }
+    });
+    
+    if (res.ok) {
+      const messages = await res.json();
+      currentConversation.messages = messages.map(m => ({
+        role: m.role === "user" ? "You" : "Therapist",
+        text: m.content
+      }));
+    } else {
+      currentConversation.messages = [];
+    }
+    renderChat();
+  } catch (error) {
+    console.error("Error loading messages:", error);
+    currentConversation.messages = [];
+    renderChat();
   }
 }
 
 function renderChat() {
-  out.innerText = "";
-  if (!currentChat) return;
-
-  chats[currentChat].forEach(m => {
-    out.innerText += `${m.role}: ${m.text}\n\n`;
+  out.innerHTML = "";
+  if (!currentConversation) return;
+  currentConversation.messages.forEach(m => {
+    const className = m.role === "You" ? "user-msg" : "assistant-msg";
+    out.innerHTML += `<div class="message ${className}"><b>${m.role}:</b> ${m.text}</div>`;
   });
+  out.scrollTop = out.scrollHeight;
 }
 
-function newConversation() {
-  chatCount++;
-  const id = "Chat " + chatCount;
-  chats[id] = [];
-  currentChat = id;
-  renderChatList();
-  renderChat();
+function showChatSection() {
+  document.getElementById("chatSection").style.display = "block";
+  document.getElementById("phq8Section").style.display = "none";
+  document.getElementById("phq8Result").innerHTML = "";
+  document.getElementById("phq8HistorySection").style.display = "none";
 }
+
+// ============ RENAME FUNCTIONALITY ============
+
+function openRenameModal(conversation) {
+  conversationToRename = conversation;
+  document.getElementById("newTitle").value = conversation.title;
+  document.getElementById("renameModal").style.display = "block";
+}
+
+function closeRenameModal() {
+  conversationToRename = null;
+  document.getElementById("renameModal").style.display = "none";
+}
+
+async function confirmRename() {
+  const newTitle = document.getElementById("newTitle").value.trim();
+  
+  if (!newTitle) {
+    alert("Please enter a title");
+    return;
+  }
+  
+  try {
+    const res = await fetch(`http://127.0.0.1:8000/conversations/${conversationToRename.id}/title`, {
+      method: "PUT",
+      headers: {
+        "Content-Type": "application/json",
+        "Authorization": "Bearer " + token
+      },
+      body: JSON.stringify({ title: newTitle })
+    });
+    
+    if (!res.ok) {
+      throw new Error("Failed to rename conversation");
+    }
+    
+    conversationToRename.title = newTitle;
+    renderSidebar();
+    closeRenameModal();
+  } catch (error) {
+    console.error("Error renaming conversation:", error);
+    alert("Failed to rename conversation");
+  }
+}
+
+// ============ DELETE FUNCTIONALITY ============
+
+function openDeleteModal(conversation) {
+  conversationToDelete = conversation;
+  document.getElementById("deleteModal").style.display = "block";
+}
+
+function closeDeleteModal() {
+  conversationToDelete = null;
+  document.getElementById("deleteModal").style.display = "none";
+}
+
+async function confirmDelete() {
+  try {
+    const res = await fetch(`http://127.0.0.1:8000/conversations/${conversationToDelete.id}`, {
+      method: "DELETE",
+      headers: {
+        "Authorization": "Bearer " + token
+      }
+    });
+    
+    if (!res.ok) {
+      throw new Error("Failed to delete conversation");
+    }
+    
+    conversations = conversations.filter(c => c.id !== conversationToDelete.id);
+    
+    if (currentConversation && currentConversation.id === conversationToDelete.id) {
+      currentConversation = null;
+      out.innerHTML = "";
+    }
+    
+    renderSidebar();
+    closeDeleteModal();
+    
+    if (conversations.length === 0) {
+      await newConversation();
+    } else if (!currentConversation) {
+      selectConversation(conversations[0]);
+    }
+  } catch (error) {
+    console.error("Error deleting conversation:", error);
+    alert("Failed to delete conversation");
+  }
+}
+
+// ============ CONVERSATION MANAGEMENT ============
+
+async function newConversation() {
+  if (!token) {
+    alert("Please login first");
+    return;
+  }
+  
+  try {
+    const res = await fetch("http://127.0.0.1:8000/conversations", {
+      method: "POST",
+      headers: {
+        "Authorization": "Bearer " + token
+      }
+    });
+    
+    if (!res.ok) {
+      throw new Error("Failed to create conversation");
+    }
+    
+    const data = await res.json();
+    
+    const convo = {
+      id: data.conversation_id,
+      title: "New Conversation",
+      messages: []
+    };
+    conversations.unshift(convo);
+    currentConversation = convo;
+    showChatSection();
+    renderSidebar();
+    renderChat();
+  } catch (error) {
+    console.error("Error creating conversation:", error);
+    alert("Failed to create conversation. Please try again.");
+  }
+}
+
+async function loadConversations() {
+  if (!token) return;
+  
+  try {
+    const res = await fetch("http://127.0.0.1:8000/conversations", {
+      method: "GET",
+      headers: {
+        "Authorization": "Bearer " + token
+      }
+    });
+    
+    if (!res.ok) {
+      throw new Error("Failed to load conversations");
+    }
+    
+    const data = await res.json();
+    conversations = data.map(c => ({
+      id: c.id,
+      title: c.title,
+      messages: []
+    }));
+    renderSidebar();
+    
+    // Auto-select first conversation or create new one
+    if (conversations.length > 0) {
+      selectConversation(conversations[0]);
+    } else {
+      await newConversation();
+    }
+  } catch (error) {
+    console.error("Error loading conversations:", error);
+  }
+}
+
+// ============ AUTH ============
 
 async function signup() {
-  await fetch("http://127.0.0.1:8000/signup", {
-    method: "POST",
-    headers: {"Content-Type":"application/json"},
-    body: JSON.stringify({
-      email: email.value,
-      password: password.value
-    })
-  });
-  alert("Signup successful. Please login.");
+  try {
+    const res = await fetch("http://127.0.0.1:8000/signup", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        email: email.value,
+        password: password.value
+      })
+    });
+    
+    if (!res.ok) {
+      const error = await res.json();
+      throw new Error(error.detail || "Signup failed");
+    }
+    
+    alert("Signup successful. Please login.");
+  } catch (error) {
+    console.error("Signup error:", error);
+    alert(error.message);
+  }
 }
 
 async function login() {
-  const res = await fetch("http://127.0.0.1:8000/login", {
-    method: "POST",
-    headers: {"Content-Type":"application/json"},
-    body: JSON.stringify({
-      email: email.value,
-      password: password.value
-    })
-  });
-
-  const data = await res.json();
-  token = data.access_token;
-  alert("Login successful");
-  newConversation(); // start first chat
+  try {
+    const res = await fetch("http://127.0.0.1:8000/login", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        email: email.value,
+        password: password.value
+      })
+    });
+    
+    if (!res.ok) {
+      const error = await res.json();
+      throw new Error(error.detail || "Login failed");
+    }
+    
+    const data = await res.json();
+    token = data.access_token;
+    
+    document.getElementById("authSection").style.display = "none";
+    
+    alert("Login successful");
+    
+    // Load existing conversations and auto-open one
+    await loadConversations();
+  } catch (error) {
+    console.error("Login error:", error);
+    alert(error.message);
+  }
 }
 
+// ============ CHAT ============
+
 async function send() {
-  if (!token || !currentChat) {
+  if (!token || !currentConversation) {
     alert("Login and create a conversation first");
     return;
   }
-
-  const message = msg.value.trim();
+  
+  const msgInput = document.getElementById("msg");
+  const message = msgInput.value.trim();
   if (!message) return;
-  msg.value = "";
-
-  chats[currentChat].push({ role: "You", text: message });
-  renderChat();
-
-  const res = await fetch("http://127.0.0.1:8000/chat", {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      "Authorization": "Bearer " + token
-    },
-    body: JSON.stringify({ message })
+  
+  msgInput.value = "";
+  
+  currentConversation.messages.push({
+    role: "You",
+    text: message
   });
-
-  const data = await res.json();
-  chats[currentChat].push({
-    role: "Therapist",
-    text: data.response
-  });
-
   renderChat();
+  
+  try {
+    const res = await fetch(`http://127.0.0.1:8000/chat/${currentConversation.id}`, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        "Authorization": "Bearer " + token
+      },
+      body: JSON.stringify({
+        message: message
+      })
+    });
+    
+    if (!res.ok) {
+      throw new Error("Failed to get response");
+    }
+    
+    const data = await res.json();
+    currentConversation.messages.push({
+      role: "Therapist",
+      text: data.response
+    });
+    renderChat();
+  } catch (error) {
+    console.error("Send error:", error);
+    alert("Failed to send message. Please try again.");
+    currentConversation.messages.pop();
+    renderChat();
+  }
+}
+
+function handleEnter(event) {
+  if (event.key === "Enter") {
+    send();
+  }
+}
+
+// ============ PHQ-8 FUNCTIONS ============
+
+async function startPHQ8() {
+  if (!token) {
+    alert("Please login first");
+    return;
+  }
+  
+  try {
+    const res = await fetch("http://127.0.0.1:8000/phq8/questions", {
+      headers: { "Authorization": "Bearer " + token }
+    });
+    
+    if (!res.ok) {
+      throw new Error("Failed to load PHQ-8 questions");
+    }
+    
+    phq8Data = await res.json();
+    phq8Responses = {};
+    renderPHQ8();
+  } catch (error) {
+    console.error("Error loading PHQ-8:", error);
+    alert("Failed to load assessment. Please try again.");
+  }
+}
+
+function renderPHQ8() {
+  document.getElementById("chatSection").style.display = "none";
+  document.getElementById("phq8Section").style.display = "block";
+  document.getElementById("phq8Result").innerHTML = "";
+  document.getElementById("phq8HistorySection").style.display = "none";
+  
+  document.getElementById("phq8Instructions").innerText = phq8Data.instructions;
+  
+  const container = document.getElementById("phq8Questions");
+  container.innerHTML = "";
+  
+  phq8Data.questions.forEach((q, index) => {
+    const div = document.createElement("div");
+    div.className = "question-block";
+    
+    let optionsHTML = "";
+    phq8Data.options.forEach(opt => {
+      optionsHTML += `
+        <label class="option-label">
+          <input type="radio" name="${q.field}" value="${opt.value}" 
+                 onchange="updatePHQ8('${q.field}', ${opt.value})">
+          ${opt.label}
+        </label>
+      `;
+    });
+    
+    div.innerHTML = `
+      <p><strong>${index + 1}. ${q.question}</strong></p>
+      ${optionsHTML}
+    `;
+    
+    container.appendChild(div);
+  });
+}
+
+function updatePHQ8(field, value) {
+  phq8Responses[field] = value;
+}
+
+async function submitPHQ8() {
+  const allAnswered = phq8Data.questions.every(q => 
+    phq8Responses.hasOwnProperty(q.field)
+  );
+  
+  if (!allAnswered) {
+    alert("Please answer all 8 questions before submitting");
+    return;
+  }
+  
+  try {
+    const url = currentConversation 
+      ? `http://127.0.0.1:8000/phq8/submit?conversation_id=${currentConversation.id}`
+      : "http://127.0.0.1:8000/phq8/submit";
+    
+    const res = await fetch(url, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        "Authorization": "Bearer " + token
+      },
+      body: JSON.stringify(phq8Responses)
+    });
+    
+    if (!res.ok) {
+      throw new Error("Failed to submit assessment");
+    }
+    
+    const result = await res.json();
+    displayPHQ8Result(result);
+  } catch (error) {
+    console.error("Error submitting PHQ-8:", error);
+    alert("Failed to submit assessment. Please try again.");
+  }
+}
+
+function displayPHQ8Result(result) {
+  document.getElementById("phq8Section").style.display = "none";
+  
+  let boxClass = "result-box";
+  if (result.score >= 15) {
+    boxClass = "danger-box";
+  } else if (result.score >= 10) {
+    boxClass = "warning-box";
+  }
+  
+  const resultDiv = document.getElementById("phq8Result");
+  resultDiv.innerHTML = `
+    <div class="${boxClass}">
+      <h3>Your PHQ-8 Results</h3>
+      <p><strong>Score:</strong> ${result.score} out of 24</p>
+      <p><strong>Severity:</strong> ${result.severity}</p>
+      <p><strong>Status:</strong> ${result.depressed ? "Depression Detected" : "No Depression Detected"}</p>
+      <p style="margin-top:15px; font-size:14px;">${result.interpretation}</p>
+      <button onclick="showChatSection()" style="margin-top:15px;">Back to Chat</button>
+      <button onclick="startPHQ8()" style="margin-top:15px; background:#8b5cf6;">Take Another Assessment</button>
+    </div>
+  `;
+  
+  phq8Responses = {};
+}
+
+function cancelPHQ8() {
+  phq8Responses = {};
+  showChatSection();
+}
+
+async function viewPHQ8History() {
+  if (!token) {
+    alert("Please login first");
+    return;
+  }
+  
+  try {
+    const res = await fetch("http://127.0.0.1:8000/phq8/history", {
+      headers: { "Authorization": "Bearer " + token }
+    });
+    
+    if (!res.ok) {
+      throw new Error("Failed to load history");
+    }
+    
+    const history = await res.json();
+    displayPHQ8History(history);
+  } catch (error) {
+    console.error("Error loading history:", error);
+    alert("Failed to load assessment history.");
+  }
+}
+
+function displayPHQ8History(history) {
+  document.getElementById("chatSection").style.display = "none";
+  document.getElementById("phq8Section").style.display = "none";
+  document.getElementById("phq8Result").innerHTML = "";
+  document.getElementById("phq8HistorySection").style.display = "block";
+  
+  const container = document.getElementById("phq8HistoryList");
+  
+  if (history.length === 0) {
+    container.innerHTML = "<p>No assessments found. Take your first assessment!</p>";
+    return;
+  }
+  
+  container.innerHTML = history.map((item, index) => {
+    const date = new Date(item.date).toLocaleDateString();
+    let boxClass = "result-box";
+    if (item.score >= 15) boxClass = "danger-box";
+    else if (item.score >= 10) boxClass = "warning-box";
+    
+    return `
+      <div class="${boxClass}" style="margin-bottom:15px;">
+        <p><strong>Assessment #${history.length - index}</strong> - ${date}</p>
+        <p>Score: ${item.score}/24 | Severity: ${item.severity}</p>
+      </div>
+    `;
+  }).join('');
+}
+
+function closeHistory() {
+  showChatSection();
 }
 </script>
-
 </body>
 </html>
