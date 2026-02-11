@@ -4,12 +4,14 @@ from fastapi.middleware.cors import CORSMiddleware
 from sqlalchemy.orm import Session
 
 from database import Base, engine
-from models import User, Conversation, Message
+from models import User, Conversation, Message, PHQ8Assessment
 from auth import (
     get_db, hash_password, verify_password,
     create_token, get_current_user
 )
 from rag import get_response
+from phq8 import calculate_phq8, PHQ8_QUESTIONS, PHQ8_OPTIONS
+from phq8_therapeutic_responses import get_phq8_follow_up_prompt
 
 # ---------------- APP ----------------
 app = FastAPI()
@@ -37,6 +39,19 @@ class Login(BaseModel):
 
 class Chat(BaseModel):
     message: str
+
+class PHQ8Response(BaseModel):
+    no_interest: int
+    depressed: int
+    sleep: int
+    tired: int
+    appetite: int
+    failure: int
+    concentrating: int
+    moving: int
+
+class ConversationUpdate(BaseModel):
+    title: str
 
 # ---------------- ROUTES ----------------
 @app.get("/")
@@ -95,6 +110,86 @@ def list_conversations(
         for c in convos
     ]
 
+@app.get("/conversations/{conversation_id}/messages")
+def get_messages(
+    conversation_id: int,
+    user=Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Get messages from a conversation"""
+    conversation = (
+        db.query(Conversation)
+        .filter(
+            Conversation.id == conversation_id,
+            Conversation.user_id == user.id
+        )
+        .first()
+    )
+    
+    if not conversation:
+        raise HTTPException(status_code=404, detail="Conversation not found")
+    
+    messages = (
+        db.query(Message)
+        .filter(Message.conversation_id == conversation_id)
+        .order_by(Message.timestamp.asc())
+        .all()
+    )
+    
+    return [
+        {"role": m.role, "content": m.content, "timestamp": m.timestamp}
+        for m in messages
+    ]
+
+@app.put("/conversations/{conversation_id}/title")
+def update_conversation_title(
+    conversation_id: int,
+    data: ConversationUpdate,
+    user=Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Update conversation title"""
+    conversation = (
+        db.query(Conversation)
+        .filter(
+            Conversation.id == conversation_id,
+            Conversation.user_id == user.id
+        )
+        .first()
+    )
+    
+    if not conversation:
+        raise HTTPException(status_code=404, detail="Conversation not found")
+    
+    conversation.title = data.title
+    db.commit()
+    
+    return {"message": "Title updated", "title": data.title}
+
+@app.delete("/conversations/{conversation_id}")
+def delete_conversation(
+    conversation_id: int,
+    user=Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Delete a conversation"""
+    conversation = (
+        db.query(Conversation)
+        .filter(
+            Conversation.id == conversation_id,
+            Conversation.user_id == user.id
+        )
+        .first()
+    )
+    
+    if not conversation:
+        raise HTTPException(status_code=404, detail="Conversation not found")
+    
+    db.delete(conversation)
+    db.commit()
+    
+    return {"message": "Conversation deleted"}
+
 # ---------- CHAT (MEMORY-BASED) ----------
 @app.post("/chat/{conversation_id}")
 def chat(
@@ -141,21 +236,6 @@ def chat(
     db.commit()
 
     return {"response": response}
-from models import User, Conversation, Message, PHQ8Assessment
-from phq8 import calculate_phq8, PHQ8_QUESTIONS, PHQ8_OPTIONS
-from pydantic import BaseModel
-from typing import Dict
-
-# Add this schema
-class PHQ8Response(BaseModel):
-    no_interest: int
-    depressed: int
-    sleep: int
-    tired: int
-    appetite: int
-    failure: int
-    concentrating: int
-    moving: int
 
 # ---------- PHQ-8 ROUTES ----------
 
@@ -204,13 +284,79 @@ def submit_phq8(
     db.commit()
     db.refresh(assessment)
     
+    # Create interpretation message
+    interpretation = get_interpretation(result['total_score'])
+    
+    # If no conversation_id provided, create a new conversation
+    if not conversation_id:
+        new_conversation = Conversation(
+            user_id=user.id,
+            title="PHQ-8 Assessment"
+        )
+        db.add(new_conversation)
+        db.commit()
+        db.refresh(new_conversation)
+        conversation_id = new_conversation.id
+        
+        # Update assessment with conversation_id
+        assessment.conversation_id = conversation_id
+        db.commit()
+    
+    # Create PHQ-8 result message in chat
+    result_message = f"""PHQ-8 Assessment Results:
+
+Score: {result['total_score']} out of 24
+Severity: {result['severity']}
+Status: {'Depression Detected' if result['depressed'] else 'No Depression Detected'}
+
+{interpretation}"""
+
+    # Save user's action message
+    user_msg = Message(
+        conversation_id=conversation_id,
+        role="user",
+        content="I just completed a PHQ-8 assessment"
+    )
+    db.add(user_msg)
+    
+    # Save assessment results as assistant message
+    assessment_msg = Message(
+        conversation_id=conversation_id,
+        role="assistant",
+        content=result_message
+    )
+    db.add(assessment_msg)
+    db.commit()
+    
+    # Get score-appropriate follow-up prompt
+    follow_up_prompt = get_phq8_follow_up_prompt(result['total_score'], result['severity'])
+    
+    # Get therapeutic response (now with PHQ-8 awareness)
+    therapeutic_response = get_response(
+        message=follow_up_prompt,
+        conversation_id=conversation_id,
+        db=db
+    )
+    
+    # Save therapeutic response
+    response_msg = Message(
+        conversation_id=conversation_id,
+        role="assistant",
+        content=therapeutic_response
+    )
+    db.add(response_msg)
+    
+    db.commit()
+    
     return {
         "assessment_id": assessment.id,
+        "conversation_id": conversation_id,
         "score": result['total_score'],
         "severity": result['severity'],
         "binary": result['binary'],
         "depressed": result['depressed'],
-        "interpretation": get_interpretation(result['total_score'])
+        "interpretation": interpretation,
+        "therapeutic_response": therapeutic_response
     }
 
 @app.get("/phq8/history")
@@ -271,89 +417,3 @@ def get_interpretation(score: int) -> str:
         return "Your responses suggest moderately severe depression. I strongly recommend consulting a mental health professional."
     else:
         return "Your responses suggest severe depression. Please seek professional help as soon as possible. If you're in crisis, contact a crisis helpline immediately."
-from pydantic import BaseModel
-
-# Add this schema
-class ConversationUpdate(BaseModel):
-    title: str
-
-# ---------- CONVERSATION MANAGEMENT ----------
-
-@app.put("/conversations/{conversation_id}/title")
-def update_conversation_title(
-    conversation_id: int,
-    data: ConversationUpdate,
-    user=Depends(get_current_user),
-    db: Session = Depends(get_db)
-):
-    """Update conversation title"""
-    conversation = (
-        db.query(Conversation)
-        .filter(
-            Conversation.id == conversation_id,
-            Conversation.user_id == user.id
-        )
-        .first()
-    )
-    
-    if not conversation:
-        raise HTTPException(status_code=404, detail="Conversation not found")
-    
-    conversation.title = data.title
-    db.commit()
-    
-    return {"message": "Title updated", "title": data.title}
-
-@app.delete("/conversations/{conversation_id}")
-def delete_conversation(
-    conversation_id: int,
-    user=Depends(get_current_user),
-    db: Session = Depends(get_db)
-):
-    """Delete a conversation"""
-    conversation = (
-        db.query(Conversation)
-        .filter(
-            Conversation.id == conversation_id,
-            Conversation.user_id == user.id
-        )
-        .first()
-    )
-    
-    if not conversation:
-        raise HTTPException(status_code=404, detail="Conversation not found")
-    
-    db.delete(conversation)
-    db.commit()
-    
-    return {"message": "Conversation deleted"}
-@app.get("/conversations/{conversation_id}/messages")
-def get_messages(
-    conversation_id: int,
-    user=Depends(get_current_user),
-    db: Session = Depends(get_db)
-):
-    """Get messages from a conversation"""
-    conversation = (
-        db.query(Conversation)
-        .filter(
-            Conversation.id == conversation_id,
-            Conversation.user_id == user.id
-        )
-        .first()
-    )
-    
-    if not conversation:
-        raise HTTPException(status_code=404, detail="Conversation not found")
-    
-    messages = (
-        db.query(Message)
-        .filter(Message.conversation_id == conversation_id)
-        .order_by(Message.timestamp.asc())
-        .all()
-    )
-    
-    return [
-        {"role": m.role, "content": m.content, "timestamp": m.timestamp}
-        for m in messages
-    ]
