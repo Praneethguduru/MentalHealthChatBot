@@ -176,6 +176,36 @@ button:hover {
 .modal-buttons button {
   flex: 1;
 }
+.voice-controls {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+.voice-btn {
+  flex: 1;
+  padding: 12px;
+  font-size: 16px;
+}
+.listening {
+  background: #ef4444 !important;
+  animation: pulse 1.5s infinite;
+}
+.speaking {
+  background: #10b981 !important;
+}
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+.voice-status {
+  text-align: center;
+  padding: 8px;
+  background: #f0f9ff;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  font-size: 14px;
+  color: #1e40af;
+}
 </style>
 </head>
 <body>
@@ -204,8 +234,19 @@ button:hover {
   
   <!-- Chat Section -->
   <div id="chatSection" style="display:none;">
+    <!-- Voice Controls -->
+    <div class="voice-controls">
+      <button id="voiceBtn" class="voice-btn" onclick="toggleVoiceInput()">
+        Start Voice Input
+      </button>
+      <button id="ttsToggle" class="voice-btn" onclick="toggleTTS()" style="background: #8b5cf6;">
+        TTS: ON
+      </button>
+    </div>
+    <div id="voiceStatus" class="voice-status" style="display:none;"></div>
+    
     <div id="out"></div>
-    <input id="msg" placeholder="Type your message..." onkeypress="handleEnter(event)" />
+    <input id="msg" placeholder="Type your message or use voice..." onkeypress="handleEnter(event)" />
     <button onclick="send()">Send</button>
   </div>
   
@@ -266,8 +307,162 @@ let phq8Responses = {};
 let conversationToRename = null;
 let conversationToDelete = null;
 
+// Voice variables
+let recognition = null;
+let speechSynthesis = window.speechSynthesis;
+let ttsEnabled = true;
+let isListening = false;
+let isSpeaking = false;
+
 const out = document.getElementById("out");
 const chatList = document.getElementById("chatList");
+
+// ============ VOICE FUNCTIONALITY ============
+
+function initVoiceRecognition() {
+  if ('webkitSpeechRecognition' in window || 'SpeechRecognition' in window) {
+    const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+    recognition = new SpeechRecognition();
+    
+    recognition.continuous = false;
+    recognition.interimResults = false;
+    recognition.lang = 'en-US';
+    
+    recognition.onstart = function() {
+      isListening = true;
+      document.getElementById('voiceBtn').classList.add('listening');
+      document.getElementById('voiceBtn').innerHTML = 'Listening...';
+      showVoiceStatus('Listening... Speak now');
+    };
+    
+    recognition.onresult = function(event) {
+      const transcript = event.results[0][0].transcript;
+      document.getElementById('msg').value = transcript;
+      showVoiceStatus(`You said: "${transcript}"`);
+      
+      // Auto-send after voice input
+      setTimeout(() => {
+        send();
+      }, 500);
+    };
+    
+    recognition.onerror = function(event) {
+      console.error('Speech recognition error:', event.error);
+      showVoiceStatus(`Error: ${event.error}`);
+      stopVoiceInput();
+    };
+    
+    recognition.onend = function() {
+      stopVoiceInput();
+    };
+  } else {
+    alert('Speech recognition is not supported in your browser. Please use Chrome or Edge.');
+  }
+}
+
+function toggleVoiceInput() {
+  if (!recognition) {
+    initVoiceRecognition();
+  }
+  
+  if (isListening) {
+    stopVoiceInput();
+  } else {
+    startVoiceInput();
+  }
+}
+
+function startVoiceInput() {
+  if (recognition && !isListening) {
+    recognition.start();
+  }
+}
+
+function stopVoiceInput() {
+  if (recognition && isListening) {
+    recognition.stop();
+    isListening = false;
+    document.getElementById('voiceBtn').classList.remove('listening');
+    document.getElementById('voiceBtn').innerHTML = 'Start Voice Input';
+    hideVoiceStatus();
+  }
+}
+
+function toggleTTS() {
+  ttsEnabled = !ttsEnabled;
+  const btn = document.getElementById('ttsToggle');
+  if (ttsEnabled) {
+    btn.innerHTML = 'TTS: ON';
+    btn.style.background = '#8b5cf6';
+  } else {
+    btn.innerHTML = 'TTS: OFF';
+    btn.style.background = '#6b7280';
+  }
+}
+
+function speakText(text) {
+  if (!ttsEnabled || isSpeaking) return;
+  
+  // Stop any ongoing speech
+  speechSynthesis.cancel();
+  
+  const utterance = new SpeechSynthesisUtterance(text);
+  
+  // Configure voice (prefer female voice for therapeutic tone)
+  const voices = speechSynthesis.getVoices();
+  const femaleVoice = voices.find(voice => 
+    voice.name.toLowerCase().includes('female') || 
+    voice.name.toLowerCase().includes('samantha') ||
+    voice.name.toLowerCase().includes('zira')
+  );
+  if (femaleVoice) {
+    utterance.voice = femaleVoice;
+  }
+  
+  // Slower, calmer speech
+  utterance.rate = 0.9;
+  utterance.pitch = 1.0;
+  utterance.volume = 1.0;
+  
+  utterance.onstart = function() {
+    isSpeaking = true;
+    showVoiceStatus('Speaking...');
+  };
+  
+  utterance.onend = function() {
+    isSpeaking = false;
+    hideVoiceStatus();
+  };
+  
+  utterance.onerror = function(event) {
+    console.error('Speech synthesis error:', event);
+    isSpeaking = false;
+    hideVoiceStatus();
+  };
+  
+  speechSynthesis.speak(utterance);
+}
+
+function showVoiceStatus(message) {
+  const status = document.getElementById('voiceStatus');
+  status.innerText = message;
+  status.style.display = 'block';
+}
+
+function hideVoiceStatus() {
+  setTimeout(() => {
+    document.getElementById('voiceStatus').style.display = 'none';
+  }, 2000);
+}
+
+// Load voices when they become available
+if (speechSynthesis.onvoiceschanged !== undefined) {
+  speechSynthesis.onvoiceschanged = function() {
+    speechSynthesis.getVoices();
+  };
+}
+
+// ============ REST OF YOUR EXISTING CODE ============
 
 function renderSidebar() {
   chatList.innerHTML = "";
@@ -288,7 +483,7 @@ function renderSidebar() {
     
     const renameBtn = document.createElement("button");
     renameBtn.className = "icon-btn";
-    renameBtn.innerHTML = "✏️";
+    renameBtn.innerHTML = "Rename";
     renameBtn.title = "Rename";
     renameBtn.onclick = (e) => {
       e.stopPropagation();
@@ -297,7 +492,7 @@ function renderSidebar() {
     
     const deleteBtn = document.createElement("button");
     deleteBtn.className = "icon-btn delete-btn";
-    deleteBtn.innerHTML = "🗑️";
+    deleteBtn.innerHTML = "Delete";
     deleteBtn.title = "Delete";
     deleteBtn.onclick = (e) => {
       e.stopPropagation();
@@ -337,6 +532,11 @@ async function loadMessages(conversationId) {
       currentConversation.messages = [];
     }
     renderChat();
+    
+    setTimeout(() => {
+      out.scrollTop = out.scrollHeight;
+    }, 100);
+    
   } catch (error) {
     console.error("Error loading messages:", error);
     currentConversation.messages = [];
@@ -512,7 +712,6 @@ async function loadConversations() {
     }));
     renderSidebar();
     
-    // Auto-select first conversation or create new one
     if (conversations.length > 0) {
       selectConversation(conversations[0]);
     } else {
@@ -571,7 +770,6 @@ async function login() {
     
     alert("Login successful");
     
-    // Load existing conversations and auto-open one
     await loadConversations();
   } catch (error) {
     console.error("Login error:", error);
@@ -621,6 +819,12 @@ async function send() {
       text: data.response
     });
     renderChat();
+    
+    // Speak the response if TTS is enabled
+    if (ttsEnabled) {
+      speakText(data.response);
+    }
+    
   } catch (error) {
     console.error("Send error:", error);
     alert("Failed to send message. Please try again.");
@@ -634,6 +838,9 @@ function handleEnter(event) {
     send();
   }
 }
+
+// ============ PHQ-8 FUNCTIONS (unchanged) ============
+// ... keep all your existing PHQ-8 functions ...
 
 // ============ PHQ-8 FUNCTIONS ============
 
@@ -729,16 +936,38 @@ async function submitPHQ8() {
     }
     
     const result = await res.json();
-    displayPHQ8Result(result);
+    
+    if (!currentConversation || result.conversation_id !== currentConversation.id) {
+      await loadConversations();
+      
+      const newConvo = conversations.find(c => c.id === result.conversation_id);
+      if (newConvo) {
+        currentConversation = newConvo;
+        currentConversation.title = "PHQ-8 Assessment";
+        renderSidebar();
+      }
+    }
+    
+    await loadMessages(result.conversation_id);
+    
+    showChatSection();
+    
+    displayPHQ8ResultSummary(result);
+    
+    // Speak the therapeutic response if TTS is enabled
+    if (ttsEnabled && result.therapeutic_response) {
+      setTimeout(() => {
+        speakText(result.therapeutic_response);
+      }, 2000);
+    }
+    
   } catch (error) {
     console.error("Error submitting PHQ-8:", error);
     alert("Failed to submit assessment. Please try again.");
   }
 }
 
-function displayPHQ8Result(result) {
-  document.getElementById("phq8Section").style.display = "none";
-  
+function displayPHQ8ResultSummary(result) {
   let boxClass = "result-box";
   if (result.score >= 15) {
     boxClass = "danger-box";
@@ -749,17 +978,23 @@ function displayPHQ8Result(result) {
   const resultDiv = document.getElementById("phq8Result");
   resultDiv.innerHTML = `
     <div class="${boxClass}">
-      <h3>Your PHQ-8 Results</h3>
+      <h3>PHQ-8 Assessment Submitted</h3>
       <p><strong>Score:</strong> ${result.score} out of 24</p>
       <p><strong>Severity:</strong> ${result.severity}</p>
-      <p><strong>Status:</strong> ${result.depressed ? "Depression Detected" : "No Depression Detected"}</p>
-      <p style="margin-top:15px; font-size:14px;">${result.interpretation}</p>
-      <button onclick="showChatSection()" style="margin-top:15px;">Back to Chat</button>
-      <button onclick="startPHQ8()" style="margin-top:15px; background:#8b5cf6;">Take Another Assessment</button>
+      <p style="margin-top:10px; font-size:14px;">Your results and a personalized therapeutic response have been added to the conversation below. You can continue chatting about your results.</p>
+      <button onclick="closePHQ8Result()" style="margin-top:15px;">Continue Conversation</button>
     </div>
   `;
   
   phq8Responses = {};
+  
+  setTimeout(() => {
+    closePHQ8Result();
+  }, 8000);
+}
+
+function closePHQ8Result() {
+  document.getElementById("phq8Result").innerHTML = "";
 }
 
 function cancelPHQ8() {
