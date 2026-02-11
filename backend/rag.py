@@ -5,7 +5,7 @@ from langchain_groq import ChatGroq
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain_core.prompts import PromptTemplate
-from models import Message
+from models import Message, PHQ8Assessment
 
 # ---------------- LOAD ENV ----------------
 load_dotenv()
@@ -30,9 +30,11 @@ llm = ChatGroq(
     groq_api_key=GROQ_API_KEY
 )
 
-# ---------------- IMPROVED PROMPT ----------------
+# ---------------- IMPROVED PROMPT WITH PHQ-8 AWARENESS ----------------
 THERAPIST_PROMPT = PromptTemplate(
     template="""You are a skilled, empathetic mental health conversational assistant trained in active listening and therapeutic communication.
+
+{phq8_context}
 
 CORE THERAPEUTIC PRINCIPLES:
 1. VALIDATE before you question - acknowledge emotions first
@@ -41,6 +43,7 @@ CORE THERAPEUTIC PRINCIPLES:
 4. AVOID repetition - never ask the same question twice
 5. BE PRESENT - respond to what's said, not what you expect
 6. REMEMBER context - use conversation history to build continuity
+7. ADAPT to clinical context - if PHQ-8 scores are present, respond appropriately
 
 CRITICAL RULES - NEVER VIOLATE:
 ❌ NEVER simply echo short responses ("but" → "but")
@@ -50,6 +53,7 @@ CRITICAL RULES - NEVER VIOLATE:
 ❌ NEVER diagnose or label
 ❌ NEVER say "I understand" without demonstrating it
 ❌ NEVER ignore what was said earlier in the conversation
+❌ NEVER minimize PHQ-8 scores or mental health concerns
 
 THERAPEUTIC TECHNIQUES TO USE:
 
@@ -77,31 +81,17 @@ THERAPEUTIC TECHNIQUES TO USE:
    ✓ Good: "Tell me more about that."
    ✗ Bad: "yes indeed"
 
-5. CURIOSITY WITHOUT INTERROGATION:
-   Instead of: "What do you mean?" or "Can you explain?"
-   Use: "Help me understand..." or "Say more about..." or "What comes up for you when..."
-
-6. EMPATHIC CONFRONTATION (when needed):
-   User: "I think whatever I do is normal but..."
-   ✓ Good: "There seems to be a 'but' there - like part of you wonders if others see it differently. What's that about?"
-   ✗ Bad: "What do you mean by normal?"
-
-7. BUILDING ON PREVIOUS CONTEXT:
-   If user mentioned "attitude issues" earlier and now says "should I change":
-   ✓ Good: "You mentioned people saying you have attitude issues. It sounds like you're wondering if changing yourself is the answer. What feels right to you?"
-   ✗ Bad: Ignoring the earlier context
+5. CRISIS RESOURCES (when needed):
+   If user mentions self-harm, suicide, or scores indicate severe depression:
+   - Take it seriously and express concern
+   - Provide: 104 Suicide & Crisis Lifeline (call or text)
+   - Encourage professional help immediately
+   - Don't leave them without resources
 
 RESPONSE STRUCTURE:
-1. First sentence: Validate/reflect what they said (reference earlier context when relevant)
+1. First sentence: Validate/reflect what they said (reference PHQ-8 context if relevant)
 2. Second sentence: Explore deeper OR ask ONE specific follow-up
 3. Keep responses under 3 sentences unless they share a lot
-
-FORBIDDEN PHRASES:
-- "What do you mean by..." (if already asked about that topic)
-- "Can you clarify..."
-- "I understand" (without showing how)
-- "That's interesting"
-- "Tell me more" (more than once in a row)
 
 DAIC-WOZ STYLE EXAMPLES (STYLE REFERENCE ONLY - NOT CONTENT):
 {style_examples}
@@ -115,19 +105,39 @@ CURRENT USER MESSAGE:
 RESPOND AS A THERAPIST:
 - Be warm but professional
 - Validate first, explore second
-- Reference earlier parts of conversation when relevant
+- Reference PHQ-8 scores when relevant
+- Adapt your approach based on severity level
 - One clear direction per response
 - Natural, conversational tone
 - Show don't tell empathy
 - Maintain continuity across the entire conversation
+- Take mental health concerns seriously
 Human: 
 """,
-    input_variables=["style_examples", "history", "question"]
+    input_variables=["phq8_context", "style_examples", "history", "question"]
 )
 
 chain = THERAPIST_PROMPT | llm
 
-# ---------------- RESPONSE FUNCTION WITH SMART MEMORY ----------------
+# ---------------- HELPER FUNCTION TO GET LATEST PHQ-8 ----------------
+def get_latest_phq8_score(conversation_id: int, db: Session):
+    """Get the most recent PHQ-8 score for this conversation."""
+    latest_assessment = (
+        db.query(PHQ8Assessment)
+        .filter(PHQ8Assessment.conversation_id == conversation_id)
+        .order_by(PHQ8Assessment.created_at.desc())
+        .first()
+    )
+    
+    if latest_assessment:
+        return {
+            'score': latest_assessment.total_score,
+            'severity': latest_assessment.severity,
+            'binary': latest_assessment.binary
+        }
+    return None
+
+# ---------------- RESPONSE FUNCTION WITH PHQ-8 AWARENESS ----------------
 def get_response(
     message: str,
     conversation_id: int,
@@ -139,10 +149,13 @@ def get_response(
     - Smart windowing: First 3 + Last 20 messages for long conversations
     - ALL messages for short conversations
     - Full context awareness
+    - PHQ-8 score awareness
     RAG:
     - DAIC-WOZ used ONLY for style
     """
     try:
+        from phq8_therapeutic_responses import get_phq8_therapeutic_context
+        
         cleaned = message.strip().lower()
         
         # -------- FETCH ALL MESSAGES FROM DATABASE --------
@@ -154,12 +167,9 @@ def get_response(
         )
         
         # -------- SMART MEMORY WINDOWING --------
-        # Strategy: Keep first 3 messages (context) + last 20 messages (recent conversation)
         if len(all_messages) <= 23:
-            # Short conversation - use ALL messages
             past_messages = all_messages
         else:
-            # Long conversation - keep beginning context + recent messages
             past_messages = all_messages[:3] + all_messages[-20:]
         
         # Build conversation history
@@ -167,6 +177,17 @@ def get_response(
         for m in past_messages:
             role = "User" if m.role == "user" else "Assistant"
             history += f"{role}: {m.content}\n"
+        
+        # -------- GET PHQ-8 CONTEXT --------
+        phq8_data = get_latest_phq8_score(conversation_id, db)
+        
+        if phq8_data:
+            phq8_context = get_phq8_therapeutic_context(
+                phq8_data['score'], 
+                phq8_data['severity']
+            )
+        else:
+            phq8_context = "No PHQ-8 assessment data available for this conversation."
         
         # -------- IMPROVED SHORT INPUT HANDLING --------
         if len(cleaned.split()) <= 2 and not history.strip():
@@ -179,12 +200,28 @@ def get_response(
             "tired", "sleep", "insomnia", "panic", "fear", "grief", "loss",
             "help", "struggle", "struggling", "hurt", "pain", "crying", "cry",
             "attitude", "people", "normal", "change", "myself", "behavior",
-            "think", "thought", "thoughts", "mind", "issue", "issues", "problem"
+            "think", "thought", "thoughts", "mind", "issue", "issues", "problem",
+            "suicide", "suicidal", "kill", "die", "death", "harm", "hurt myself"
         }
         
         # Use RAG if emotional content OR substantive message
         has_emotional_content = any(word in cleaned.split() for word in emotional_keywords)
         use_rag = has_emotional_content or len(cleaned.split()) >= 5
+        
+        # -------- CRISIS DETECTION --------
+        crisis_keywords = {"suicide", "suicidal", "kill myself", "want to die", "end it all", "no point living"}
+        has_crisis_content = any(phrase in cleaned for phrase in crisis_keywords)
+        
+        if has_crisis_content:
+            return """I'm really concerned about what you're sharing. Your safety is the most important thing right now.
+
+Please reach out for immediate help:
+- Call or text 104 (Suicide & Crisis Lifeline) - available 24/7
+- Text "HELLO" to 104 (Crisis Text Line)
+- Go to your nearest emergency room
+- Call 100 if you're in immediate danger
+
+You don't have to go through this alone. These feelings can get better with the right support. Will you reach out to one of these resources right now?"""
         
         # -------- DAIC-WOZ STYLE RETRIEVAL --------
         if use_rag:
@@ -196,8 +233,9 @@ def get_response(
         else:
             style_examples = "(Short response - use natural conversational tone)"
         
-        # -------- LLM CALL WITH FULL CONTEXT --------
+        # -------- LLM CALL WITH FULL CONTEXT + PHQ-8 AWARENESS --------
         result = chain.invoke({
+            "phq8_context": phq8_context,
             "style_examples": style_examples,
             "history": history.strip(),
             "question": message
