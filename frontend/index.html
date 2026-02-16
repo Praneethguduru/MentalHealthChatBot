@@ -180,18 +180,16 @@ button:hover {
   display: flex;
   gap: 10px;
   margin-bottom: 10px;
+  align-items: center;
 }
-.voice-btn {
-  flex: 1;
-  padding: 12px;
-  font-size: 16px;
+.tts-toggle {
+  padding: 10px;
+  width: auto;
+  min-width: 120px;
 }
 .listening {
   background: #ef4444 !important;
   animation: pulse 1.5s infinite;
-}
-.speaking {
-  background: #10b981 !important;
 }
 @keyframes pulse {
   0%, 100% { opacity: 1; }
@@ -199,12 +197,22 @@ button:hover {
 }
 .voice-status {
   text-align: center;
-  padding: 8px;
+  padding: 10px;
   background: #f0f9ff;
   border-radius: 4px;
   margin-bottom: 10px;
   font-size: 14px;
   color: #1e40af;
+  font-weight: bold;
+}
+.voice-instruction {
+  background: #fef3c7;
+  padding: 8px;
+  border-radius: 4px;
+  text-align: center;
+  font-size: 13px;
+  color: #92400e;
+  margin-bottom: 10px;
 }
 </style>
 </head>
@@ -235,18 +243,18 @@ button:hover {
   <!-- Chat Section -->
   <div id="chatSection" style="display:none;">
     <!-- Voice Controls -->
+    <div class="voice-instruction">
+      🎤 <strong>Push-to-Talk:</strong> Hold SPACEBAR to speak, release to send
+    </div>
     <div class="voice-controls">
-      <button id="voiceBtn" class="voice-btn" onclick="toggleVoiceInput()">
-        Start Voice Input
-      </button>
-      <button id="ttsToggle" class="voice-btn" onclick="toggleTTS()" style="background: #8b5cf6;">
-        TTS: ON
+      <button id="ttsToggle" class="tts-toggle" onclick="toggleTTS()" style="background: #8b5cf6;">
+        🔊 Voice: ON
       </button>
     </div>
     <div id="voiceStatus" class="voice-status" style="display:none;"></div>
     
     <div id="out"></div>
-    <input id="msg" placeholder="Type your message or use voice..." onkeypress="handleEnter(event)" />
+    <input id="msg" placeholder="Type or hold SPACEBAR to speak..." onkeypress="handleEnter(event)" />
     <button onclick="send()">Send</button>
   </div>
   
@@ -313,6 +321,8 @@ let speechSynthesis = window.speechSynthesis;
 let ttsEnabled = true;
 let isListening = false;
 let isSpeaking = false;
+let spacebarPressed = false;
+let hasRecognized = false; // Prevent multiple recognitions
 
 const out = document.getElementById("out");
 const chatList = document.getElementById("chatList");
@@ -324,18 +334,21 @@ function initVoiceRecognition() {
     const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
     recognition = new SpeechRecognition();
     
-    recognition.continuous = false;
+    recognition.continuous = false; // Only recognize once
     recognition.interimResults = false;
     recognition.lang = 'en-US';
+    recognition.maxAlternatives = 1;
     
     recognition.onstart = function() {
       isListening = true;
-      document.getElementById('voiceBtn').classList.add('listening');
-      document.getElementById('voiceBtn').innerHTML = 'Listening...';
-      showVoiceStatus('Listening... Speak now');
+      hasRecognized = false;
+      showVoiceStatus('🎤 Listening... Speak now');
     };
     
     recognition.onresult = function(event) {
+      if (hasRecognized) return; // Prevent duplicate processing
+      hasRecognized = true;
+      
       const transcript = event.results[0][0].transcript;
       document.getElementById('msg').value = transcript;
       showVoiceStatus(`You said: "${transcript}"`);
@@ -343,12 +356,20 @@ function initVoiceRecognition() {
       // Auto-send after voice input
       setTimeout(() => {
         send();
+        hideVoiceStatus();
       }, 500);
     };
     
     recognition.onerror = function(event) {
-      console.error('Speech recognition error:', event.error);
-      showVoiceStatus(`Error: ${event.error}`);
+      if (event.error === 'no-speech') {
+        showVoiceStatus('No speech detected. Try again.');
+      } else if (event.error === 'aborted') {
+        // Silent abort is fine
+        hideVoiceStatus();
+      } else {
+        console.error('Speech recognition error:', event.error);
+        showVoiceStatus(`Error: ${event.error}`);
+      }
       stopVoiceInput();
     };
     
@@ -356,46 +377,68 @@ function initVoiceRecognition() {
       stopVoiceInput();
     };
   } else {
-    alert('Speech recognition is not supported in your browser. Please use Chrome or Edge.');
-  }
-}
-
-function toggleVoiceInput() {
-  if (!recognition) {
-    initVoiceRecognition();
-  }
-  
-  if (isListening) {
-    stopVoiceInput();
-  } else {
-    startVoiceInput();
+    console.log('Speech recognition not supported');
   }
 }
 
 function startVoiceInput() {
+  if (!recognition) {
+    initVoiceRecognition();
+  }
+  
   if (recognition && !isListening) {
+    hasRecognized = false;
     recognition.start();
   }
 }
 
 function stopVoiceInput() {
   if (recognition && isListening) {
-    recognition.stop();
+    try {
+      recognition.stop();
+    } catch (e) {
+      // Already stopped
+    }
     isListening = false;
-    document.getElementById('voiceBtn').classList.remove('listening');
-    document.getElementById('voiceBtn').innerHTML = 'Start Voice Input';
-    hideVoiceStatus();
+    
+    if (!hasRecognized) {
+      hideVoiceStatus();
+    }
   }
 }
+
+// ============ SPACEBAR PUSH-TO-TALK ============
+
+document.addEventListener('keydown', function(event) {
+  // Only activate if chat is visible and not typing in input
+  if (document.getElementById('chatSection').style.display === 'none') return;
+  if (document.activeElement.tagName === 'INPUT') return;
+  if (event.target.id === 'msg') return;
+  
+  // Spacebar push-to-talk
+  if (event.code === 'Space' && !spacebarPressed) {
+    event.preventDefault();
+    spacebarPressed = true;
+    startVoiceInput();
+  }
+});
+
+document.addEventListener('keyup', function(event) {
+  if (event.code === 'Space' && spacebarPressed) {
+    event.preventDefault();
+    spacebarPressed = false;
+    stopVoiceInput();
+  }
+});
 
 function toggleTTS() {
   ttsEnabled = !ttsEnabled;
   const btn = document.getElementById('ttsToggle');
   if (ttsEnabled) {
-    btn.innerHTML = 'TTS: ON';
+    btn.innerHTML = '🔊 Voice: ON';
     btn.style.background = '#8b5cf6';
   } else {
-    btn.innerHTML = 'TTS: OFF';
+    btn.innerHTML = '🔇 Voice: OFF';
     btn.style.background = '#6b7280';
   }
 }
@@ -426,7 +469,7 @@ function speakText(text) {
   
   utterance.onstart = function() {
     isSpeaking = true;
-    showVoiceStatus('Speaking...');
+    showVoiceStatus('🔊 Speaking...');
   };
   
   utterance.onend = function() {
@@ -451,7 +494,9 @@ function showVoiceStatus(message) {
 
 function hideVoiceStatus() {
   setTimeout(() => {
-    document.getElementById('voiceStatus').style.display = 'none';
+    if (!isListening && !isSpeaking) {
+      document.getElementById('voiceStatus').style.display = 'none';
+    }
   }, 2000);
 }
 
@@ -462,7 +507,7 @@ if (speechSynthesis.onvoiceschanged !== undefined) {
   };
 }
 
-// ============ REST OF YOUR EXISTING CODE ============
+// ============ REST OF YOUR CODE ============
 
 function renderSidebar() {
   chatList.innerHTML = "";
@@ -483,7 +528,7 @@ function renderSidebar() {
     
     const renameBtn = document.createElement("button");
     renameBtn.className = "icon-btn";
-    renameBtn.innerHTML = "Rename";
+    renameBtn.innerHTML = "✏️";
     renameBtn.title = "Rename";
     renameBtn.onclick = (e) => {
       e.stopPropagation();
@@ -492,7 +537,7 @@ function renderSidebar() {
     
     const deleteBtn = document.createElement("button");
     deleteBtn.className = "icon-btn delete-btn";
-    deleteBtn.innerHTML = "Delete";
+    deleteBtn.innerHTML = "🗑️";
     deleteBtn.title = "Delete";
     deleteBtn.onclick = (e) => {
       e.stopPropagation();
@@ -839,9 +884,6 @@ function handleEnter(event) {
   }
 }
 
-// ============ PHQ-8 FUNCTIONS (unchanged) ============
-// ... keep all your existing PHQ-8 functions ...
-
 // ============ PHQ-8 FUNCTIONS ============
 
 async function startPHQ8() {
@@ -978,7 +1020,7 @@ function displayPHQ8ResultSummary(result) {
   const resultDiv = document.getElementById("phq8Result");
   resultDiv.innerHTML = `
     <div class="${boxClass}">
-      <h3>PHQ-8 Assessment Submitted</h3>
+      <h3>✅ PHQ-8 Assessment Submitted</h3>
       <p><strong>Score:</strong> ${result.score} out of 24</p>
       <p><strong>Severity:</strong> ${result.severity}</p>
       <p style="margin-top:10px; font-size:14px;">Your results and a personalized therapeutic response have been added to the conversation below. You can continue chatting about your results.</p>
