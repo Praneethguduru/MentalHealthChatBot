@@ -11,3 +11,6 @@ langchain-groq
 langchain-huggingface
 chromadb
 sentence-transformers
+pyttsx3 
+SpeechRecognition 
+pyaudio
