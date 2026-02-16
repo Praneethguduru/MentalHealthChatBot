@@ -6,6 +6,9 @@ __pycache__/
 .DS_Store
 # C extensions
 *.so
+#DATA FOLDER
+backend/data/
+
 
 # Distribution / packaging
 .Python
