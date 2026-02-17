@@ -1,3 +1,4 @@
+# rag.py
 import os
 from dotenv import load_dotenv
 from sqlalchemy.orm import Session
@@ -30,11 +31,13 @@ llm = ChatGroq(
     groq_api_key=GROQ_API_KEY
 )
 
-# ---------------- IMPROVED PROMPT WITH PHQ-8 AWARENESS ----------------
+# ---------------- PROMPT WITH PHQ-8 + VOICE AWARENESS ----------------
 THERAPIST_PROMPT = PromptTemplate(
     template="""You are a skilled, empathetic mental health conversational assistant trained in active listening and therapeutic communication.
 
 {phq8_context}
+
+{voice_context}
 
 CORE THERAPEUTIC PRINCIPLES:
 1. VALIDATE before you question - acknowledge emotions first
@@ -43,7 +46,7 @@ CORE THERAPEUTIC PRINCIPLES:
 4. AVOID repetition - never ask the same question twice
 5. BE PRESENT - respond to what's said, not what you expect
 6. REMEMBER context - use conversation history to build continuity
-7. ADAPT to clinical context - if PHQ-8 scores are present, respond appropriately
+7. ADAPT to clinical context - if PHQ-8 scores or voice analysis are present, respond appropriately
 
 CRITICAL RULES - NEVER VIOLATE:
 ❌ NEVER simply echo short responses ("but" → "but")
@@ -54,6 +57,8 @@ CRITICAL RULES - NEVER VIOLATE:
 ❌ NEVER say "I understand" without demonstrating it
 ❌ NEVER ignore what was said earlier in the conversation
 ❌ NEVER minimize PHQ-8 scores or mental health concerns
+❌ NEVER reveal or mention voice analysis to the user directly
+❌ NEVER say "your voice sounds depressed" or reference audio analysis
 
 THERAPEUTIC TECHNIQUES TO USE:
 
@@ -89,7 +94,7 @@ THERAPEUTIC TECHNIQUES TO USE:
    - Don't leave them without resources
 
 RESPONSE STRUCTURE:
-1. First sentence: Validate/reflect what they said (reference PHQ-8 context if relevant)
+1. First sentence: Validate/reflect what they said (use PHQ-8 and voice context if relevant)
 2. Second sentence: Explore deeper OR ask ONE specific follow-up
 3. Keep responses under 3 sentences unless they share a lot
 
@@ -106,6 +111,7 @@ RESPOND AS A THERAPIST:
 - Be warm but professional
 - Validate first, explore second
 - Reference PHQ-8 scores when relevant
+- Use voice context to adjust warmth and urgency (never mention it directly)
 - Adapt your approach based on severity level
 - One clear direction per response
 - Natural, conversational tone
@@ -114,12 +120,12 @@ RESPOND AS A THERAPIST:
 - Take mental health concerns seriously
 Human: 
 """,
-    input_variables=["phq8_context", "style_examples", "history", "question"]
+    input_variables=["phq8_context", "voice_context", "style_examples", "history", "question"]
 )
 
 chain = THERAPIST_PROMPT | llm
 
-# ---------------- HELPER FUNCTION TO GET LATEST PHQ-8 ----------------
+# ---------------- HELPER: GET LATEST PHQ-8 ----------------
 def get_latest_phq8_score(conversation_id: int, db: Session):
     """Get the most recent PHQ-8 score for this conversation."""
     latest_assessment = (
@@ -128,7 +134,7 @@ def get_latest_phq8_score(conversation_id: int, db: Session):
         .order_by(PHQ8Assessment.created_at.desc())
         .first()
     )
-    
+
     if latest_assessment:
         return {
             'score': latest_assessment.total_score,
@@ -137,27 +143,30 @@ def get_latest_phq8_score(conversation_id: int, db: Session):
         }
     return None
 
-# ---------------- RESPONSE FUNCTION WITH PHQ-8 AWARENESS ----------------
+# ---------------- MAIN RESPONSE FUNCTION ----------------
 def get_response(
     message: str,
     conversation_id: int,
-    db: Session
+    db: Session,
+    voice_context: str = ""   # ← voice depression analysis context
 ) -> str:
     """
     Generates a therapist-style response.
+
     Memory:
-    - Smart windowing: First 3 + Last 20 messages for long conversations
-    - ALL messages for short conversations
+    - Smart windowing: ALL messages if <=23, else First 3 + Last 20
     - Full context awareness
     - PHQ-8 score awareness
+    - Voice depression detection awareness
+
     RAG:
-    - DAIC-WOZ used ONLY for style
+    - DAIC-WOZ used ONLY for style reference
     """
     try:
         from phq8_therapeutic_responses import get_phq8_therapeutic_context
-        
+
         cleaned = message.strip().lower()
-        
+
         # -------- FETCH ALL MESSAGES FROM DATABASE --------
         all_messages = (
             db.query(Message)
@@ -165,53 +174,46 @@ def get_response(
             .order_by(Message.timestamp.asc())
             .all()
         )
-        
+
         # -------- SMART MEMORY WINDOWING --------
         if len(all_messages) <= 23:
             past_messages = all_messages
         else:
+            # Keep first 3 (context) + last 20 (recent flow)
             past_messages = all_messages[:3] + all_messages[-20:]
-        
-        # Build conversation history
+
+        # Build conversation history string
         history = ""
         for m in past_messages:
             role = "User" if m.role == "user" else "Assistant"
             history += f"{role}: {m.content}\n"
-        
+
         # -------- GET PHQ-8 CONTEXT --------
         phq8_data = get_latest_phq8_score(conversation_id, db)
-        
+
         if phq8_data:
             phq8_context = get_phq8_therapeutic_context(
-                phq8_data['score'], 
+                phq8_data['score'],
                 phq8_data['severity']
             )
         else:
             phq8_context = "No PHQ-8 assessment data available for this conversation."
-        
-        # -------- IMPROVED SHORT INPUT HANDLING --------
+
+        # -------- VOICE CONTEXT FALLBACK --------
+        if not voice_context:
+            voice_context = ""
+
+        # -------- SHORT INPUT HANDLING --------
         if len(cleaned.split()) <= 2 and not history.strip():
             return "I'm here to listen. What's on your mind today?"
-        
-        # -------- SMARTER RAG TRIGGER --------
-        emotional_keywords = {
-            "feel", "feeling", "felt", "depressed", "anxious", "sad", "worried",
-            "scared", "angry", "lonely", "stressed", "overwhelmed", "hopeless",
-            "tired", "sleep", "insomnia", "panic", "fear", "grief", "loss",
-            "help", "struggle", "struggling", "hurt", "pain", "crying", "cry",
-            "attitude", "people", "normal", "change", "myself", "behavior",
-            "think", "thought", "thoughts", "mind", "issue", "issues", "problem",
-            "suicide", "suicidal", "kill", "die", "death", "harm", "hurt myself"
-        }
-        
-        # Use RAG if emotional content OR substantive message
-        has_emotional_content = any(word in cleaned.split() for word in emotional_keywords)
-        use_rag = has_emotional_content or len(cleaned.split()) >= 5
-        
+
         # -------- CRISIS DETECTION --------
-        crisis_keywords = {"suicide", "suicidal", "kill myself", "want to die", "end it all", "no point living"}
+        crisis_keywords = {
+            "suicide", "suicidal", "kill myself",
+            "want to die", "end it all", "no point living"
+        }
         has_crisis_content = any(phrase in cleaned for phrase in crisis_keywords)
-        
+
         if has_crisis_content:
             return """I'm really concerned about what you're sharing. Your safety is the most important thing right now.
 
@@ -222,7 +224,24 @@ Please reach out for immediate help:
 - Call 100 if you're in immediate danger
 
 You don't have to go through this alone. These feelings can get better with the right support. Will you reach out to one of these resources right now?"""
-        
+
+        # -------- SMARTER RAG TRIGGER --------
+        emotional_keywords = {
+            "feel", "feeling", "felt", "depressed", "anxious", "sad",
+            "worried", "scared", "angry", "lonely", "stressed", "overwhelmed",
+            "hopeless", "tired", "sleep", "insomnia", "panic", "fear",
+            "grief", "loss", "help", "struggle", "struggling", "hurt",
+            "pain", "crying", "cry", "attitude", "people", "normal",
+            "change", "myself", "behavior", "think", "thought", "thoughts",
+            "mind", "issue", "issues", "problem", "suicide", "suicidal",
+            "kill", "die", "death", "harm", "hurt myself"
+        }
+
+        has_emotional_content = any(
+            word in cleaned.split() for word in emotional_keywords
+        )
+        use_rag = has_emotional_content or len(cleaned.split()) >= 5
+
         # -------- DAIC-WOZ STYLE RETRIEVAL --------
         if use_rag:
             docs = vector_store.similarity_search(message, k=2)
@@ -232,17 +251,18 @@ You don't have to go through this alone. These feelings can get better with the 
                 style_examples = "(No relevant style examples - use neutral supportive tone)"
         else:
             style_examples = "(Short response - use natural conversational tone)"
-        
-        # -------- LLM CALL WITH FULL CONTEXT + PHQ-8 AWARENESS --------
+
+        # -------- LLM CALL WITH FULL CONTEXT --------
         result = chain.invoke({
             "phq8_context": phq8_context,
+            "voice_context": voice_context,   # ← voice analysis injected here
             "style_examples": style_examples,
             "history": history.strip(),
             "question": message
         })
-        
+
         return result.content.strip() if result else "I'm here with you."
-    
+
     except Exception as e:
         import traceback
         print(f"RAG ERROR: {e}")

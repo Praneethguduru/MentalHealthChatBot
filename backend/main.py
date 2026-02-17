@@ -1,7 +1,10 @@
+# main.py
 from fastapi import FastAPI, Depends, HTTPException
 from pydantic import BaseModel
 from fastapi.middleware.cors import CORSMiddleware
 from sqlalchemy.orm import Session
+import base64
+import os
 
 from database import Base, engine
 from models import User, Conversation, Message, PHQ8Assessment
@@ -12,6 +15,7 @@ from auth import (
 from rag import get_response
 from phq8 import calculate_phq8, PHQ8_QUESTIONS, PHQ8_OPTIONS
 from phq8_therapeutic_responses import get_phq8_follow_up_prompt
+from voice_depression_detector import voice_detector
 
 # ---------------- APP ----------------
 app = FastAPI()
@@ -53,12 +57,18 @@ class PHQ8Response(BaseModel):
 class ConversationUpdate(BaseModel):
     title: str
 
+class VoiceAudio(BaseModel):
+    audio_data: str       # base64 encoded WAV
+    conversation_id: int  # active conversation
+    transcript: str       # speech-to-text result
+
 # ---------------- ROUTES ----------------
 @app.get("/")
 def home():
     return {"status": "Mental Health Chatbot Running"}
 
-# ---------- AUTH ----------
+# ==================== AUTH ====================
+
 @app.post("/signup")
 def signup(data: Signup, db: Session = Depends(get_db)):
     if db.query(User).filter(User.email == data.email).first():
@@ -82,7 +92,8 @@ def login(data: Login, db: Session = Depends(get_db)):
     token = create_token(user.id)
     return {"access_token": token}
 
-# ---------- CONVERSATIONS ----------
+# ==================== CONVERSATIONS ====================
+
 @app.post("/conversations")
 def create_conversation(
     user=Depends(get_current_user),
@@ -116,7 +127,6 @@ def get_messages(
     user=Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
-    """Get messages from a conversation"""
     conversation = (
         db.query(Conversation)
         .filter(
@@ -125,17 +135,17 @@ def get_messages(
         )
         .first()
     )
-    
+
     if not conversation:
         raise HTTPException(status_code=404, detail="Conversation not found")
-    
+
     messages = (
         db.query(Message)
         .filter(Message.conversation_id == conversation_id)
         .order_by(Message.timestamp.asc())
         .all()
     )
-    
+
     return [
         {"role": m.role, "content": m.content, "timestamp": m.timestamp}
         for m in messages
@@ -148,7 +158,6 @@ def update_conversation_title(
     user=Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
-    """Update conversation title"""
     conversation = (
         db.query(Conversation)
         .filter(
@@ -157,13 +166,12 @@ def update_conversation_title(
         )
         .first()
     )
-    
+
     if not conversation:
         raise HTTPException(status_code=404, detail="Conversation not found")
-    
+
     conversation.title = data.title
     db.commit()
-    
     return {"message": "Title updated", "title": data.title}
 
 @app.delete("/conversations/{conversation_id}")
@@ -172,7 +180,6 @@ def delete_conversation(
     user=Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
-    """Delete a conversation"""
     conversation = (
         db.query(Conversation)
         .filter(
@@ -181,16 +188,16 @@ def delete_conversation(
         )
         .first()
     )
-    
+
     if not conversation:
         raise HTTPException(status_code=404, detail="Conversation not found")
-    
+
     db.delete(conversation)
     db.commit()
-    
     return {"message": "Conversation deleted"}
 
-# ---------- CHAT (MEMORY-BASED) ----------
+# ==================== CHAT (TEXT) ====================
+
 @app.post("/chat/{conversation_id}")
 def chat(
     conversation_id: int,
@@ -219,7 +226,7 @@ def chat(
     db.add(user_msg)
     db.commit()
 
-    # Get assistant response USING conversation memory
+    # Get assistant response
     response = get_response(
         message=req.message,
         conversation_id=conversation_id,
@@ -237,11 +244,105 @@ def chat(
 
     return {"response": response}
 
-# ---------- PHQ-8 ROUTES ----------
+# ==================== VOICE CHAT WITH DEPRESSION DETECTION ====================
+
+@app.post("/voice/chat")
+def voice_chat(
+    req: VoiceAudio,
+    user=Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """
+    Full voice pipeline:
+    1. Receive base64 audio + transcript from frontend
+    2. Analyze audio for depression markers using trained model
+    3. Pass voice context invisibly to RAG for smarter responses
+    4. Return chat response + voice analysis result
+    """
+
+    # Verify conversation belongs to user
+    conversation = (
+        db.query(Conversation)
+        .filter(
+            Conversation.id == req.conversation_id,
+            Conversation.user_id == user.id
+        )
+        .first()
+    )
+
+    if not conversation:
+        raise HTTPException(status_code=404, detail="Conversation not found")
+
+    # ---- Step 1: Analyze audio for depression markers ----
+    voice_analysis = None
+    voice_context = ""
+
+    try:
+        audio_bytes = base64.b64decode(req.audio_data)
+        voice_analysis = voice_detector.analyze_audio_bytes(audio_bytes)
+        voice_context = voice_detector.get_therapeutic_context(voice_analysis)
+        
+        if voice_analysis and not voice_analysis.get('error'):
+            print(f"Voice Analysis - Risk: {voice_analysis.get('risk_level')} | "
+                  f"Probability: {voice_analysis.get('probability', 0):.2%}")
+    except Exception as e:
+        print(f"Voice analysis error (non-critical): {e}")
+        voice_analysis = None
+        voice_context = ""
+
+    # ---- Step 2: Save user message (transcript) ----
+    user_msg = Message(
+        conversation_id=req.conversation_id,
+        role="user",
+        content=req.transcript
+    )
+    db.add(user_msg)
+    db.commit()
+
+    # ---- Step 3: Get therapeutic response with voice context ----
+    response = get_response(
+        message=req.transcript,
+        conversation_id=req.conversation_id,
+        db=db,
+        voice_context=voice_context
+    )
+
+    # ---- Step 4: Save assistant response ----
+    ai_msg = Message(
+        conversation_id=req.conversation_id,
+        role="assistant",
+        content=response
+    )
+    db.add(ai_msg)
+    db.commit()
+
+    # ---- Step 5: Prepare voice result for frontend ----
+    voice_result = None
+    if voice_analysis and not voice_analysis.get('error'):
+        prob = voice_analysis.get('probability', 0)
+        risk = voice_analysis.get('risk_level', 'Low')
+
+        voice_result = {
+            "depression_detected": voice_analysis.get('depression_detected', False),
+            "probability": round(prob * 100, 1),
+            "risk_level": risk,
+            "confidence": round(voice_analysis.get('confidence', 0) * 100, 1),
+            "badge_color": (
+                "#ef4444" if risk == "High"
+                else "#f59e0b" if risk == "Moderate"
+                else "#10b981"
+            )
+        }
+
+    return {
+        "response": response,
+        "voice_analysis": voice_result
+    }
+
+# ==================== PHQ-8 ROUTES ====================
 
 @app.get("/phq8/questions")
 def get_phq8_questions():
-    """Get PHQ-8 questionnaire"""
     return {
         "questions": PHQ8_QUESTIONS,
         "options": PHQ8_OPTIONS,
@@ -255,15 +356,9 @@ def submit_phq8(
     user=Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
-    """Submit PHQ-8 assessment and calculate score"""
-    
-    # Convert to dict
     response_dict = responses.dict()
-    
-    # Calculate score
     result = calculate_phq8(response_dict)
-    
-    # Save to database
+
     assessment = PHQ8Assessment(
         user_id=user.id,
         conversation_id=conversation_id,
@@ -279,15 +374,13 @@ def submit_phq8(
         severity=result['severity'],
         binary=result['binary']
     )
-    
+
     db.add(assessment)
     db.commit()
     db.refresh(assessment)
-    
-    # Create interpretation message
+
     interpretation = get_interpretation(result['total_score'])
-    
-    # If no conversation_id provided, create a new conversation
+
     if not conversation_id:
         new_conversation = Conversation(
             user_id=user.id,
@@ -297,12 +390,9 @@ def submit_phq8(
         db.commit()
         db.refresh(new_conversation)
         conversation_id = new_conversation.id
-        
-        # Update assessment with conversation_id
         assessment.conversation_id = conversation_id
         db.commit()
-    
-    # Create PHQ-8 result message in chat
+
     result_message = f"""PHQ-8 Assessment Results:
 
 Score: {result['total_score']} out of 24
@@ -311,15 +401,13 @@ Status: {'Depression Detected' if result['depressed'] else 'No Depression Detect
 
 {interpretation}"""
 
-    # Save user's action message
     user_msg = Message(
         conversation_id=conversation_id,
         role="user",
         content="I just completed a PHQ-8 assessment"
     )
     db.add(user_msg)
-    
-    # Save assessment results as assistant message
+
     assessment_msg = Message(
         conversation_id=conversation_id,
         role="assistant",
@@ -327,27 +415,23 @@ Status: {'Depression Detected' if result['depressed'] else 'No Depression Detect
     )
     db.add(assessment_msg)
     db.commit()
-    
-    # Get score-appropriate follow-up prompt
+
     follow_up_prompt = get_phq8_follow_up_prompt(result['total_score'], result['severity'])
-    
-    # Get therapeutic response (now with PHQ-8 awareness)
+
     therapeutic_response = get_response(
         message=follow_up_prompt,
         conversation_id=conversation_id,
         db=db
     )
-    
-    # Save therapeutic response
+
     response_msg = Message(
         conversation_id=conversation_id,
         role="assistant",
         content=therapeutic_response
     )
     db.add(response_msg)
-    
     db.commit()
-    
+
     return {
         "assessment_id": assessment.id,
         "conversation_id": conversation_id,
@@ -364,14 +448,13 @@ def get_phq8_history(
     user=Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
-    """Get user's PHQ-8 assessment history"""
     assessments = (
         db.query(PHQ8Assessment)
         .filter(PHQ8Assessment.user_id == user.id)
         .order_by(PHQ8Assessment.created_at.desc())
         .all()
     )
-    
+
     return [
         {
             "id": a.id,
@@ -388,25 +471,25 @@ def get_latest_phq8(
     user=Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
-    """Get user's most recent PHQ-8 score"""
     latest = (
         db.query(PHQ8Assessment)
         .filter(PHQ8Assessment.user_id == user.id)
         .order_by(PHQ8Assessment.created_at.desc())
         .first()
     )
-    
+
     if not latest:
         return {"message": "No assessments found"}
-    
+
     return {
         "score": latest.total_score,
         "severity": latest.severity,
         "date": latest.created_at
     }
 
+# ==================== HELPER FUNCTIONS ====================
+
 def get_interpretation(score: int) -> str:
-    """Get interpretation text based on score"""
     if score <= 4:
         return "Your responses suggest minimal or no depression. Keep taking care of yourself!"
     elif score <= 9:
