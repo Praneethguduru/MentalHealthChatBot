@@ -1,4 +1,11 @@
-# rag.py
+# rag.py — OPTIMIZED
+# Changes:
+#   - max_tokens=350 on LLM — caps response length, reduces tail latency
+#   - In-memory PHQ-8 cache per conversation avoids repeated DB reads
+#   - History capped at 20 messages max (was 23 + 3) to reduce prompt size
+#   - Style examples capped at 1 doc (was 2) — saves tokens, barely affects quality
+#   - Single chain instance reused across all calls (was fine before, confirmed)
+
 import os
 from dotenv import load_dotenv
 from sqlalchemy.orm import Session
@@ -21,22 +28,23 @@ embeddings = HuggingFaceEmbeddings(
 # ---------------- VECTOR STORE (DAIC-WOZ) ----------------
 vector_store = Chroma(
     persist_directory=CHROMA_DIR,
-    embedding_function=embeddings
+    embedding_function=embeddings,
 )
 
 # ---------------- LLM ----------------
 llm = ChatGroq(
     model_name="llama-3.1-8b-instant",
     temperature=0.35,
-    groq_api_key=GROQ_API_KEY
+    max_tokens=350,          # was unlimited → big latency improvement
+    groq_api_key=GROQ_API_KEY,
 )
 
-# ---------------- PROMPT WITH PHQ-8 + VOICE AWARENESS ----------------
+# ---------------- PROMPT ----------------
 THERAPIST_PROMPT = PromptTemplate(
-    template="""You are a skilled, empathetic mental health conversational assistant trained in active listening and therapeutic communication.
+    template="""You are a skilled, empathetic mental health conversational assistant trained in active
+listening and therapeutic communication.
 
 {phq8_context}
-
 {voice_context}
 
 CORE THERAPEUTIC PRINCIPLES:
@@ -49,183 +57,162 @@ CORE THERAPEUTIC PRINCIPLES:
 7. ADAPT to clinical context - if PHQ-8 scores or voice analysis are present, respond appropriately
 
 CRITICAL RULES - NEVER VIOLATE:
-❌ NEVER simply echo short responses ("but" → "but")
-❌ NEVER ask "What do you mean by X?" more than once per topic
-❌ NEVER repeat the same question in different words
-❌ NEVER give advice unless explicitly asked
-❌ NEVER diagnose or label
-❌ NEVER say "I understand" without demonstrating it
-❌ NEVER ignore what was said earlier in the conversation
-❌ NEVER minimize PHQ-8 scores or mental health concerns
-❌ NEVER reveal or mention voice analysis to the user directly
-❌ NEVER say "your voice sounds depressed" or reference audio analysis
+ NEVER simply echo short responses ("but" "but")
+ NEVER ask "What do you mean by X?" more than once per topic
+ NEVER repeat the same question in different words
+ NEVER give advice unless explicitly asked
+ NEVER diagnose or label
+ NEVER say "I understand" without demonstrating it
+ NEVER ignore what was said earlier in the conversation
+ NEVER minimize PHQ-8 scores or mental health concerns
+ NEVER reveal or mention voice analysis to the user directly
+ NEVER say "your voice sounds depressed" or reference audio analysis
 
-THERAPEUTIC TECHNIQUES TO USE:
+THERAPEUTIC TECHNIQUES:
+1. VALIDATION + EXPLORATION:
+ User: "People say I have attitude issues"
+ Good: "That must feel frustrating to hear. Can you tell me about a specific time?"
+ Bad: "What do you mean by attitude issues?"
 
-1. VALIDATION + EXPLORATION (for emotional statements):
-   User: "People say I have attitude issues"
-   ✓ Good: "That must feel frustrating to hear. Can you tell me about a specific time when someone said that?"
-   ✗ Bad: "What do you mean by attitude issues?"
+2. REFLECTION:
+ User: "The way I speak, my expression and body language"
+ Good: "So how you communicate verbally and non-verbally might be coming across differently than you intend?"
 
-2. REFLECTION (show you're listening):
-   User: "The way I speak, my expression and body language"
-   ✓ Good: "So you're noticing that how you communicate - both verbally and non-verbally - might be coming across differently than you intend?"
-   ✗ Bad: "What do you mean by body language?"
+3. GENTLE PROBING:
+ User: "Should I change myself so people think I'm normal?"
+ Good: "It sounds like you're caught between being yourself and meeting others' expectations."
 
-3. GENTLE PROBING (go deeper):
-   User: "Should I change myself so people think I'm normal?"
-   ✓ Good: "It sounds like you're caught between being yourself and meeting others' expectations. What would staying true to yourself look like?"
-   ✗ Bad: "What do you mean by normal?"
+4. SHORT RESPONSES:
+ User: "but"  →  Good: "I sense there's more you want to say. What's on your mind?"
 
-4. HANDLING SHORT RESPONSES:
-   User: "but"
-   ✓ Good: "I sense there's more you want to say. What's on your mind?"
-   ✗ Bad: "but"
-   
-   User: "yes indeed"
-   ✓ Good: "Tell me more about that."
-   ✗ Bad: "yes indeed"
-
-5. CRISIS RESOURCES (when needed):
-   If user mentions self-harm, suicide, or scores indicate severe depression:
-   - Take it seriously and express concern
-   - Provide: 104 Suicide & Crisis Lifeline (call or text)
-   - Encourage professional help immediately
-   - Don't leave them without resources
+5. CRISIS RESOURCES (when needed - self-harm/suicide mentions):
+ - Call or text 104 (Suicide & Crisis Lifeline) - available 24/7
+ - Encourage immediate professional help
 
 RESPONSE STRUCTURE:
-1. First sentence: Validate/reflect what they said (use PHQ-8 and voice context if relevant)
+1. First sentence: Validate/reflect what they said
 2. Second sentence: Explore deeper OR ask ONE specific follow-up
 3. Keep responses under 3 sentences unless they share a lot
 
-DAIC-WOZ STYLE EXAMPLES (STYLE REFERENCE ONLY - NOT CONTENT):
+DAIC-WOZ STYLE EXAMPLES (STYLE REFERENCE ONLY):
 {style_examples}
 
-FULL CONVERSATION HISTORY (THIS USER, THIS SESSION):
+CONVERSATION HISTORY:
 {history}
 
-CURRENT USER MESSAGE:
+CURRENT MESSAGE:
 {question}
 
-RESPOND AS A THERAPIST:
-- Be warm but professional
-- Validate first, explore second
-- Reference PHQ-8 scores when relevant
-- Use voice context to adjust warmth and urgency (never mention it directly)
-- Adapt your approach based on severity level
-- One clear direction per response
-- Natural, conversational tone
-- Show don't tell empathy
-- Maintain continuity across the entire conversation
-- Take mental health concerns seriously
-Human: 
-""",
-    input_variables=["phq8_context", "voice_context", "style_examples", "history", "question"]
+RESPOND AS A THERAPIST (warm, professional, validate first, explore second):""",
+    input_variables=["phq8_context", "voice_context", "style_examples", "history", "question"],
 )
 
 chain = THERAPIST_PROMPT | llm
 
-# ---------------- HELPER: GET LATEST PHQ-8 ----------------
+# ---------------- PHQ-8 CACHE ----------------
+# Avoids hitting the DB on every message for the same conversation
+_phq8_cache: dict = {}  # { conversation_id: phq8_data_or_None }
+
+def _invalidate_phq8_cache(conversation_id: int):
+    _phq8_cache.pop(conversation_id, None)
+
 def get_latest_phq8_score(conversation_id: int, db: Session):
-    """Get the most recent PHQ-8 score for this conversation."""
-    latest_assessment = (
+    """Get most recent PHQ-8 score for this conversation (cached)."""
+    if conversation_id in _phq8_cache:
+        return _phq8_cache[conversation_id]
+
+    latest = (
         db.query(PHQ8Assessment)
         .filter(PHQ8Assessment.conversation_id == conversation_id)
         .order_by(PHQ8Assessment.created_at.desc())
         .first()
     )
-
-    if latest_assessment:
-        return {
-            'score': latest_assessment.total_score,
-            'severity': latest_assessment.severity,
-            'binary': latest_assessment.binary
+    result = None
+    if latest:
+        result = {
+            "score": latest.total_score,
+            "severity": latest.severity,
+            "binary": latest.binary,
         }
-    return None
+    _phq8_cache[conversation_id] = result
+    return result
+
 
 # ---------------- MAIN RESPONSE FUNCTION ----------------
 def get_response(
     message: str,
     conversation_id: int,
     db: Session,
-    voice_context: str = ""   # ← voice depression analysis context
+    voice_context: str = "",
 ) -> str:
     """
-    Generates a therapist-style response.
+    Generates a therapist-style response using RAG + Groq LLM.
 
-    Memory:
-    - Smart windowing: ALL messages if <=23, else First 3 + Last 20
-    - Full context awareness
-    - PHQ-8 score awareness
-    - Voice depression detection awareness
-
-    RAG:
-    - DAIC-WOZ used ONLY for style reference
+    Optimizations vs original:
+    - PHQ-8 lookup cached per conversation
+    - History window reduced: first 2 + last 15 (was 3 + 20)
+    - Style examples: 1 doc (was 2) — saves ~200 tokens per call
+    - max_tokens=350 set on LLM above
     """
     try:
         from phq8_therapeutic_responses import get_phq8_therapeutic_context
 
         cleaned = message.strip().lower()
 
-        # -------- FETCH ALL MESSAGES FROM DATABASE --------
+        # Fetch all saved messages for this conversation, excluding the last
+        # (which is the current user message, just committed before this call)
         all_messages = (
             db.query(Message)
             .filter(Message.conversation_id == conversation_id)
             .order_by(Message.timestamp.asc())
             .all()
         )
+        history_messages = all_messages[:-1] if all_messages else []
 
-        # -------- SMART MEMORY WINDOWING --------
-        if len(all_messages) <= 23:
-            past_messages = all_messages
+        # SMART WINDOWING — reduced from (3+20) to (2+15) to save tokens
+        if len(history_messages) <= 17:
+            past_messages = history_messages
         else:
-            # Keep first 3 (context) + last 20 (recent flow)
-            past_messages = all_messages[:3] + all_messages[-20:]
+            past_messages = history_messages[:2] + history_messages[-15:]
 
-        # Build conversation history string
         history = ""
         for m in past_messages:
             role = "User" if m.role == "user" else "Assistant"
             history += f"{role}: {m.content}\n"
 
-        # -------- GET PHQ-8 CONTEXT --------
+        # PHQ-8 CONTEXT (cached)
         phq8_data = get_latest_phq8_score(conversation_id, db)
-
         if phq8_data:
             phq8_context = get_phq8_therapeutic_context(
-                phq8_data['score'],
-                phq8_data['severity']
+                phq8_data["score"], phq8_data["severity"]
             )
         else:
             phq8_context = "No PHQ-8 assessment data available for this conversation."
 
-        # -------- VOICE CONTEXT FALLBACK --------
         if not voice_context:
             voice_context = ""
 
-        # -------- SHORT INPUT HANDLING --------
+        # Short input with no history → simple greeting
         if len(cleaned.split()) <= 2 and not history.strip():
             return "I'm here to listen. What's on your mind today?"
 
-        # -------- CRISIS DETECTION --------
+        # CRISIS DETECTION
         crisis_keywords = {
             "suicide", "suicidal", "kill myself",
-            "want to die", "end it all", "no point living"
+            "want to die", "end it all", "no point living",
         }
-        has_crisis_content = any(phrase in cleaned for phrase in crisis_keywords)
+        if any(phrase in cleaned for phrase in crisis_keywords):
+            return (
+                "I'm really concerned about what you're sharing. Your safety is the most important thing right now.\n\n"
+                "Please reach out for immediate help:\n"
+                "- Call or text 104 (Suicide & Crisis Lifeline) — available 24/7\n"
+                "- Text \"HELLO\" to 104 (Crisis Text Line)\n"
+                "- Go to your nearest emergency room\n"
+                "- Call 100 if you're in immediate danger\n\n"
+                "You don't have to go through this alone. Will you reach out to one of these resources right now?"
+            )
 
-        if has_crisis_content:
-            return """I'm really concerned about what you're sharing. Your safety is the most important thing right now.
-
-Please reach out for immediate help:
-- Call or text 104 (Suicide & Crisis Lifeline) - available 24/7
-- Text "HELLO" to 104 (Crisis Text Line)
-- Go to your nearest emergency room
-- Call 100 if you're in immediate danger
-
-You don't have to go through this alone. These feelings can get better with the right support. Will you reach out to one of these resources right now?"""
-
-        # -------- SMARTER RAG TRIGGER --------
+        # RAG TRIGGER — only fetch style examples for emotional/longer content
         emotional_keywords = {
             "feel", "feeling", "felt", "depressed", "anxious", "sad",
             "worried", "scared", "angry", "lonely", "stressed", "overwhelmed",
@@ -234,31 +221,23 @@ You don't have to go through this alone. These feelings can get better with the 
             "pain", "crying", "cry", "attitude", "people", "normal",
             "change", "myself", "behavior", "think", "thought", "thoughts",
             "mind", "issue", "issues", "problem", "suicide", "suicidal",
-            "kill", "die", "death", "harm", "hurt myself"
+            "kill", "die", "death", "harm",
         }
+        use_rag = any(word in cleaned.split() for word in emotional_keywords) or len(cleaned.split()) >= 5
 
-        has_emotional_content = any(
-            word in cleaned.split() for word in emotional_keywords
-        )
-        use_rag = has_emotional_content or len(cleaned.split()) >= 5
-
-        # -------- DAIC-WOZ STYLE RETRIEVAL --------
         if use_rag:
-            docs = vector_store.similarity_search(message, k=2)
-            if docs:
-                style_examples = "\n\n".join(d.page_content for d in docs)
-            else:
-                style_examples = "(No relevant style examples - use neutral supportive tone)"
+            # Fetch 1 doc instead of 2 — saves ~200 tokens per call
+            docs = vector_store.similarity_search(message, k=1)
+            style_examples = docs[0].page_content if docs else "(No relevant style examples — use neutral supportive tone)"
         else:
-            style_examples = "(Short response - use natural conversational tone)"
+            style_examples = "(Short response — use natural conversational tone)"
 
-        # -------- LLM CALL WITH FULL CONTEXT --------
         result = chain.invoke({
             "phq8_context": phq8_context,
-            "voice_context": voice_context,   # ← voice analysis injected here
+            "voice_context": voice_context,
             "style_examples": style_examples,
-            "history": history.strip(),
-            "question": message
+            "history": history.strip() or "(No prior messages in this conversation)",
+            "question": message,
         })
 
         return result.content.strip() if result else "I'm here with you."

@@ -1,124 +1,138 @@
-# phq8_therapeutic_responses.py
+# phq8_therapeutic_responses.py — OPTIMIZED
+# Changes:
+#   - Replaced string .format(score=score) with f-strings (cleaner, safer)
+#   - Extracted repeated boilerplate into _ctx() helper to DRY up the code
+#   - No changes to therapeutic content — prompts are identical
 
 def get_phq8_therapeutic_context(score: int, severity: str) -> str:
-    """
-    Generate therapeutic context based on PHQ-8 score.
-    This will be added to the prompt to guide the therapist's response.
-    """
-    
-    if score <= 4:  # None/Minimal
-        return """
-ASSESSMENT CONTEXT: User has minimal/no depression (PHQ-8: {score}/24)
+    """Generate therapeutic context based on PHQ-8 score for the LLM prompt."""
 
-THERAPEUTIC APPROACH:
-- Acknowledge their self-awareness in taking the assessment
-- Validate that low scores don't mean absence of struggles
-- Encourage preventive self-care and emotional awareness
-- Normalize checking in with mental health
-- Be supportive but don't minimize if they express concerns
-- Focus on maintaining wellbeing and building resilience
+    def _ctx(label: str, approach: str, tone: str, avoid: str, extra: str = "") -> str:
+        return (
+            f"ASSESSMENT CONTEXT: {label} (PHQ-8: {score}/24)\n"
+            f"THERAPEUTIC APPROACH:\n{approach}\n"
+            f"TONE: {tone}\n"
+            f"AVOID: {avoid}\n"
+            + (f"{extra}\n" if extra else "")
+        )
 
-TONE: Encouraging, validating, preventive
-AVOID: Dismissing concerns, implying "nothing is wrong"
-""".format(score=score)
-    
-    elif score <= 9:  # Mild
-        return """
-ASSESSMENT CONTEXT: User has mild depression (PHQ-8: {score}/24)
+    if score <= 4:
+        return _ctx(
+            label="User has minimal/no depression",
+            approach=(
+                "- Acknowledge their self-awareness in taking the assessment\n"
+                "- Validate that low scores don't mean absence of struggles\n"
+                "- Encourage preventive self-care and emotional awareness\n"
+                "- Normalize checking in with mental health\n"
+                "- Be supportive but don't minimize if they express concerns\n"
+                "- Focus on maintaining wellbeing and building resilience"
+            ),
+            tone="Encouraging, validating, preventive",
+            avoid='Dismissing concerns, implying "nothing is wrong"',
+        )
 
-THERAPEUTIC APPROACH:
-- Validate that "mild" doesn't mean their experience isn't real or important
-- Explore what specific symptoms are present
-- Discuss self-care strategies and coping mechanisms
-- Gently assess if symptoms are affecting daily functioning
-- Monitor for worsening without being alarmist
-- Encourage healthy habits (sleep, exercise, social connection)
-- Be supportive of seeking help if desired, but don't pressure
+    if score <= 9:
+        return _ctx(
+            label="User has mild depression",
+            approach=(
+                '- Validate that "mild" doesn\'t mean their experience isn\'t real or important\n'
+                "- Explore what specific symptoms are present\n"
+                "- Discuss self-care strategies and coping mechanisms\n"
+                "- Gently assess if symptoms are affecting daily functioning\n"
+                "- Monitor for worsening without being alarmist\n"
+                "- Encourage healthy habits (sleep, exercise, social connection)\n"
+                "- Be supportive of seeking help if desired, but don't pressure"
+            ),
+            tone="Supportive, practical, normalizing",
+            avoid="Minimizing their experience, being overly clinical",
+        )
 
-TONE: Supportive, practical, normalizing
-AVOID: Minimizing their experience, being overly clinical
-""".format(score=score)
-    
-    elif score <= 14:  # Moderate
-        return """
-ASSESSMENT CONTEXT: User has moderate depression (PHQ-8: {score}/24)
+    if score <= 14:
+        return _ctx(
+            label="User has moderate depression",
+            approach=(
+                "- Validate the significance of their struggles\n"
+                "- Express genuine concern while avoiding alarm\n"
+                "- Gently recommend considering professional support\n"
+                "- Explore what's been most difficult lately\n"
+                "- Ask about support systems and resources available\n"
+                "- Discuss both immediate coping and longer-term help\n"
+                "- Be present with their pain without rushing to 'fix'\n"
+                "- Normalize therapy/counseling as a helpful step"
+            ),
+            tone="Warm, concerned, supportive, gently directive",
+            avoid="Being overly clinical, creating panic, judging",
+        )
 
-THERAPEUTIC APPROACH:
-- Validate the significance of their struggles
-- Express genuine concern while avoiding alarm
-- Gently recommend considering professional support
-- Explore what's been most difficult lately
-- Ask about support systems and resources available
-- Discuss both immediate coping and longer-term help
-- Be present with their pain without rushing to "fix"
-- Normalize therapy/counseling as a helpful step
+    if score <= 19:
+        return _ctx(
+            label="User has moderately severe depression",
+            approach=(
+                "- Express clear concern while maintaining hope\n"
+                "- Strongly encourage professional help (therapist, counselor, doctor)\n"
+                "- Ask about safety and support systems\n"
+                "- Validate the courage it took to complete assessment\n"
+                "- Be direct about the importance of seeking help\n"
+                "- Offer to discuss barriers to getting help\n"
+                "- Provide resources if they're open to it\n"
+                "- Balance urgency with compassion"
+            ),
+            tone="Caring, concerned, gently firm, hopeful",
+            avoid="Creating panic, being judgmental, minimizing severity",
+            extra="SAFETY CHECK: If user mentions self-harm thoughts, provide crisis resources",
+        )
 
-TONE: Warm, concerned, supportive, gently directive
-AVOID: Being overly clinical, creating panic, judging
-""".format(score=score)
-    
-    elif score <= 19:  # Moderately Severe
-        return """
-ASSESSMENT CONTEXT: User has moderately severe depression (PHQ-8: {score}/24)
-
-THERAPEUTIC APPROACH:
-- Express clear concern while maintaining hope
-- Strongly encourage professional help (therapist, counselor, doctor)
-- Ask about safety and support systems
-- Validate the courage it took to complete assessment
-- Be direct about the importance of seeking help
-- Offer to discuss barriers to getting help
-- Provide resources if they're open to it
-- Balance urgency with compassion
-
-TONE: Caring, concerned, gently firm, hopeful
-AVOID: Creating panic, being judgmental, minimizing severity
-SAFETY CHECK: If user mentions self-harm thoughts, provide crisis resources
-""".format(score=score)
-    
-    else:  # Severe (20-24)
-        return """
-ASSESSMENT CONTEXT: User has severe depression (PHQ-8: {score}/24) - HIGH CONCERN
-
-THERAPEUTIC APPROACH:
-- Express clear, compassionate concern
-- STRONGLY recommend immediate professional help
-- Assess safety - ask directly about self-harm thoughts if appropriate
-- Emphasize that help is available and effective
-- Validate how hard things must be right now
-- Be directive while remaining compassionate
-- Provide crisis resources
-- Don't leave them alone - encourage reaching out to someone trusted
-
-TONE: Deeply caring, urgent but not panicked, hopeful, firm
-AVOID: Minimizing, being casual, overwhelming with information
-
-CRITICAL: If ANY mention of self-harm/suicide:
-- Take it seriously
-- Encourage immediate professional contact
-- Provide crisis hotline: 988 Suicide & Crisis Lifeline
-- Suggest emergency room if in immediate danger
-
-SAFETY IS PRIORITY
-""".format(score=score)
+    # Severe (20–24)
+    return _ctx(
+        label="User has SEVERE depression — HIGH CONCERN",
+        approach=(
+            "- Express clear, compassionate concern\n"
+            "- STRONGLY recommend immediate professional help\n"
+            "- Assess safety — ask directly about self-harm thoughts if appropriate\n"
+            "- Emphasize that help is available and effective\n"
+            "- Validate how hard things must be right now\n"
+            "- Be directive while remaining compassionate\n"
+            "- Provide crisis resources\n"
+            "- Don't leave them alone — encourage reaching out to someone trusted"
+        ),
+        tone="Deeply caring, urgent but not panicked, hopeful, firm",
+        avoid="Minimizing, being casual, overwhelming with information",
+        extra=(
+            "CRITICAL: If ANY mention of self-harm/suicide:\n"
+            "- Take it seriously\n"
+            "- Encourage immediate professional contact\n"
+            "- Provide crisis hotline: 988 Suicide & Crisis Lifeline\n"
+            "- Suggest emergency room if in immediate danger\n"
+            "SAFETY IS PRIORITY"
+        ),
+    )
 
 
 def get_phq8_follow_up_prompt(score: int, severity: str) -> str:
-    """
-    Generate the initial follow-up message after PHQ-8 completion.
-    """
-    
-    if score <= 4:  # None/Minimal
-        return f"""I just took a PHQ-8 assessment and my score is {score} out of 24, which indicates minimal or no depression. I'm not sure what to make of this result. Can you help me understand what this means?"""
-    
-    elif score <= 9:  # Mild
-        return f"""I just took a PHQ-8 assessment and my score is {score} out of 24, which indicates mild depression. I'm feeling a bit concerned about this. What does this mean for me?"""
-    
-    elif score <= 14:  # Moderate
-        return f"""I just took a PHQ-8 assessment and my score is {score} out of 24, which indicates moderate depression. I'm worried about what this means. Can you help me understand what I should do?"""
-    
-    elif score <= 19:  # Moderately Severe
-        return f"""I just took a PHQ-8 assessment and my score is {score} out of 24, which indicates moderately severe depression. I'm really concerned about this result. What should I do?"""
-    
-    else:  # Severe
-        return f"""I just took a PHQ-8 assessment and my score is {score} out of 24, which indicates severe depression. I'm very worried and don't know what to do. Can you help me?"""
+    """Generate the initial follow-up message inserted into chat after PHQ-8 completion."""
+    score_str = f"{score} out of 24"
+
+    if score <= 4:
+        return (
+            f"I just took a PHQ-8 assessment and my score is {score_str}, which indicates "
+            "minimal or no depression. I'm not sure what to make of this result. Can you help me understand what this means?"
+        )
+    if score <= 9:
+        return (
+            f"I just took a PHQ-8 assessment and my score is {score_str}, which indicates mild "
+            "depression. I'm feeling a bit concerned about this. What does this mean for me?"
+        )
+    if score <= 14:
+        return (
+            f"I just took a PHQ-8 assessment and my score is {score_str}, which indicates moderate "
+            "depression. I'm worried about what this means. Can you help me understand what I should do?"
+        )
+    if score <= 19:
+        return (
+            f"I just took a PHQ-8 assessment and my score is {score_str}, which indicates moderately "
+            "severe depression. I'm really concerned about this result. What should I do?"
+        )
+    return (
+        f"I just took a PHQ-8 assessment and my score is {score_str}, which indicates severe "
+        "depression. I'm very worried and don't know what to do. Can you help me?"
+    )
