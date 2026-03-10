@@ -506,53 +506,41 @@ Yes, but you need HTTPS for voice input (browsers require HTTPS for microphone a
 
 ## 📸 Screenshots
 
-> **How to add your screenshots:**
-> 1. Run the app locally
-> 2. Open `http://localhost:8000` in Chrome
-> 3. Create a `screenshots/` folder in the repo root
-> 4. Save images with the filenames shown below
-> 5. Uncomment the `![...]` lines (remove the `<!--` and `-->`)
 
 ### Login & Register
-<!-- ![Login](screenshots/login.png) -->
+[Login](screenshots/login.png) 
 ```
 📷  screenshots/login.png
 ```
 
 ### Main Chat
-<!-- ![Chat](screenshots/chat.png) -->
+[Chat](screenshots/chat.png) 
 ```
 📷  screenshots/chat.png
 ```
 
 ### Voice Input
-<!-- ![Voice](screenshots/voice.png) -->
+[Voice](screenshots/voice.png) 
 ```
 📷  screenshots/voice.png
 ```
 
 ### PHQ-8 Assessment Form
-<!-- ![PHQ-8](screenshots/phq8.png) -->
+[PHQ-8](screenshots/phq8.png) 
 ```
 📷  screenshots/phq8.png
 ```
 
 ### PHQ-8 Score Result
-<!-- ![PHQ-8 Result](screenshots/phq8_result.png) -->
+[PHQ-8 Result](screenshots/phq8_result.png)
 ```
 📷  screenshots/phq8_result.png
 ```
 
 ### Conversation History
-<!-- ![History](screenshots/history.png) -->
+[History](screenshots/history.png)
 ```
 📷  screenshots/history.png
-```
-
-### Crisis Response
-<!-- ![Crisis](screenshots/crisis.png) -->
-```
-📷  screenshots/crisis.png
 ```
 
 ---
@@ -595,14 +583,12 @@ git push origin feature/your-feature-name
 
 ## 👥 Team
 
-This project was built by four students from the Department of CSE (AI & ML), Malla Reddy University, Hyderabad.
-
-| Name | Role |
-|------|------|
-| **Guduru Praneeth** | Lead Developer — RAG pipeline, FastAPI backend, voice system |
-| **I Sai Prabhas Reddy** | Acoustic model, DAIC-WOZ data processing, ML pipeline |
-| **JA Kruthin** | Frontend, authentication system, database design |
-| **K Vamshi Krishna Reddy** | PHQ-8 module, ethical design, testing |
+| Name | 
+|------|
+| **Guduru Praneeth** | 
+| **I Sai Prabhas Reddy** |
+| **JA Kruthin** | 
+| **K Vamshi Krishna Reddy** | 
 
 ---
 
