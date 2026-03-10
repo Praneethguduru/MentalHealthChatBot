@@ -504,47 +504,6 @@ Yes, but you need HTTPS for voice input (browsers require HTTPS for microphone a
 
 ---
 
-## 📸 Screenshots
-
-
-### Login & Register
-[Login](screenshots/login.png) 
-```
-📷  screenshots/login.png
-```
-
-### Main Chat
-[Chat](screenshots/chat.png) 
-```
-📷  screenshots/chat.png
-```
-
-### Voice Input
-[Voice](screenshots/voice.png) 
-```
-📷  screenshots/voice.png
-```
-
-### PHQ-8 Assessment Form
-[PHQ-8](screenshots/phq8.png) 
-```
-📷  screenshots/phq8.png
-```
-
-### PHQ-8 Score Result
-[PHQ-8 Result](screenshots/phq8_result.png)
-```
-📷  screenshots/phq8_result.png
-```
-
-### Conversation History
-[History](screenshots/history.png)
-```
-📷  screenshots/history.png
-```
-
----
-
 ## 🚨 Crisis Support
 
 If the chatbot detects crisis-related language, the AI is bypassed entirely and these numbers appear immediately — hardcoded, always safe.
