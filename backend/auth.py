@@ -1,11 +1,22 @@
-# auth.py — OPTIMIZED
-# Changes:
-#   - Simple in-process user cache to avoid repeated DB lookups on every request
-#   - Cache is keyed by user_id with a short TTL (60 s) — safe for this use case
-#   - Token expiry extended to 24 h (was 12 h) for better UX
+# auth.py — FIXED
+# Root cause of DetachedInstanceError:
+#   _user_cache was storing the SQLAlchemy ORM User object.
+#   When the DB session that loaded it closed (after the dependency returned),
+#   the cached object became detached from any session.
+#   On the next request that hit the cache, the ORM object was returned and
+#   passed to an endpoint running in a thread. Any access to user.id or
+#   user.email triggered SQLAlchemy's lazy-load, which tried to refresh
+#   the object — but there was no live session → DetachedInstanceError 500.
+#
+# Fix:
+#   Cache stores a plain CurrentUser dataclass (just ints/strings).
+#   All field values are read from the ORM object while the session is still
+#   open, then stored as simple Python values with zero SQLAlchemy state.
+#   The dataclass is safe to pass to any thread, any endpoint, forever.
 
 import os
 import time
+from dataclasses import dataclass
 from datetime import datetime, timedelta
 from fastapi import Depends, HTTPException, Header
 from jose import jwt, JWTError
@@ -22,18 +33,16 @@ if not SECRET_KEY:
     raise RuntimeError("SECRET_KEY not set in .env")
 
 ALGORITHM = "HS256"
-ACCESS_TOKEN_EXPIRE_HOURS = 24   # was 12 — users no longer get logged out mid-day
+ACCESS_TOKEN_EXPIRE_HOURS = 24
 
 # ---------------- PASSWORD HASHING ----------------
 pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
 
 def hash_password(password: str) -> str:
-    password_bytes = password.encode("utf-8")[:72]
-    return pwd_context.hash(password_bytes)
+    return pwd_context.hash(password.encode("utf-8")[:72])
 
 def verify_password(password: str, hashed: str) -> bool:
-    password_bytes = password.encode("utf-8")[:72]
-    return pwd_context.verify(password_bytes, hashed)
+    return pwd_context.verify(password.encode("utf-8")[:72], hashed)
 
 # ---------------- DATABASE DEP ----------------
 def get_db():
@@ -51,37 +60,56 @@ def create_token(user_id: int) -> str:
     }
     return jwt.encode(payload, SECRET_KEY, algorithm=ALGORITHM)
 
+# ---------------- CURRENT USER ----------------
+@dataclass
+class CurrentUser:
+    """
+    Plain dataclass — holds only primitive values (int, str).
+    No SQLAlchemy state, no session binding, safe in any thread.
+    This is what every endpoint receives as `user`.
+    """
+    id: int
+    email: str
+
 # ---------------- USER CACHE ----------------
-# Avoids hitting the DB on every authenticated request.
-# Format: { user_id: (User object, expiry_timestamp) }
+# Cache now stores CurrentUser (plain dataclass), NOT the ORM User object.
+# Format: { user_id: (CurrentUser, expiry_timestamp) }
 _user_cache: dict = {}
 _CACHE_TTL = 60  # seconds
 
-def _get_cached_user(user_id: int, db: Session):
-    """Return user from cache if fresh, otherwise query DB and cache."""
+def _get_cached_user(user_id: int, db: Session) -> CurrentUser | None:
     now = time.monotonic()
     cached = _user_cache.get(user_id)
+
+    # Return from cache if still fresh
     if cached:
-        user_obj, expires_at = cached
+        current_user, expires_at = cached
         if now < expires_at:
-            return user_obj
-    # Cache miss or expired — query DB
+            return current_user  # plain dataclass, always safe
+
+    # Cache miss or expired — query DB while session is still open
     user = db.query(User).filter(User.id == user_id).first()
-    if user:
-        _user_cache[user_id] = (user, now + _CACHE_TTL)
-    return user
+    if not user:
+        return None
+
+    # Read fields NOW while the ORM object is attached to an active session,
+    # then immediately discard the ORM object — never store it in the cache.
+    current_user = CurrentUser(id=user.id, email=user.email)
+    _user_cache[user_id] = (current_user, now + _CACHE_TTL)
+    return current_user
 
 def invalidate_user_cache(user_id: int):
-    """Call this if user data is mutated (e.g., password change)."""
+    """Call this after any user mutation (e.g. password change)."""
     _user_cache.pop(user_id, None)
 
 # ---------------- AUTH DEPENDENCY ----------------
 def get_current_user(
     authorization: str = Header(None),
     db: Session = Depends(get_db),
-):
+) -> CurrentUser:
     if not authorization or not authorization.startswith("Bearer "):
         raise HTTPException(status_code=401, detail="Not authenticated")
+
     token = authorization.split(" ")[1]
     try:
         payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])
@@ -92,4 +120,5 @@ def get_current_user(
     user = _get_cached_user(user_id, db)
     if not user:
         raise HTTPException(status_code=401, detail="User not found")
-    return user
+
+    return user  # CurrentUser dataclass — safe everywhere, no session needed
